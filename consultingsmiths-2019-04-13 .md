@@ -3481,3 +3481,21 @@ Fri, 12 Apr 2019 11:32:45
 Sat, 13 Apr 2019
 &ldquo;Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.&rdquo; &mdash; Daniel Kahneman
 
+#Owen Barfield
+Sat. 27 Apr 2019
+Owen Barfield (1898–1997)
+Our destiny is to become both conscious and free.
+
+Barfield was writing for everybody and for all time — his core concern was nothing less than the divine destiny of each individual person and of all people collectively.
+
+Barfield's immediate relevance is profound; it is to solve the core problem of modern times - which is 'alienation': i.e. the deep sense of meaninglessness, purposelessness, and isolation from people and things.
+
+The understanding which makes this possible is that history, the present and the future can be understood as aiming at both consciousness and freedom (where consciousness means awareness of our thinking and ourselves, and freedom refers to free will, or human agency).
+
+Barfield's scheme is that humans began as conscious-but-not-free; and we evolved — evolved in the sense of changing by unfolding according to a (divine) developmental plan — to become free but not conscious (which is where we are now, in modern times — unaware of meaning, purpose, relation) — and we ought to be aiming at the condition where we are both self-aware and fully-conscious. Engaged with (and participating in) reality as free agents.
+
+Even more briefly, humanity began as conscious, became free; and is destined to become both — simultaneously.
+
+Barfield proposes real, coherent, and clear answers to the most fundamental problems.
+
+by Bruce Charlton at http://www.owenbarfield.org/
