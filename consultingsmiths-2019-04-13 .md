@@ -2,9 +2,11 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <title>More Fieldstones</title>
 </head>
+# More Fieldstones
 
+## 2009
 
-# Fallacy
+## Fallacy
 
 Wed, 30 Dec 2009 18:55:38
 http://www.consultingsmiths.com/totd/
@@ -12,7 +14,7 @@ http://www.consultingsmiths.com/totd/
 2009-12-30 13:55:38
 2009-12-30 18:55:38
 
-# Proof
+## Proof
 
 Thu, 31 Dec 2009 14:17:13
 http://www.consultingsmiths.com/2/
@@ -20,7 +22,9 @@ http://www.consultingsmiths.com/2/
 2009-12-31 09:17:13
 2009-12-31 14:17:13
 
-# Data
+## 2010
+
+## Data
 
 Fri, 01 Jan 2010 18:30:22
 http://www.consultingsmiths.com/3/
@@ -28,238 +32,240 @@ http://www.consultingsmiths.com/3/
 2010-01-01 13:30:22
 2010-01-01 18:30:22
 
-# Research
+## Research
 Tue, 05 Jan 2010 17:31:36
 
 <p>If academic research is not devoted to finding the truth, it is a form of propaganda, and not necessarily to be preferred to other forms, much cheaper and perhaps more persuasive. &mdash; Conrad Russell (Academic Freedom. London: Routledge. 1993)</p>
 2010-01-05 12:31:36
 2010-01-05 17:31:36
 
-# Trust
+## Trust
 Wed, 20 Jan 2010 19:49:10
 
 <p>It is to me a new and consolatory proof that wherever the people are well-informed they can be trusted with their own government; that whenever things get so far wrong as to attract their notice, they may be relied on to set them to rights. -- Thomas Jefferson to Richard Price, January 8, 1789</p>
 2010-01-20 14:49:10
 2010-01-20 19:49:10
 
-# Commas
+## Commas
 Fri, 29 Jan 2010 20:28:37
 
 <p>The older I grow, the less important the comma becomes. Let the reader catch his own breath. &mdash; Elizabeth Clarkson Zwart</p>
 2010-01-29 15:28:37
 2010-01-29 20:28:37
 
-# Sex and Science
+## Sex and Science
 Fri, 29 Jan 2010 21:37:42
 
 <p>Science is a lot like sex. Sometimes something useful comes of it, but that's not the reason we're doing it. &mdash; Richard Feynman  </p>
 2010-01-29 16:37:42
 2010-01-29 21:37:42
 
-# Habit
+## Habit
 Fri, 05 Feb 2010 20:43:42
 
 <p>We are what we repeatedly do. Excellence, then, is not an act, it&rdquo;™s a habit. &mdash; Aristotle</p>
 2010-02-05 15:43:42
 2010-02-05 20:43:42
 
-# Improvisation
+## Improvisation
 Tue, 09 Feb 2010 14:44:44
 
 <p>Great improvisers are like priests. They are thinking only of their God. &mdash; StÃ©phane Grappelli</p>
 2010-02-09 09:44:44
 2010-02-09 14:44:44
 
-# Expertise
+## Expertise
 Thu, 11 Mar 2010 14:15:53
 
 <p>Nobody is an expert on the future. &mdash; Matt Linderman</p>
 2010-03-11 09:15:53
 2010-03-11 14:15:53
 
-# Smarts
+## Smarts
 Thu, 25 Mar 2010 17:18:21
 
 <p>You&rsquo;re not smart enough to tell me how to live. &mdash; Kathy Shaidle</p>
 2010-03-25 13:18:21
 2010-03-25 17:18:21
 
-# Understanding
+## Understanding
 Mon, 19 Apr 2010 14:30:50
 
 <p>It is difficult to get a man to understand something when his job depends on not understanding it. &mdash; Upton Sinclair</p>
 2010-04-19 10:30:50
 2010-04-19 14:30:50
 
-# Reality
+## Reality
 Fri, 30 Apr 2010 16:33:48
 
 <p>For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled. &mdash; Richard Feynman</p>
 2010-04-30 12:33:48
 2010-04-30 16:33:48
 
-# Outrage
+## Outrage
 Tue, 11 May 2010 18:15:02
 
 <p>It is not more <em>objective</em> to narrate an outrage calmly. &mdash; James Chastek</p>
 2010-05-11 14:15:02
 2010-05-11 18:15:02
 
-# TOTD
+## TOTD
 Thu, 13 May 2010 12:47:29
 
 <p>If you don&rsquo;t read the newspaper, you are uninformed. If you do read the newspaper, you are misinformed. &mdash; Mark Twain</p>
 2010-05-13 08:47:29
 2010-05-13 12:47:29
 
-# TOTD
+## TOTD
 Tue, 01 Jun 2010 12:43:30
 
 <p>You can safely assume that you&rsquo;ve created God in your own image when it turns out that God hates all the same people you do. &mdash; Anne Lamott (<em>Traveling Mercies</em>, credited to &ldquo;my priest friend Tom")</p>
 2010-06-01 08:43:30
 2010-06-01 12:43:30
 
-# TOTD
+## TOTD
 Fri, 09 Jul 2010 13:32:50
 
 <p>All attacks on science are ultimately an attack on freedom. All attacks on religion are ultimately an attack on mind. &mdash; Robert W. Godwin</p>
 2010-07-09 09:32:50
 2010-07-09 13:32:50
 
-# TOTD
+## TOTD
 Wed, 14 Jul 2010 17:29:20
 
 <p>We are as gods, and might as well get good at it. &mdash; The Whole Earth Catalog (1968)</p>
 2010-07-14 13:29:20
 2010-07-14 17:29:20
 
-# TOTD
+## TOTD
 Wed, 28 Jul 2010 11:41:06
 
 <p>Science is the belief in the ignorance of experts. &mdash; Richard Feynman</p>
 2010-07-28 07:41:06
 2010-07-28 11:41:06
 
-# TOTD
+## TOTD
 Fri, 30 Jul 2010 13:43:20
 
 <p>If there were no God, there would be no atheists. &mdash; Gilbert K. Chesterton</p>
 2010-07-30 09:43:20
 2010-07-30 13:43:20
 
-# Giving and Forgiving
+## Giving and Forgiving
 Tue, 12 Oct 2010 07:45:00
 
 <p>If you have ill will toward any, if you are prejudiced against any, if you have accused any even in your silent thought, of injustice, or if you have criticised any one, sit down alone at night before retiring and mentally ask him to forgive you. Calling him by name, silently confess to him what you have done, and ask his forgiveness, telling him as you do the others, over and over again, that you love him, and are sure there is nothing but God&rdquo;™s perfect Love between you. Never retire until you have thus definitely &ldquo;cleaned up the slate&rdquo; between yourself and every other human being, having definitely forgiven---given love for---every one. Keep at this until all the tightened cords which have been cutting off the free flow of God&rdquo;™s love and life through you are loosened; until a habit of forgiving is established within you. &mdash; H. Emilie Cady (God a Present Help)</p>
 2010-10-12 03:45:00
 2010-10-12 07:45:00
 
-# TOTD
+## TOTD
 Wed, 20 Oct 2010 11:13:10
 
 <p>Every atom of fear, or condemnation, or criticism, that we carry in our hearts, no matter for whom it may be, is a wall between ourselves and God. &mdash; Emmet Fox</p>
 2010-10-20 07:13:10
 2010-10-20 11:13:10
 
-# TOTD
+## TOTD
 Fri, 29 Oct 2010 11:53:02
 
 <p>Being intelligent is not a felony, but most societies evaluate it as at least a misdemeanor. &mdash; Robert A. Heinlein</p>
 2010-10-29 07:53:02
 2010-10-29 11:53:02
 
-# Testimony
+## Testimony
 Mon, 08 Nov 2010 14:41:46
 
 <p>It isn&rsquo;t irrational to accept the testimony of eyewitnesses to miracles. &mdash; Antonin Scalia </p>
 2010-11-08 09:41:46
 2010-11-08 14:41:46
 
-# Time
+## Time
 Wed, 10 Nov 2010 15:43:20
 
 <p>It is only in appearance that time is a river. It is rather a vast landscape and it is the eye of the beholder that moves. &mdash; Thornton Wilder (The Eighth Day)</p>
 2010-11-10 10:43:20
 2010-11-10 15:43:20
 
-# Superstition
+## Superstition
 Sun, 12 Dec 2010 22:25:53
 
 <p>We must do our best to see life as it really is and not as modern superstition interprets it. -- Lewis Maclachlan</p>
 2010-12-12 17:25:53
 2010-12-12 22:25:53
 
-# Science
+## Science
 Sun, 12 Dec 2010 23:32:02
 
 <p>We approach the subject (prayer) in a spirit of scientific enquiry. The question to be asked is not what according to our theology God ought to do, but what He actually does. -- Lewis Maclachlan</p>
-
 2010-12-12 17:32:02
 2010-12-12 23:32:02
-# Belief
+
+## Belief
 Mon, 13 Dec 2010 16:29:16
 
 <p>In my experience over 90% of the arguments and criticisms made against Christianity can be answered with, &ldquo;Yeah, I don&rsquo;t believe in a God like that either.&rdquo; -- <a href="http://agentintellect.blogspot.com/2010/09/thought-of-day.html">Jim S.</a></p>
 2010-12-13 10:29:16
 2010-12-13 16:29:16
 
-# Hands
+## Hands
 Wed, 15 Dec 2010 20:25:09
 
 <p>I would fain be to the eternal God what a man's hand is to a man. -- <i>Theologia Germanica</i></p>
 2010-12-15 14:25:09
 2010-12-15 20:25:09
 
-# Quotations
+## 2011
+
+## Quotations
 Sun, 09 Jan 2011 19:40:18
 
 <p>The problem with Internet quotations is that many are not genuine. -- Abraham Lincoln</p>
 2011-01-09 13:40:18
 2011-01-09 19:40:18
 
-# Science
+## Science
 Thu, 23 Dec 2010 15:37:31
 
 <p>When everything is evidence of the thing you want to believe, it might be time to stop pretending you're all about <i>science</i>. &mdash; <a href="http://althouse.blogspot.com/2010/12/that-snow-outside-is-what-global.html">Ann Althouse</a></p>
 2010-12-23 09:37:31
 2010-12-23 15:37:31
 
-# Real Science
+## Real Science
 Fri, 21 Jan 2011 22:32:40
 
-<p>Real science looks at data, makes falsifiable predictions, and attempts to falsify or confirm those predictions. The rest is &ldquo;other forces at work.&rdquo; <a href="http://www.jerrypournelle.com/mail/2011/Q1/mail658.html# climate">Jerry Pournelle</a></p>
+<p>Real science looks at data, makes falsifiable predictions, and attempts to falsify or confirm those predictions. The rest is &ldquo;other forces at work.&rdquo; <a href="http://www.jerrypournelle.com/mail/2011/Q1/mail658.html## climate">Jerry Pournelle</a></p>
 2011-01-21 16:32:40
 2011-01-21 22:32:40
 
-# Good or Better?
+## Good or Better?
 Tue, 25 Jan 2011 17:08:47
 
 <p>When everything is good enough, it takes work to discover what&rsquo;s better, and better is often a matter of whim and preference anyway. -- <a href="http://www.chaosmanorreviews.com//oa/2011/20110124_col.php">Jerry Pournelle</a></p>
 2011-01-25 11:08:47
 2011-01-25 17:08:47
 
-# Scientific Religion
+## Scientific Religion
 Tue, 01 Feb 2011 02:33:29
 
-<p>So far neither Dark Energy nor the Multiverse seem to generate falsifiable hypotheses, removing them from science and relegating them to religion. I cheerfully admit that in the absence of evidence I prefer the religion I grew up with to these new ones, but perhaps I am insufficiently flexible in my views. &mdash; <a href="http://www.jerrypournelle.com/mail/2011/Q1/mail660.html# Monday">Jerry Pournelle</a></p>
+<p>So far neither Dark Energy nor the Multiverse seem to generate falsifiable hypotheses, removing them from science and relegating them to religion. I cheerfully admit that in the absence of evidence I prefer the religion I grew up with to these new ones, but perhaps I am insufficiently flexible in my views. &mdash; <a href="http://www.jerrypournelle.com/mail/2011/Q1/mail660.html## Monday">Jerry Pournelle</a></p>
 2011-01-31 20:33:29
 2011-02-01 02:33:29
 
-# Discriminating
+## Discriminating
 Tue, 22 Feb 2011 20:31:19
 
 <p>The way to stop discrimination on the basis of race is to stop discriminating on the basis of race. -- Chief Justice John Roberts (<a href="http://www.law.cornell.edu/supct/html/05-908.ZO.html">Parents Involved In Community Schools v. Seattle School Dist. No. 1</a> [June 28, 2007])</p>
 2011-02-22 14:31:19
 2011-02-22 20:31:19
 
-# Normal
+## Normal
 Mon, 28 Feb 2011 22:33:00
 
 <p>Anything that is in the world when you&rsquo;re born is normal and ordinary and is just a natural part of the way the world works. Anything that&rdquo;™s invented between when you&rdquo;™re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you&rdquo;™re thirty-five is against the natural order of things. &rdquo;” Douglas Adams, &ldquo;The Salmon of Doubt&rdquo;</p>
 2011-02-28 16:33:00
 2011-02-28 22:33:00
 
-# Relief
+## Relief
 Fri, 15 Apr 2011 21:17:31
 
 <p>In life I know, there is lots of grief,<br>
@@ -267,14 +273,14 @@ But your love is my relief. -- Bob Marley</p>
 2011-04-15 15:17:31
 2011-04-15 21:17:31
 
-# Marvels
+## Marvels
 Wed, 01 Jun 2011 16:26:32
 
 <p>The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments. -- George Washington</p>
 2011-06-01 10:26:32
 2011-06-01 16:26:32
 
-# Despair as Pride
+## Despair as Pride
 Wed, 25 May 2011 17:33:42
 
 <p>Despair is the absolute extreme of self-love.
@@ -282,7 +288,7 @@ Despair is the ultimate development of a pride so great and so stiff-necked that
 2011-05-25 11:33:42
 2011-05-25 17:33:42
 
-# Portable Devices and PHI
+## Portable Devices and PHI
 Thu, 07 Jul 2011 17:15:55
 
 <p>I recently sent the following to a behavioral health researcher who was planning to develop a mobile application for clinicians that would include client information--I believe that it may be of interest to others who are considering the use of smart phones and laptops in their clinical practice:
@@ -297,34 +303,36 @@ Thu, 07 Jul 2011 17:15:55
 "The IT engineers at SAMHSA will be asking themselves similar questions, and will very possibly come to a similar conclusion. We will have to write a Security Plan and submit it to them, and it will not have the same components that they are expecting. Were we to put my concerns to rest, we would then have to do the same in the Security Plan, and I would expect that would be difficult to write, and would be given extremely close scrutiny.
 "Taken as a whole, my considered judgment is that the prudent course of action would be to redesign the application to use a more conventional architecture &mdash; a server behind a firewall in a secure data center &mdash; one that we can be more confident of securing and more confident of getting approved."
 </p>
-2011-07-07 11:15:55
-2011-07-07 17:15:55
 
-# It&# 039;s Not Your Computer Anymore
+## It&#039;s Not Your Computer Anymore
 Wed, 31 Aug 2011 18:44:33
 
 <p>Over at Microsoft's Technet site, the folks at their Security Response Center have posted the "<a href="http://technet.microsoft.com/en-us/library/cc722487.aspx" target="_blank">10 Immutable Laws of Security</a>."
 Admittedly, it only covers security for computers (and remember, that means your cell phone and tablet) and websites, but it's still very worth reviewing. There's nothing new, nothing arcane there, but they are the cold, hard facts that we all have to remember if we make any pretense of caring about our clients' privacy. Simple things, like "If a bad guy can persuade you to run his program on your computer, it's not your computer anymore."
 Do you have client phone numbers on your iPhone? Have you installed any apps?
 Think about it. Seriously.</p>
-2011-08-31 12:44:33
-2011-08-31 18:44:
 
-# Right Place
+## 2012
+
+## Right Place
 Thu, 15 Nov 2012 20:22:28
 
 <p>"If your main goal is to show that your heart is in the right place, then your heart is not in the right place." -- David Schmidtz</p>
 2012-11-15 15:22:28
 2012-11-15 20:22:28
 
-# The American student
+## 2013
+
+## The American student
 Mon, 25 Mar 2013 18:43:24
 
 <p>Our educational system is about crowd control, but there is no small cabal of Lex Luthor-style evil geniuses that cackle with glee at their plan. The somnolence and mediocrity go all the way up and all the way down. The Secretary of Education herself would be horrified if she madeÂ <a href="http://newsfeed.time.com/2013/03/04/watch-boy-suspended-from-school-for-making-gun-out-of-a-pop-tart/">a gun out of a Pop-Tart</a>. -- <a title="James Chastek" href="http://thomism.wordpress.com/2013/03/09/the-american-student/" target="_blank">James Chastek</a></p>
 2013-03-25 12:43:24
 2013-03-25 18:43:
 
-# Miracles
+## 2015
+
+## Miracles
 Tue, 17 Mar 2015 11:31:38
 
 <p>Emmet Fox challenges "believers" to accept that miracles are a necessary part of the gospel story, and likewise challenges "skeptics" to consider that they are a natural part of a universe that science doesn't fully comprehend.
@@ -332,10 +340,8 @@ Tue, 17 Mar 2015 11:31:38
 Now, one must extend every sympathy to the special pleadings of a man enthralled by the beauty and mystery of the Gospels, but who, in the absence of the Spiritual Key, seems to find his common sense and all the scientific knowledge of mankind flouted by much that these Gospels contain. But this simply will not do. If the miracles did not happen, the rest of the Gospel story loses all real significance.<!--more--> If Jesus did not believe them to be possible, and undertake to perform them&rdquo;”never, it is true, for the sake of display, but still constantly and repeatedly&rdquo;”if he did not believe and teach many things in flat contradiction to eighteenth-and nineteenth-century rationalistic philosophy, then the Gospel message is chaotic, contradictory, and devoid of all significance. We cannot ride away from the dilemma by saying that Jesus was not interested in the current beliefs and superstitions of his time; that he took them more or less for granted passively; because what really interested him was character. This is a feeble argument, because character must include both an intelligent and a vital all-round reaction to life. Character must include some definite beliefs and convictions concerning things that really matter.
 But the miracles did happen. All the deeds related of Jesus in the four Gospels did happen, and many others too, "the which, if they should be written, every one, I suppose that even the world itself could not contain the books that should be written." Jesus himself justified what people thought to be a strange and wonderful teaching by the works he was able to do; and he went further and said, referring to those who study and practice his teaching: "The works that I do, ye shall do, and greater works."
 Now what, after all, is a miracle? Those who deny the possibility of miracles on the ground that the universe is a perfect system of law and order, to the operation of which there can be no exceptions, are perfectly right. But the explanation is that the world of which we are normally aware, and with whose laws alone most people are acquainted, is only a fragment of the whole universe as it really is; and that there is such a thing as appealing from a lower to a higher law&rdquo;”from a lesser to a greater expression. Now the appeal from the lower to the higher law is not really a breach of law, for the possibility of such an appeal is part of the major constitution of the universe, and, therefore, in the sense of a real breach of law, miracles are impossible. Yet, in the sense that all the ordinary rules and limitations of the physical plane can be set aside or overridden by an understanding which has risen above them, miracles, in the colloquial sense of the word, can and do happen.</p>
-2015-03-17 07:31:38
-2015-03-17 11:31:38
 
-# Moral Authority
+## Moral Authority
 Thu, 24 Sep 2015 17:11:45
 
 <p>When I heard that Pope Francis had visited the Little Sisters of the Poor last night, I heard Martin Luther King's voice saying his words from Birmingham Jail: "One has not only a legal but a moral responsibility to obey just laws. Conversely, one has a moral responsibility to disobey unjust laws."
@@ -343,10 +349,12 @@ He deserves his propers for doing that.</p>
 2015-09-24 11:11:45
 2015-09-24 17:11:45
 
-# September 10, 2001
+## 2016
+
+## September 10, 2001
 Sun, 11 Sep 2016 00:58:53
 
-<p>It's a stretch to remember what concerned me fifteen years ago, on September 10. 2001.
+<p>It's a stretch to remember what concerned me fifteen years ago, on September 10, 2001.
 William Butler Yeats wrote <em>Easter, 1916</em> in part describing Easter Sunday, April 23, 1916, the day before the Easter Rising, and how after Easter Monday:
 &nbsp;&nbsp;He, too, has resigned his part
 &nbsp;&nbsp;In the casual comedy;
@@ -372,7 +380,7 @@ h/t to Gerard Van der Leun</p>
 2016-09-10 20:58:53
 2016-09-11 00:58:53
 
-# Why Add to a Blog in 2016?
+## Why Add to a Blog in 2016?
 Thu, 22 Sep 2016 20:46:41
 
 <p>Why, indeed? When Facebook, Twitter and whatever other social media silos exist out there, where Everybody is following Everybody else, why write something new to add to something as old-school, so Last Year or Last Decade as a blog, where arguably nobody will see it?
@@ -385,7 +393,7 @@ Cheers!</p>
 2016-09-22 16:46:41
 2016-09-22 20:46:41
 
-# On Discipline
+## On Discipline
 Thu, 22 Sep 2016 20:57:18
 
 <p>David Warren's <a href="http://www.davidwarrenonline.com/" target="_blank">"Essays in Idleness"</a> blog is usually at least amusing or interesting, and not uncommonly thought provoking. I don't know him personally, but I have the feeling that he'd be somewhat uncomfortable being described as "profound", so I won't do so. Today, he's at least worth quoting:
@@ -394,24 +402,26 @@ Do yourself a favor and read the entire article <a href="http://www.davidwarreno
 2016-09-22 16:57:18
 2016-09-22 20:57:18
 
-# Back In The Game
+## Back In The Game
 Tue, 04 Oct 2016 12:16:55
 
 <p>Well, now I know that at least one person other than Me, Myself and I drop in here...I was asked to moderate the first spam comment in literally years this morning. Something about "arena oxides" and how much the princess, their friend, was edified by the deep thinking and perceptive helping nature that I displayed in a post a few days ago, accompanied by a gibberish email address and several links that even I am too timid to follow. I guess I should thank Google for the exposure.</p>
 2016-10-04 08:16:55
 2016-10-04 12:16:55
 
-# Back Again
+## 2017
+
+## Back Again
 Sat, 21 Jan 2017 18:09:41
 
 <p>There was a time, years ago, when there were fairly frequent, short posts here, mostly of the TOTD (Thought of the Day) variety &mdash; pithy sayings, sentences or paragraphs gleaned from the day's Internet prowling or the evening's reading. Then the day came when I realized that, for the most part, those pithy sayings tended to be, well, possibly impolitic given the nature of my business arrangements (my primary client being the Federal Center for Substance Abuse Treatment, or CSAT, in essence not only Federal bureaucrats but almost entirely social workers). So, like a prudent if not courageous undercover something-or-other not at all progressive or even liberal (unless maybe Classical Liberal), I censored myself. Or, as Archie Bunker would say, "Stifle yerself!"
-So, enough deep background. I see that I told this story in more detail just a few months ago <a href="http://www.consultingsmiths.com/why-add-to-a-blog-in-2016/# more-428" target="_blank">here</a> so have a look if you're interested. Today's point, and I do have one, is that FaceBook and I are having a partial parting of the ways. And this is to tell why.<!--more-->
+So, enough deep background. I see that I told this story in more detail just a few months ago <a href="http://www.consultingsmiths.com/why-add-to-a-blog-in-2016/## more-428" target="_blank">here</a> so have a look if you're interested. Today's point, and I do have one, is that FaceBook and I are having a partial parting of the ways. And this is to tell why.<!--more-->
 First, the parting is partial because FB is still the only place to keep up with Grandkids and Great-Grandkids, particularly the ones in British Columbia. And other folks I give a damn about. So, I'll be checking in off and on, liking and saying nice things about other folks posts now and then. Just trying to not see too much and saying as little as I can. It's just too depressing &mdash; the alternative reality that a lot of my friends and family are living in isn't somewhere I want to visit.
 So, to wrap this one up, I just might be putting stuff of interest, and even the occasional output from my fevered brain, here. We'll see.</p>
 2017-01-21 13:09:41
 2017-01-21 18:09:41
 
-# Twitter and Me and Very Strange Business Decisions
+## Twitter and Me and Very Strange Business Decisions
 Sat, 21 Jan 2017 21:10:24
 
 <p>I had a Twitter account very early on. It's deleted now, and all the related emails that I've gotten from Twitter, so I'm not sure exactly when, but sometime in 2008. I "tweeted" maybe twice or three times before this summer, then I discovered <a href="http://thestrobist.com" target="_blank">The Strobist</a> site and got excited about moving beyond "available light" photography. The Strobist has an amazing amount of information, including detailed tutorials, on using off-camera flash. Great resource, strongly recommended, but this is about Twitter. Sort of.<!--more-->
@@ -423,7 +433,7 @@ I may be the only person who feels this way, and if so, it won't mean anything t
 2017-01-21 16:10:24
 2017-01-21 21:10:24
 
-# Just a Thought
+## Just a Thought
 Sun, 22 Jan 2017 02:41:31
 
 <p>Spent a minute looking through FaceBook, making sure that everyone I know who chose to exercise their freedom of assembly in the city today made it out okay, and posting a picture I took of my granddaughter Sophia playing her violin. It occurred to me how nice it is that so many people feel free to say really disrespectful, vulgar things about the President of the United States in a public setting without fear of being called "Racist" and possibly losing their jobs.
@@ -431,16 +441,16 @@ Just a thought.</p>
 2017-01-21 21:41:31
 2017-01-22 02:41:31
 
-# Septuagesima
+## Septuagesima
 Mon, 13 Feb 2017 03:19:08
 
-<p>&ldquo;It will be one of the confusions of the damned to see that they are condemned by their own reason, by which they claimed to condemn the Christian religion.&rdquo; &rdquo;” Pascal, PensÃ©e # 562. 
-&ldquo;A new species of philosopher is appearing; I venture to baptize these philosophers with a name not without danger in it. As I divine them, as they let themselves be divined&rdquo;”for it pertains to their nature to want to remain a riddle in some respects&rdquo;”these philosophers of the future, in many respects, might rightly, but perhaps also wrongly, be described as attempters. This name itself is in the end only an attempt, and, if you will, a temptation.&rdquo; &rdquo;” Nietzsche, Beyond Good and Evil, # 42.
+<p>&ldquo;It will be one of the confusions of the damned to see that they are condemned by their own reason, by which they claimed to condemn the Christian religion.&rdquo; &rdquo;” Pascal, PensÃ©e ## 562. 
+&ldquo;A new species of philosopher is appearing; I venture to baptize these philosophers with a name not without danger in it. As I divine them, as they let themselves be divined&rdquo;”for it pertains to their nature to want to remain a riddle in some respects&rdquo;”these philosophers of the future, in many respects, might rightly, but perhaps also wrongly, be described as attempters. This name itself is in the end only an attempt, and, if you will, a temptation.&rdquo; &rdquo;” Nietzsche, Beyond Good and Evil, ## 42.
 Seen at <a href="http://www.catholicworldreport.com/Item/5415/divine_revelation_and_the_standards_of_the_future.aspx" target="_blank">The Catholic World Report</a> linked from David Warren's <a href="http://www.davidwarrenonline.com/2017/02/12/septuagesima/?owa_medium=feed&amp;owa_sid=" target="_blank">Essays in Idleness</a>.</p>
 2017-02-12 22:19:08
 2017-02-13 03:19:08
 
-# The Head Comes Loose...
+## The Head Comes Loose...
 Mon, 13 Feb 2017 20:45:07
 
 <p>One character I think of &mdash; having known a long time &mdash; provides an especially poignant example. Long ago I suspected there was something wrong with him. He was &ldquo;on my side,&rdquo; but I could never trust him. And this because, he always thought ahead. &ldquo;He has more brains than he can handle,&rdquo; I once said of him. A very full head and a rather empty chest. He had no spiritual anchor, no faith beneath his clouds. His principles were mere thoughts: fluff passing over. Even his religious views were &ldquo;solidly pragmatic,&rdquo; i.e. easily revised. He could not understand even his own body, because he was all brain. His views were in a constant state of &ldquo;evolution&rdquo;: becoming ever more titched.
@@ -449,7 +459,7 @@ Again from David Warren's <a href="http://www.davidwarrenonline.com/2017/02/13/b
 2017-02-13 15:45:07
 2017-02-13 20:45:07
 
-# Truth to Power?
+## Truth to Power?
 Tue, 14 Feb 2017 13:24:33
 
 <p>When you tell people what they want to hear, you don't have to be too careful about premises, facts, and conclusions. &rdquo;” Angelo M. Codevilla
@@ -459,17 +469,17 @@ I found the Codevilla quote at Mike Flynn's <a href="http://tofspot.blogspot.com
 2017-02-14 08:24:33
 2017-02-14 13:24:33
 
-# When I Was A Kid...
+## When I Was A Kid...
 Tue, 14 Feb 2017 18:17:27
 
 <p><a href="http://www.consultingsmiths.com/wp-content/uploads/2017/02/tumblr_mg4aen5f3a1r53nlzo1_500.jpg"><img src="http://www.consultingsmiths.com/wp-content/uploads/2017/02/tumblr_mg4aen5f3a1r53nlzo1_500-245x300.jpg" alt="" width="490" height="600" class="alignnone size-medium wp-image-545" /></a>
 Dan Gurney, Nurburgring 1000Km, 1959.
-Ferrari 250 Testa Rosa 58, Scuderia Ferrari, # 5, 5th place.
+Ferrari 250 Testa Rosa 58, Scuderia Ferrari, ## 5, 5th place.
 Won by the Moss/Fairman David Brown Aston Martin DBR1.</p>
 2017-02-14 13:17:27
 2017-02-14 18:17:27
 
-# Just to be clear...
+## Just to be clear...
 Tue, 14 Feb 2017 19:39:35
 
 <p>Apropos all the recent fuss:
@@ -480,7 +490,7 @@ This is what is called "black letter law" and to this High School Graduate seems
 2017-02-14 14:39:35
 2017-02-14 19:39:35
 
-# Unintended Irony Department
+## Unintended Irony Department
 Tue, 14 Feb 2017 22:37:54
 
 x
@@ -490,7 +500,7 @@ Of course, it's doubly ironic that some won't understand the irony...
 2017-02-14 17:37:54
 2017-02-14 22:37:54
 
-# Heresy
+## Heresy
 Wed, 15 Feb 2017 18:49:56
 
 "There are people who strictly deprive themselves of each and every eatable, drinkable and smokeable which has in any way acquired a shady reputation. They pay this price for health. And health is all they get for it. How strange it is. It is like paying out your whole fortune for a cow that has gone dry." &rdquo;” Mark Twain
@@ -499,180 +509,96 @@ He is also known to have used Bad Words in his published works, which have been 
 2017-02-15 13:49:56
 2017-02-15 18:49:56
 
-# Beware!
+## Beware!
 Wed, 15 Feb 2017 19:01:34
 
 "Beware of manufacturing a God of your own, a God who is all mercy, but not just&mdash; a God who is all love, but not holy&rdquo;”a God who has a Heaven for everybody, but Hell for none&rdquo;”a God who can allow good and bad to be side by side in time, but will make no distinction between good and bad in eternity. Such a god is an idol of your own, as true an idol as was ever moulded out of brass or clay. The hands of your own fancy and sentimentality have made him. He is not the God of the Bible, and besides the God of the Bible there is no god at all." &rdquo;” The Right Reverand John C. Ryles, Bishop of Liverpool (1880-1900)</p>
 2017-02-15 14:01:34
 2017-02-15 19:01:34
 
-# Regard for Power
-<link>http://www.consultingsmiths.com/regard-for-power/</link>
+## Regard for Power
 Thu, 16 Feb 2017 14:40:56
-http://www.consultingsmiths.com/?p=562
+
 <p>"Somewhere in <em>The Power Broker</em> I write that regard for power means disregard of those without power. I mean, we're really talking about justice and injustice." &rdquo;” Robert Caro
 I found a wonderful <a href="https://www.theparisreview.org/interviews/6442/robert-caro-the-art-of-biography-no-5-robert-caro" target="_blank">interview with author Robert Caro</a> on the Paris Review site about "The Art of Biography" &mdash; linked to, from all places, <a href="https://news.ycombinator.com/" target="_blank">Hacker News</a>! That's the WWW, good stuff is where you find it. I love surprises.</p>
-562
 2017-02-16 09:40:56
 2017-02-16 14:40:56
-regard-for-power
-2</p>
-# 
-Illegitimi non carborundum
-<link>http://www.consultingsmiths.com/illegitimi-non-carborundum/</link>
+
+## Illegitimi non carborundum
 Fri, 17 Feb 2017 01:44:04
-http://www.consultingsmiths.com/?p=565
+
 <p>I've been gradually working my way through all of the Heinlein corpus, and a year or so back I ran across his list of "things every adult should know" and one that I wasn't close on was a foreign language. I'm confident that my two years of High School Spanish wouldn't cut the mustard. So, I chose Latin.
-It's been slow slogging, mainly due to distractions and inertia, but I'm making a little progress, so I thought that I should have been able to make more sense of "illegitimi non carborundum" than I did. "Illegitimi" and "non" were easy, but "carborundum" while familiar as a brand name didn't appear in any form in any of the Latin dictionaries or word lists that I could find.<!--more-->
-Google saved the day &mdash; it's a joke, and one apropos today for any of us old-fashioned folk. 
+It's been slow slogging, mainly due to distractions and inertia, but I'm making a little progress, so I thought that I should have been able to make more sense of "illegitimi non carborundum" than I did. "Illegitimi" and "non" were easy, but "carborundum" while familiar as a brand name didn't appear in any form in any of the Latin dictionaries or word lists that I could find.
+
+Google saved the day&mdash;it's a joke, and one apropos today for any of us old-fashioned folk. 
 "Don't let the bastards grind you down."</p>
-565
-2017-02-16 20:44:04
-2017-02-17 01:44:04
-illegitimi-non-carborundum
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Why Become a Journalist?
-<link>http://www.consultingsmiths.com/why-become-a-journalist/</link>
+
+## Why Become a Journalist?
 Sat, 18 Feb 2017 15:52:58
-http://www.consultingsmiths.com/?p=568
+
 <p>"I became a journalist partly so that I wouldn't ever have to depend on the press for my information." &rdquo;” Christopher Hitchens</p>
-568
-2017-02-18 10:52:58
-2017-02-18 15:52:58
-why-become-a-journalist
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-The Enlightenment contra Grace
-<link>http://www.consultingsmiths.com/the-enlightenment-contra-grace/</link>
+
+## The Enlightenment contra Grace
 Sat, 18 Feb 2017 18:10:16
-http://www.consultingsmiths.com/?p=572
+
 <p>&ldquo;The Enlightenment is always wrong, because its ultimate goal is to <em>expose</em>. Grace, by contrast, is founded on truth, because it covers a multitude of sins. What God once and for all does not wish to know should never become the object of human knowledge and investigation.&rdquo; &rdquo;” Hans Urs von Balthasar
 Once again, courtesy of <a href="http://www.davidwarrenonline.com/2017/02/18/aphorisms-for-saturday/" target="_blank">David Warren</a></p>
-572
-2017-02-18 13:10:16
-2017-02-18 18:10:16
-the-enlightenment-contra-grace
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-# 
-Polluted Vehicles
-<link>http://www.consultingsmiths.com/polluted-vehicles/</link>
+
+## Polluted Vehicles
 Sun, 19 Feb 2017 02:36:18
-http://www.consultingsmiths.com/?p=575
+
 <p>"Nothing can be believed which is seen in a newspaper. Truth itself becomes suspicious by being put into that polluted vehicle." &rdquo;” Thomas Jefferson to John Norvell, 14 June 1807
 Quoted today by the President at a rally in Melbourne, Florida.</p>
-575
-2017-02-18 21:36:18
-2017-02-19 02:36:18
-polluted-vehicles
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Miracles (again)
-<link>http://www.consultingsmiths.com/miracles-again/</link>
+
+## Miracles (again)
 Mon, 20 Feb 2017 13:33:06
-http://www.consultingsmiths.com/?p=580
+
 <p>"&rdquo;˜And I dare say the first time you saw a man raised from the dead you might think so too.&rdquo;™ He giggled unconvincingly behind the smiling mask. &rdquo;˜Oh, it&rdquo;™s funny, isn&rdquo;™t it? It isn&rdquo;™t a case of miracles not happening&rdquo;”it&rdquo;™s just a case of people calling them something else. Can&rdquo;™t you see the doctors round the dead man? He isn&rdquo;™t breathing any more, his pulse has stopped, his heart&rdquo;™s not beating: he&rdquo;™s dead. The somebody gives him back his life, and they all&rdquo;”what&rdquo;™s the expression?&rdquo;”reserve their opinion. They won&rdquo;™t say it&rdquo;™s a miracle, because that&rdquo;™s a word they don&rdquo;™t like. Then it happens again and again perhaps&rdquo;”because God&rdquo;™s about on earth&rdquo;”and they say: these aren&rdquo;™t miracles, it is simply that we have enlarged our conception of what life is. Now we know you can be alive without pulse, breath, heart-beats. And they invent a new word to describe that state of life, and they say science has disproved a miracle.&rdquo;™ He giggled again. &rdquo;˜You can&rdquo;™t get round them.&rdquo;™" &rdquo;” Graham Greene <em>The Power and the Glory</em>
 Courtesy of <a href="http://wmbriggs.com/post/8069/" target="_blank">William M. Briggs &mdash; Statistician to the Stars</a></p>
-580
-2017-02-20 08:33:06
-2017-02-20 13:33:06
-miracles-again
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-History and Leaves
-<link>http://www.consultingsmiths.com/history-and-leaves/</link>
-Thu, 09 Mar 2017 18:59:21
-http://www.consultingsmiths.com/?p=590
-<p>If you don't know history, then you don't know anything. You are a leaf that doesn't know it is part of a tree. &rdquo;• Michael Crichton</p>
-590
-2017-03-09 13:59:21
-2017-03-09 18:59:21
-history-and-leaves
-2</p>
-# 
-Luna
 
+## History and Leaves
+Thu, 09 Mar 2017 18:59:21
+
+<p>If you don't know history, then you don't know anything. You are a leaf that doesn't know it is part of a tree. &rdquo;• Michael Crichton</p>
+
+## Luna
 Wed, 15 Mar 2017 21:39:34
-http://www.consultingsmiths.com/?p=593
+
 <p>"The Moon is not a destination &mdash; it is a direction." &ndash; Mike Collins, astronaut</p>
-593
-2017-03-15 17:39:34
-2017-03-15 21:39:34
-luna
-2</p>
-# 
-Simply Because It&# 039;s Amusing
-<link>http://www.consultingsmiths.com/simply-because-its-amusing/</link>
+
+## Simply Because It&#039;s Amusing
 Thu, 16 Mar 2017 12:20:07
-http://www.consultingsmiths.com/?p=597
+
 <p>"Certain magazines have symposiums (I will call them &rdquo;˜symposia&rdquo;™ if I am allowed to call the two separate South Kensington collections &rdquo;˜musea&rdquo;™)" &ndash; G. K. Chesterton
 Amusing because it pokes at one of my own peccadilloes. Saying "peccadilloes" rather than "bad habits" deserves another clever poke at the same personal weakness, but it's too early and I've had too little coffee.</p>
-597
-2017-03-16 08:20:07
-2017-03-16 12:20:07
-simply-because-its-amusing
-2</p>
-# 
-Straw Men
-<link>http://www.consultingsmiths.com/straw-men/</link>
+
+## Straw Men
 Fri, 21 Apr 2017 13:56:53
-http://www.consultingsmiths.com/?p=602
+
 <p>"Nothing burns as brightly as a straw man." &mdash; William M. Briggs (in re: those who are "against science")</p>
-602
-2017-04-21 09:56:53
-2017-04-21 13:56:53
-straw-men
-2</p>
-# 
-Free Press vs. Official Press
-<link>http://www.consultingsmiths.com/free-press-vs-official-press/</link>
+
+## Free Press vs. Official Press
 Thu, 04 May 2017 23:31:03
-http://www.consultingsmiths.com/?p=606
+
 <p>"WHEREVER I go, my first object, if I wish to find out the truth, is to get hold of the Free Press in France as in England, and even in America. But I know that wherever I get hold of such an organ it will be very strongly coloured with the opinion, or even fanaticism, of some minority. The Free Press, as a whole, if you add it all up and cancel out one exaggerated statement against another, does give you a true view of the state of society in which you live. The Official Press to-day gives you an absurdly false one everywhere. What a caricature&rdquo;”and what a base, empty caricature&rdquo;”of England or France or Italy you get in the "Times," or the "Manchester Guardian," the "Matin," or the "Tribune"! No one of them is in any sense general&rdquo;”or really national."
 ~Hilaire Belloc: The Free Press, XI, B.</p>
-606
-2017-05-04 19:31:03
-2017-05-04 23:31:03
-free-press-vs-official-press
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Am I a Bad Person?
-<link>http://www.consultingsmiths.com/am-i-a-bad-person/</link>
+
+## Am I a Bad Person?
 Fri, 05 May 2017 19:08:28
-http://www.consultingsmiths.com/?p=608
+
 <p>Just stopped into FB to post a silly picture. Couldn't help seeing the "Christians help the poor" and "If you don't love Obamacare you're a monster" pictures.
 Almost posted something like "Somehow I can't make the leap from 'Christians should care for the sick and hungry' to 'Christians should make it illegal for other people to not give the Government their money to care for the sick and hungry" but I resisted the temptation (and avoided the firestorm).
 Am I a bad person?
-</p>
-608
-2017-05-05 15:08:28
-2017-05-05 19:08:28
-am-i-a-bad-person
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-A Sharp Moment of Revelation
-<link>http://www.consultingsmiths.com/a-sharp-moment-of-revelation/</link>
+
+## A Sharp Moment of Revelation
 Fri, 05 May 2017 19:11:46
-http://www.consultingsmiths.com/?p=610
+
 <p>&ldquo;ALL you that feel youth slipping past you and that are desolate at the approach of age, be merry; it is not what it looks like from in front and from outside. There is a glory in all completion, and all good endings are but shining transitions. There will come a sharp moment of revelation when you shall bless the effect of time&rdquo;¦ All you that have loved passionately and have torn your hearts asunder in disillusions, do not imagine that things broken cannot be mended by the good angels.&rdquo;
 ~Hilaire Belloc: The Path to Rome.</p>
-610
-2017-05-05 15:11:46
-2017-05-05 19:11:46
-a-sharp-moment-of-revelation
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Censorship &# 8211; Come meet the new boss...
-<link>http://www.consultingsmiths.com/censorship-come-meet-the-new-boss/</link>
+
+## Censorship &#8211; Come meet the new boss...
 Tue, 09 May 2017 14:36:15
-http://www.consultingsmiths.com/?p=612
+
 <p>...the same as the old boss.
 * "AT present, it is not we that silence the Press; it is the Press that silences us. It is not a case of the Commonwealth settling how much the editors shall say; it is a case of the editors settling how much the Commonwealth shall know." (Illustrated London News, Oct. 19, 1907)
 * "BUT the modern editor regards himself far too much as a kind of original artist, who can select and suppress facts with the arbitrary ease of a poet or a caricaturist." (ILN, Oct. 26, 1907)
@@ -683,505 +609,227 @@ http://www.consultingsmiths.com/?p=612
 * "AND the papers are shouting louder and louder like demagogues, merely because their hearers are growing more and more deaf." (ILN, Dec. 8, 1928)
 * "WHAT I protest against is the prevailing fashion, in the Press and elsewhere, of parading all this perfectly natural indifference and ignorance as if it were a sort of impartiality." (ILN, Apr. 12, 1930)
 ~G.K. Chesterton</p>
-612
-2017-05-09 10:36:15
-2017-05-09 14:36:15
-censorship-come-meet-the-new-boss
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-The Best Words
-<link>http://www.consultingsmiths.com/the-best-words/</link>
+
+## The Best Words
 Fri, 12 May 2017 02:27:55
-http://www.consultingsmiths.com/?p=615
+
 <p>"Short words are best and the old words when short are best of all." &mdash; Winston Churchill</p>
-615
-2017-05-11 22:27:55
-2017-05-12 02:27:55
-the-best-words
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Needles
-<link>http://www.consultingsmiths.com/needles/</link>
+
+## Needles
 Fri, 12 May 2017 02:30:13
-http://www.consultingsmiths.com/?p=618
+
 <p>"Frankly, I don't think you could have driven a needle up my sphincter using a sledgehammer." &mdash; Col. Barry Horne, F-117 pilot, on first mission over Baghdad</p>
-618
-2017-05-11 22:30:13
-2017-05-12 02:30:13
-needles
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Secrecy
-<link>http://www.consultingsmiths.com/secrecy/</link>
+
+## Secrecy
 Fri, 12 May 2017 02:42:27
-http://www.consultingsmiths.com/?p=620
+
 <p>"The very word "secrecy" is repugnant in a free and open society; and we are as a people inherently and historically opposed to secret societies, to secret oaths and to secret proceedings. We decided long ago that the dangers of excessive and unwarranted concealment of pertinent facts far outweighed the dangers which are cited to justify it. Even today, there is little value in opposing the threat of a closed society by imitating its arbitrary restrictions. Even today, there is little value in insuring the survival of our nation if our traditions do not survive with it." &mdash; John F. Kennedy</p>
-620
-2017-05-11 22:42:27
-2017-05-12 02:42:27
-secrecy
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-A little good sense
-<link>http://www.consultingsmiths.com/a-little-good-sense/</link>
+
+## A little good sense
 Fri, 12 May 2017 02:52:30
-http://www.consultingsmiths.com/?p=622
+
 <p>"It is said that there is a technical term for people who believe that little boys and little girls are born indistinguishable and are molded into their natures by parental socialization. The term is 'childless.'" &mdash; Steven Pinker</p>
-622
-2017-05-11 22:52:30
-2017-05-12 02:52:30
-a-little-good-sense
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-It&# 039;s not my problem...
-<link>http://www.consultingsmiths.com/its-not-my-problem/</link>
+
+## It&#039;s not my problem...
 Fri, 12 May 2017 11:29:28
-http://www.consultingsmiths.com/?p=624
+
 <p>But what if it was?
 What if the apparently intractable cultural issues that you take for granted were instead seen as problems on your desk, things you could influence?
 What if the rules others take for granted are seen by you and your team as standards you can change?
 What if we take the responsibility instead of waiting for it to be offered?
 From <a href="http://sethgodin.typepad.com/seths_blog/2017/05/its-not-my-problem.html" target="_blank">Seth Godin</a>.</p>
-624
-2017-05-12 07:29:28
-2017-05-12 11:29:28
-its-not-my-problem
-2</p>
-# 
-The Danger of Books
-<link>http://www.consultingsmiths.com/the-danger-of-books/</link>
+
+## The Danger of Books
 Fri, 12 May 2017 21:18:21
-http://www.consultingsmiths.com/?p=626
+
 <p>"Directly above my head on the glass-topped coffee table are Doris's favorite books just as she left them...
 <i>Siddhartha
 Atlas Shrugged
 ESP and the New Spirituality</i>
 "Books matter. My poor wife, Doris, was ruined by books..., not by dirty books, but by clean books, not by depraved books but by spiritual books. God, if you recall, did not warn his people against dirty books. He warned them against high places. My wife, who began life as a cheerful Episcopalian from Virginia, became a priestess of the high places...But books ruined her. Beware of Episcopal women who take up with Ayn Rand and the Buddha...A certain type of Episcopal girl has a weakness that comes on them just past youth, just as sure as Italian girls get fat. They fall prey to Gnostic pride, commence buying antiques, and develop a yearning for esoteric doctrine." &mdash; Walker Percy: <i>Love in the Ruins</i></p>
-626
-2017-05-12 17:18:21
-2017-05-12 21:18:21
-the-danger-of-books
-2</p>
-# 
-Men Have Forgotten God
-<link>http://www.consultingsmiths.com/men-have-forgotten-god/</link>
+
+## Men Have Forgotten God
 Wed, 17 May 2017 15:21:25
-http://www.consultingsmiths.com/?p=629
+
 <p>More than half a century ago, while I was still a child, I recall hearing a number of older people offer the following explanation for the great disasters that had befallen Russia: Men have forgotten God; that's why all this has happened.
 Since then I have spent well-nigh fifty years working on the history of our Revolution; in the process I have read hundreds of books, collected hundreds of personal testimonies, and have already contributed eight volumes of my own toward the effort of clearing away the rubble left by that upheaval. But if I were asked today to formulate as concisely as possible the main cause of the ruinous Revolution that swallowed up some sixty million of our people, I could not put it more accurately than to repeat: Men have forgotten God; that's why all this has happened.
 What is more, the events of the Russian Revolution can only be understood now, at the end of the century, against the background of what has since occurred in the rest of the world. What emerges here is a process of universal significance. And if I were called upon to identify briefly the principal trait of the entire twentieth century, here too, I would be unable to find anything more precise and pithy than to repeat once again: Men have forgotten God. &mdash; <a href="http://www.roca.org/OA/36/36h.htm" target="_blank">Alexander Solzhenitsyn</a></p>
-629
-2017-05-17 11:21:25
-2017-05-17 15:21:25
-men-have-forgotten-god
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Cold Civil War
-<link>http://www.consultingsmiths.com/cold-civil-war/</link>
+
+## Cold Civil War
 Thu, 18 May 2017 14:14:19
-http://www.consultingsmiths.com/?p=634
+
 <p>"Much of the heat in contemporary American politics comes from the attempt, principally from the Left but increasingly from the Right as well, to force the entire nation to live in precisely the same way with precisely the same values. Statesmanship should begin by questioning and moderating that tendency." &mdash; <a href="http://www.claremont.org/crb/article/the-cold-civil-war/" target="_blank">Angelo M. Codevilla</a></p>
-634
-2017-05-18 10:14:19
-2017-05-18 14:14:19
-cold-civil-war
-2</p>
-# 
-Let Them Paste Passwords!
-<link>http://www.consultingsmiths.com/let-them-paste-passwords/</link>
+
+## Let Them Paste Passwords!
 Thu, 18 May 2017 14:45:35
-http://www.consultingsmiths.com/?p=636
+
 <p>The British NCSC agrees with yours truly that those websites who prevent you, me and everyone else from pasting passwords (or using browser plug-ins that do it for us) in the name of "security" are in fact undermining security. I'm not always a fan of NCSC, but on this one they're 100% right on.
 Read the report <a href="https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords" target="_blank">here</a>.</p>
-636
-2017-05-18 10:45:35
-2017-05-18 14:45:35
-let-them-paste-passwords
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-<category domain="category" nicename="privacy"><p>Privacy</p></category>
-2</p>
-# 
-Art and Money
-<link>http://www.consultingsmiths.com/art-and-money/</link>
+
+## Art and Money
 Wed, 24 May 2017 03:20:56
-http://www.consultingsmiths.com/?p=639
+
 <p>&ldquo;When bankers get together for dinner, they discuss art.  When artists get together for dinner, they discuss money.&rdquo; &mdash; Oscar Wilde</p>
-639
-2017-05-23 23:20:56
-2017-05-24 03:20:56
-art-and-money
-2</p>
-# 
-If You Don&# 039;t Read Books
-<link>http://www.consultingsmiths.com/if-you-dont-read-books/</link>
+
+## If You Don&#039;t Read Books
 Wed, 24 May 2017 14:02:22
-http://www.consultingsmiths.com/?p=641
+
 <p>"...the most suggestive thing I saw in America the past 18 months I actually think of an item in a hotel gift shop in southern Florida.  It was a decorative kitchen towel, I think made locally.  It bore these words:   'America, 2016.'  Below that it said, 'Once we had Steve Jobs, Johnny Cash and Bob Hope.  Now they're gone, and we're outta jobs, outta cash and outta hope.  And below that it said, "Please Kevin Bacon, don't die."" -- Peggy Noonan, at the <a href="https://www.cua.edu/speeches-and-homilies/2017/commencement-2017.html" target="_blank">Catholic University Commencement</a>
 Clever line, but what's it got to do with reading? Well, follow the link and read the rest of her remarks &mdash; it's worth it!</p>
-641
-2017-05-24 10:02:22
-2017-05-24 14:02:22
-if-you-dont-read-books
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Otherworldly Twits
-<link>http://www.consultingsmiths.com/otherworldly-twits/</link>
+
+## Otherworldly Twits
 Fri, 26 May 2017 01:07:06
-http://www.consultingsmiths.com/?p=643
+
 <p>"Do you wonder why the legacy media are such puzzled otherworldly twits? Why, for example, they had no idea what was happening in the recent election? Why they seem to know so very little about America or much of anything else?
-"Some thoughts from a guy who spent a career in the racket:  
+"Some thoughts from a guy who spent a career in the racket: 
 "Ask journalists when they were last in a truck stop on an Interstate, last in Boone, North Carolina or Barstow, California or any of thousands of such towns across the country. Ask whether they were in the military, whether they have ever talked to a cop or an ambulance crewman or a fireman. Ask whether they have a Mexican friend, when they last ate in a restaurant where a majority of the customers were black.  Whether they know an enlisted man, or anyone in the armed services. Whether they have hitchhiked overnight, baited a hook, hunted, or fired a rifle. Whether they have ever worked washing dishes, harvesting crops, driving a delivery truck. Whether they have a blue-collar friend. Know what the Texas Two-Step is, have been in a biker bar.
-"Now do you see why Trump surprised them?" &mdash; <a href="https://fredoneverything.org/notes-of-a-reformed-news-weasel-understanding-the-vacuity/" target="_blank">Fred Reed</a>
-</p>
-643
-2017-05-25 21:07:06
-2017-05-26 01:07:06
-otherworldly-twits
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-More Reed on today&# 039;s reporters
-<link>http://www.consultingsmiths.com/more-reed-on-todays-reporters/</link>
+"Now do you see why Trump surprised them?" &mdash; <a href="https://fredoneverything.org/notes-of-a-reformed-news-weasel-understanding-the-vacuity/" target="_blank">Fred Reed</a></p>
+
+## More Reed on today&#039;s reporters
 Fri, 26 May 2017 01:13:21
-http://www.consultingsmiths.com/?p=645
+
 <p>"Journalists are not stupid, running to well above average in intelligence. You could form a large chapter of Mensa by raiding newsrooms in Washington. However, with a fair few exceptions, they are not intellectuals, not contemplative, not studious. They are high-pressure fact-accountants, competitive, comfortable under tight deadlines, aggressive, combative, quick but shallow. This can be a serviceable substituent for stupid." &mdash; <a href="https://fredoneverything.org/notes-of-a-reformed-news-weasel-understanding-the-vacuity/" target="_blank">Fred Reed</a></p>
-645
-2017-05-25 21:13:21
-2017-05-26 01:13:21
-more-reed-on-todays-reporters
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Truth, essentially
-<link>http://www.consultingsmiths.com/truth-essentially/</link>
+
+## Truth, essentially
 Sat, 27 May 2017 10:56:12
-http://www.consultingsmiths.com/?p=648
+
 <p>"Sin is, in its essence, a renunciation of the truth." &mdash; Joseph, Cardinal Ratzinger</p>
-648
-2017-05-27 06:56:12
-2017-05-27 10:56:12
-truth-essentially
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Our House
-<link>http://www.consultingsmiths.com/our-house/</link>
+
+## Our House
 Sat, 27 May 2017 11:02:19
-http://www.consultingsmiths.com/?p=650
-<p>&ldquo;We&rdquo;™re not living in a two-story house with us on the bottom floor and God upstairs and that&rdquo;™s it. Far more realistic is to realize that we&rdquo;™re living in a skyscraper and that there are who knows how many dimensions of creation above us.&rdquo; &mdash; Mark Shea, at <a href="http://www.archindy.org/criterion/local/series/evil/1.htm" target="_blank">Archindy.org</a>
+
+<p>&ldquo;We&rdquo;re not living in a two-story house with us on the bottom floor and God upstairs and that&rdquo;s it. Far more realistic is to realize that we&rdquo;re living in a skyscraper and that there are who knows how many dimensions of creation above us.&rdquo; &mdash; Mark Shea, at <a href="http://www.archindy.org/criterion/local/series/evil/1.htm" target="_blank">Archindy.org</a>
 </p>
-650
-2017-05-27 07:02:19
-2017-05-27 11:02:19
-our-house
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Unthinkable?
-<link>http://www.consultingsmiths.com/unthinkable/</link>
+
+## Unthinkable?
 Sat, 27 May 2017 15:18:22
-http://www.consultingsmiths.com/?p=652
+
 <p>"IN a word, the world does not explain itself, and cannot do so merely by continuing to expand itself. But anyhow it is absurd for the Evolutionist to complain that it is unthinkable for an admittedly unthinkable God to make everything out of nothing and then pretend that it is more thinkable that nothing should turn itself into everything." &mdash; G.K. Chesterton: St. Thomas Aquinas, Chap. VIIâ”€The Permanent Philosophy.
 </p>
-652
-2017-05-27 11:18:22
-2017-05-27 15:18:22
-unthinkable
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Elections Matter
-<link>http://www.consultingsmiths.com/elections-matter/</link>
+
+## Elections Matter
 Sun, 28 May 2017 21:14:22
-http://www.consultingsmiths.com/?p=654
+
 <p>&ldquo;We have always known that eternal vigilance is the price of freedom. It&rdquo;™s worse now, because capture of government is so much more important than it once was. There was a time when there was enough freedom that it hardly mattered which brand of crooks ran government. That has not been true for a long time &rdquo;” not during most of your lifetimes, and for much of mine &rdquo;” and it will probably never be true again.&rdquo; &mdash; Jerry Pournelle</p>
-654
-2017-05-28 17:14:22
-2017-05-28 21:14:22
-elections-matter
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Wolves
-<link>http://www.consultingsmiths.com/wolves/</link>
+
+## Wolves
 Tue, 30 May 2017 23:23:54
-http://www.consultingsmiths.com/?p=656
+
 <p>"It is an act of charity to cry out against the wolf when he is among the sheep." &mdash; St. Francis de Sales, <em>Introduction to the Devout Life, Part 3, Ch.29</em> </p>
-656
-2017-05-30 19:23:54
-2017-05-30 23:23:54
-wolves
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Laughing at honour
-<link>http://www.consultingsmiths.com/laughing-at-honour/</link>
+
+## Laughing at honour
 Tue, 06 Jun 2017 01:59:10
-http://www.consultingsmiths.com/?p=659
+
 <p>&ldquo;We make men without chests and expect from them virtue and enterprise. We laugh at honor and are shocked to find traitors in our midst.&rdquo; &mdash; C. S. Lewis</p>
-659
-2017-06-05 21:59:10
-2017-06-06 01:59:10
-laughing-at-honour
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Heresy
-<link>http://www.consultingsmiths.com/heresy-2/</link>
+
+## Heresy
 Thu, 08 Jun 2017 16:09:48
-http://www.consultingsmiths.com/?p=661
+
 <p>"But there is one thing that is infinitely more absurd and unpractical than burning a man for his philosophy. This is the habit of saying that his philosophy does not matter, and this is done universally in the twentieth century, in the decadence of the great revolutionary period." &mdash; G. K. Chesterton, "Heretics"</p>
-661
-2017-06-08 12:09:48
-2017-06-08 16:09:48
-heresy-2
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-A Great Man
-<link>http://www.consultingsmiths.com/a-great-man/</link>
+
+## A Great Man
 Thu, 08 Jun 2017 16:11:48
-http://www.consultingsmiths.com/?p=663
+
 <p>"Whatever the word 'great' means, Dickens was what it means. Even the fastidious and unhappy who cannot read his books without a continuous critical exasperation, would use the word of him without stopping to think." &mdash; G. K. Chesterton, <em>Charles Dickens</em></p>
-663
-2017-06-08 12:11:48
-2017-06-08 16:11:48
-a-great-man
-2</p>
-# 
-Adversus Haereses
-<link>http://www.consultingsmiths.com/adversus-haereses/</link>
+
+## Adversus Haereses
 Thu, 08 Jun 2017 16:37:30
-http://www.consultingsmiths.com/?p=665
+
 <p>"It would be futile to make a sketch of St. Thomas and conceal the fact that he fought with heretics; and yet the fact itself may embarrass the very purpose for which it is employed. I can only express the hope, and indeed the confidence, that those who regard me as the heretic will hardly blame me for expressing my own convictions, and certainly not for expressing my hero's convictions. There is only one point upon which such a question concerns this very simple narrative. It is the conviction, which I have expressed once or twice in the course of it, that the sixteenth-century schism was really a belated revolt of the thirteenth-century pessimists. It was a back-wash of the old Augustinian Puritanism against the Aristotelian liberality. Without that, I could not place my historical figure in history." &mdash; G. K. Chesterton <em>Saint Thomas Aquinas &mdash; the Dumb Ox</em></p>
-665
-2017-06-08 12:37:30
-2017-06-08 16:37:30
-adversus-haereses
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-In Your Philosophy, Horatio
-<link>http://www.consultingsmiths.com/in-your-philosophy-horatio/</link>
+
+## In Your Philosophy, Horatio
 Sun, 11 Jun 2017 13:57:46
-http://www.consultingsmiths.com/?p=668
+
 <p>"There can be no doubt that there is an essential relation between Christian revelation and certain fundamental natural truths. The existence of objective truth, the spiritual reality of the person, the difference between soul and body, the objectivity of moral good and evil, the freedom of the will, the immortality of the soul, the existence of a personal God &mdash; all are implied by Christian revelation. Every word in the New Testament clearly presupposes these elementary truths. And any philosophy that denies them can never be accepted or tolerated by the Church." &mdash; Deitrich von Hildebrand, <em>Trojan Horse in the City of God</em> (p. 62)</p>
-668
-2017-06-11 09:57:46
-2017-06-11 13:57:46
-in-your-philosophy-horatio
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Contagion
-<link>http://www.consultingsmiths.com/contagion/</link>
+
+## Contagion
 Fri, 23 Jun 2017 22:47:50
-http://www.consultingsmiths.com/?p=673
+
 <p>"There is nothing so contagious as holiness, nothing more pervasive than Prayer. This is precisely what the traditional Church means by evangelism and what distinguishes it from recruitment." &mdash; Fr. Martin Thornton, <em>Pastoral Theology: A Reorientation</em></p>
-673
-2017-06-23 18:47:50
-2017-06-23 22:47:50
-contagion
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Belief
-<link>http://www.consultingsmiths.com/belief-2/</link>
+
+## Belief
 Sat, 24 Jun 2017 23:22:20
-http://www.consultingsmiths.com/?p=678
+
 <p>"I have heard it confidently stated, for instance, that the American troops had been brought to Europe not to fight the Germans but to crush an English revolution. One has to belong to the intelligentsia to believe things like that: no ordinary man could be such a fool." &mdash; George Orwell, <em><a href="http://orwell.ru/library/essays/nationalism/english/e_nat" target="_blank">Notes on Nationalism</a></em></p>
-678
-2017-06-24 19:22:20
-2017-06-24 23:22:20
-belief-2
-2</p>
-# 
-Fantasies
-<link>http://www.consultingsmiths.com/fantasies/</link>
+
+## Fantasies
 Sun, 25 Jun 2017 01:10:05
-http://www.consultingsmiths.com/?p=680
-<p>"We say that it is in believing ages that you get men living in the open and dancing and telling tales by the fire. We say that it is in ages of unbelief, that you get emperors dressing up as women, and gladiators, or minor poets wearing green carnations and praising unnameable things. We say that, taking ages as a whole, the wildest fantasies of superstition are nothing to the fantasies of rationalism." &mdash; G. K. Chesterton, <em>God and my Neighbour</em>
-</p>
-680
-2017-06-24 21:10:05
-2017-06-25 01:10:05
-fantasies
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Respect and Fidelity
-<link>http://www.consultingsmiths.com/respect-and-fidelity/</link>
+
+<p>"We say that it is in believing ages that you get men living in the open and dancing and telling tales by the fire. We say that it is in ages of unbelief, that you get emperors dressing up as women, and gladiators, or minor poets wearing green carnations and praising unnameable things. We say that, taking ages as a whole, the wildest fantasies of superstition are nothing to the fantasies of rationalism." &mdash; G. K. Chesterton, <em>God and my Neighbour</em></p>
+
+## Respect and Fidelity
 Sun, 25 Jun 2017 01:26:04
-http://www.consultingsmiths.com/?p=685
-<p>"Today, certainly it is important for us to show that same respect and fidelity to the Word of God, so as not to manipulate it to fit historical, political, or ideological circumstances, for the purpose of pleasing men and acquiring a reputation as a scholar or avant-garde theologian.Â .Â .Â . As Saint Paul says, 'We are not like so many [who] practice cunning or.Â .Â . tamper with God&rdquo;™s word' (cf. 2 Cor 2:17; 4:2)." &mdash; Cardinal Robert Sarah, <em>God or Nothing</em>
-</p>
-685
-2017-06-24 21:26:04
-2017-06-25 01:26:04
-respect-and-fidelity
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-The Pagan Ideal
-<link>http://www.consultingsmiths.com/the-pagan-ideal/</link>
+
+<p>"Today, certainly it is important for us to show that same respect and fidelity to the Word of God, so as not to manipulate it to fit historical, political, or ideological circumstances, for the purpose of pleasing men and acquiring a reputation as a scholar or avant-garde theologian.Â .Â .Â . As Saint Paul says, 'We are not like so many [who] practice cunning or.Â .Â . tamper with God&rdquo;™s word' (cf. 2 Cor 2:17; 4:2)." &mdash; Cardinal Robert Sarah, <em>God or Nothing</em></p>
+
+## The Pagan Ideal
 Sun, 25 Jun 2017 21:50:15
-http://www.consultingsmiths.com/?p=689
+
 <p>"My objection to Mr. Lowes Dickinson and the reassertors of the pagan ideal is, then, this. I accuse them of ignoring definite human discoveries in the moral world, discoveries as definite, though not as material, as the discovery of the circulation of the blood. We cannot go back to an ideal of reason and sanity. For mankind has discovered that reason does not lead to sanity. We cannot go back to an ideal of pride and enjoyment. For mankind has discovered that pride does not lead to enjoyment. I do not know by what extraordinary mental accident modern writers so constantly connect the idea of progress with the idea of independent thinking. Progress is obviously the antithesis of independent thinking. For under independent or individualistic thinking, every man starts at the beginning, and goes, in all probability, just as far as his father before him. But if there really be anything of the nature of progress, it must mean, above all things, the careful study and assumption of the whole of the past. I accuse Mr. Lowes Dickinson and his school of reaction in the only real sense. If he likes, let him ignore these great historic mysteries &rdquo;” the mystery of charity, the mystery of chivalry, the mystery of faith. If he likes, let him ignore the plough or the printing-press. But if we do revive and pursue the pagan ideal of a simple and rational self-completion we shall end &rdquo;” where Paganism ended. I do not mean that we shall end in destruction. I mean that we shall end in Christianity." &mdash; G. K. Chesterton, <a href="https://www.ccel.org/ccel/chesterton/heretics.xii.html" target="_blank"><em>Heretics</em></a></p>
-689
-2017-06-25 17:50:15
-2017-06-25 21:50:15
-the-pagan-ideal
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-The Virtue of Toleration
-<link>http://www.consultingsmiths.com/the-virtue-of-toleration/</link>
+
+## The Virtue of Toleration
 Tue, 27 Jun 2017 19:04:46
-http://www.consultingsmiths.com/?p=691
+
 <p>&ldquo;There was a confused liberal notion that toleration was in some way a virtue in itself.&rdquo; &mdash; Hilaire Belloc, <em>Essays of a Catholic</em></p>
-691
-2017-06-27 15:04:46
-2017-06-27 19:04:46
-the-virtue-of-toleration
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-In Which Case...
-<link>http://www.consultingsmiths.com/in-which-case/</link>
+
+## In Which Case...
 Fri, 30 Jun 2017 02:02:40
-http://www.consultingsmiths.com/?p=693
+
 <p>"You can spend your own money on yourself in which case quality and price are paramount. You can spend your money on others in which case price is paramount and quality less so. You can spend others' money on you in which case you will have a fine lunch. Or you can spend other peoples money on other people in which case you have government." &mdash; Milton Friedman</p>
-693
-2017-06-29 22:02:40
-2017-06-30 02:02:40
-in-which-case
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Political Ideals
-<link>http://www.consultingsmiths.com/political-ideals/</link>
+
+## Political Ideals
 Mon, 03 Jul 2017 11:31:20
-http://www.consultingsmiths.com/?p=697
-<p>&ldquo;Political ideals will vary according to men&rdquo;™s views on human destiny. Those who are persuaded that the purpose of life is pleasure, or power, or honour, will reckon that State best arranged in which they can live comfortably, or acquire great wealth, or achieve great power and lord it over many. Others who think that the crowning good of virtue is the purpose of our present life will want an arrangement under which men can live virtuously and peaceably together. In short, political judgment will be settled by the sort of life a man expects and proposes to lead by living in a community.&rdquo; &mdash; St. Thomas Aquinas: Commentary on Aristotle&rdquo;™s &rdquo;˜Politics,&rdquo;™ Book II, lect. 1.
-</p>
-697
-2017-07-03 07:31:20
-2017-07-03 11:31:20
-political-ideals
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-No New Thing
-<link>http://www.consultingsmiths.com/no-new-thing/</link>
+
+<p>&ldquo;Political ideals will vary according to men&rdquo;™s views on human destiny. Those who are persuaded that the purpose of life is pleasure, or power, or honour, will reckon that State best arranged in which they can live comfortably, or acquire great wealth, or achieve great power and lord it over many. Others who think that the crowning good of virtue is the purpose of our present life will want an arrangement under which men can live virtuously and peaceably together. In short, political judgment will be settled by the sort of life a man expects and proposes to lead by living in a community.&rdquo; &mdash; St. Thomas Aquinas: Commentary on Aristotle&rdquo;™s &rdquo;˜Politics,&rdquo;™ Book II, lect. 1.</p>
+
+## No New Thing
 Wed, 05 Jul 2017 02:27:56
-http://www.consultingsmiths.com/?p=699
+
 <p>"To say that the present is a time of change and upheaval, social, political and religious, is to state a truism so obvious as to invite ironic contradiction.  The cataclysm through which we are passing is at once so vast in its dimensions and so profound in its penetration of individual life, that we may well shrink from looking to history for guidance on circumstances to which history itself affords no parallel.  Yet it is no new thing for the established manners, customs and beliefs of men to be upset.  In all such times of violent transition the same great problem of the reconciliation between old and new forces itself upon the judgement of mankind, and it should not be impossible to find in the lesser crises of the past principles of thought and action which may help us to deal with the gigantic perplexities of today." &mdash; Oliver Chase Quick, <em>Essays in Orthodoxy</em> 1916</p>
-699
-2017-07-04 22:27:56
-2017-07-05 02:27:56
-no-new-thing
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-The Riddle of Life
-<link>http://www.consultingsmiths.com/the-riddle-of-life/</link>
+
+## The Riddle of Life
 Thu, 06 Jul 2017 00:21:27
-http://www.consultingsmiths.com/?p=705
+
 <p>"The riddle of life is simply this. For some mad reason in this mad world of ours, the things which men differ about most are exactly the things about which they must be got to agree. Men can agree on the fact that the earth goes round the sun. But then it does not matter a dump whether the earth goes around the sun or the Pleiades. But men cannot agree about morals: sex, property, individual rights, fixity and contracts, patriotism, suicide, public habits of health &mdash; these are exactly the things that men tend to fight about. And these are exactly the things that must be settled somehow on strict principles. Study each of them, and you will find each of them works back certainly to a philosophy, probably to a religion." &mdash; G. K. Chesterton, <em>The Victorian Age</em></p>
-705
-2017-07-05 20:21:27
-2017-07-06 00:21:27
-the-riddle-of-life
-2</p>
-# 
-The Safety of Antiquity
-<link>http://www.consultingsmiths.com/the-safety-of-antiquity/</link>
+
+## The Safety of Antiquity
 Fri, 07 Jul 2017 01:33:46
-http://www.consultingsmiths.com/?p=707
+
 <p>"What, then, shall a Catholic Christian do, if some small part of the Church cut itself off from the communion of the universal faith?  What else but prefer the health of the whole body before the pestiferous and corrupt member? What if some new infection goeth about to corrupt, not in this case only a little part, but the whole Church? Then, likewise, shall he regard, and be sure to cleave unto Antiquity; which can now no more be seduced by any crafty novelty." &mdash; Vincentius of Lerin. <em>The Doctrine of the Fathers</em></p>
-707
-2017-07-06 21:33:46
-2017-07-07 01:33:46
-the-safety-of-antiquity
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Paranoia
-<link>http://www.consultingsmiths.com/paranoia/</link>
+
+## Paranoia
 Wed, 12 Jul 2017 00:10:30
-http://www.consultingsmiths.com/?p=711
+
 <p>I'm sorry, I just can't help myself...
 I'm so old, I can remember when it was conservatives who saw Russians under every bed.
 There, I said it.</p>
-711
-2017-07-11 20:10:30
-2017-07-12 00:10:30
-paranoia
-2</p>
-# 
-Religious Truth
-<link>http://www.consultingsmiths.com/religious-truth/</link>
+
+## Religious Truth
 Mon, 17 Jul 2017 00:28:33
-http://www.consultingsmiths.com/?p=713
+
 <p>"Men despise religion; they hate it and are afraid it is true." &mdash; Blaise Pascal</p>
-713
-2017-07-16 20:28:33
-2017-07-17 00:28:33
-religious-truth
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Secularization of Christianity
-<link>http://www.consultingsmiths.com/secularization-of-christianity/</link>
+
+## Secularization of Christianity
 Mon, 17 Jul 2017 00:35:49
-http://www.consultingsmiths.com/?p=715
+
 <p>"The conclusion to which I have found myself forced is twofold: first that what we are being offered [secularization, ed.] is not a reinterpretation of the Christian religion but a substitute for it, and secondly that the arguments offered, from whichever field of study they have been drawn, are quite unconvincing." &mdash; E. L. Mascall</p>
-715
-2017-07-16 20:35:49
-2017-07-17 00:35:49
-secularization-of-christianity
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-# 
-Lost Trust
-<link>http://www.consultingsmiths.com/lost-trust/</link>
+
+## Lost Trust
 Mon, 17 Jul 2017 12:06:11
-http://www.consultingsmiths.com/?p=719
+
 <p>"Instead of asking themselves why they lost people&rdquo;™s trust, the media instead asked why the people had lost trust in them. A subtle, but important difference." &mdash; Milo Yiannopoulos</p>
-719
-2017-07-17 08:06:11
-2017-07-17 12:06:11
-lost-trust
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-Gone 64 Years
-<link>http://www.consultingsmiths.com/gone-64-years/</link>
+
+## Gone 64 Years
 Mon, 17 Jul 2017 12:14:06
-http://www.consultingsmiths.com/?p=721
+
 <p>"When I am dead, I hope it is said,
 'His sins were scarlet, but his books were read'." â”€ Hilaire Belloc
 Hilaire Belloc died July 16, 1953. He was 11 days short of his 83rd birthday.
 Read a contemporary <a href="http://trove.nla.gov.au/newspaper/article/18388585" target="_blank">obituary</a>.</p>
-721
-2017-07-17 08:14:06
-2017-07-17 12:14:06
-gone-64-years
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-# 
-The Gods of the Copybook Headings
-<link>http://www.consultingsmiths.com/the-gods-of-the-copybook-headings/</link>
+
+## The Gods of the Copybook Headings
 Mon, 24 Jul 2017 17:01:55
-http://www.consultingsmiths.com/?p=724
+
 <p>The Gods of the Copybook Headings 
 by Rudyard Kipling
 AS I PASS through my incarnations in every age and race,
@@ -1192,7 +840,6 @@ We were living in trees when they met us. They showed us each in turn
 That Water would certainly wet us, as Fire would certainly burn:
 But we found them lacking in Uplift, Vision and Breadth of Mind,
 So we left them to teach the Gorillas while we followed the March of Mankind.
-<!--more-->
 We moved as the Spirit listed. They never altered their pace,
 Being neither cloud nor wind-borne like the Gods of the Market Place,
 But they always caught up with our progress, and presently word would come
@@ -1225,13 +872,8 @@ And that after this is accomplished, and the brave new world begins
 When all men are paid for existing and no man must pay for his sins, 
 As surely as Water will wet us, as surely as Fire will burn, 
 The Gods of the Copybook Headings with terror and slaughter return!</p>
-724
-2017-07-24 13:01:55
-2017-07-24 17:01:55
-the-gods-of-the-copybook-headings
-2</p>
-# 
-See No Evil
+
+## See No Evil
 <link>http://www.consultingsmiths.com/see-no-evil/</link>
 Mon, 24 Jul 2017 17:08:31
 http://www.consultingsmiths.com/?p=727
@@ -1241,7 +883,7 @@ http://www.consultingsmiths.com/?p=727
 2017-07-24 17:08:31
 see-no-evil
 2</p>
-# 
+## 
 On the D-Word
 <link>http://www.consultingsmiths.com/on-the-d-word/</link>
 Mon, 24 Jul 2017 17:14:03
@@ -1253,7 +895,7 @@ http://www.consultingsmiths.com/?p=729
 on-the-d-word
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 The Answer
 <link>http://www.consultingsmiths.com/the-answer/</link>
 Wed, 09 Aug 2017 02:50:36
@@ -1265,7 +907,7 @@ http://www.consultingsmiths.com/?p=734
 the-answer
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 Acceptance
 <link>http://www.consultingsmiths.com/acceptance/</link>
 Thu, 10 Aug 2017 01:22:05
@@ -1277,7 +919,7 @@ http://www.consultingsmiths.com/?p=736
 acceptance
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 Our task...
 <link>http://www.consultingsmiths.com/our-task/</link>
 Mon, 14 Aug 2017 22:05:17
@@ -1289,7 +931,7 @@ http://www.consultingsmiths.com/?p=739
 our-task
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 Seditious and Tyrannical
 <link>http://www.consultingsmiths.com/seditious-and-tyrannical/</link>
 Sat, 26 Aug 2017 16:38:57
@@ -1300,7 +942,7 @@ http://www.consultingsmiths.com/?p=742
 2017-08-26 16:38:57
 seditious-and-tyrannical
 2</p>
-# 
+## 
 The Most Well-Known Amount of People
 <link>http://www.consultingsmiths.com/the-most-well-known-amount-of-people/</link>
 Sat, 26 Aug 2017 19:54:14
@@ -1339,7 +981,7 @@ false</p>
 a:2:{s:4:"time";d:1503855199.1750180721282958984375;s:5:"event";s:9:"check-ham";}</p>
 </wp:commentmeta>
 </wp:comment>
-# 
+## 
 When not being angry is a sin...
 <link>http://www.consultingsmiths.com/when-not-being-angry-is-a-sin/</link>
 Wed, 30 Aug 2017 02:34:18
@@ -1351,7 +993,7 @@ http://www.consultingsmiths.com/?p=747
 when-not-being-angry-is-a-sin
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Thought out thought
 <link>http://www.consultingsmiths.com/750-2/</link>
 Sun, 03 Sep 2017 19:09:30
@@ -1363,7 +1005,7 @@ http://www.consultingsmiths.com/?p=750
 2017-09-03 19:09:30
 750-2
 2</p>
-# 
+## 
 Truth and Error
 <link>http://www.consultingsmiths.com/truth-and-error/</link>
 Fri, 08 Sep 2017 02:01:40
@@ -1375,8 +1017,8 @@ http://www.consultingsmiths.com/?p=755
 truth-and-error
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
-Democracy&# 039;s Fruits
+## 
+Democracy&## 039;s Fruits
 <link>http://www.consultingsmiths.com/democracys-fruits/</link>
 Fri, 08 Sep 2017 02:05:01
 http://www.consultingsmiths.com/?p=758
@@ -1386,7 +1028,7 @@ http://www.consultingsmiths.com/?p=758
 2017-09-08 02:05:01
 democracys-fruits
 2</p>
-# 
+## 
 Correcting is Judging
 <link>http://www.consultingsmiths.com/correcting-is-judging/</link>
 Sun, 10 Sep 2017 00:35:01
@@ -1398,7 +1040,7 @@ http://www.consultingsmiths.com/?p=760
 correcting-is-judging
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 RIP, Dr. Pournelle
 <link>http://www.consultingsmiths.com/rip-dr-pournelle/</link>
 Thu, 14 Sep 2017 17:04:33
@@ -1410,7 +1052,7 @@ http://www.consultingsmiths.com/?p=764
 rip-dr-pournelle
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 Courtesy
 <link>http://www.consultingsmiths.com/courtesy/</link>
 Thu, 14 Sep 2017 17:06:03
@@ -1421,7 +1063,7 @@ http://www.consultingsmiths.com/?p=766
 2017-09-14 17:06:03
 courtesy
 2</p>
-# 
+## 
 Facing the Future on the Downside of the Liberal Revolution
 <link>http://www.consultingsmiths.com/facing-the-future-on-the-downside-of-the-liberal-revolution/</link>
 Thu, 14 Sep 2017 19:38:31
@@ -1433,7 +1075,7 @@ http://www.consultingsmiths.com/?p=770
 facing-the-future-on-the-downside-of-the-liberal-revolution
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Atheist for a Day
 <link>http://www.consultingsmiths.com/atheist-for-a-day/</link>
 Tue, 19 Sep 2017 16:42:43
@@ -1445,7 +1087,7 @@ http://www.consultingsmiths.com/?p=772
 atheist-for-a-day
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Work and Pray
 <link>http://www.consultingsmiths.com/work-and-pray/</link>
 Tue, 19 Sep 2017 23:12:31
@@ -1458,7 +1100,7 @@ Attr. to St. Augustine. Also to St. Ignatius of Loyola. And to Martin Luther.</p
 work-and-pray
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Why?
 
 Fri, 22 Sep 2017 18:03:53
@@ -1469,7 +1111,7 @@ http://www.consultingsmiths.com/?p=778
 2017-09-22 18:03:53
 why
 2</p>
-# 
+## 
 Tails
 <link>http://www.consultingsmiths.com/tails/</link>
 Fri, 22 Sep 2017 18:24:26
@@ -1481,7 +1123,7 @@ Four, because, even if you call it a leg, it&rdquo;™s still a tail.&rdquo; &md
 2017-09-22 18:24:26
 tails
 2</p>
-# 
+## 
 Empathy for the Grieving
 <link>http://www.consultingsmiths.com/empathy-for-the-grieving/</link>
 Sat, 07 Oct 2017 23:04:27
@@ -1493,7 +1135,7 @@ http://www.consultingsmiths.com/?p=784
 empathy-for-the-grieving
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Rules, or maybe, Intelligence
 <link>http://www.consultingsmiths.com/rules-or-maybe-intelligence/</link>
 Sun, 08 Oct 2017 10:31:29
@@ -1504,7 +1146,7 @@ http://www.consultingsmiths.com/?p=786
 2017-10-08 10:31:29
 rules-or-maybe-intelligence
 2</p>
-# 
+## 
 Being Right
 <link>http://www.consultingsmiths.com/being-right/</link>
 Sun, 08 Oct 2017 10:46:48
@@ -1515,7 +1157,7 @@ http://www.consultingsmiths.com/?p=789
 2017-10-08 10:46:48
 being-right
 2</p>
-# 
+## 
 We Learn from History
 <link>http://www.consultingsmiths.com/we-learn-from-history/</link>
 Tue, 10 Oct 2017 15:16:18
@@ -1526,7 +1168,7 @@ http://www.consultingsmiths.com/?p=791
 2017-10-10 15:16:18
 we-learn-from-history
 2</p>
-# 
+## 
 Schism and Heresy
 <link>http://www.consultingsmiths.com/schism-and-heresy/</link>
 Fri, 13 Oct 2017 11:34:29
@@ -1538,7 +1180,7 @@ http://www.consultingsmiths.com/?p=793
 schism-and-heresy
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Society is Dissolving
 <link>http://www.consultingsmiths.com/society-is-dissolving/</link>
 Fri, 13 Oct 2017 11:38:34
@@ -1550,7 +1192,7 @@ http://www.consultingsmiths.com/?p=795
 society-is-dissolving
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 On Heresy
 <link>http://www.consultingsmiths.com/on-heresy/</link>
 Fri, 13 Oct 2017 11:45:56
@@ -1562,7 +1204,7 @@ http://www.consultingsmiths.com/?p=798
 on-heresy
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 The habit of neglecting true books
 <link>http://www.consultingsmiths.com/the-habit-of-neglecting-true-books/</link>
 Mon, 23 Oct 2017 12:00:31
@@ -1576,7 +1218,7 @@ http://www.consultingsmiths.com/?p=801
 the-habit-of-neglecting-true-books
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 But first...
 <link>http://www.consultingsmiths.com/but-first/</link>
 Wed, 25 Oct 2017 19:49:02
@@ -1587,7 +1229,7 @@ http://www.consultingsmiths.com/?p=803
 2017-10-25 19:49:02
 but-first
 2</p>
-# 
+## 
 Eyes Shut
 <link>http://www.consultingsmiths.com/eyes-shut/</link>
 Thu, 26 Oct 2017 18:39:33
@@ -1599,7 +1241,7 @@ http://www.consultingsmiths.com/?p=805
 eyes-shut
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Imposter Syndrome
 <link>http://www.consultingsmiths.com/imposter-syndrome/</link>
 Sun, 29 Oct 2017 12:38:19
@@ -1616,7 +1258,7 @@ http://www.consultingsmiths.com/?p=807
 2017-10-29 12:38:19
 imposter-syndrome
 2</p>
-# 
+## 
 Origins
 <link>http://www.consultingsmiths.com/origins/</link>
 Thu, 02 Nov 2017 12:20:32
@@ -1628,7 +1270,7 @@ http://www.consultingsmiths.com/?p=810
 origins
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 What the People Need
 <link>http://www.consultingsmiths.com/what-the-people-neew/</link>
 Thu, 02 Nov 2017 12:21:40
@@ -1640,7 +1282,7 @@ http://www.consultingsmiths.com/?p=812
 what-the-people-neew
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Proof of its Divinity
 <link>http://www.consultingsmiths.com/proof-of-its-divinity/</link>
 Thu, 02 Nov 2017 12:22:53
@@ -1652,7 +1294,7 @@ http://www.consultingsmiths.com/?p=814
 proof-of-its-divinity
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Kerouac on the Buddah
 <link>http://www.consultingsmiths.com/kerouac-on-the-buddah/</link>
 Fri, 03 Nov 2017 15:06:59
@@ -1663,8 +1305,8 @@ http://www.consultingsmiths.com/?p=816
 2017-11-03 15:06:59
 kerouac-on-the-buddah
 2</p>
-# 
-Chesterton&# 039;s Fence
+## 
+Chesterton&## 039;s Fence
 <link>http://www.consultingsmiths.com/chestertons-fence/</link>
 Tue, 07 Nov 2017 17:41:08
 http://www.consultingsmiths.com/?p=818
@@ -1674,7 +1316,7 @@ http://www.consultingsmiths.com/?p=818
 2017-11-07 17:41:08
 chestertons-fence
 2</p>
-# 
+## 
 The Task of Redemption
 <link>http://www.consultingsmiths.com/the-task-of-redemption/</link>
 Thu, 09 Nov 2017 22:20:49
@@ -1693,7 +1335,7 @@ http://www.consultingsmiths.com/?p=821
 the-task-of-redemption
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 The Love of (a small &quot;g&quot;) god
 <link>http://www.consultingsmiths.com/the-love-of-a-small-g-god/</link>
 Mon, 20 Nov 2017 16:31:58
@@ -1727,7 +1369,7 @@ false</p>
 a:3:{s:4:"time";d:1511196792.638473987579345703125;s:5:"event";s:9:"check-ham";s:4:"user";s:3:"das";}</p>
 </wp:commentmeta>
 </wp:comment>
-# 
+## 
 A Conspiracy of a very few Millionaires
 <link>http://www.consultingsmiths.com/a-conspiracy-of-a-very-few-millionaires/</link>
 Fri, 24 Nov 2017 12:53:35
@@ -1739,7 +1381,7 @@ http://www.consultingsmiths.com/?p=830
 a-conspiracy-of-a-very-few-millionaires
 <category domain="category" nicename="privacy"><p>Privacy</p></category>
 2</p>
-# 
+## 
 Sauce for the Goose
 <link>http://www.consultingsmiths.com/sauce-for-the-goose/</link>
 Fri, 24 Nov 2017 13:18:07
@@ -1750,7 +1392,7 @@ http://www.consultingsmiths.com/?p=833
 2017-11-24 13:18:07
 sauce-for-the-goose
 2</p>
-# 
+## 
 Technology Dreams
 <link>http://www.consultingsmiths.com/technology-dreams/</link>
 Thu, 30 Nov 2017 02:31:38
@@ -1762,7 +1404,7 @@ http://www.consultingsmiths.com/?p=837
 2017-11-30 02:31:38
 technology-dreams
 2</p>
-# 
+## 
 Political Wisdom
 <link>http://www.consultingsmiths.com/political-wisdom/</link>
 Thu, 30 Nov 2017 02:33:30
@@ -1774,7 +1416,7 @@ http://www.consultingsmiths.com/?p=839
 2017-11-30 02:33:30
 political-wisdom
 2</p>
-# 
+## 
 Meditation for November 30
 <link>http://www.consultingsmiths.com/meditation-for-november-30/</link>
 Thu, 30 Nov 2017 13:42:55
@@ -1788,7 +1430,7 @@ From the original AA Meditation book, <em>Twenty-Four Hours a Day</em>, by Richm
 2017-11-30 13:42:55
 meditation-for-november-30
 2</p>
-# 
+## 
 A Masterless House, a Pilotless Ship
 <link>http://www.consultingsmiths.com/a-masterless-house-a-pilotless-ship/</link>
 Thu, 30 Nov 2017 13:55:13
@@ -1801,7 +1443,7 @@ http://www.consultingsmiths.com/?p=845
 a-masterless-house-a-pilotless-ship
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Its Nature is to Live
 <link>http://www.consultingsmiths.com/its-nature-is-to-live/</link>
 Thu, 30 Nov 2017 14:04:31
@@ -1813,7 +1455,7 @@ http://www.consultingsmiths.com/?p=848
 its-nature-is-to-live
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 As the Pervnado Turns
 <link>http://www.consultingsmiths.com/as-the-pervnado-turns/</link>
 Thu, 30 Nov 2017 22:40:48
@@ -1826,7 +1468,7 @@ By all means, read the whole thing.</p>
 as-the-pervnado-turns
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 Lossy Press
 <link>http://www.consultingsmiths.com/lossy-press/</link>
 Sat, 02 Dec 2017 16:37:13
@@ -1838,7 +1480,7 @@ http://www.consultingsmiths.com/?p=854
 lossy-press
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 &quot;Senior&quot;
 <link>http://www.consultingsmiths.com/senior/</link>
 Sat, 02 Dec 2017 16:49:57
@@ -1850,7 +1492,7 @@ http://www.consultingsmiths.com/?p=856
 senior
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 Not learning to Program
 <link>http://www.consultingsmiths.com/not-learning-to-program/</link>
 Sat, 02 Dec 2017 16:55:36
@@ -1862,7 +1504,7 @@ http://www.consultingsmiths.com/?p=859
 not-learning-to-program
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 Secular Civilization
 <link>http://www.consultingsmiths.com/secular-civilization/</link>
 Fri, 15 Dec 2017 03:22:54
@@ -1874,7 +1516,7 @@ http://www.consultingsmiths.com/?p=862
 secular-civilization
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 This House
 <link>http://www.consultingsmiths.com/this-house/</link>
 Sun, 17 Dec 2017 14:00:38
@@ -1886,7 +1528,7 @@ http://www.consultingsmiths.com/?p=864
 this-house
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 The Altar of Love
 <link>http://www.consultingsmiths.com/the-altar-of-love/</link>
 Mon, 18 Dec 2017 12:53:38
@@ -1898,7 +1540,7 @@ http://www.consultingsmiths.com/?p=866
 the-altar-of-love
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Extraordinary Decency
 <link>http://www.consultingsmiths.com/extraordinary-decency/</link>
 Mon, 18 Dec 2017 12:59:11
@@ -1909,7 +1551,7 @@ http://www.consultingsmiths.com/?p=868
 2017-12-18 12:59:11
 extraordinary-decency
 2</p>
-# 
+## 
 Sentimentality
 <link>http://www.consultingsmiths.com/sentimentality/</link>
 Tue, 19 Dec 2017 02:43:23
@@ -1919,7 +1561,7 @@ http://www.consultingsmiths.com/?p=870
 2017-12-18 21:43:23
 2017-12-19 02:43:23
 sentimentality
-# 
+## 
 Clay
 
 Sat, 23 Dec 2017 13:33:59
@@ -1930,7 +1572,7 @@ http://www.consultingsmiths.com/?p=873
 2017-12-23 13:33:59
 clay
 2</p>
-# 
+## 
 Gender
 <link>http://www.consultingsmiths.com/gender/</link>
 Tue, 26 Dec 2017 21:59:36
@@ -1942,7 +1584,7 @@ Oh, and by the way, I agree totally and unreservedly. I'm certainly open to the 
 2017-12-26 21:59:36
 gender
 2</p>
-# 
+## 
 Respect
 <link>http://www.consultingsmiths.com/respect/</link>
 Thu, 28 Dec 2017 20:43:37
@@ -1953,7 +1595,7 @@ http://www.consultingsmiths.com/?p=881
 2017-12-28 20:43:37
 respect
 2</p>
-# 
+## 
 Expect the Opposite
 <link>http://www.consultingsmiths.com/expect-the-opposite/</link>
 Fri, 29 Dec 2017 00:43:29
@@ -1964,7 +1606,7 @@ http://www.consultingsmiths.com/?p=884
 2017-12-29 00:43:29
 expect-the-opposite
 2</p>
-# 
+## 
 Hiding from the mission
 <link>http://www.consultingsmiths.com/hiding-from-the-mission/</link>
 Sun, 07 Jan 2018 20:13:07
@@ -1979,7 +1621,7 @@ It's possible to spend 7 hours and 52 minutes out of an eight-hour day in doing 
 2018-01-07 15:13:07
 2018-01-07 20:13:07
 hiding-from-the-mission
-# 
+## 
 He is Inescapable
 <link>http://www.consultingsmiths.com/he-is-inescapable/</link>
 Wed, 10 Jan 2018 22:35:47
@@ -1991,7 +1633,7 @@ http://www.consultingsmiths.com/?p=889
 he-is-inescapable
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Being Christian
 <link>http://www.consultingsmiths.com/being-christian/</link>
 Wed, 10 Jan 2018 23:38:35
@@ -2003,7 +1645,7 @@ http://www.consultingsmiths.com/?p=891
 being-christian
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Meditation for January 15
 <link>http://www.consultingsmiths.com/meditation-for-january-15/</link>
 Mon, 15 Jan 2018 17:34:22
@@ -2017,7 +1659,7 @@ From the original AA Meditation book, <em>Twenty-Four Hours a Day</em>, by Richm
 2018-01-15 17:34:22
 meditation-for-january-15
 2</p>
-# 
+## 
 Okay?
 
 Sun, 21 Jan 2018 03:01:29
@@ -2028,7 +1670,7 @@ http://www.consultingsmiths.com/?p=897
 2018-01-21 03:01:29
 okay
 2</p>
-# 
+## 
 The Cost of Discipleship
 <link>http://www.consultingsmiths.com/the-cost-of-discipleship/</link>
 Tue, 23 Jan 2018 03:46:50
@@ -2040,7 +1682,7 @@ http://www.consultingsmiths.com/?p=900
 the-cost-of-discipleship
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Democracy of the Dead
 <link>http://www.consultingsmiths.com/democracy-of-the-dead/</link>
 Thu, 25 Jan 2018 17:55:55
@@ -2051,7 +1693,7 @@ http://www.consultingsmiths.com/?p=902
 2018-01-25 17:55:55
 democracy-of-the-dead
 2</p>
-# 
+## 
 A Short Story
 <link>http://www.consultingsmiths.com/a-short-story/</link>
 Thu, 25 Jan 2018 22:20:36
@@ -2064,7 +1706,7 @@ http://www.consultingsmiths.com/?p=904
 2018-01-25 22:20:36
 a-short-story
 2</p>
-# 
+## 
 Gospel Demands
 <link>http://www.consultingsmiths.com/gospel-demands/</link>
 Sun, 28 Jan 2018 22:37:44
@@ -2076,7 +1718,7 @@ http://www.consultingsmiths.com/?p=908
 gospel-demands
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Instructions For Wayfarers
 <link>http://www.consultingsmiths.com/instructions-for-wayfarers/</link>
 Tue, 30 Jan 2018 22:14:04
@@ -2096,7 +1738,7 @@ Courtesy of <a href="http://americandigest.org/wp/lets-review-36-instructions/" 
 2018-01-30 22:14:04
 instructions-for-wayfarers
 2</p>
-# 
+## 
 Politics
 <link>http://www.consultingsmiths.com/politics/</link>
 Thu, 01 Feb 2018 16:37:53
@@ -2106,7 +1748,7 @@ http://www.consultingsmiths.com/?p=914
 2018-02-01 11:37:53
 2018-02-01 16:37:53
 politics
-# 
+## 
 Falling Out
 <link>http://www.consultingsmiths.com/falling-out/</link>
 Thu, 01 Feb 2018 16:48:52
@@ -2120,7 +1762,7 @@ http://www.consultingsmiths.com/?p=916
 2018-02-01 16:48:52
 falling-out
 2</p>
-# 
+## 
 The Exterminator
 <link>http://www.consultingsmiths.com/918-2/</link>
 Thu, 01 Feb 2018 16:53:47
@@ -2132,7 +1774,7 @@ http://www.consultingsmiths.com/?p=918
 2018-02-01 11:53:47
 2018-02-01 16:53:47
 918-2
-# 
+## 
 Little Things
 <link>http://www.consultingsmiths.com/little-things/</link>
 Thu, 08 Feb 2018 03:47:36
@@ -2149,7 +1791,7 @@ is a great thing. &mdash; St. Thomas Aquinas <em>De Doctrina Christiana</em>, IV
 little-things
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Incompatibility
 <link>http://www.consultingsmiths.com/incompatibility/</link>
 Mon, 12 Feb 2018 03:31:34
@@ -2160,7 +1802,7 @@ http://www.consultingsmiths.com/?p=927
 2018-02-12 03:31:34
 incompatibility
 2</p>
-# 
+## 
 Critics
 <link>http://www.consultingsmiths.com/critics/</link>
 Thu, 15 Feb 2018 14:33:23
@@ -2171,7 +1813,7 @@ http://www.consultingsmiths.com/?p=929
 2018-02-15 14:33:23
 critics
 2</p>
-# 
+## 
 Useful History
 <link>http://www.consultingsmiths.com/useful-history/</link>
 Sat, 17 Feb 2018 16:46:56
@@ -2182,7 +1824,7 @@ http://www.consultingsmiths.com/?p=933
 2018-02-17 16:46:56
 useful-history
 2</p>
-# 
+## 
 Turning and Turning
 <link>http://www.consultingsmiths.com/turning-and-turning/</link>
 Sat, 17 Feb 2018 19:49:05
@@ -2215,7 +1857,7 @@ Slouches towards Bethlehem to be born?
 2018-02-17 19:49:05
 turning-and-turning
 2</p>
-# 
+## 
 The Source of All Evil
 <link>http://www.consultingsmiths.com/the-source-of-all-evil/</link>
 Sun, 18 Feb 2018 01:45:47
@@ -2227,7 +1869,7 @@ http://www.consultingsmiths.com/?p=939
 the-source-of-all-evil
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 What a Long, Strange Trip...
 <link>http://www.consultingsmiths.com/what-a-long-strange-trip/</link>
 Wed, 21 Feb 2018 15:23:09
@@ -2254,7 +1896,7 @@ Now what?
 2018-02-21 10:23:09
 2018-02-21 15:23:09
 what-a-long-strange-trip
-# 
+## 
 Morally Homeless
 <link>http://www.consultingsmiths.com/morally-homeless/</link>
 Thu, 22 Feb 2018 13:51:29
@@ -2266,7 +1908,7 @@ With a hat tip to the <a href="https://gkcdaily.blogspot.com/2018/02/for-those-w
 2018-02-22 13:51:29
 morally-homeless
 2</p>
-# 
+## 
 Scorn Not
 <link>http://www.consultingsmiths.com/scorn-not/</link>
 Thu, 22 Feb 2018 14:01:55
@@ -2278,7 +1920,7 @@ http://www.consultingsmiths.com/?p=954
 2018-02-22 14:01:55
 scorn-not
 2</p>
-# 
+## 
 Projection/Empathy
 <link>http://www.consultingsmiths.com/projection-empathy/</link>
 Thu, 22 Feb 2018 14:06:03
@@ -2298,7 +1940,7 @@ If we put in the effort and devote the time to practice this skill, we can get b
 2018-02-22 14:06:03
 projection-empathy
 2</p>
-# 
+## 
 You cannot...
 <link>http://www.consultingsmiths.com/you-cannot/</link>
 Fri, 23 Feb 2018 22:30:16
@@ -2316,10 +1958,8 @@ You cannot help men permanently by doing for them what they could and should do 
 &mdash; William Boetcker, 1873 &mdash; 1962</p>
 958
 2018-02-23 17:30:16
-2018-02-23 22:30:16
-you-cannot
-2</p>
-# 
+2018-02-23 22:30:16</p>
+## 
 What You Believe
 <link>http://www.consultingsmiths.com/what-you-believe/</link>
 Sat, 24 Feb 2018 21:14:15
@@ -2330,7 +1970,7 @@ http://www.consultingsmiths.com/?p=961
 2018-02-24 21:14:15
 what-you-believe
 2</p>
-# 
+## 
 That Within Me
 <link>http://www.consultingsmiths.com/that-within-me/</link>
 Sat, 24 Feb 2018 21:21:20
@@ -2350,7 +1990,7 @@ In hearts all rocky now the late remorse of love.</blockquote>
 2018-02-24 21:21:20
 that-within-me
 2</p>
-# 
+## 
 The Inquiry of Truth
 <link>http://www.consultingsmiths.com/the-inquiry-of-truth/</link>
 Mon, 26 Feb 2018 20:59:01
@@ -2361,7 +2001,7 @@ http://www.consultingsmiths.com/?p=965
 2018-02-26 20:59:01
 the-inquiry-of-truth
 2</p>
-# 
+## 
 True Terror
 <link>http://www.consultingsmiths.com/true-terror/</link>
 Mon, 05 Mar 2018 03:38:38
@@ -2398,7 +2038,7 @@ a:2:{s:4:"time";d:1520651598.4100649356842041015625;s:5:"event";s:9:"check-ham";
 a:3:{s:4:"time";d:1520651795.969894886016845703125;s:5:"event";s:15:"status-approved";s:4:"user";s:6:"sYsaD1";}</p>
 </wp:commentmeta>
 </wp:comment>
-# 
+## 
 Our Times
 <link>http://www.consultingsmiths.com/our-times/</link>
 Sat, 10 Mar 2018 18:15:39
@@ -2410,7 +2050,7 @@ Does this sound familiar? Is this an apt description of our lifetime and that of
 2018-03-10 18:15:39
 our-times
 2</p>
-# 
+## 
 Trivial and Great Truths
 <link>http://www.consultingsmiths.com/trivial-and-great-truths/</link>
 Mon, 12 Mar 2018 16:07:37
@@ -2421,7 +2061,7 @@ http://www.consultingsmiths.com/?p=973
 2018-03-12 16:07:37
 trivial-and-great-truths
 2</p>
-# 
+## 
 Authoritative
 <link>http://www.consultingsmiths.com/authoritative/</link>
 Mon, 19 Mar 2018 14:42:13
@@ -2439,7 +2079,7 @@ The translators write in the tenor of their age&mdash;a "note" of faith in anyth
 authoritative
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Pure, Simple Truth
 <link>http://www.consultingsmiths.com/pure-simple-truth/</link>
 Mon, 19 Mar 2018 14:50:28
@@ -2450,7 +2090,7 @@ http://www.consultingsmiths.com/?p=980
 2018-03-19 14:50:28
 pure-simple-truth
 2</p>
-# 
+## 
 Five Stages
 <link>http://www.consultingsmiths.com/five-stages/</link>
 Tue, 20 Mar 2018 21:25:14
@@ -2461,7 +2101,7 @@ http://www.consultingsmiths.com/?p=983
 2018-03-20 21:25:14
 five-stages
 2</p>
-# 
+## 
 Empathy, not Conscience
 <link>http://www.consultingsmiths.com/empathy-not-conscience/</link>
 Fri, 23 Mar 2018 20:04:09
@@ -2473,7 +2113,7 @@ http://www.consultingsmiths.com/?p=987
 empathy-not-conscience
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Make politics as local as possible
 <link>http://www.consultingsmiths.com/make-politics-as-local-as-possible/</link>
 Fri, 13 Apr 2018 13:00:12
@@ -2486,7 +2126,7 @@ http://www.consultingsmiths.com/?p=993
 2018-04-13 13:00:12
 make-politics-as-local-as-possible
 2</p>
-# 
+## 
 Spiritual ADD
 <link>http://www.consultingsmiths.com/spiritual-add/</link>
 Fri, 20 Apr 2018 15:37:01
@@ -2500,7 +2140,7 @@ From a note that I left to myself 6 April, 2017</p>
 spiritual-add
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 Needlework
 <link>http://www.consultingsmiths.com/needlework/</link>
 Sat, 05 May 2018 15:11:29
@@ -2512,7 +2152,7 @@ http://www.consultingsmiths.com/?p=1001
 needlework
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Education and Training
 <link>http://www.consultingsmiths.com/education-and-training/</link>
 Thu, 31 May 2018 12:10:45
@@ -2526,7 +2166,7 @@ http://www.consultingsmiths.com/?p=1004
 2018-05-31 12:10:45
 education-and-training
 2</p>
-# 
+## 
 A Brief Note
 <link>http://www.consultingsmiths.com/a-brief-note/</link>
 Thu, 31 May 2018 12:16:41
@@ -2541,7 +2181,7 @@ Posting may or may not continue to be erratic, but then it's always been like th
 a-brief-note
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 Criticism and The Web
 <link>http://www.consultingsmiths.com/criticism-and-the-web/</link>
 Thu, 31 May 2018 12:29:55
@@ -2552,7 +2192,7 @@ http://www.consultingsmiths.com/?p=1009
 2018-05-31 12:29:55
 criticism-and-the-web
 2</p>
-# 
+## 
 The Language of Nature
 <link>http://www.consultingsmiths.com/the-language-of-nature/</link>
 Thu, 31 May 2018 12:36:41
@@ -2563,7 +2203,7 @@ http://www.consultingsmiths.com/?p=1011
 2018-05-31 12:36:41
 the-language-of-nature
 2</p>
-# 
+## 
 Power/Corruption
 <link>http://www.consultingsmiths.com/power-corruption/</link>
 Thu, 31 May 2018 12:47:53
@@ -2575,7 +2215,7 @@ http://www.consultingsmiths.com/?p=1013
 2018-05-31 12:47:53
 power-corruption
 2</p>
-# 
+## 
 The Problem
 <link>http://www.consultingsmiths.com/the-problem/</link>
 Sat, 02 Jun 2018 11:48:39
@@ -2586,8 +2226,8 @@ http://www.consultingsmiths.com/?p=1018
 2018-06-02 11:48:39
 the-problem
 2</p>
-# 
-Joyce&# 039;s Reality
+## 
+Joyce&## 039;s Reality
 <link>http://www.consultingsmiths.com/joyces-reality/</link>
 Mon, 18 Jun 2018 11:07:32
 http://www.consultingsmiths.com/?p=1021
@@ -2598,7 +2238,7 @@ http://www.consultingsmiths.com/?p=1021
 2018-06-18 11:07:32
 joyces-reality
 2</p>
-# 
+## 
 We Must Sin
 <link>http://www.consultingsmiths.com/we-must-sin/</link>
 Mon, 18 Jun 2018 11:27:48
@@ -2612,7 +2252,7 @@ Is the nature of reality binary, dual? Is it in some way Gnostic, in that good d
 we-must-sin
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Speaking of Wealth or Power
 <link>http://www.consultingsmiths.com/speaking-of-wealth-or-power/</link>
 Thu, 28 Jun 2018 17:51:00
@@ -2623,7 +2263,7 @@ http://www.consultingsmiths.com/?p=1031
 2018-06-28 17:51:00
 speaking-of-wealth-or-power
 2</p>
-# 
+## 
 Poetry
 <link>http://www.consultingsmiths.com/1033-2/</link>
 Fri, 29 Jun 2018 16:25:40
@@ -2634,7 +2274,7 @@ http://www.consultingsmiths.com/?p=1033
 2018-06-29 16:25:40
 1033-2
 2</p>
-# 
+## 
 Bloody Noses
 <link>http://www.consultingsmiths.com/bloody-noses/</link>
 Wed, 04 Jul 2018 01:34:30
@@ -2645,7 +2285,7 @@ http://www.consultingsmiths.com/?p=1036
 2018-07-04 01:34:30
 bloody-noses
 2</p>
-# 
+## 
 Absurdum
 <link>http://www.consultingsmiths.com/absurdum/</link>
 Wed, 04 Jul 2018 01:45:10
@@ -2657,7 +2297,7 @@ History covers a long time and a lot of absurdity, but this is pretty clearly tr
 2018-07-04 01:45:10
 absurdum
 2</p>
-# 
+## 
 Kings, Silverware and Olympus
 <link>http://www.consultingsmiths.com/kings-silverware-and-olympus/</link>
 Tue, 17 Jul 2018 01:56:35
@@ -2668,7 +2308,7 @@ http://www.consultingsmiths.com/?p=1042
 2018-07-17 01:56:35
 kings-silverware-and-olympus
 2</p>
-# 
+## 
 Horrible Old Person
 <link>http://www.consultingsmiths.com/horrible-old-person/</link>
 Sat, 21 Jul 2018 18:28:02
@@ -2680,7 +2320,7 @@ Mea Culpa &mdash; if not "the unvarnished truth" at least my honest opinion.</p>
 2018-07-21 18:28:02
 horrible-old-person
 2</p>
-# 
+## 
 Call it George
 <link>http://www.consultingsmiths.com/call-it-george/</link>
 Wed, 01 Aug 2018 15:00:52
@@ -2692,7 +2332,7 @@ http://www.consultingsmiths.com/?p=1048
 call-it-george
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 The Problem of Evil
 <link>http://www.consultingsmiths.com/the-problem-of-evil/</link>
 Tue, 07 Aug 2018 16:06:47
@@ -2704,7 +2344,7 @@ http://www.consultingsmiths.com/?p=1051
 the-problem-of-evil
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Deciding
 <link>http://www.consultingsmiths.com/deciding/</link>
 Mon, 13 Aug 2018 09:50:32
@@ -2717,7 +2357,7 @@ http://www.consultingsmiths.com/?p=1055
 deciding
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Improvement
 <link>http://www.consultingsmiths.com/improvement/</link>
 Mon, 20 Aug 2018 18:27:28
@@ -2728,7 +2368,7 @@ http://www.consultingsmiths.com/?p=1062
 2018-08-20 18:27:28
 improvement
 2</p>
-# 
+## 
 The True Ruling Power
 <link>http://www.consultingsmiths.com/1065-2/</link>
 Tue, 21 Aug 2018 16:10:00
@@ -2739,7 +2379,7 @@ http://www.consultingsmiths.com/?p=1065
 2018-08-21 16:10:00
 1065-2
 2</p>
-# 
+## 
 Understanding
 <link>http://www.consultingsmiths.com/understanding/</link>
 Tue, 21 Aug 2018 16:17:23
@@ -2750,7 +2390,7 @@ http://www.consultingsmiths.com/?p=1069
 2018-08-21 16:17:23
 understanding
 2</p>
-# 
+## 
 Servitude
 <link>http://www.consultingsmiths.com/servitude/</link>
 Tue, 21 Aug 2018 16:18:21
@@ -2761,7 +2401,7 @@ http://www.consultingsmiths.com/?p=1071
 2018-08-21 16:18:21
 servitude
 2</p>
-# 
+## 
 De mortuis nihil nisi bonum
 <link>http://www.consultingsmiths.com/de-mortuis-nihil-nisi-bonum/</link>
 Sun, 26 Aug 2018 01:10:40
@@ -2773,7 +2413,7 @@ http://www.consultingsmiths.com/?p=1073
 2018-08-26 01:10:40
 de-mortuis-nihil-nisi-bonum
 2</p>
-# 
+## 
 The Plural of Anecdote
 <link>http://www.consultingsmiths.com/the-plural-of-anecdote/</link>
 Thu, 30 Aug 2018 18:02:16
@@ -2785,7 +2425,7 @@ I may have posted this before, but while trying to clean out my office before mo
 2018-08-30 18:02:16
 the-plural-of-anecdote
 2</p>
-# 
+## 
 Paint it Black, er, Red
 <link>http://www.consultingsmiths.com/paint-it-black-er-red/</link>
 Fri, 31 Aug 2018 01:06:49
@@ -2796,7 +2436,7 @@ http://www.consultingsmiths.com/?p=1079
 2018-08-31 01:06:49
 paint-it-black-er-red
 2</p>
-# 
+## 
 Enjoying Progress
 <link>http://www.consultingsmiths.com/enjoying-progress/</link>
 Fri, 31 Aug 2018 02:16:44
@@ -2807,7 +2447,7 @@ http://www.consultingsmiths.com/?p=1081
 2018-08-31 02:16:44
 enjoying-progress
 2</p>
-# 
+## 
 Sometimes a Cigar
 <link>http://www.consultingsmiths.com/sometimes-a-cigar/</link>
 Sun, 02 Sep 2018 16:36:33
@@ -2818,7 +2458,7 @@ http://www.consultingsmiths.com/?p=1084
 2018-09-02 16:36:33
 sometimes-a-cigar
 2</p>
-# 
+## 
 Minority Rule
 <link>http://www.consultingsmiths.com/minority-rule/</link>
 Sun, 02 Sep 2018 16:39:38
@@ -2829,7 +2469,7 @@ http://www.consultingsmiths.com/?p=1086
 2018-09-02 16:39:38
 minority-rule
 2</p>
-# 
+## 
 Science
 <link>http://www.consultingsmiths.com/science-3/</link>
 Sun, 02 Sep 2018 16:43:07
@@ -2840,7 +2480,7 @@ http://www.consultingsmiths.com/?p=1088
 2018-09-02 16:43:07
 science-3
 2</p>
-# 
+## 
 Love of Liberty
 <link>http://www.consultingsmiths.com/love-of-liberty/</link>
 Tue, 04 Sep 2018 20:11:32
@@ -2851,7 +2491,7 @@ http://www.consultingsmiths.com/?p=1090
 2018-09-04 20:11:32
 love-of-liberty
 2</p>
-# 
+## 
 Models
 <link>http://www.consultingsmiths.com/models/</link>
 Mon, 10 Sep 2018 11:02:07
@@ -2862,7 +2502,7 @@ http://www.consultingsmiths.com/?p=1093
 2018-09-10 11:02:07
 models
 2</p>
-# 
+## 
 Homo Economicus?
 <link>http://www.consultingsmiths.com/homo-economicus/</link>
 Mon, 15 Oct 2018 13:10:55
@@ -2873,7 +2513,7 @@ http://www.consultingsmiths.com/?p=1097
 2018-10-15 13:10:55
 homo-economicus
 2</p>
-# 
+## 
 The Aim of the High
 <link>http://www.consultingsmiths.com/the-aim-of-the-high/</link>
 Mon, 15 Oct 2018 13:14:17
@@ -2884,7 +2524,7 @@ http://www.consultingsmiths.com/?p=1099
 2018-10-15 13:14:17
 the-aim-of-the-high
 2</p>
-# 
+## 
 God does not ask us...
 <link>http://www.consultingsmiths.com/god-does-not-ask-us/</link>
 Mon, 15 Oct 2018 13:27:20
@@ -2899,7 +2539,7 @@ God does not ask us to be successful, he asks us to be faithful." &mdash; <a hre
 god-does-not-ask-us
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Hell is Empty
 <link>http://www.consultingsmiths.com/hell-is-empty/</link>
 Mon, 15 Oct 2018 13:55:37
@@ -2910,7 +2550,7 @@ http://www.consultingsmiths.com/?p=1105
 2018-10-15 13:55:37
 hell-is-empty
 2</p>
-# 
+## 
 Drowning in Thought
 <link>http://www.consultingsmiths.com/drowning-in-thought/</link>
 Mon, 22 Oct 2018 10:49:15
@@ -2922,7 +2562,7 @@ http://www.consultingsmiths.com/?p=1108
 2018-10-22 10:49:15
 drowning-in-thought
 2</p>
-# 
+## 
 The Marriage at Cana
 <link>http://www.consultingsmiths.com/the-marriage-at-cana/</link>
 Wed, 31 Oct 2018 12:03:40
@@ -2934,7 +2574,7 @@ http://www.consultingsmiths.com/?p=1113
 the-marriage-at-cana
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 What embitters the world
 <link>http://www.consultingsmiths.com/what-embitters-the-world/</link>
 Wed, 21 Nov 2018 12:46:49
@@ -2946,7 +2586,7 @@ http://www.consultingsmiths.com/?p=1116
 2018-11-21 12:46:49
 what-embitters-the-world
 2</p>
-# 
+## 
 Trusting the Process
 <link>http://www.consultingsmiths.com/trusting-the-process/</link>
 Mon, 26 Nov 2018 02:02:09
@@ -2957,7 +2597,7 @@ http://www.consultingsmiths.com/?p=1118
 2018-11-26 02:02:09
 trusting-the-process
 2</p>
-# 
+## 
 Enlightenment, The
 <link>http://www.consultingsmiths.com/enlightenment-the/</link>
 Mon, 03 Dec 2018 01:57:39
@@ -2991,7 +2631,7 @@ false</p>
 a:3:{s:4:"time";d:1543843001.479290008544921875;s:5:"event";s:9:"check-ham";s:4:"user";s:3:"das";}</p>
 </wp:commentmeta>
 </wp:comment>
-# 
+## 
 And The Second is Like Unto It
 <link>http://www.consultingsmiths.com/and-the-second-is-like-unto-it/</link>
 Mon, 03 Dec 2018 13:14:35
@@ -3004,7 +2644,7 @@ and-the-second-is-like-unto-it
 <category domain="category" nicename="new-thought"><p>New Thought</p></category>
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Democracy
 <link>http://www.consultingsmiths.com/democracy/</link>
 Fri, 14 Dec 2018 22:44:18
@@ -3017,7 +2657,7 @@ http://www.consultingsmiths.com/?p=1133
 2018-12-14 22:44:18
 democracy
 2</p>
-# 
+## 
 Medieval Minds
 <link>http://www.consultingsmiths.com/medieval-minds/</link>
 Mon, 17 Dec 2018 00:15:51
@@ -3051,7 +2691,7 @@ false</p>
 a:3:{s:4:"time";d:1545006052.4577629566192626953125;s:5:"event";s:9:"check-ham";s:4:"user";s:3:"das";}</p>
 </wp:commentmeta>
 </wp:comment>
-# 
+## 
 Walking About
 <link>http://www.consultingsmiths.com/walking-about/</link>
 Mon, 17 Dec 2018 12:53:49
@@ -3063,7 +2703,7 @@ http://www.consultingsmiths.com/?p=1140
 walking-about
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 The Message
 <link>http://www.consultingsmiths.com/1145-2/</link>
 Sat, 22 Dec 2018 16:54:28
@@ -3077,7 +2717,7 @@ http://www.consultingsmiths.com/?p=1145
 1145-2
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Profination
 <link>http://www.consultingsmiths.com/profination/</link>
 Sat, 22 Dec 2018 17:03:16
@@ -3091,8 +2731,8 @@ http://www.consultingsmiths.com/?p=1149
 profination
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
-What&# 039;s the Matter?
+## 
+What&## 039;s the Matter?
 <link>http://www.consultingsmiths.com/whats-the-matter/</link>
 Fri, 11 Jan 2019 21:55:10
 http://www.consultingsmiths.com/?p=1156
@@ -3105,7 +2745,7 @@ A pretty &ldquo;Barfieldian&rdquo; statement for someone who seems determined to
 2019-01-11 21:55:10
 whats-the-matter
 2</p>
-# 
+## 
 That Antichrist Feeling
 <link>http://www.consultingsmiths.com/that-antichrist-feeling/</link>
 Sun, 13 Jan 2019 16:05:09
@@ -3119,7 +2759,7 @@ http://www.consultingsmiths.com/?p=1159
 that-antichrist-feeling
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Justice or Love
 <link>http://www.consultingsmiths.com/justice-or-love/</link>
 Sun, 13 Jan 2019 16:11:14
@@ -3133,7 +2773,7 @@ Reminds me of the AA saying, &ldquo;Good thing that God&rsquo;s love is greater 
 justice-or-love
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Modern Lit
 <link>http://www.consultingsmiths.com/modern-lit/</link>
 Sun, 13 Jan 2019 16:44:42
@@ -3146,7 +2786,7 @@ This explains Virginia Woolf, Stein and Pound. And a lot of Joyce, Kafka, Eliot.
 2019-01-13 16:44:42
 modern-lit
 2</p>
-# 
+## 
 The State of Current Science
 <link>http://www.consultingsmiths.com/the-state-of-current-science/</link>
 Tue, 15 Jan 2019 02:56:22
@@ -3157,7 +2797,7 @@ http://www.consultingsmiths.com/?p=1166
 2019-01-15 02:56:22
 the-state-of-current-science
 2</p>
-# 
+## 
 Judging
 <link>http://www.consultingsmiths.com/judging/</link>
 Fri, 18 Jan 2019 13:03:41
@@ -3188,7 +2828,7 @@ http://www.consultingsmiths.com/?p=1169
 2019-01-18 13:03:41
 judging
 2</p>
-# 
+## 
 Problems and Boundaries
 <link>http://www.consultingsmiths.com/problems-and-boundaries/</link>
 Fri, 18 Jan 2019 13:24:06
@@ -3207,7 +2847,7 @@ http://www.consultingsmiths.com/?p=1175
 2019-01-18 13:24:06
 problems-and-boundaries
 2</p>
-# 
+## 
 Joining Forces
 <link>http://www.consultingsmiths.com/joining-forces/</link>
 Wed, 23 Jan 2019 21:06:16
@@ -3219,7 +2859,7 @@ http://www.consultingsmiths.com/?p=1178
 joining-forces
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Incredibly Stupid Smart People
 <link>http://www.consultingsmiths.com/incredibly-stupid-smart-people/</link>
 Thu, 24 Jan 2019 19:44:03
@@ -3232,7 +2872,7 @@ It's worth reading the rest at: <a href="http://thezman.com/wordpress/?p=16243" 
 2019-01-24 19:44:03
 incredibly-stupid-smart-people
 2</p>
-# 
+## 
 Equality (outside mathematics)
 <link>http://www.consultingsmiths.com/equality-outside-mathematics/</link>
 Thu, 24 Jan 2019 19:58:26
@@ -3244,7 +2884,7 @@ http://www.consultingsmiths.com/?p=1182
 equality-outside-mathematics
 "inklings"><p>Inklings</p></category>
 2</p>
-# 
+## 
 Democratic Education
 <link>http://www.consultingsmiths.com/democratic-education/</link>
 Thu, 24 Jan 2019 20:00:03
@@ -3256,7 +2896,7 @@ http://www.consultingsmiths.com/?p=1184
 democratic-education
 "inklings"><p>Inklings</p></category>
 2</p>
-# 
+## 
 Collectives
 <link>http://www.consultingsmiths.com/collectives/</link>
 Thu, 24 Jan 2019 20:03:03
@@ -3269,7 +2909,7 @@ http://www.consultingsmiths.com/?p=1186
 collectives
 "inklings"><p>Inklings</p></category>
 2</p>
-# 
+## 
 Lucifer and Ahriman
 <link>http://www.consultingsmiths.com/1188-2/</link>
 Wed, 30 Jan 2019 01:52:33
@@ -3284,7 +2924,7 @@ http://www.consultingsmiths.com/?p=1188
 "inklings"><p>Inklings</p></category>
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Politics
 <link>http://www.consultingsmiths.com/politics-2/</link>
 Wed, 30 Jan 2019 02:20:51
@@ -3296,7 +2936,7 @@ http://www.consultingsmiths.com/?p=1191
 politics-2
 "inklings"><p>Inklings</p></category>
 2</p>
-# 
+## 
 Being an Ent
 <link>http://www.consultingsmiths.com/being-an-ent/</link>
 Sat, 02 Feb 2019 14:12:40
@@ -3310,7 +2950,7 @@ A <a href="https://fencingbearatprayer.blogspot.com/2016/01/on-taking-sides-or-e
 being-an-ent
 <category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
 2</p>
-# 
+## 
 Location, Location, Location
 <link>http://www.consultingsmiths.com/location-location-location/</link>
 Sat, 02 Feb 2019 15:41:16
@@ -3323,7 +2963,7 @@ Brought to mind several times recently reading Barfield's writing about the hist
 2019-02-02 15:41:16
 location-location-location
 2</p>
-# 
+## 
 Miracles
 <link>http://www.consultingsmiths.com/miracles-2/</link>
 Sat, 09 Feb 2019 17:29:19
@@ -3335,7 +2975,7 @@ http://www.consultingsmiths.com/?p=1199
 2019-02-09 17:29:19
 miracles-2
 2</p>
-# 
+## 
 God Is Not
 <link>http://www.consultingsmiths.com/god-is-not/</link>
 Thu, 14 Feb 2019 15:22:26
@@ -3348,7 +2988,7 @@ god-is-not
 <category domain="category" nicename="new-thought"><p>New Thought</p></category>
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Seen Online
 <link>http://www.consultingsmiths.com/seen-online/</link>
 Mon, 25 Feb 2019 13:37:03
@@ -3363,7 +3003,7 @@ David's comment -- well, some of it seemed important &mdash; it was for work, af
 2019-02-25 13:37:03
 seen-online
 2</p>
-# 
+## 
 Fathers and Sons
 <link>http://www.consultingsmiths.com/fathers-and-sons/</link>
 Fri, 01 Mar 2019 16:31:26
@@ -3374,7 +3014,7 @@ http://www.consultingsmiths.com/?p=1208
 2019-03-01 16:31:26
 fathers-and-sons
 2</p>
-# 
+## 
 Boring and Dangerous
 <link>http://www.consultingsmiths.com/boring-and-dangerous/</link>
 Wed, 06 Mar 2019 13:57:52
@@ -3385,7 +3025,7 @@ http://www.consultingsmiths.com/?p=1211
 2019-03-06 13:57:52
 boring-and-dangerous
 2</p>
-# 
+## 
 Magic
 <link>http://www.consultingsmiths.com/magic/</link>
 Mon, 11 Mar 2019 10:27:15
@@ -3396,7 +3036,7 @@ http://www.consultingsmiths.com/?p=1213
 2019-03-11 10:27:15
 magic
 2</p>
-# 
+## 
 Ressentiment
 <link>http://www.consultingsmiths.com/ressentiment/</link>
 Sun, 17 Mar 2019 01:18:54
@@ -3409,7 +3049,7 @@ H/T <a href="https://www.francisberger.com/bergers-blog/resentment-the-hate-fuel
 ressentiment
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# 
+## 
 Increasingly Meaningless Words and Phrases
 <link>http://www.consultingsmiths.com/increasingly-meaningless-words-and-phrases/</link>
 Thu, 21 Mar 2019 22:58:49
@@ -3431,7 +3071,7 @@ I hear these words repeated ad nauseam every day, yet I rarely perceive the thin
 2019-03-21 22:58:49
 increasingly-meaningless-words-and-phrases
 2</p>
-# 
+## 
 Axiomatic
 <link>http://www.consultingsmiths.com/axiomatic/</link>
 Sun, 24 Mar 2019 12:17:57
@@ -3444,7 +3084,7 @@ http://www.consultingsmiths.com/?p=1225
 axiomatic
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# Sloth
+## Sloth
 <link>http://www.consultingsmiths.com/sloth/</link>
 Mon, 08 Apr 2019 02:40:41
 http://www.consultingsmiths.com/?p=1228
@@ -3459,7 +3099,7 @@ http://www.consultingsmiths.com/?p=1228
 sloth
 <category domain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-# History
+## History
 <link>http://www.consultingsmiths.com/history/</link>
 Tue, 09 Apr 2019 15:51:12
 http://www.consultingsmiths.com/?p=1231
@@ -3472,7 +3112,7 @@ http://www.consultingsmiths.com/?p=1231
 2019-04-09 11:51:12
 2019-04-09 15:51:12
 
-# The Second Bowl
+## The Second Bowl
 <link>http://www.consultingsmiths.com/the-second-bowl/</link>
 Fri, 12 Apr 2019 11:32:45
 &ldquo;I broke two bowls today.
@@ -3483,11 +3123,11 @@ Fri, 12 Apr 2019 11:32:45
 2019-04-12 07:32:45
 2019-04-12 11:32:45
 
-# Ignorance
+## Ignorance
 Sat, 13 Apr 2019
 &ldquo;Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.&rdquo; &mdash; Daniel Kahneman
 
-# Owen Barfield
+## Owen Barfield
 Sat. 27 Apr 2019
 Owen Barfield (1898–1997)
 Our destiny is to become both conscious and free.
