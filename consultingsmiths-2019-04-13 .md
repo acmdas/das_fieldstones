@@ -60,7 +60,7 @@ Fri, 29 Jan 2010 21:37:42
 ## Habit
 Fri, 05 Feb 2010 20:43:42
 
-<p>We are what we repeatedly do. Excellence, then, is not an act, it&rdquo;™s a habit. &mdash; Aristotle</p>
+<p>We are what we repeatedly do. Excellence, then, is not an act, it&rdquo;s a habit. &mdash; Aristotle</p>
 2010-02-05 15:43:42
 2010-02-05 20:43:42
 
@@ -151,7 +151,7 @@ Fri, 30 Jul 2010 13:43:20
 ## Giving and Forgiving
 Tue, 12 Oct 2010 07:45:00
 
-<p>If you have ill will toward any, if you are prejudiced against any, if you have accused any even in your silent thought, of injustice, or if you have criticised any one, sit down alone at night before retiring and mentally ask him to forgive you. Calling him by name, silently confess to him what you have done, and ask his forgiveness, telling him as you do the others, over and over again, that you love him, and are sure there is nothing but God&rdquo;™s perfect Love between you. Never retire until you have thus definitely &ldquo;cleaned up the slate&rdquo; between yourself and every other human being, having definitely forgiven---given love for---every one. Keep at this until all the tightened cords which have been cutting off the free flow of God&rdquo;™s love and life through you are loosened; until a habit of forgiving is established within you. &mdash; H. Emilie Cady (God a Present Help)</p>
+<p>If you have ill will toward any, if you are prejudiced against any, if you have accused any even in your silent thought, of injustice, or if you have criticised any one, sit down alone at night before retiring and mentally ask him to forgive you. Calling him by name, silently confess to him what you have done, and ask his forgiveness, telling him as you do the others, over and over again, that you love him, and are sure there is nothing but God&rdquo;s perfect Love between you. Never retire until you have thus definitely &ldquo;cleaned up the slate&rdquo; between yourself and every other human being, having definitely forgiven---given love for---every one. Keep at this until all the tightened cords which have been cutting off the free flow of God&rdquo;s love and life through you are loosened; until a habit of forgiving is established within you. &mdash; H. Emilie Cady (God a Present Help)</p>
 2010-10-12 03:45:00
 2010-10-12 07:45:00
 
@@ -258,7 +258,7 @@ Tue, 22 Feb 2011 20:31:19
 ## Normal
 Mon, 28 Feb 2011 22:33:00
 
-<p>Anything that is in the world when you&rsquo;re born is normal and ordinary and is just a natural part of the way the world works. Anything that&rdquo;™s invented between when you&rdquo;™re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you&rdquo;™re thirty-five is against the natural order of things. &rdquo;” Douglas Adams, &ldquo;The Salmon of Doubt&rdquo;</p>
+<p>Anything that is in the world when you&rsquo;re born is normal and ordinary and is just a natural part of the way the world works. Anything that&rdquo;s invented between when you&rdquo;re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you&rdquo;re thirty-five is against the natural order of things. &rdquo;” Douglas Adams, &ldquo;The Salmon of Doubt&rdquo;</p>
 2011-02-28 16:33:00
 2011-02-28 22:33:00
 
@@ -550,7 +550,7 @@ Quoted today by the President at a rally in Melbourne, Florida.</p>
 ## Miracles (again)
 Mon, 20 Feb 2017 13:33:06
 
-<p>"&rdquo;˜And I dare say the first time you saw a man raised from the dead you might think so too.&rdquo;™ He giggled unconvincingly behind the smiling mask. &rdquo;˜Oh, it&rdquo;™s funny, isn&rdquo;™t it? It isn&rdquo;™t a case of miracles not happening&rdquo;”it&rdquo;™s just a case of people calling them something else. Can&rdquo;™t you see the doctors round the dead man? He isn&rdquo;™t breathing any more, his pulse has stopped, his heart&rdquo;™s not beating: he&rdquo;™s dead. The somebody gives him back his life, and they all&rdquo;”what&rdquo;™s the expression?&rdquo;”reserve their opinion. They won&rdquo;™t say it&rdquo;™s a miracle, because that&rdquo;™s a word they don&rdquo;™t like. Then it happens again and again perhaps&rdquo;”because God&rdquo;™s about on earth&rdquo;”and they say: these aren&rdquo;™t miracles, it is simply that we have enlarged our conception of what life is. Now we know you can be alive without pulse, breath, heart-beats. And they invent a new word to describe that state of life, and they say science has disproved a miracle.&rdquo;™ He giggled again. &rdquo;˜You can&rdquo;™t get round them.&rdquo;™" &rdquo;” Graham Greene <em>The Power and the Glory</em>
+<p>"&rdquo;˜And I dare say the first time you saw a man raised from the dead you might think so too.&rdquo; He giggled unconvincingly behind the smiling mask. &rdquo;˜Oh, it&rdquo;s funny, isn&rdquo;t it? It isn&rdquo;t a case of miracles not happening&rdquo;”it&rdquo;s just a case of people calling them something else. Can&rdquo;t you see the doctors round the dead man? He isn&rdquo;t breathing any more, his pulse has stopped, his heart&rdquo;s not beating: he&rdquo;s dead. The somebody gives him back his life, and they all&rdquo;”what&rdquo;s the expression?&rdquo;”reserve their opinion. They won&rdquo;t say it&rdquo;s a miracle, because that&rdquo;s a word they don&rdquo;t like. Then it happens again and again perhaps&rdquo;”because God&rdquo;s about on earth&rdquo;”and they say: these aren&rdquo;t miracles, it is simply that we have enlarged our conception of what life is. Now we know you can be alive without pulse, breath, heart-beats. And they invent a new word to describe that state of life, and they say science has disproved a miracle.&rdquo; He giggled again. &rdquo;˜You can&rdquo;t get round them.&rdquo;" &rdquo;” Graham Greene <em>The Power and the Glory</em>
 Courtesy of <a href="http://wmbriggs.com/post/8069/" target="_blank">William M. Briggs &mdash; Statistician to the Stars</a></p>
 
 ## History and Leaves
@@ -566,7 +566,7 @@ Wed, 15 Mar 2017 21:39:34
 ## Simply Because It&#039;s Amusing
 Thu, 16 Mar 2017 12:20:07
 
-<p>"Certain magazines have symposiums (I will call them &rdquo;˜symposia&rdquo;™ if I am allowed to call the two separate South Kensington collections &rdquo;˜musea&rdquo;™)" &ndash; G. K. Chesterton
+<p>"Certain magazines have symposiums (I will call them &rdquo;˜symposia&rdquo; if I am allowed to call the two separate South Kensington collections &rdquo;˜musea&rdquo;)" &ndash; G. K. Chesterton
 Amusing because it pokes at one of my own peccadilloes. Saying "peccadilloes" rather than "bad habits" deserves another clever poke at the same personal weakness, but it's too early and I've had too little coffee.</p>
 
 ## Straw Men
@@ -707,7 +707,7 @@ Sat, 27 May 2017 15:18:22
 ## Elections Matter
 Sun, 28 May 2017 21:14:22
 
-<p>&ldquo;We have always known that eternal vigilance is the price of freedom. It&rdquo;™s worse now, because capture of government is so much more important than it once was. There was a time when there was enough freedom that it hardly mattered which brand of crooks ran government. That has not been true for a long time &rdquo;” not during most of your lifetimes, and for much of mine &rdquo;” and it will probably never be true again.&rdquo; &mdash; Jerry Pournelle</p>
+<p>&ldquo;We have always known that eternal vigilance is the price of freedom. It&rdquo;s worse now, because capture of government is so much more important than it once was. There was a time when there was enough freedom that it hardly mattered which brand of crooks ran government. That has not been true for a long time &rdquo;” not during most of your lifetimes, and for much of mine &rdquo;” and it will probably never be true again.&rdquo; &mdash; Jerry Pournelle</p>
 
 ## Wolves
 Tue, 30 May 2017 23:23:54
@@ -757,7 +757,7 @@ Sun, 25 Jun 2017 01:10:05
 ## Respect and Fidelity
 Sun, 25 Jun 2017 01:26:04
 
-<p>"Today, certainly it is important for us to show that same respect and fidelity to the Word of God, so as not to manipulate it to fit historical, political, or ideological circumstances, for the purpose of pleasing men and acquiring a reputation as a scholar or avant-garde theologian.Â .Â .Â . As Saint Paul says, 'We are not like so many [who] practice cunning or.Â .Â . tamper with God&rdquo;™s word' (cf. 2 Cor 2:17; 4:2)." &mdash; Cardinal Robert Sarah, <em>God or Nothing</em></p>
+<p>"Today, certainly it is important for us to show that same respect and fidelity to the Word of God, so as not to manipulate it to fit historical, political, or ideological circumstances, for the purpose of pleasing men and acquiring a reputation as a scholar or avant-garde theologian.Â .Â .Â . As Saint Paul says, 'We are not like so many [who] practice cunning or.Â .Â . tamper with God&rdquo;s word' (cf. 2 Cor 2:17; 4:2)." &mdash; Cardinal Robert Sarah, <em>God or Nothing</em></p>
 
 ## The Pagan Ideal
 Sun, 25 Jun 2017 21:50:15
@@ -777,7 +777,7 @@ Fri, 30 Jun 2017 02:02:40
 ## Political Ideals
 Mon, 03 Jul 2017 11:31:20
 
-<p>&ldquo;Political ideals will vary according to men&rdquo;™s views on human destiny. Those who are persuaded that the purpose of life is pleasure, or power, or honour, will reckon that State best arranged in which they can live comfortably, or acquire great wealth, or achieve great power and lord it over many. Others who think that the crowning good of virtue is the purpose of our present life will want an arrangement under which men can live virtuously and peaceably together. In short, political judgment will be settled by the sort of life a man expects and proposes to lead by living in a community.&rdquo; &mdash; St. Thomas Aquinas: Commentary on Aristotle&rdquo;™s &rdquo;˜Politics,&rdquo;™ Book II, lect. 1.</p>
+<p>&ldquo;Political ideals will vary according to men&rdquo;s views on human destiny. Those who are persuaded that the purpose of life is pleasure, or power, or honour, will reckon that State best arranged in which they can live comfortably, or acquire great wealth, or achieve great power and lord it over many. Others who think that the crowning good of virtue is the purpose of our present life will want an arrangement under which men can live virtuously and peaceably together. In short, political judgment will be settled by the sort of life a man expects and proposes to lead by living in a community.&rdquo; &mdash; St. Thomas Aquinas: Commentary on Aristotle&rdquo;s &rdquo;˜Politics,&rdquo; Book II, lect. 1.</p>
 
 ## No New Thing
 Wed, 05 Jul 2017 02:27:56
@@ -814,7 +814,7 @@ Mon, 17 Jul 2017 00:35:49
 ## Lost Trust
 Mon, 17 Jul 2017 12:06:11
 
-<p>"Instead of asking themselves why they lost people&rdquo;™s trust, the media instead asked why the people had lost trust in them. A subtle, but important difference." &mdash; Milo Yiannopoulos</p>
+<p>"Instead of asking themselves why they lost people&rdquo;s trust, the media instead asked why the people had lost trust in them. A subtle, but important difference." &mdash; Milo Yiannopoulos</p>
 
 ## Gone 64 Years
 Mon, 17 Jul 2017 12:14:06
@@ -871,378 +871,161 @@ As surely as Water will wet us, as surely as Fire will burn,
 The Gods of the Copybook Headings with terror and slaughter return!</p>
 
 ## See No Evil
-<link>http://www.consultingsmiths.com/see-no-evil/</link>
 Mon, 24 Jul 2017 17:08:31
-http://www.consultingsmiths.com/?p=727
-<p>"Why am I telling you all this? Because I fear that, except for a few of us remaining graybeards and some immigrants from the world&rdquo;™s manifold tyrannies and anarchies, most Americans are too young to remember, even vicariously, the ills that the world can inflict and the effort it takes to withstand and restrain them. They have studied no history, so not only can they not distinguish Napoleon from Hitler, but also they have no conception of how many ills mankind has suffered or inflicted on itself and how heroic has been the effort of the great, the wise, and the good over the centuries to advance the world&rdquo;™s enlightenment and civilization&rdquo;”efforts that the young have learned to scorn as the self-interested machinations of dead white men to maintain their dominance. While young people are examining their belly buttons for microaggressions, real evil still haunts the world, still inheres in human nature; and those who don&rdquo;™t know this are at risk of being ambushed and crushed by it." &mdash; Myron Magnet (in <a href="https://www.city-journal.org/html/see-no-evil-15330.html" target="_blank">The City Journal</a> &mdash; do read it all)</p>
-727
-2017-07-24 13:08:31
-2017-07-24 17:08:31
-see-no-evil
-2</p>
-## 
-On the D-Word
-<link>http://www.consultingsmiths.com/on-the-d-word/</link>
+
+<p>"Why am I telling you all this? Because I fear that, except for a few of us remaining graybeards and some immigrants from the world&rdquo;s manifold tyrannies and anarchies, most Americans are too young to remember, even vicariously, the ills that the world can inflict and the effort it takes to withstand and restrain them. They have studied no history, so not only can they not distinguish Napoleon from Hitler, but also they have no conception of how many ills mankind has suffered or inflicted on itself and how heroic has been the effort of the great, the wise, and the good over the centuries to advance the world&rdquo;s enlightenment and civilization&rdquo;”efforts that the young have learned to scorn as the self-interested machinations of dead white men to maintain their dominance. While young people are examining their belly buttons for microaggressions, real evil still haunts the world, still inheres in human nature; and those who don&rdquo;t know this are at risk of being ambushed and crushed by it." &mdash; Myron Magnet (in <a href="https://www.city-journal.org/html/see-no-evil-15330.html" target="_blank">The City Journal</a> &mdash; do read it all)</p>
+
+## On the D-Word
 Mon, 24 Jul 2017 17:14:03
-http://www.consultingsmiths.com/?p=729
-<p>"The part of Christian teaching that is most obscure to contemporary Christians and pseudos is the frequent reference in the Gospels to Demons, and Demonic inhabitation. Christ is Himself the source of this curiously unmodern &ldquo;point of view.&rdquo; Then Paul carries it the further nine yards. If you haven&rdquo;™t noticed this, you weren&rdquo;™t reading carefully enough. (Or maybe you haven&rdquo;™t read it at all?)" &mdash; David Warren, <a href="http://www.davidwarrenonline.com/2017/07/24/on-the-d-word/" target="_blank">commenting on</a> Magnet's "See no Evil" re: my <a href="http://www.consultingsmiths.com/see-no-evil/" target="_blank">earlier post</a>) </p>
-729
-2017-07-24 13:14:03
-2017-07-24 17:14:03
-on-the-d-word
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-The Answer
-<link>http://www.consultingsmiths.com/the-answer/</link>
+
+<p>"The part of Christian teaching that is most obscure to contemporary Christians and pseudos is the frequent reference in the Gospels to Demons, and Demonic inhabitation. Christ is Himself the source of this curiously unmodern &ldquo;point of view.&rdquo; Then Paul carries it the further nine yards. If you haven&rdquo;t noticed this, you weren&rdquo;t reading carefully enough. (Or maybe you haven&rdquo;t read it at all?)" &mdash; David Warren, <a href="http://www.davidwarrenonline.com/2017/07/24/on-the-d-word/" target="_blank"></a>) </p>
+
+## The Answer
 Wed, 09 Aug 2017 02:50:36
-http://www.consultingsmiths.com/?p=734
+
 <p>&ldquo;People ask me what advice I have for a married couple struggling in their relationship. I always answer, &ldquo;Pray and forgive&rdquo;; and to young people who come from violent homes, &ldquo;Pray and forgive&rdquo;; and to the single mother with no family support, &ldquo;Pray and forgive.&rdquo; You can say, &ldquo;My Lord, I love You. My God, I am sorry. My God, I believe in You. My God, I trust You. Help us to love one an other as You love us.&rdquo; &mdash; Mother Teresa, A Simple Path</p>
-734
-2017-08-08 22:50:36
-2017-08-09 02:50:36
-the-answer
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-## 
-Acceptance
-<link>http://www.consultingsmiths.com/acceptance/</link>
+
+## Acceptance
 Thu, 10 Aug 2017 01:22:05
-http://www.consultingsmiths.com/?p=736
+
 <p>"Do not accept anything as the truth if it lacks love. And do not accept anything as love if it lacks the truth." &mdash; St. Teresa Benedicta of the Cross</p>
-736
-2017-08-09 21:22:05
-2017-08-10 01:22:05
-acceptance
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-## 
-Our task...
-<link>http://www.consultingsmiths.com/our-task/</link>
+
+## Our task...
 Mon, 14 Aug 2017 22:05:17
-http://www.consultingsmiths.com/?p=739
+
 <p>"Men, a species that includes bishops, are left with a certain radical freedom, which constant intervention by the Deity would cancel. We have been already provided with what we need to know in the Deposit of Faith. There is nothing that Christ absent-mindedly forgot to tell us. Our task is not to supply what he overlooked or failed to anticipate, or to &ldquo;update&rdquo; the teaching for a human condition which does not, itself, change. Nor is it to murkily redefine terms long since clarified. Neither popes nor bishops are above that Revelation." &mdash; <a href="http://www.davidwarrenonline.com/2015/10/04/fact-mystery/" target="_blank">David Warren</a></p>
-739
-2017-08-14 18:05:17
-2017-08-14 22:05:17
-our-task
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-## 
-Seditious and Tyrannical
-<link>http://www.consultingsmiths.com/seditious-and-tyrannical/</link>
+
+## Seditious and Tyrannical
 Sat, 26 Aug 2017 16:38:57
-http://www.consultingsmiths.com/?p=742
+
 <p>"It seems to me that at a deep level, 'democracy' can be criticized for its intention: to replace the sometimes inscrutable judgement of God with the too-scrutable judgement of humans. Or to put this more plainly: it is seditious and tyrannical, both, from the start. Its effect can be seen from this cause: for we are all atheists today, insofar as we are enfranchised; all fully 'secularized' in the public square." &mdash; <a href="http://www.davidwarrenonline.com/2017/08/26/war-famine-plague-sedition/" target="_blank">David Warren</a> once again.</p>
-742
-2017-08-26 12:38:57
-2017-08-26 16:38:57
-seditious-and-tyrannical
-2</p>
-## 
-The Most Well-Known Amount of People
-<link>http://www.consultingsmiths.com/the-most-well-known-amount-of-people/</link>
+
+## The Most Well-Known Amount of People
 Sat, 26 Aug 2017 19:54:14
-http://www.consultingsmiths.com/?p=744
+
 <p>Okay, time for a little "David admits his prejudices" post.
 Apparently you can get a journalism (or it is "Communications" now) degree without reading Strunk and White? And you can publish articles without any perusal by an editor who has read Strunk and White? That has to be the case when foolishness like "amount of people" rather than "number of people" or "most well-known" instead of "best known" appears over and over and over again.
 These are Heinlein's Crazy Years, we just live in them!</p>
-744
-2017-08-26 15:54:14
-2017-08-26 19:54:14
-the-most-well-known-amount-of-people
-2</p>
-<wp:comment>
-<wp:comment_id>1175</wp:comment_id>
-<wp:comment_author><p>David Smith</p></wp:comment_author>
-<wp:comment_author_email><p>acmdas@gmail.com</p></wp:comment_author_email>
-<wp:comment_author_url></wp:comment_author_url>
-<wp:comment_author_IP><p>71.121.163.30</p></wp:comment_author_IP>
-<wp:comment_date><p>2017-08-27 13:33:19</p></wp:comment_date>
-<wp:comment_date_gmt><p>2017-08-27 17:33:19</p></wp:comment_date_gmt>
-<wp:comment_content><p>Darling Valerie reminded me of another sin against the English language and all who speak it: misusing "gift" as a verb. "Gift" is not a verb, it is a noun. "Gifted" is an adjective, not the past tense of anything, and "gifting" is nothing other than, well, let's leave it at "nothing".</p></wp:comment_content>
-<wp:comment_approved><p>1</p></wp:comment_approved>
-<wp:comment_type><p></p></wp:comment_type>
-<wp:comment_parent>0</wp:comment_parent>
-<wp:comment_user_id>0</wp:comment_user_id>
-<wp:commentmeta>
-<wp:meta_key><p>akismet_history</p></wp:meta_key>
-a:3:{s:4:"time";d:1503855288.54839801788330078125;s:5:"event";s:15:"status-approved";s:4:"user";s:6:"sYsaD1";}</p>
-</wp:commentmeta>
-<wp:commentmeta>
-<wp:meta_key><p>akismet_result</p></wp:meta_key>
-false</p>
-</wp:commentmeta>
-<wp:commentmeta>
-<wp:meta_key><p>akismet_history</p></wp:meta_key>
-a:2:{s:4:"time";d:1503855199.1750180721282958984375;s:5:"event";s:9:"check-ham";}</p>
-</wp:commentmeta>
-</wp:comment>
-## 
-When not being angry is a sin...
-<link>http://www.consultingsmiths.com/when-not-being-angry-is-a-sin/</link>
+
+## When not being angry is a sin...
 Wed, 30 Aug 2017 02:34:18
-http://www.consultingsmiths.com/?p=747
+
 <p>"He who is not angry when he has cause to be, sins. For unreasonable patience is a hotbed of many vices." &mdash; St. John Chrysostom (Homily 11)</p>
-747
-2017-08-29 22:34:18
-2017-08-30 02:34:18
-when-not-being-angry-is-a-sin
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Thought out thought
-<link>http://www.consultingsmiths.com/750-2/</link>
+
+## Thought out thought
 Sun, 03 Sep 2017 19:09:30
-http://www.consultingsmiths.com/?p=750
-<p>"PHILOSOPHY is merely thought that has been thought out. It is often a great bore. But man has no alternative, except between being influenced by thought that has been thought out and being influenced by thought that has not been thought out. The latter is what we commonly call culture and enlightenment today." &mdash; G.K. Chesterton: <em>The Revival of Philosophy&rdquo;”Why?</em>
-</p>
-750
-2017-09-03 15:09:30
-2017-09-03 19:09:30
-750-2
-2</p>
-## 
-Truth and Error
-<link>http://www.consultingsmiths.com/truth-and-error/</link>
+
+<p>"PHILOSOPHY is merely thought that has been thought out. It is often a great bore. But man has no alternative, except between being influenced by thought that has been thought out and being influenced by thought that has not been thought out. The latter is what we commonly call culture and enlightenment today." &mdash; G.K. Chesterton: <em>The Revival of Philosophy&rdquo;”Why?</em></p>
+
+## Truth and Error
 Fri, 08 Sep 2017 02:01:40
-http://www.consultingsmiths.com/?p=755
+
 <p>"It is as much a crime to disturb the peace when truth prevails as it is a crime to keep the peace when truth is violated. There is therefore a time in which peace is justified and a time when it is not justifiable. For it is written that there is a time for peace and a time for war and it is the law of truth that distinguishes the two. But at no time is there a time for truth and a time for error, for it is written that God's truth shall abide forever. That is why Christ has said that He has come to bring peace and at the same time that He has come to bring the sword. But He does not say that He has come to bring both the truth and the falsehood." &mdash; Blaise Pascal</p>
-755
-2017-09-07 22:01:40
-2017-09-08 02:01:40
-truth-and-error
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Democracy&## 039;s Fruits
-<link>http://www.consultingsmiths.com/democracys-fruits/</link>
+
+## Democracy&#039;s Fruits
 Fri, 08 Sep 2017 02:05:01
-http://www.consultingsmiths.com/?p=758
+
 <p>"If you establish a democracy, you must in due time reap the fruits of a democracy. You will in due season have great impatience of public burdens, combined in due season with great increase of public expenditure. You will in due season have wars entered into from passion and not from reason." &mdash; Benjamin Disraeli</p>
-758
-2017-09-07 22:05:01
-2017-09-08 02:05:01
-democracys-fruits
-2</p>
-## 
-Correcting is Judging
-<link>http://www.consultingsmiths.com/correcting-is-judging/</link>
+
+## Correcting is Judging
 Sun, 10 Sep 2017 00:35:01
-http://www.consultingsmiths.com/?p=760
+
 <p>"We live in times in which there is a widespread notion that to correct sinners is to &ldquo;judge&rdquo; them. Never mind that it is sin that we judge, not the sinner. Never mind that in accusing us of judging, the worldly-minded are themselves doing the very judging they condemn. Never mind any of that; the point of the charge is to try to shame us into silence. Despite the fact that Scripture consistently directs us to correct the sinner, many Catholics have bought into the notion that correcting the sinner is &ldquo;judging&rdquo; him. In this, the devil, who orchestrates the &ldquo;correcting is judging&rdquo; campaign, rejoices; for if he can keep us from correcting one another, sin can and does flourish." &mdash; <a href="http://blog.adw.org/2017/09/obligation-clear-compassionate-correction-sinner-homily-23rd-sunday-year/" target="_blank">Msgr. Charles Pope</a></p>
-760
-2017-09-09 20:35:01
-2017-09-10 00:35:01
-correcting-is-judging
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-RIP, Dr. Pournelle
-<link>http://www.consultingsmiths.com/rip-dr-pournelle/</link>
+
+## RIP, Dr. Pournelle
 Thu, 14 Sep 2017 17:04:33
-http://www.consultingsmiths.com/?p=764
+
 <p>Dr. Jerry Pournelle died in his sleep Friday, September 8th. Heavens, I'll miss him.</p>
-764
-2017-09-14 13:04:33
-2017-09-14 17:04:33
-rip-dr-pournelle
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-## 
-Courtesy
-<link>http://www.consultingsmiths.com/courtesy/</link>
+
+## Courtesy
 Thu, 14 Sep 2017 17:06:03
-http://www.consultingsmiths.com/?p=766
-<p>"As I&rdquo;™ve noted many times, I&rdquo;™m willing to believe the worst about the Trump administration. This is a courtesy I try to extend to every administration." &mdash; David Harsanyi</p>
-766
-2017-09-14 13:06:03
-2017-09-14 17:06:03
-courtesy
-2</p>
-## 
-Facing the Future on the Downside of the Liberal Revolution
-<link>http://www.consultingsmiths.com/facing-the-future-on-the-downside-of-the-liberal-revolution/</link>
+
+<p>"As I&rdquo;ve noted many times, I&rdquo;m willing to believe the worst about the Trump administration. This is a courtesy I try to extend to every administration." &mdash; David Harsanyi</p>
+
+## Facing the Future on the Downside of the Liberal Revolution
 Thu, 14 Sep 2017 19:38:31
-http://www.consultingsmiths.com/?p=770
+
 <p>"When everything that smacks of the transcendent is eliminated from the public life of a culture, something has to take its place. In our case it is largely commerce and the ideals and ideas that commerce fosters. Moreover, the liberty that accompanies such a commercial society is a liberty whose chief effect is the dissolving of traditional ties and the destruction of traditional communities, whether that takes place because of direct attacks on the family and chastity or indirectly because of an economic system that works as a solvent in hundreds of ways: driving mothers out of the home, exploiting sex to sell products, moving families about to seek employment, or emptying rural areas of farm families." &mdash; <a href="https://www.amazon.com/Christendom-Americanism-Beyond-Jagged-Postmodern-ebook/dp/B01EJ0OQ92/ref=la_B001K7S392_1_1?s=books&amp;ie=UTF8&amp;qid=1505417861&amp;sr=1-1" target="_blank">Thomas Storck</a></p>
-770
-2017-09-14 15:38:31
-2017-09-14 19:38:31
-facing-the-future-on-the-downside-of-the-liberal-revolution
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
+omain="category" nicename="thefaith"><p>The Faith</p></category>
 2</p>
-## 
-Atheist for a Day
-<link>http://www.consultingsmiths.com/atheist-for-a-day/</link>
+## Atheist for a Day
 Tue, 19 Sep 2017 16:42:43
-http://www.consultingsmiths.com/?p=772
+
 <p>"Often even fully catechized Christians act from unbelief. For the man who succumbs to a terrible temptation is playing atheist for the day. He might think himself Christian on other days, when there are no significant temptations. But he is fooling himself. For God IS watching." &mdash; <a href="https://www.thecatholicthing.org/2017/09/15/back-to-nature-2/" target="_blank">David Warren</a></p>
-772
-2017-09-19 12:42:43
-2017-09-19 16:42:43
-atheist-for-a-day
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Work and Pray
-<link>http://www.consultingsmiths.com/work-and-pray/</link>
+
+## Work and Pray
 Tue, 19 Sep 2017 23:12:31
-http://www.consultingsmiths.com/?p=774
+
 <p>"Work as if everything depended on you; pray as if everything depended on God."
 Attr. to St. Augustine. Also to St. Ignatius of Loyola. And to Martin Luther.</p>
-774
-2017-09-19 19:12:31
-2017-09-19 23:12:31
-work-and-pray
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Why?
 
+## Why?
 Fri, 22 Sep 2017 18:03:53
-http://www.consultingsmiths.com/?p=778
-<p> &rdquo;˜Now I will tell you the answer to my question. It is this. The Party seeks power entirely for its own sake. We are not interested in the good of others ; we are interested solely in power. Not wealth or luxury or long life or happiness: only power, pure power. What pure power means you will understand presently. We are different from all the oligarchies of the past, in that we know what we are doing. All the others, even those who resembled ourselves, were cowards and hypocrites. The German Nazis and the Russian Communists came very close to us in their methods, but they never had the courage to recognize their own motives. They pretended, perhaps they even believed, that they had seized power unwillingly and for a limited time, and that just round the corner there lay a paradise where human beings would be free and equal. We are not like that. We know that no one ever seizes power with the intention of relinquishing it. Power is not a means, it is an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship. The object of persecution is persecution. The object of torture is torture. The object of power is power. Now do you begin to understand me?&rdquo;™ &mdash; George Orwell &mdash; <em>1984</em> O'Brien to Winston</p>
-778
-2017-09-22 14:03:53
-2017-09-22 18:03:53
-why
-2</p>
-## 
-Tails
-<link>http://www.consultingsmiths.com/tails/</link>
+
+<p> &rdquo;˜Now I will tell you the answer to my question. It is this. The Party seeks power entirely for its own sake. We are not interested in the good of others ; we are interested solely in power. Not wealth or luxury or long life or happiness: only power, pure power. What pure power means you will understand presently. We are different from all the oligarchies of the past, in that we know what we are doing. All the others, even those who resembled ourselves, were cowards and hypocrites. The German Nazis and the Russian Communists came very close to us in their methods, but they never had the courage to recognize their own motives. They pretended, perhaps they even believed, that they had seized power unwillingly and for a limited time, and that just round the corner there lay a paradise where human beings would be free and equal. We are not like that. We know that no one ever seizes power with the intention of relinquishing it. Power is not a means, it is an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship. The object of persecution is persecution. The object of torture is torture. The object of power is power. Now do you begin to understand me?&rdquo; &mdash; George Orwell &mdash; <em>1984</em> O'Brien to Winston</p>
+
+## Tails
 Fri, 22 Sep 2017 18:24:26
-http://www.consultingsmiths.com/?p=780
+
 <p>&ldquo;If you call a tail a leg, how many legs would a dog have? 
-Four, because, even if you call it a leg, it&rdquo;™s still a tail.&rdquo; &mdash; Abraham Lincoln</p>
-780
-2017-09-22 14:24:26
-2017-09-22 18:24:26
-tails
-2</p>
-## 
-Empathy for the Grieving
-<link>http://www.consultingsmiths.com/empathy-for-the-grieving/</link>
+Four, because, even if you call it a leg, it&rdquo;s still a tail.&rdquo; &mdash; Abraham Lincoln</p>
+
+## Empathy for the Grieving
 Sat, 07 Oct 2017 23:04:27
-http://www.consultingsmiths.com/?p=784
+
 <p>"The truest act of empathy for the grieving is to pray for the dead." &mdash; <a href="http://www.davidwarrenonline.com/2017/10/03/against-closure/" rel="noopener" target="_blank">David Warren</a></p>
-784
-2017-10-07 19:04:27
-2017-10-07 23:04:27
-empathy-for-the-grieving
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Rules, or maybe, Intelligence
-<link>http://www.consultingsmiths.com/rules-or-maybe-intelligence/</link>
+
+## Rules, or maybe, Intelligence
 Sun, 08 Oct 2017 10:31:29
-http://www.consultingsmiths.com/?p=786
+
 <p>"Only rule-based societies value intelligence in their common participants, for it has value nowhere else." &mdash; <a href="https://bastionofliberty.blogspot.com/2015/05/somebodys-gotta-say-it-part-2-further.html" rel="noopener" target="_blank">Francis Porretto</a></p>
-786
-2017-10-08 06:31:29
-2017-10-08 10:31:29
-rules-or-maybe-intelligence
-2</p>
-## 
-Being Right
-<link>http://www.consultingsmiths.com/being-right/</link>
+
+## Being Right
 Sun, 08 Oct 2017 10:46:48
-http://www.consultingsmiths.com/?p=789
+
 <p>"Being right too soon is socially unacceptable." &mdash; Robert A. Heinlein</p>
-789
-2017-10-08 06:46:48
-2017-10-08 10:46:48
-being-right
-2</p>
-## 
-We Learn from History
-<link>http://www.consultingsmiths.com/we-learn-from-history/</link>
+
+## We Learn from History
 Tue, 10 Oct 2017 15:16:18
-http://www.consultingsmiths.com/?p=791
+
 <p>"We learn from history that we learn nothing from history." &mdash; G. B. Shaw</p>
-791
-2017-10-10 11:16:18
-2017-10-10 15:16:18
-we-learn-from-history
-2</p>
-## 
-Schism and Heresy
-<link>http://www.consultingsmiths.com/schism-and-heresy/</link>
+
+## Schism and Heresy
 Fri, 13 Oct 2017 11:34:29
-http://www.consultingsmiths.com/?p=793
+
 <p>"Heresy and schism are distinguished in respect of those things to which each is opposed essentially and directly. For heresy is essentially opposed to faith, while schism is essentially opposed to the unity of ecclesiastical charity. Wherefore just as faith and charity are different virtues, although whoever lacks faith lacks charity, so too schism and heresy are different vices, although whoever is a heretic is also a schismatic, but not conversely. This is what Jerome says in his commentary on the Epistle to the Galatians [In Ep. ad Tit. iii, 10]: "I consider the difference between schism and heresy to be that heresy holds false doctrine while schism severs a man from the Church." Nevertheless, just as the loss of charity is the road to the loss of faith, according to 1 Timothy 1:6: "From which things," i.e. charity and the like, "some going astray, are turned aside into vain babbling," so too, schism is the road to heresy. Wherefore Jerome adds (In Ep. ad Tit. iii, 10) that "at the outset it is possible, in a certain respect, to find a difference between schism and heresy: yet there is no schism that does not devise some heresy for itself, that it may appear to have had a reason for separating from the Church." &mdash; St. Thomas Aquinas: <a href="http://newadvent.org/summa/3039.htm" rel="noopener" target="_blank">Summa Theologica</a>, II-II, q. 39, a. 1, ad 3</p>
-793
-2017-10-13 07:34:29
-2017-10-13 11:34:29
-schism-and-heresy
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Society is Dissolving
-<link>http://www.consultingsmiths.com/society-is-dissolving/</link>
+
+## Society is Dissolving
 Fri, 13 Oct 2017 11:38:34
-http://www.consultingsmiths.com/?p=795
+
 <p>"Cultures spring from religions; ultimately the vital force which maintains any culture is its philosophy, its attitude toward the universe; the decay of a religion involves the decay of the culture corresponding to it&rdquo;”we see that most clearly in the breakdown of Christendom today. The bad work begun at the Reformation is bearing its final fruit in the dissolution of our ancestral doctrines&rdquo;”the very structure of our society is dissolving." &mdash; Hilaire Belloc: <a href="https://oldthunderbelloc.blogspot.com/2015/05/the-great-heresies.html" rel="noopener" target="_blank">The Great Heresies</a>, Chap. III</p>
-795
-2017-10-13 07:38:34
-2017-10-13 11:38:34
-society-is-dissolving
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-On Heresy
-<link>http://www.consultingsmiths.com/on-heresy/</link>
+
+## On Heresy
 Fri, 13 Oct 2017 11:45:56
-http://www.consultingsmiths.com/?p=798
-<p>&ldquo;Therefore, heresy is so called from the Greek word meaning &rdquo;˜choice,&rdquo;™ by which each chooses according to his own will what he pleases to teach or believe. But we are not permitted to believe whatever we choose, nor to choose whatever someone else has believed. We have the apostles of God as authorities, who did not themselves of their own will choose what they would believe, but faithfully transmitted to the nations the teaching received from Christ. So, even if an angel from heaven should preach otherwise, he shall be called anathema.&rdquo; &mdash; St. Isidore of Seville (c. 560 &mdash; 636): Etymologies, 8, 3.</p>
-798
-2017-10-13 07:45:56
-2017-10-13 11:45:56
-on-heresy
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-The habit of neglecting true books
-<link>http://www.consultingsmiths.com/the-habit-of-neglecting-true-books/</link>
+
+<p>&ldquo;Therefore, heresy is so called from the Greek word meaning &rdquo;˜choice,&rdquo; by which each chooses according to his own will what he pleases to teach or believe. But we are not permitted to believe whatever we choose, nor to choose whatever someone else has believed. We have the apostles of God as authorities, who did not themselves of their own will choose what they would believe, but faithfully transmitted to the nations the teaching received from Christ. So, even if an angel from heaven should preach otherwise, he shall be called anathema.&rdquo; &mdash; St. Isidore of Seville (c. 560 &mdash; 636): Etymologies, 8, 3.</p>
+
+## The habit of neglecting true books
 Mon, 23 Oct 2017 12:00:31
-http://www.consultingsmiths.com/?p=801
+
 <p>"IT is an interesting speculation by what means the Book lost its old position in this country. This is not only an interesting speculation, but one which nearly concerns a vital matter. For if men fall into the habit of neglecting true books in an old and traditional civilization, the inaccuracy of their judgments and the illusions to which they will be subject, must increase.
 "To take but one example: history. The less the true historical book is read and the more men depend upon ephemeral statement, the more will legend crystallize, the harder will it be to destroy in the general mind some comforting lie, and the great object-lesson of politics (which is an accurate knowledge of how men have acted in the past) will become at last unknown."
 &mdash; Hilaire Belloc: <a href="https://oldthunderbelloc.blogspot.com/2014/02/on-decline-of-book.html" rel="noopener" target="_blank">On the Decline of the Book</a></p>
-801
-2017-10-23 08:00:31
-2017-10-23 12:00:31
-the-habit-of-neglecting-true-books
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-But first...
+
+## But first...
 <link>http://www.consultingsmiths.com/but-first/</link>
 Wed, 25 Oct 2017 19:49:02
 http://www.consultingsmiths.com/?p=803
 <p>"One of the most dreaded transitions in any essay is, "but first we have to understand ...". No. Actually, we don't. As Richard Feynman said, your theory is probably sound if you can explain it to your dear old Mom in a couple of sentences of plain words. Said differently, unless you're the Notre-Dame Cathedral, external props are not a good look. But this is just nitpicking by a guy in the cheap seats." &mdash; Ol' Remus</p>
-803
-2017-10-25 15:49:02
-2017-10-25 19:49:02
-but-first
-2</p>
-## 
-Eyes Shut
-<link>http://www.consultingsmiths.com/eyes-shut/</link>
+
+## Eyes Shut
 Thu, 26 Oct 2017 18:39:33
-http://www.consultingsmiths.com/?p=805
+
 <p>"Even in the very depths of the worst possible of worst-case scenarios of crisis in the Catholic Church, denial is not helpful. The crocodile does not care how tightly we close our eyes as it eats us." &mdash; Hilary White</p>
-805
-2017-10-26 14:39:33
-2017-10-26 18:39:33
-eyes-shut
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Imposter Syndrome
-<link>http://www.consultingsmiths.com/imposter-syndrome/</link>
+
+## Imposter Syndrome
 Sun, 29 Oct 2017 12:38:19
-http://www.consultingsmiths.com/?p=807
+
 <p>"It's rampant.
 "The big reason is that we're all impostors. You're not imagining that you're an impostor, it's likely that you are one.
 "Everyone who is doing important work is working on something that might not work. And it's extremely likely that they're also not the very best qualified person on the planet to be doing that work.
@@ -1250,171 +1033,72 @@ http://www.consultingsmiths.com/?p=807
 "Yes, you're an imposter. So am I and so is everyone else. Superman still lives on Krypton and the rest of us are just doing our best.
 "Isn't doing your best all you can do? Dropping the narrative of the impostor isn't arrogant, it's merely a useful way to get your work done without giving into Resistance.
 "Time spent fretting about our status as impostors is time away from dancing with our fear, from leading and from doing work that matters." &mdash; Seth Godin</p>
-807
-2017-10-29 08:38:19
-2017-10-29 12:38:19
-imposter-syndrome
-2</p>
-## 
-Origins
-<link>http://www.consultingsmiths.com/origins/</link>
+
+## Origins
 Thu, 02 Nov 2017 12:20:32
-http://www.consultingsmiths.com/?p=810
+
 <p>&ldquo;Consider your origin. You were not formed to live like brutes but to follow virtue and knowledge.&rdquo; &mdash; Dante <em>The Divine Comedy</em></p>
-810
-2017-11-02 08:20:32
-2017-11-02 12:20:32
-origins
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-What the People Need
-<link>http://www.consultingsmiths.com/what-the-people-neew/</link>
+
+## What the People Need
 Thu, 02 Nov 2017 12:21:40
-http://www.consultingsmiths.com/?p=812
+
 <p>"The Saint is a medicine because he is an antidote. Indeed that is why the saint is often a martyr; he is mistaken for a poison because he is an antidote. He will generally be found restoring the world to sanity by exaggerating whatever the world neglects, which is by no means always the same element in every age. Yet each generation seeks its saint by instinct; and he is not what the people want, but rather what the people need." &mdash; G.K. Chesterton: <em>St. Thomas Aquinas</em>, Chap. I.</p>
-812
-2017-11-02 08:21:40
-2017-11-02 12:21:40
-what-the-people-neew
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Proof of its Divinity
-<link>http://www.consultingsmiths.com/proof-of-its-divinity/</link>
+
+## Proof of its Divinity
 Thu, 02 Nov 2017 12:22:53
-http://www.consultingsmiths.com/?p=814
+
 <p>&ldquo;The Catholic Church is an institution I am bound to hold divine, but for unbelievers, here is proof of its divinity, that no merely human institution run with such knavish imbecility would have lasted a fortnight.&rdquo; &mdash; Hilaire Belloc</p>
-814
-2017-11-02 08:22:53
-2017-11-02 12:22:53
-proof-of-its-divinity
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Kerouac on the Buddah
-<link>http://www.consultingsmiths.com/kerouac-on-the-buddah/</link>
+
+## Kerouac on the Buddah
 Fri, 03 Nov 2017 15:06:59
-http://www.consultingsmiths.com/?p=816
+
 <p>"Buddha is only for the West to study as history, that it is a subject for understanding, and Yoga can profitably be practiced to that end. But it is not for the West an Answer, not a Solution. We must learn by acting, experiencing, and living, that is, above all by Love and Suffering," &mdash; Jack Kerouac &mdash; letter to William Burroughs, 1954</p>
-816
-2017-11-03 11:06:59
-2017-11-03 15:06:59
-kerouac-on-the-buddah
-2</p>
-## 
-Chesterton&## 039;s Fence
-<link>http://www.consultingsmiths.com/chestertons-fence/</link>
+
+## Chesterton&#039;s Fence
 Tue, 07 Nov 2017 17:41:08
-http://www.consultingsmiths.com/?p=818
-<p>"In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, &ldquo;I don&rdquo;™t see the use of this; let us clear it away." To which the more intelligent type of reformer will do well to answer: "If you don&rdquo;™t see the use of it, I certainly won&rdquo;™t let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it." &mdash; G. K. Chesterton, <em>The Drift from Domesticity</em></p>
-818
-2017-11-07 12:41:08
-2017-11-07 17:41:08
-chestertons-fence
-2</p>
-## 
-The Task of Redemption
-<link>http://www.consultingsmiths.com/the-task-of-redemption/</link>
+
+<p>"In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, &ldquo;I don&rdquo;t see the use of this; let us clear it away." To which the more intelligent type of reformer will do well to answer: "If you don&rdquo;t see the use of it, I certainly won&rdquo;t let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it." &mdash; G. K. Chesterton, <em>The Drift from Domesticity</em></p>
+
+## The Task of Redemption
 Thu, 09 Nov 2017 22:20:49
-http://www.consultingsmiths.com/?p=821
+
 <p>St. John Paul II describes how Christ's act of redeeming us from slavery to sin is both a free gift and a task:
 "In the mystery of Redemption, Christ's victory over evil is given to us not simply for our personal advantage, but also as a task. We accept that task as we set out upon the way of the interior life, working consciously on ourselves&mdash;with Christ as our Teacher. The Gospel calls us to follow this very path. Christ's call "Follow me!" is echoed on many pages of the Gospel and is addressed to different people&mdash;not only to the Galilean fishermen whom Jesus calls to become his Apostles (cf. Mt 4:19, Jn 1:43), but also, for example, to the rich young man in the Synoptic Gospels (cf. Mt 19:16-22, Mk 10:17:22, Lk 18:18-23). Jesus's conversation with him is one of the key texts to which we must constantly return, from various points of view, as I did, for example, in the encyclical Veritatis Splendor.
-<!--more-->
 "The call "Follow me!" is an invitation to set out along the path to which the inner dynamic of the mystery of Redemption leads us. This is the path indicated by the teaching, so often found in writings on the interior life and on mystical experience, about the three stages involved in "following Christ." These three stages are sometimes called "ways." We speak of the purgative way, the illuminative way, and the unitive way. In reality, these are not three distinct ways, but three aspects of the same way, along which Christ calls everyone, as he once called that young man in the Gospel.
 "When the young man asks: "Teacher, what good deed must I do to have eternal life?", Christ answers him: "If you wish to enter life, keep the commandments" (Mt 19:16 et passim). And when the young man continues to ask: "Which?" Christ simply reminds him of the principal commandments of the Decalogue, and especially those from the so-called "second tablet" concerning relations with one's neighbor. In Christ's teaching, of course, all the commandments are summarized in the commandment to love God above all things and one's neighbor as oneself. He says so explicitly to a doctor of the Law in response to a question (cf. Mt 22:34-40; Mk 12:28-31). Observance of the commandments, properly understood, is synonymous with the purgative way: it means conquering sin, moral evil in its various guises. And this leads to a gradual inner purification.
 "It also enables us to discover values. And hence we conclude that the purgative way leads organically into the illuminative way. Values are lights which illumine existence and, as we work on our lives, they shine ever more brightly on the horizon. So side by side with observance of the commandments&mdash;which has an essentially purgative meaning&mdash;we develop virtues. For example, in observing the commandment: "Thou shall not kill!" we discover the value of life under various aspects and we learn an ever deeper respect for it. In observing the commandment: "Thou shall not commit adultery!" we acquire the virtue of purity, and this means that we come to an ever greater awareness of the gratuitous beauty of the human body, of masculinity and femininity. This gratuitous beauty becomes a light for our actions. In observing the commandment: "Thou shall not bear false witness!" we learn the virtue of truthfulness. This not only excludes all lying and hypocrisy from our lives, but it develops within us a kind of "instinct for truth" which guides all our actions. And living thus in the truth, we acquire in our own humanity a connatural truthfulness.
 "So the illuminative stage in the interior life emerges gradually from the purgative stage. With the passage of time, if we persevere in following Christ our Teacher, we feel less and less burdened by the struggle against sin, and we enjoy more and more the divine light which pervades all creation. This is most important, because it allows us to escape from a situation of constant inner exposure to the risk of sin&mdash;even though, on this earth, the risk always remains present to some degree&mdash;so as to move with ever greater freedom within the whole of the created world. The same freedom and simplicity characterizes our relations with other human beings, including those of the opposite sex. Interior light illumines our actions and shows us all the good in the created world as coming from the hand of God. Thus the purgative way and then the illuminative way form the organic introduction to what is known as the unitive way. This is the final stage of the interior journey, when the soul experiences a special union with God. This union is realized in contemplation of the divine Being and in the experience of love which flows from it with growing intensity. In this way we somehow anticipate what is destined to be ours in eternity, beyond death and the grave. Christ, supreme Teacher of the spiritual life, together with all those who have been formed in his school, teaches that even in this life we can enter onto the path of union with God."
 &mdash; St. John Paul II &ndash; <em>Memory and Identity</em> Rizzoli 2005:</p>
-821
-2017-11-09 17:20:49
-2017-11-09 22:20:49
-the-task-of-redemption
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-The Love of (a small &quot;g&quot;) god
-<link>http://www.consultingsmiths.com/the-love-of-a-small-g-god/</link>
+
+## The Love of (a small &lsquo;g&rsquo;) god
 Mon, 20 Nov 2017 16:31:58
-http://www.consultingsmiths.com/?p=828
+
 <p>"As the old saying goes, the flip side of love is hatred. You cannot care about something, and fail to hate what threatens it. This leads us to the difficult question of what to love, and the Left posits universal love, which for them means pretending to be a god and loving everything, without understanding that the love of a god is love for creation itself, not a desire to preserve each part." &mdash; <a href="http://www.amerika.org/politics/love-possesses-two-dimensions/" rel="noopener" target="_blank">Brett Stevens</a></p>
-828
-2017-11-20 11:31:58
-2017-11-20 16:31:58
-the-love-of-a-small-g-god
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-<wp:comment>
-<wp:comment_id>1197</wp:comment_id>
-<wp:comment_author><p>David</p></wp:comment_author>
-<wp:comment_author_email><p>acmdas@gmail.com</p></wp:comment_author_email>
-<wp:comment_author_url></wp:comment_author_url>
-<wp:comment_author_IP><p>71.121.163.30</p></wp:comment_author_IP>
-<wp:comment_date><p>2017-11-20 11:53:12</p></wp:comment_date>
-<wp:comment_date_gmt><p>2017-11-20 16:53:12</p></wp:comment_date_gmt>
-<wp:comment_content><p>I like to think that I love God's creation, but I love my family more particularly. Don't threaten my wife and kids or there'll be ructions!</p></wp:comment_content>
-<wp:comment_approved><p>1</p></wp:comment_approved>
-<wp:comment_type><p></p></wp:comment_type>
-<wp:comment_parent>0</wp:comment_parent>
-<wp:comment_user_id>2</wp:comment_user_id>
-<wp:commentmeta>
-<wp:meta_key><p>akismet_result</p></wp:meta_key>
-false</p>
-</wp:commentmeta>
-<wp:commentmeta>
-<wp:meta_key><p>akismet_history</p></wp:meta_key>
-a:3:{s:4:"time";d:1511196792.638473987579345703125;s:5:"event";s:9:"check-ham";s:4:"user";s:3:"das";}</p>
-</wp:commentmeta>
-</wp:comment>
-## 
-A Conspiracy of a very few Millionaires
-<link>http://www.consultingsmiths.com/a-conspiracy-of-a-very-few-millionaires/</link>
+<p>I like to think that I love God's creation, but I love my family more particularly. Don't threaten my wife and kids or there'll be ructions!</p>
+
+## A Conspiracy of a very few Millionaires
 Fri, 24 Nov 2017 12:53:35
-http://www.consultingsmiths.com/?p=830
+
 <p>"The point about the Press is that it is not what it is called. It is not the "popular Press." It is not the public Press. It is not an organ of public opinion. It is a conspiracy of a very few millionaires, all sufficiently similar in type to agree on the limits of what this great nation (to which we belong) may know about itself and its friends and enemies. The ring is not quite complete; there are old-fashioned and honest papers: but it is sufficiently near to completion to produce on the ordinary purchaser of news the practical effects of a corner and a monopoly. He receives all his political information and all his political marching orders from what is by this time a sort of half-conscious secret society, with very few members, but a great deal of money." &mdash; G.K. Chesterton: <em>Utopia of Usurers and Other Essays</em></p>
-830
-2017-11-24 07:53:35
-2017-11-24 12:53:35
-a-conspiracy-of-a-very-few-millionaires
-<category domain="category" nicename="privacy"><p>Privacy</p></category>
-2</p>
-## 
-Sauce for the Goose
-<link>http://www.consultingsmiths.com/sauce-for-the-goose/</link>
+
+## Sauce for the Goose
 Fri, 24 Nov 2017 13:18:07
-http://www.consultingsmiths.com/?p=833
+
 <p>"The fact of the matter is, one cannot be both a cultural relativist and a revolutionary. The revolutionary proposes changing the culture. A cultural relativist can never propose such a change. What standard could be used? A cultural relativist, were he honest, would hold his own culture to the same standards as a foreign culture, and say that our laws, traditions, and customs cannot be changed or criticized &rdquo;” for if the only yardstick of what is considered right or wrong comes from the culture, well, obviously this applies to Christendom (aka Western Culture) as well." &mdash; <a href="http://www.scifiwright.com/2017/11/fooled-by-heinlein-for-fourty-years/" rel="noopener" target="_blank">John C. Wright</a></p>
-833
-2017-11-24 08:18:07
-2017-11-24 13:18:07
-sauce-for-the-goose
-2</p>
-## 
-Technology Dreams
-<link>http://www.consultingsmiths.com/technology-dreams/</link>
+
+## Technology Dreams
 Thu, 30 Nov 2017 02:31:38
-http://www.consultingsmiths.com/?p=837
-<p>&ldquo;Technology does not fulfill man&rdquo;™s perennial dreams, but craftily mimics them.&rdquo;
+
+<p>&ldquo;Technology does not fulfill man&rdquo;s perennial dreams, but craftily mimics them.&rdquo;
 &rdquo;” NicolÃ¡s GÃ³mez DÃ¡vila</p>
-837
-2017-11-29 21:31:38
-2017-11-30 02:31:38
-technology-dreams
-2</p>
-## 
-Political Wisdom
-<link>http://www.consultingsmiths.com/political-wisdom/</link>
+
+## Political Wisdom
 Thu, 30 Nov 2017 02:33:30
 http://www.consultingsmiths.com/?p=839
 <p>&ldquo;Wise politics is the art of invigorating society and weakening the State.&rdquo;
 &rdquo;” NicolÃ¡s GÃ³mez DÃ¡vila</p>
-839
-2017-11-29 21:33:30
-2017-11-30 02:33:30
-political-wisdom
-2</p>
-## 
-Meditation for November 30
+
+## Meditation for November 30
 <link>http://www.consultingsmiths.com/meditation-for-november-30/</link>
 Thu, 30 Nov 2017 13:42:55
 http://www.consultingsmiths.com/?p=841
@@ -1445,7 +1129,7 @@ Its Nature is to Live
 <link>http://www.consultingsmiths.com/its-nature-is-to-live/</link>
 Thu, 30 Nov 2017 14:04:31
 http://www.consultingsmiths.com/?p=848
-<p>"I think we have misunderstood the promise of Christ of the survival of the Church. You can&rdquo;™t kill something whose nature it is to live. The Faith is like life itself; life is designed to live. It might not make it in this or that particular place, and it may go through periods of such reduction that we would hardly recognise it, but it can&rdquo;™t be killed. Volcanoes make ash that enrich the soil; ice ages spread spores and seeds around the world. Life lives. The Faith is something even stronger." &mdash; <a href="http://whatisupwiththesynod.com/index.php/2017/11/30/you-cant-kill-something-whose-nature-it-is-to-live/" rel="noopener" target="_blank">Hilary White</a></p>
+<p>"I think we have misunderstood the promise of Christ of the survival of the Church. You can&rdquo;t kill something whose nature it is to live. The Faith is like life itself; life is designed to live. It might not make it in this or that particular place, and it may go through periods of such reduction that we would hardly recognise it, but it can&rdquo;t be killed. Volcanoes make ash that enrich the soil; ice ages spread spores and seeds around the world. Life lives. The Faith is something even stronger." &mdash; <a href="http://whatisupwiththesynod.com/index.php/2017/11/30/you-cant-kill-something-whose-nature-it-is-to-live/" rel="noopener" target="_blank">Hilary White</a></p>
 848
 2017-11-30 09:04:31
 2017-11-30 14:04:31
@@ -1457,7 +1141,7 @@ As the Pervnado Turns
 <link>http://www.consultingsmiths.com/as-the-pervnado-turns/</link>
 Thu, 30 Nov 2017 22:40:48
 http://www.consultingsmiths.com/?p=851
-<p>"Maybe Trump&rdquo;™s voters aren&rdquo;™t angry enough yet. It&rdquo;™s not just a large number of women our elites have raped and victimized, it&rdquo;™s our entire country. Our infrastructure is crumbling, our debt is astronomical, our universities increasingly resemble insane asylums, our largest inner cities are free-fire zones terrorized by a permanent criminal underclass. And what&rdquo;™s the elite response? Oh, look, a squirrel &mdash; where the squirrel of the week is carbon emissions, or transgender rights, or railing at &ldquo;white privilege&rdquo;, or whatever other form of virtue signaling might serve to hide the fact that, oh, look, <em>they put remote-controlled locks on their rape dungeons</em>." &mdash; <a href="http://esr.ibiblio.org/?p=7767" rel="noopener" target="_blank">Eric Raymond</a>
+<p>"Maybe Trump&rdquo;s voters aren&rdquo;t angry enough yet. It&rdquo;s not just a large number of women our elites have raped and victimized, it&rdquo;s our entire country. Our infrastructure is crumbling, our debt is astronomical, our universities increasingly resemble insane asylums, our largest inner cities are free-fire zones terrorized by a permanent criminal underclass. And what&rdquo;s the elite response? Oh, look, a squirrel &mdash; where the squirrel of the week is carbon emissions, or transgender rights, or railing at &ldquo;white privilege&rdquo;, or whatever other form of virtue signaling might serve to hide the fact that, oh, look, <em>they put remote-controlled locks on their rape dungeons</em>." &mdash; <a href="http://esr.ibiblio.org/?p=7767" rel="noopener" target="_blank">Eric Raymond</a>
 By all means, read the whole thing.</p>
 851
 2017-11-30 17:40:48
@@ -1542,7 +1226,7 @@ Extraordinary Decency
 <link>http://www.consultingsmiths.com/extraordinary-decency/</link>
 Mon, 18 Dec 2017 12:59:11
 http://www.consultingsmiths.com/?p=868
-<p>"If you can think of times in your life that you&rdquo;™ve treated people with extraordinary decency and love, and pure uninterested concern, just because they were valuable as human beings. The ability to do that with ourselves.  To treat ourselves the way we would treat a really good, precious friend. Or a tiny child of ours that we absolutely loved more than life itself.  And I think it&rdquo;™s probably possible to achieve that.  I think part of the job we&rdquo;™re here for is to learn how to do it.  I know that sounds a little pious." &mdash; David Foster Wallace</p>
+<p>"If you can think of times in your life that you&rdquo;ve treated people with extraordinary decency and love, and pure uninterested concern, just because they were valuable as human beings. The ability to do that with ourselves.  To treat ourselves the way we would treat a really good, precious friend. Or a tiny child of ours that we absolutely loved more than life itself.  And I think it&rdquo;s probably possible to achieve that.  I think part of the job we&rdquo;re here for is to learn how to do it.  I know that sounds a little pious." &mdash; David Foster Wallace</p>
 868
 2017-12-18 07:59:11
 2017-12-18 12:59:11
@@ -1597,7 +1281,7 @@ Expect the Opposite
 <link>http://www.consultingsmiths.com/expect-the-opposite/</link>
 Fri, 29 Dec 2017 00:43:29
 http://www.consultingsmiths.com/?p=884
-<p>"If yours truly has learned anything living in Washington, D.C. since 1976, it&rdquo;™s that when you need to know where the country is headed in the near future, check the conventional wisdom among America&rdquo;™s political, academic and media elites, then expect the opposite to occur." &mdash; Mark Tapscott</p>
+<p>"If yours truly has learned anything living in Washington, D.C. since 1976, it&rdquo;s that when you need to know where the country is headed in the near future, check the conventional wisdom among America&rdquo;s political, academic and media elites, then expect the opposite to occur." &mdash; Mark Tapscott</p>
 884
 2017-12-28 19:43:29
 2017-12-29 00:43:29
@@ -1623,7 +1307,7 @@ He is Inescapable
 <link>http://www.consultingsmiths.com/he-is-inescapable/</link>
 Wed, 10 Jan 2018 22:35:47
 http://www.consultingsmiths.com/?p=889
-<p>&ldquo;Because God is not a finite object over against you as a subject, you cannot simply turn away towards &rdquo;˜something else.&rdquo;™; He is the ground and end of all desire and knowledge as such, the Good in itself. You cannot choose or not choose God the way you would choose or not choose a cup of coffee. You desire anything because of your original desire for God as the transcendental Good and Beautiful; you know anything because of your original intellectual appetite for God as the transcendental Truth as such. Even in desiring to flee God, you are desiring God as the &rdquo;˜good end&rdquo;™ you seek in godlessness. He is inescapable because all being, goodness, unity, truth, and beauty simply are God in their transcendent truth, and because a rational nature is nothing but an infinite dynamic orientation towards that transcendent end. The natural will, as Maximus says, can will only God. Don&rdquo;™t think of God as a candidate in a political race, whom you could simply reject and be done with; he is the original and final act of your every discrete act of desire. And, in the ages, since God is all and there is literally nothing beyond him, the natural will is always seeking its natural supernatural end. Simply said, God is not an object of desire; he is the end that makes desire.&rdquo; &mdash; <a href="https://afkimel.wordpress.com/essential-readings-on-universalism/" rel="noopener" target="_blank">David Bentley Hart</a></p>
+<p>&ldquo;Because God is not a finite object over against you as a subject, you cannot simply turn away towards &rdquo;˜something else.&rdquo;; He is the ground and end of all desire and knowledge as such, the Good in itself. You cannot choose or not choose God the way you would choose or not choose a cup of coffee. You desire anything because of your original desire for God as the transcendental Good and Beautiful; you know anything because of your original intellectual appetite for God as the transcendental Truth as such. Even in desiring to flee God, you are desiring God as the &rdquo;˜good end&rdquo; you seek in godlessness. He is inescapable because all being, goodness, unity, truth, and beauty simply are God in their transcendent truth, and because a rational nature is nothing but an infinite dynamic orientation towards that transcendent end. The natural will, as Maximus says, can will only God. Don&rdquo;t think of God as a candidate in a political race, whom you could simply reject and be done with; he is the original and final act of your every discrete act of desire. And, in the ages, since God is all and there is literally nothing beyond him, the natural will is always seeking its natural supernatural end. Simply said, God is not an object of desire; he is the end that makes desire.&rdquo; &mdash; <a href="https://afkimel.wordpress.com/essential-readings-on-universalism/" rel="noopener" target="_blank">David Bentley Hart</a></p>
 889
 2018-01-10 17:35:47
 2018-01-10 22:35:47
@@ -1696,8 +1380,8 @@ A Short Story
 Thu, 25 Jan 2018 22:20:36
 http://www.consultingsmiths.com/?p=904
 <p>"A man, walking through the forest saw a fox that had lost its legs, and wondered how it lived. Then he saw a tiger come up with game in its mouth. The tiger ate its fill and left the rest of the meat for the fox. The next day God fed the fox by means of the same tiger.
-"The man began to wonder at God&rdquo;™s greatness and said to himself, 'I too shall just rest in a corner with full trust in the Lord and He will provide me with all I need.'
-"He did this for many days, but nothing happened, and he was almost at death&rdquo;™s door when he heard a voice say, 'O you who are in the path of error, open your eyes to the truth! Stop imitating the disabled fox and follow the example of the tiger'&rdquo; &mdash; Ernie Kurtz</p>
+"The man began to wonder at God&rdquo;s greatness and said to himself, 'I too shall just rest in a corner with full trust in the Lord and He will provide me with all I need.'
+"He did this for many days, but nothing happened, and he was almost at death&rdquo;s door when he heard a voice say, 'O you who are in the path of error, open your eyes to the truth! Stop imitating the disabled fox and follow the example of the tiger'&rdquo; &mdash; Ernie Kurtz</p>
 904
 2018-01-25 17:20:36
 2018-01-25 22:20:36
@@ -1876,13 +1560,13 @@ http://www.consultingsmiths.com/?p=941
  Lately it occurs to me
  What a long, strange trip it's been." &mdash; Hunter/Garcia</blockquote>
 Steven Pressfield <a href="http://www.stevenpressfield.com/2018/02/untitled-book-installment-2/" rel="noopener" target="_blank">posted this</a> today:
-<blockquote>I have a theory about the Hero&rdquo;™s Journey. We all have one. We have many, in fact. But our primary hero&rdquo;™s journey as artists is the passage we live out, in real life, before we find our calling.
-The hero&rdquo;™s journey is the search for that calling.
-It&rdquo;™s preparation.
-It&rdquo;™s initiation (or more precisely, self-initiation).
-On the hero&rdquo;™s journey, we see, we experience, we suffer. We learn.
-On our hero&rdquo;™s journey, we acquire a history that is ours alone. It&rdquo;™s a secret history, a private history, a personal history. No one has it but us. No one knows it but us. This secret history is the most valuable possession we hold, or ever will hold. We will draw upon it for the rest of our lives.
-The hero&rdquo;™s journey ends when, like Odysseus, we return home to Ithaca, to the place from which we started. We wash up on shore. We have survived. We have come home.
+<blockquote>I have a theory about the Hero&rdquo;s Journey. We all have one. We have many, in fact. But our primary hero&rdquo;s journey as artists is the passage we live out, in real life, before we find our calling.
+The hero&rdquo;s journey is the search for that calling.
+It&rdquo;s preparation.
+It&rdquo;s initiation (or more precisely, self-initiation).
+On the hero&rdquo;s journey, we see, we experience, we suffer. We learn.
+On our hero&rdquo;s journey, we acquire a history that is ours alone. It&rdquo;s a secret history, a private history, a personal history. No one has it but us. No one knows it but us. This secret history is the most valuable possession we hold, or ever will hold. We will draw upon it for the rest of our lives.
+The hero&rdquo;s journey ends when, like Odysseus, we return home to Ithaca, to the place from which we started. We wash up on shore. We have survived. We have come home.
 Now what?</blockquote>
 Well, what? There's a calling, that calling, the one that's mysteriously been whispering and talking and yelling and screaming obscenities at you/me all along. Only now, it's explicit. It's there, not "out there" but "right there" and there's some question but not much and not enough to put it off anymore.
 Now what?
@@ -1910,7 +1594,7 @@ Scorn Not
 <link>http://www.consultingsmiths.com/scorn-not/</link>
 Thu, 22 Feb 2018 14:01:55
 http://www.consultingsmiths.com/?p=954
-<p>&ldquo;O MAN, scorn not that which is admirable in you! You are a poor thing in your own eyes, but I would teach you that in reality you are a great thing! . . . Realize what you are! Consider your royal dignity! The heavens have not been made in God&rdquo;™s image as you have, nor the moon, nor the sun, nor anything to be seen in creation. . . . Behold, of all that exists there is nothing that can contain your greatness.&rdquo; &mdash; St. Gregory of Nyssa (c. 335 &mdash; c. 395): <em>In Cantica, Homily 2.</em>
+<p>&ldquo;O MAN, scorn not that which is admirable in you! You are a poor thing in your own eyes, but I would teach you that in reality you are a great thing! . . . Realize what you are! Consider your royal dignity! The heavens have not been made in God&rdquo;s image as you have, nor the moon, nor the sun, nor anything to be seen in creation. . . . Behold, of all that exists there is nothing that can contain your greatness.&rdquo; &mdash; St. Gregory of Nyssa (c. 335 &mdash; c. 395): <em>In Cantica, Homily 2.</em>
 </p>
 954
 2018-02-22 09:01:55
@@ -2115,7 +1799,7 @@ Make politics as local as possible
 <link>http://www.consultingsmiths.com/make-politics-as-local-as-possible/</link>
 Fri, 13 Apr 2018 13:00:12
 http://www.consultingsmiths.com/?p=993
-<p>"THE men whom the people ought to choose to represent them are too busy to take the jobs. But the politician is waiting for it. He&rdquo;™s the pestilence of modern times. What we should try to do is make politics as local as possible. Keep the politicians near enough to kick them. The villagers who met under the village tree could also hang their politicians to the tree. It is terrible to contemplate how few politicians are hanged."
+<p>"THE men whom the people ought to choose to represent them are too busy to take the jobs. But the politician is waiting for it. He&rdquo;s the pestilence of modern times. What we should try to do is make politics as local as possible. Keep the politicians near enough to kick them. The villagers who met under the village tree could also hang their politicians to the tree. It is terrible to contemplate how few politicians are hanged."
 &mdash; G.K. Chesterton: <em>Cleveland Press</em> interview, March 1, 1921.
 <a href="http://www.consultingsmiths.com/wp-content/uploads/2018/04/hanged.png"><img src="http://www.consultingsmiths.com/wp-content/uploads/2018/04/hanged-300x229.png" alt="" width="300" height="229" class="alignnone size-medium wp-image-992" /></a></p>
 993
@@ -2142,7 +1826,7 @@ Needlework
 <link>http://www.consultingsmiths.com/needlework/</link>
 Sat, 05 May 2018 15:11:29
 http://www.consultingsmiths.com/?p=1001
-<p>"Saint Luke was a painter, by some accounts, and by others a physician. I think he was both, and more, from acquaintance with his writings. But certainly a physician. When Matthew and Mark recount the saying of Jesus, that it is easier for a camel to pass through the eye of a needle, than for a rich man to pass through the gates of heaven, they use the Greek term for a household sewing needle. But Luke instinctively uses the term for a surgeon&rdquo;™s suturing needle. Case closed, to my mind." &mdash; <a href="https://www.davidwarrenonline.com/2018/05/05/needlework/" rel="noopener" target="_blank">David Warren</a></p>
+<p>"Saint Luke was a painter, by some accounts, and by others a physician. I think he was both, and more, from acquaintance with his writings. But certainly a physician. When Matthew and Mark recount the saying of Jesus, that it is easier for a camel to pass through the eye of a needle, than for a rich man to pass through the gates of heaven, they use the Greek term for a household sewing needle. But Luke instinctively uses the term for a surgeon&rdquo;s suturing needle. Case closed, to my mind." &mdash; <a href="https://www.davidwarrenonline.com/2018/05/05/needlework/" rel="noopener" target="_blank">David Warren</a></p>
 1001
 2018-05-05 11:11:29
 2018-05-05 15:11:29
@@ -2205,8 +1889,8 @@ Power/Corruption
 <link>http://www.consultingsmiths.com/power-corruption/</link>
 Thu, 31 May 2018 12:47:53
 http://www.consultingsmiths.com/?p=1013
-<p>"&rdquo;˜Power tends to corrupt, and absolute power corrupts absolutely.&rdquo;™ We&rdquo;™ve all seen this quote of Lord Acton. Most people agree with it. I don&rdquo;™t. Like many (if not most) great quotes, it is dead wrong. Why? Because it&rdquo;™s exactly backwards, that&rdquo;™s why...
-"Let&rdquo;™s reconstruct Acton&rdquo;™s sentence in a way that reflects the truth of the matter (and energy) of power. Put the word &rdquo;˜man&rdquo;™ in place of &rdquo;˜power&rdquo;™, and then move the word &rdquo;˜power&rdquo;™ behind the word &rdquo;˜corrupt(s)&rdquo;™. Now let&rdquo;™s see what it should look like if we&rdquo;™re truly seeking the truth: &rdquo;˜(Man) tends to corrupt power, and absolute (Man) corrupts power absolutely&rdquo;™." &mdash; Ianto Watt <a href="http://wmbriggs.com/post/24549/" rel="noopener" target="_blank"><em>Lord Acton's Apostasy</em></a></p>
+<p>"&rdquo;˜Power tends to corrupt, and absolute power corrupts absolutely.&rdquo; We&rdquo;ve all seen this quote of Lord Acton. Most people agree with it. I don&rdquo;t. Like many (if not most) great quotes, it is dead wrong. Why? Because it&rdquo;s exactly backwards, that&rdquo;s why...
+"Let&rdquo;s reconstruct Acton&rdquo;s sentence in a way that reflects the truth of the matter (and energy) of power. Put the word &rdquo;˜man&rdquo; in place of &rdquo;˜power&rdquo;, and then move the word &rdquo;˜power&rdquo; behind the word &rdquo;˜corrupt(s)&rdquo;. Now let&rdquo;s see what it should look like if we&rdquo;re truly seeking the truth: &rdquo;˜(Man) tends to corrupt power, and absolute (Man) corrupts power absolutely&rdquo;." &mdash; Ianto Watt <a href="http://wmbriggs.com/post/24549/" rel="noopener" target="_blank"><em>Lord Acton's Apostasy</em></a></p>
 1013
 2018-05-31 08:47:53
 2018-05-31 12:47:53
@@ -2217,7 +1901,7 @@ The Problem
 <link>http://www.consultingsmiths.com/the-problem/</link>
 Sat, 02 Jun 2018 11:48:39
 http://www.consultingsmiths.com/?p=1018
-<p>&ldquo;The problem is no longer getting people to express themselves, but providing little gaps of solitude and silence in which they might eventually find something to say. Repressive forces don&rdquo;™t stop people from expressing themselves, but rather, force them to express themselves. What a relief to have nothing to say, the right to say nothing, because only then is there a chance of framing the rare, or ever rarer, the thing that might be worth saying.&rdquo; &mdash; Gilles Deleuze</p>
+<p>&ldquo;The problem is no longer getting people to express themselves, but providing little gaps of solitude and silence in which they might eventually find something to say. Repressive forces don&rdquo;t stop people from expressing themselves, but rather, force them to express themselves. What a relief to have nothing to say, the right to say nothing, because only then is there a chance of framing the rare, or ever rarer, the thing that might be worth saying.&rdquo; &mdash; Gilles Deleuze</p>
 1018
 2018-06-02 07:48:39
 2018-06-02 11:48:39
@@ -2228,7 +1912,7 @@ Joyce&## 039;s Reality
 <link>http://www.consultingsmiths.com/joyces-reality/</link>
 Mon, 18 Jun 2018 11:07:32
 http://www.consultingsmiths.com/?p=1021
-<p>"Beckett wrote that Joyce believed fervently in the significance of chance events and of random connections. &rdquo;˜To Joyce reality was a paradigm, an illustration of a possibly unstateable rule&rdquo;¦ According to this rule, reality, no matter how much we try to manipulate it, can only shift about in continual movement, yet movement limited in its possibilities&rdquo;¦&rdquo;™ giving rise to &rdquo;˜the notion of the world where unexpected simultaneities are the rule.&rdquo;™ In other words, a coincidence such as sitting down to dinner with James Joyce is actually just part of a continually moving pattern, like a kaleidoscope. Or Joyce likes to put it, a &rdquo;˜collideorscape&rdquo;™." &mdash; Gabrielle Carey <em><a href="https://sydneyreviewofbooks.com/breaking-james-joyce/" rel="noopener" target="_blank">Breaking Up With James Joyce</a></em>
+<p>"Beckett wrote that Joyce believed fervently in the significance of chance events and of random connections. &rdquo;˜To Joyce reality was a paradigm, an illustration of a possibly unstateable rule&rdquo;¦ According to this rule, reality, no matter how much we try to manipulate it, can only shift about in continual movement, yet movement limited in its possibilities&rdquo;¦&rdquo; giving rise to &rdquo;˜the notion of the world where unexpected simultaneities are the rule.&rdquo; In other words, a coincidence such as sitting down to dinner with James Joyce is actually just part of a continually moving pattern, like a kaleidoscope. Or Joyce likes to put it, a &rdquo;˜collideorscape&rdquo;." &mdash; Gabrielle Carey <em><a href="https://sydneyreviewofbooks.com/breaking-james-joyce/" rel="noopener" target="_blank">Breaking Up With James Joyce</a></em>
 <a href="http://www.consultingsmiths.com/wp-content/uploads/2018/06/MarxRealith.jpg"><img src="http://www.consultingsmiths.com/wp-content/uploads/2018/06/MarxRealith-200x300.jpg" alt="" width="200" height="300" class="alignnone size-medium wp-image-1024" /></a></p>
 1021
 2018-06-18 07:07:32
@@ -2240,7 +1924,7 @@ We Must Sin
 <link>http://www.consultingsmiths.com/we-must-sin/</link>
 Mon, 18 Jun 2018 11:27:48
 http://www.consultingsmiths.com/?p=1026
-<p>"According to Ellman, Joyce&rdquo;™s view of sin was influenced by Hermann Suderman&rdquo;™s play Magda: &rdquo;˜Magda&rdquo;™s philosophy of life may well have helped to shape Joyce&rdquo;™s. As she says, &ldquo;And one thing more, my friend &mdash; sin! We must sin if we wish to grow. To become greater than our sins is worth more than all the purity you preach.&rdquo;&rdquo;™" &mdash; Gabrielle Carey <em><a href="https://sydneyreviewofbooks.com/breaking-james-joyce/" rel="noopener" target="_blank">Breaking Up With James Joyce</a></em>
+<p>"According to Ellman, Joyce&rdquo;s view of sin was influenced by Hermann Suderman&rdquo;s play Magda: &rdquo;˜Magda&rdquo;s philosophy of life may well have helped to shape Joyce&rdquo;s. As she says, &ldquo;And one thing more, my friend &mdash; sin! We must sin if we wish to grow. To become greater than our sins is worth more than all the purity you preach.&rdquo;&rdquo;" &mdash; Gabrielle Carey <em><a href="https://sydneyreviewofbooks.com/breaking-james-joyce/" rel="noopener" target="_blank">Breaking Up With James Joyce</a></em>
 Is the nature of reality binary, dual? Is it in some way Gnostic, in that good deeds have those side effects of evil, and evil deeds have some atom of good? What does Preston Howard have to say about that?
 </p>
 1026
@@ -2265,7 +1949,7 @@ Poetry
 <link>http://www.consultingsmiths.com/1033-2/</link>
 Fri, 29 Jun 2018 16:25:40
 http://www.consultingsmiths.com/?p=1033
-<p>"<strong>John Keating</strong>:  We don&rdquo;™t read and write poetry because it&rdquo;™s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for. To quote from Whitman, &ldquo;O me! O life! &rdquo;¦ of the questions of these recurring; of the endless trains of the faithless &rdquo;¦ of cities filled with the foolish; what good amid these, O me, O life?&rdquo; Answer. That you are here &rdquo;” that life exists, and identity; that the powerful play goes on and you may contribute a verse. That the powerful play *goes on* and you may contribute a verse. What will your verse be?" &mdash; <em>Dead Poets Society (1989)</em> h/t <a href="http://epsilontheory.com/clever-hans/" rel="noopener" target="_blank">Epsilon Theory (Dr. Ben W. Hunt)</a></p>
+<p>"<strong>John Keating</strong>:  We don&rdquo;t read and write poetry because it&rdquo;s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for. To quote from Whitman, &ldquo;O me! O life! &rdquo;¦ of the questions of these recurring; of the endless trains of the faithless &rdquo;¦ of cities filled with the foolish; what good amid these, O me, O life?&rdquo; Answer. That you are here &rdquo;” that life exists, and identity; that the powerful play goes on and you may contribute a verse. That the powerful play *goes on* and you may contribute a verse. What will your verse be?" &mdash; <em>Dead Poets Society (1989)</em> h/t <a href="http://epsilontheory.com/clever-hans/" rel="noopener" target="_blank">Epsilon Theory (Dr. Ben W. Hunt)</a></p>
 1033
 2018-06-29 12:25:40
 2018-06-29 16:25:40
@@ -2310,7 +1994,7 @@ Horrible Old Person
 <link>http://www.consultingsmiths.com/horrible-old-person/</link>
 Sat, 21 Jul 2018 18:28:02
 http://www.consultingsmiths.com/?p=1044
-<p>"I&rdquo;™ve become a horrible person in my old age.  And that goes way beyond falling asleep so hard that I slept through my alarm and left my poor long-suffering blog fans waiting for hours in vain. No, I&rdquo;™ve become one of those terrible people that Heinlein talks about who tell the unvarnished truth in social situations." &mdash; <a href="https://accordingtohoyt.com/2018/07/21/art-and-craft/" rel="noopener" target="_blank">Sarah Hoyt</a>
+<p>"I&rdquo;ve become a horrible person in my old age.  And that goes way beyond falling asleep so hard that I slept through my alarm and left my poor long-suffering blog fans waiting for hours in vain. No, I&rdquo;ve become one of those terrible people that Heinlein talks about who tell the unvarnished truth in social situations." &mdash; <a href="https://accordingtohoyt.com/2018/07/21/art-and-craft/" rel="noopener" target="_blank">Sarah Hoyt</a>
 Mea Culpa &mdash; if not "the unvarnished truth" at least my honest opinion.</p>
 1044
 2018-07-21 14:28:02
@@ -2322,7 +2006,7 @@ Call it George
 <link>http://www.consultingsmiths.com/call-it-george/</link>
 Wed, 01 Aug 2018 15:00:52
 http://www.consultingsmiths.com/?p=1048
-<p>"To write, you have to &rdquo;” to an extent &rdquo;” understand evil.  You don&rdquo;™t have to fondle, pet it, or call it George." &mdash; <a href="https://madgeniusclub.com/2018/08/01/stop-fondling-evil/" rel="noopener" target="_blank">Sarah Hoyt</a></p>
+<p>"To write, you have to &rdquo;” to an extent &rdquo;” understand evil.  You don&rdquo;t have to fondle, pet it, or call it George." &mdash; <a href="https://madgeniusclub.com/2018/08/01/stop-fondling-evil/" rel="noopener" target="_blank">Sarah Hoyt</a></p>
 1048
 2018-08-01 11:00:52
 2018-08-01 15:00:52
@@ -2504,7 +2188,7 @@ Homo Economicus?
 <link>http://www.consultingsmiths.com/homo-economicus/</link>
 Mon, 15 Oct 2018 13:10:55
 http://www.consultingsmiths.com/?p=1097
-<p>"Theological error is at the root of all other errors of the Modern Age. The idea that man&rdquo;™s most fundamental nature is that of a homo economicus, a rational agent whose chief end is material possession, is the common basis of both economic liberalism or capitalism and socialism. At its heart it is a denial of the classical and Christian idea that man has a spiritual as well as a physical nature and that the spiritual ought to rule the animal nature. The idea that most or all of human suffering can be eliminated by reorganizing society economically, socially, and politically is rooted in the ancient heresy of Pelagianism for it is a denial of the fact that since the Fall, human nature itself has been afflicted with the flaw of Original Sin, which is the true source of all human suffering, an affliction for which there is no economic, social, or political cure." &mdash; <a href="http://thronealtarliberty.blogspot.com/2018/09/assorted-reflections.html" rel="noopener" target="_blank">Gerry T. Neal</a></p>
+<p>"Theological error is at the root of all other errors of the Modern Age. The idea that man&rdquo;s most fundamental nature is that of a homo economicus, a rational agent whose chief end is material possession, is the common basis of both economic liberalism or capitalism and socialism. At its heart it is a denial of the classical and Christian idea that man has a spiritual as well as a physical nature and that the spiritual ought to rule the animal nature. The idea that most or all of human suffering can be eliminated by reorganizing society economically, socially, and politically is rooted in the ancient heresy of Pelagianism for it is a denial of the fact that since the Fall, human nature itself has been afflicted with the flaw of Original Sin, which is the true source of all human suffering, an affliction for which there is no economic, social, or political cure." &mdash; <a href="http://thronealtarliberty.blogspot.com/2018/09/assorted-reflections.html" rel="noopener" target="_blank">Gerry T. Neal</a></p>
 1097
 2018-10-15 09:10:55
 2018-10-15 13:10:55
@@ -2528,7 +2212,7 @@ Mon, 15 Oct 2018 13:27:20
 http://www.consultingsmiths.com/?p=1102
 <p>"When the Church emerged from the catacombs after Constantine won the battle of the Milvan Bridge and the Church was no longer persecuted, there came freedom and, worse, respectability. So with this freedom came terrible danger, a danger that is now convulsing the Church, namely what might be called the Imperialization of the Latin West. The pagans poured into the Church. This was a new organization, albeit sacred, where future generations could climb the ladder to power and wealth.<!--more-->
 From the moment that the Roman Church, and to a certain extent the Byzantine Church, took on the bureaucracy of the Roman Empire as a model for its working structures, there was a foothold for the Devil. In the hands of a Gregory the Great it was safe, but when popes, cardinals, and bishops became worldly and ambitious then there was more than a whiff of danger, there were darkness and a terrible thing. What was this terrible thing? It was nothing more and nothing less than the re-crucifying of Christ, not by out and out sinners such as gangsters, murderers, and heartless dictators, but by Popes, bishops, and cardinals, and by far, far too many priests infatuated with ambition, wealth, power, and sensuality.  
-We must reflect profoundly on the fact that the great St. John Chrysostom and the utterly gentle Robert Bellarmine thought that most bishops go to Hell.  We priests are in no better state, as witnessed by that other great saint, Alphonsus Liguori, who said that most priests go to Hell. Today the great temptation among Catholics, and the mainstream Protestant churches, is the First Temptation of Christ; namely, to turn stones into bread.  As long as we are involved solely in the social Gospel, then that is all that is needed.  This Utopian style Christianity best incarnated in Liberation Theology is exactly what Christ speaks against, when Satan tempts Him to assuage his hunger by turning stones into bread. We must in our materialistic age reflect on Christ&rdquo;™s response to Satan, &ldquo;Man shall not live by bread alone, but by every word that proceeds from the mouth of God&rdquo; (Matthew 4: 4 ). When we become engrossed on feeding and clothing the World&rdquo;™s population and getting everyone jobs, noble as this effort is, it is not enough. There is only one thing that is enough, and that is that we give ourselves totally and utterly to God, holding nothing back.  However, because we are human most of us fail miserably, and before long there are programmes put into place that are anything but Christian. 
+We must reflect profoundly on the fact that the great St. John Chrysostom and the utterly gentle Robert Bellarmine thought that most bishops go to Hell.  We priests are in no better state, as witnessed by that other great saint, Alphonsus Liguori, who said that most priests go to Hell. Today the great temptation among Catholics, and the mainstream Protestant churches, is the First Temptation of Christ; namely, to turn stones into bread.  As long as we are involved solely in the social Gospel, then that is all that is needed.  This Utopian style Christianity best incarnated in Liberation Theology is exactly what Christ speaks against, when Satan tempts Him to assuage his hunger by turning stones into bread. We must in our materialistic age reflect on Christ&rdquo;s response to Satan, &ldquo;Man shall not live by bread alone, but by every word that proceeds from the mouth of God&rdquo; (Matthew 4: 4 ). When we become engrossed on feeding and clothing the World&rdquo;s population and getting everyone jobs, noble as this effort is, it is not enough. There is only one thing that is enough, and that is that we give ourselves totally and utterly to God, holding nothing back.  However, because we are human most of us fail miserably, and before long there are programmes put into place that are anything but Christian. 
 God does not ask us to be successful, he asks us to be faithful." &mdash; <a href="https://www.lifesitenews.com/opinion/awake-and-do-your-duty-a-hermits-open-letter-to-catholic-bishops-amid-abuse" rel="noopener" target="_blank">An Anonymous Hermit Priest</a></p>
 1102
 2018-10-15 09:27:20
@@ -2646,9 +2330,9 @@ Democracy
 <link>http://www.consultingsmiths.com/democracy/</link>
 Fri, 14 Dec 2018 22:44:18
 http://www.consultingsmiths.com/?p=1133
-<p>&ldquo;Stephen&rdquo;™s mind wandered away on the subject of authority, its nature, origin, base or bases: authority whether innate of acquired, and if acquired then by what means? Authority as opposed to mere power, how exactly to be defined? Its etymology: its relation to <em>auctor</em>. From these thoughts he was aroused by an expectant silence opposite him, and looking up he saw Dutourd and Vidal looking at him across the table, their forks poised: reaching back in his mind he caught the echo of a question: &lsquo;What do you think of democracy?&rsquo;
+<p>&ldquo;Stephen&rdquo;s mind wandered away on the subject of authority, its nature, origin, base or bases: authority whether innate of acquired, and if acquired then by what means? Authority as opposed to mere power, how exactly to be defined? Its etymology: its relation to <em>auctor</em>. From these thoughts he was aroused by an expectant silence opposite him, and looking up he saw Dutourd and Vidal looking at him across the table, their forks poised: reaching back in his mind he caught the echo of a question: &lsquo;What do you think of democracy?&rsquo;
 &lsquo;The gentleman was asking what you thought of democracy, sir,&rsquo; said Vidal, smiling.
-&lsquo;Alas I cannot tell you, sir,&rsquo; said Stephen, returning the smile. &lsquo;For although it would not be proper to call this barque or vessel a King&rdquo;™s ship except in the largest sense, we nevertheless adhere strictly to the naval tradition which forbids discussion of religion, women, or politics in our mess. It has been objected that this rule makes insipidity, which may be so; yet on the other hand it has it uses, since in this case for example it prevents any member from wounding any other gentleman present by saying that he did not think the policy that put Socrates to death and that left Athens prostrate was the highest expression of human wisdom, or by quoting Aristotle&rdquo;™s definition of democracy as mob rule, the depraved version of a commonwealth.&rsquo;&rdquo; &mdash; Patrick O&rsquo;Brien, <em>The Wine-Dark Sea</em></p>
+&lsquo;Alas I cannot tell you, sir,&rsquo; said Stephen, returning the smile. &lsquo;For although it would not be proper to call this barque or vessel a King&rdquo;s ship except in the largest sense, we nevertheless adhere strictly to the naval tradition which forbids discussion of religion, women, or politics in our mess. It has been objected that this rule makes insipidity, which may be so; yet on the other hand it has it uses, since in this case for example it prevents any member from wounding any other gentleman present by saying that he did not think the policy that put Socrates to death and that left Athens prostrate was the highest expression of human wisdom, or by quoting Aristotle&rdquo;s definition of democracy as mob rule, the depraved version of a commonwealth.&rsquo;&rdquo; &mdash; Patrick O&rsquo;Brien, <em>The Wine-Dark Sea</em></p>
 1133
 2018-12-14 17:44:18
 2018-12-14 22:44:18
@@ -2719,8 +2403,8 @@ Profination
 <link>http://www.consultingsmiths.com/profination/</link>
 Sat, 22 Dec 2018 17:03:16
 http://www.consultingsmiths.com/?p=1149
-<p>&ldquo;St. Mary&rdquo;™s Church in Dublin, Ireland, built at the beginning of the 18th century and closed in 1964, was abandoned for a number of years until it was bought and transformed into a restaurant and bar in 1997. The transformation was given the Dublin City Neighborhood Awards 2006, where it won first prize in the category of Best Old Building. Now it goes by the name of The Church Bar and Restaurant.
-&ldquo;The travel destinations section of The Telegraph (London) notes that, at the historic heart of Assisi, Italy, you may enjoy the <em>Nun Assisi Relais and Spa and Museum</em>: &ldquo;This stylish convent-turned-design-hotel enjoys a quiet spot in the historical heart of Assisi. An inspired renovation not only transformed the 13th-century structure into a sleek, minimalist haven; but also uncovered the ruins of a Roman amphitheater &mdash; now home to an atmospheric &rdquo;˜spa museum&rdquo;™.&rdquo;
+<p>&ldquo;St. Mary&rdquo;s Church in Dublin, Ireland, built at the beginning of the 18th century and closed in 1964, was abandoned for a number of years until it was bought and transformed into a restaurant and bar in 1997. The transformation was given the Dublin City Neighborhood Awards 2006, where it won first prize in the category of Best Old Building. Now it goes by the name of The Church Bar and Restaurant.
+&ldquo;The travel destinations section of The Telegraph (London) notes that, at the historic heart of Assisi, Italy, you may enjoy the <em>Nun Assisi Relais and Spa and Museum</em>: &ldquo;This stylish convent-turned-design-hotel enjoys a quiet spot in the historical heart of Assisi. An inspired renovation not only transformed the 13th-century structure into a sleek, minimalist haven; but also uncovered the ruins of a Roman amphitheater &mdash; now home to an atmospheric &rdquo;˜spa museum&rdquo;.&rdquo;
 &ldquo;Can ecclesiastical buildings be recycled, re-purposed, or transformed without profanation?&rdquo; &mdash; <a href="https://www.thecatholicthing.org/2018/12/13/are-churches-easily-dispensable/" rel="noopener" target="_blank">Ines A. Murzaku</a></p>
 1149
 2018-12-22 12:03:16
@@ -2788,7 +2472,7 @@ The State of Current Science
 <link>http://www.consultingsmiths.com/the-state-of-current-science/</link>
 Tue, 15 Jan 2019 02:56:22
 http://www.consultingsmiths.com/?p=1166
-<p>&ldquo;Modern, Linear Faustian Science has run it&rdquo;™s course. The decline is obviously visible when the spokesmanship passes from Albert Einstein to Carl Sagan to Neil DeGrasse Tyson. It&rdquo;™s been about 40 years since we really smashed through any scientific barriers. &rdquo; &mdash; <a href="http://www.amerika.org/politics/periscope-january-11-2019/" rel="noopener" target="_blank">Jonathan Wilkinson</a></p>
+<p>&ldquo;Modern, Linear Faustian Science has run it&rdquo;s course. The decline is obviously visible when the spokesmanship passes from Albert Einstein to Carl Sagan to Neil DeGrasse Tyson. It&rdquo;s been about 40 years since we really smashed through any scientific barriers. &rdquo; &mdash; <a href="http://www.amerika.org/politics/periscope-january-11-2019/" rel="noopener" target="_blank">Jonathan Wilkinson</a></p>
 1166
 2019-01-14 21:56:22
 2019-01-15 02:56:22
@@ -2799,26 +2483,26 @@ Judging
 <link>http://www.consultingsmiths.com/judging/</link>
 Fri, 18 Jan 2019 13:03:41
 http://www.consultingsmiths.com/?p=1169
-<p>&ldquo;Today&rdquo;™s &ldquo;let&rdquo;™s all get along, not judge or challenge anyone&rdquo; groupthink also reminds me of a major scene sequence in Milos Forman&rdquo;™s adaptation of Ken Kesey&rdquo;™s 1962 novel <em>One Flew Over the Cuckoo&rdquo;™s Nest</em>.
-&ldquo;Jack Nicholson portrays R.P. McMurphy, a good time Charlie with authority figure issues. He&rdquo;™s playing crazy at a maximum-security insane asylum to get out of a work detail jail sentence. Years ago, they sentenced petty criminals to hard labor. I remember as a kid being in the backseat driving South and watching chain gangs cutting overgrown brush on the median of I95&rdquo;”Donn Pearce must have seen them too. He wrote <em>Cool Hand Luke</em>.
+<p>&ldquo;Today&rdquo;s &ldquo;let&rdquo;s all get along, not judge or challenge anyone&rdquo; groupthink also reminds me of a major scene sequence in Milos Forman&rdquo;s adaptation of Ken Kesey&rdquo;s 1962 novel <em>One Flew Over the Cuckoo&rdquo;s Nest</em>.
+&ldquo;Jack Nicholson portrays R.P. McMurphy, a good time Charlie with authority figure issues. He&rdquo;s playing crazy at a maximum-security insane asylum to get out of a work detail jail sentence. Years ago, they sentenced petty criminals to hard labor. I remember as a kid being in the backseat driving South and watching chain gangs cutting overgrown brush on the median of I95&rdquo;”Donn Pearce must have seen them too. He wrote <em>Cool Hand Luke</em>.
 <!--more-->
-&ldquo;McMurphy&rdquo;™s Moriarty is Nurse Ratched, the head nurse in the asylum. Louise Fletcher played this role so brilliantly&rdquo;”all ice and pursed lips&rdquo;”she had difficulty finding work after winning the Oscar for it.
+&ldquo;McMurphy&rdquo;s Moriarty is Nurse Ratched, the head nurse in the asylum. Louise Fletcher played this role so brilliantly&rdquo;”all ice and pursed lips&rdquo;”she had difficulty finding work after winning the Oscar for it.
 &ldquo;One afternoon, during an interminable group therapy session, McMurphy requests that the guys be allowed to watch the World Series that evening. Knowing that the last thing the other men would want to do is stand up and challenge the way she rules her kingdom, Ratched sees an opportunity to put McMurphy in his place.
-&ldquo;She&rdquo;™ll put the request up to a vote.
+&ldquo;She&rdquo;ll put the request up to a vote.
 &ldquo;McMurphy sticks his hand up to vote &ldquo;yea&rdquo; assuming that his fellow patients will come to the same conclusion that he has.  By simply raising their arms, together the men can let this lady know that denying a simple pleasure like watching a ball game to a bunch of lunatics is absurd.
 &ldquo;Which one of you nuts has any guts?
-&ldquo;The needy fuser Cheswick is the only other one who has the courage to challenge Nurse Ratched&rdquo;™s command. Meeting adjourned. The men are then shuttled into the shower room for their evening cleaning. McMurphy is out of his mind with anger.
-&ldquo;If you&rdquo;™re a writer, this scene is a perfect example of a set-up that dramatically portrays a character&rdquo;™s inner change.  How does Ken Kesey pay it off?
-&ldquo;From the first moment McMurphy lays eyes on Ratched, the reader/viewer knows he judges her as rotten to the core. McMurphy is not afraid to judge. His problem is that he acts on his judgments too quickly. That&rdquo;™s what got him in the clink in the first place.
-&ldquo;In the nuthouse, though, he is forced to keep the judgment to himself. He&rdquo;™s supposed to be crazy! And to McMurphy, only crazy people don&rdquo;™t judge, so he shouldn&rdquo;™t either.
-&ldquo;But when the evidence of Ratched&rdquo;™s evil is incontrovertible to him, he can&rdquo;™t help himself but act. He&rdquo;™s the novel&rdquo;™s protagonist. He&rdquo;™s the hero. If he doesn&rdquo;™t act on his judgments, there&rdquo;™s no story.
+&ldquo;The needy fuser Cheswick is the only other one who has the courage to challenge Nurse Ratched&rdquo;s command. Meeting adjourned. The men are then shuttled into the shower room for their evening cleaning. McMurphy is out of his mind with anger.
+&ldquo;If you&rdquo;re a writer, this scene is a perfect example of a set-up that dramatically portrays a character&rdquo;s inner change.  How does Ken Kesey pay it off?
+&ldquo;From the first moment McMurphy lays eyes on Ratched, the reader/viewer knows he judges her as rotten to the core. McMurphy is not afraid to judge. His problem is that he acts on his judgments too quickly. That&rdquo;s what got him in the clink in the first place.
+&ldquo;In the nuthouse, though, he is forced to keep the judgment to himself. He&rdquo;s supposed to be crazy! And to McMurphy, only crazy people don&rdquo;t judge, so he shouldn&rdquo;t either.
+&ldquo;But when the evidence of Ratched&rdquo;s evil is incontrovertible to him, he can&rdquo;t help himself but act. He&rdquo;s the novel&rdquo;s protagonist. He&rdquo;s the hero. If he doesn&rdquo;t act on his judgments, there&rdquo;s no story.
 &ldquo;Kesey could have made any number of choices with this scene. He could have had McMurphy act selfishly, like a child, and physically attack a guard or an inmate or himself. Something the character has a reputation for doing earlier in his life.
-&ldquo;Instead, for the first time (and the perfect time) Kesey has his character act beyond himself. He changes his behavior. McMurphy sees that these men have it within themselves to judge Ratched as a tyrant. If he can make them understand how important it is to make a judgment and to act on that judgment&rdquo;”even if it puts them in harm&rdquo;™s way&rdquo;”he will help them. And helping them will help him bring down tyranny. He&rdquo;™ll win.
+&ldquo;Instead, for the first time (and the perfect time) Kesey has his character act beyond himself. He changes his behavior. McMurphy sees that these men have it within themselves to judge Ratched as a tyrant. If he can make them understand how important it is to make a judgment and to act on that judgment&rdquo;”even if it puts them in harm&rdquo;s way&rdquo;”he will help them. And helping them will help him bring down tyranny. He&rdquo;ll win.
 &ldquo;McMurphy, already known as a consummate hustler, challenges all of the men to take a bet. He puts all of his money on his succeeding. He will pick up a thousand pound marble bathroom vanity, throw it through the barred window, walk to a nearby bar with his buddy Cheswick, wet his whistle and watch Mickey Mantle play in the World Series&rdquo;¦Who wants some of this action?
-&ldquo;He&rdquo;™s so convincing that only the most cynical among them take his bet.
-&ldquo;Playing McMurphy as only he could play him, Jack Nicholson grabs the edges of the vanity, squats and surges into the plumbing. He turns blue from effort.  He commits to the action, gives it his best shot. When he&rdquo;™s drenched with sweat, spent and defeated, he walks out of the room.  But not before turning to the stunned assemblage and saying:
+&ldquo;He&rdquo;s so convincing that only the most cynical among them take his bet.
+&ldquo;Playing McMurphy as only he could play him, Jack Nicholson grabs the edges of the vanity, squats and surges into the plumbing. He turns blue from effort.  He commits to the action, gives it his best shot. When he&rdquo;s drenched with sweat, spent and defeated, he walks out of the room.  But not before turning to the stunned assemblage and saying:
 &ldquo;&ldquo;At least I tried.&rdquo;
-&ldquo;As a child in the 60s and 70s, I was raised on stories like this. (I wish we had more of them today) And they&rdquo;™ve had a profound influence. This is why art is so important.
+&ldquo;As a child in the 60s and 70s, I was raised on stories like this. (I wish we had more of them today) And they&rdquo;ve had a profound influence. This is why art is so important.
 &ldquo;These stories taught me that to passively disengage for fear of reprisal is cowardly. Making a judgment, taking a stand and then acting against an injustice or acting to support excellence is the stuff of the everyman hero.&rdquo; &amp;mdash: <a href="https://stevenpressfield.com/2019/01/art-and-polarity/" rel="noopener" target="_blank">Shawn Coyne</a></p>
 1169
 2019-01-18 08:03:41
@@ -2831,13 +2515,13 @@ Problems and Boundaries
 Fri, 18 Jan 2019 13:24:06
 http://www.consultingsmiths.com/?p=1175
 <p>&ldquo;All problems have solutions.
-&ldquo;That&rdquo;™s what makes them problems.
-&ldquo;The solution might involve trade-offs or expenses that you don&rdquo;™t want to incur. You might choose not to solve the problem. But there is a solution. Perhaps you haven&rdquo;™t found it yet. Perhaps you need to do more research or make some tradeoffs in what you&rdquo;™re hoping for.
-&ldquo;If there is no solution, then it&rdquo;™s not a problem.
-&ldquo;It&rdquo;™s a regrettable situation. It&rdquo;™s a boundary condition. It&rdquo;™s something you&rdquo;™ll need to live with.
-&ldquo;Which might be no fun, but there&rdquo;™s no sense in worrying about it or spending time or money on it, because it&rdquo;™s not a problem.
-&ldquo;&ldquo;I want to go to the wedding, but it&rdquo;™s a thousand miles away.&rdquo; That&rdquo;™s a problem. You can solve it with a plane ticket and some cancelled plans.
-&ldquo;&ldquo;I want to go to the wedding, but I&rdquo;™m not willing to cancel my meeting.&rdquo; That&rdquo;™s not a problem. That&rdquo;™s an unavoidable conflict. If you need to violate a law of physics to get out of a situation, it&rdquo;™s not a problem. But you&rdquo;™ve already given up turning it into a problem, so it doesn&rdquo;™t pay to pretend it&rdquo;™s solvable.
+&ldquo;That&rdquo;s what makes them problems.
+&ldquo;The solution might involve trade-offs or expenses that you don&rdquo;t want to incur. You might choose not to solve the problem. But there is a solution. Perhaps you haven&rdquo;t found it yet. Perhaps you need to do more research or make some tradeoffs in what you&rdquo;re hoping for.
+&ldquo;If there is no solution, then it&rdquo;s not a problem.
+&ldquo;It&rdquo;s a regrettable situation. It&rdquo;s a boundary condition. It&rdquo;s something you&rdquo;ll need to live with.
+&ldquo;Which might be no fun, but there&rdquo;s no sense in worrying about it or spending time or money on it, because it&rdquo;s not a problem.
+&ldquo;&ldquo;I want to go to the wedding, but it&rdquo;s a thousand miles away.&rdquo; That&rdquo;s a problem. You can solve it with a plane ticket and some cancelled plans.
+&ldquo;&ldquo;I want to go to the wedding, but I&rdquo;m not willing to cancel my meeting.&rdquo; That&rdquo;s not a problem. That&rdquo;s an unavoidable conflict. If you need to violate a law of physics to get out of a situation, it&rdquo;s not a problem. But you&rdquo;ve already given up turning it into a problem, so it doesn&rdquo;t pay to pretend it&rdquo;s solvable.
 &ldquo;Once we can walk away from unsolvable situations that pretend to be problems, we can focus our energy on the real problems in front of us.&rdquo; &mdash; <a href="https://seths.blog/2019/01/problems-and-boundaries/" rel="noopener" target="_blank">Seth Godin</a></p>
 1175
 2019-01-18 08:24:06
@@ -2861,7 +2545,7 @@ Incredibly Stupid Smart People
 <link>http://www.consultingsmiths.com/incredibly-stupid-smart-people/</link>
 Thu, 24 Jan 2019 19:44:03
 http://www.consultingsmiths.com/?p=1180
-<p>&ldquo;The great Greg Cochran will often point out that a smart person is someone who says smart things, but more important, they don&rdquo;™t say many dumb things. Everyone, no matter how smart, will get a dumb idea in their head or get carried away and say something stupid on occasion. It&rdquo;™s just not common with smart people, at least not as common as it is with dumb people. Being smart is as much the absence of stupidity as it is getting right answers or having a long list of brilliant insights.
+<p>&ldquo;The great Greg Cochran will often point out that a smart person is someone who says smart things, but more important, they don&rdquo;t say many dumb things. Everyone, no matter how smart, will get a dumb idea in their head or get carried away and say something stupid on occasion. It&rdquo;s just not common with smart people, at least not as common as it is with dumb people. Being smart is as much the absence of stupidity as it is getting right answers or having a long list of brilliant insights.
 &ldquo;This comes up often in public discussion of the human sciences. It is remarkable how often an allegedly smart person will say things that are laughably wrong about something in biology or human evolution.&rdquo;
 It's worth reading the rest at: <a href="http://thezman.com/wordpress/?p=16243" rel="noopener" target="_blank">The Z Man</a> blog.</p>
 1180
@@ -3005,7 +2689,7 @@ Fathers and Sons
 <link>http://www.consultingsmiths.com/fathers-and-sons/</link>
 Fri, 01 Mar 2019 16:31:26
 http://www.consultingsmiths.com/?p=1208
-<p>&ldquo;And in that moment Sherman made the terrible discovery that men make about their fathers sooner or later. For the first time he realized that the man before him was not an aging father but a boy, a boy much like himself, a boy who grew up and had a child of his own and, as best he could, out of a sense of duty and, perhaps, love, adopted a role called Being a Father so that his child would have something mythical and infinitely important: a Protector, who would keep a lid on all the chaotic and catastrophic possibilities of life. And now that boy, that good actor, had grown old and fragile and tired, wearier than ever at the thought of trying to hoist the Protector&rdquo;™s armor back onto his shoulders again, now, so far down the line.&rdquo; &mdash; Tom Wolfe <em>Bonfire of the Vanities</em></p>
+<p>&ldquo;And in that moment Sherman made the terrible discovery that men make about their fathers sooner or later. For the first time he realized that the man before him was not an aging father but a boy, a boy much like himself, a boy who grew up and had a child of his own and, as best he could, out of a sense of duty and, perhaps, love, adopted a role called Being a Father so that his child would have something mythical and infinitely important: a Protector, who would keep a lid on all the chaotic and catastrophic possibilities of life. And now that boy, that good actor, had grown old and fragile and tired, wearier than ever at the thought of trying to hoist the Protector&rdquo;s armor back onto his shoulders again, now, so far down the line.&rdquo; &mdash; Tom Wolfe <em>Bonfire of the Vanities</em></p>
 1208
 2019-03-01 11:31:26
 2019-03-01 16:31:26
@@ -3016,7 +2700,7 @@ Boring and Dangerous
 <link>http://www.consultingsmiths.com/boring-and-dangerous/</link>
 Wed, 06 Mar 2019 13:57:52
 http://www.consultingsmiths.com/?p=1211
-<p>&ldquo;Life is intrinsically, well, boring and dangerous at the same time &rdquo;¦ At any given moment the floor may open up. Of course, it almost never does; that&rdquo;™s what makes it so boring.&rdquo; &mdash; Edward J. Gorey</p>
+<p>&ldquo;Life is intrinsically, well, boring and dangerous at the same time &rdquo;¦ At any given moment the floor may open up. Of course, it almost never does; that&rdquo;s what makes it so boring.&rdquo; &mdash; Edward J. Gorey</p>
 1211
 2019-03-06 08:57:52
 2019-03-06 13:57:52
@@ -3027,7 +2711,7 @@ Magic
 <link>http://www.consultingsmiths.com/magic/</link>
 Mon, 11 Mar 2019 10:27:15
 http://www.consultingsmiths.com/?p=1213
-<p>&ldquo;You could say that &rdquo;˜magic&rdquo;™ is a recognition that you have been underestimating the world, assuming that it is boring and limited when it is your own mind that is bored and limited. And this is important, for it brings the great fundamental insight, the insight that has come to all mystics and poets : that a large part of man&rdquo;™s misery and pain is his own fault. For nearly three thousand years, cynical philosophers have been declaring that human life is disappointing and brief and miserable, and that the wise man has no objection to dying. But moments of &rdquo;˜magic&rdquo;™ bring a clear recognition that the world &rdquo;˜out there&rdquo;™ is infinitely interesting &mdash; so interesting that if we could &rdquo;˜turn on&rdquo;™ the magic at will, we would probably live for ever &mdash; or at least, want to. The magic doesn&rdquo;™t get in past our senses, which have thick filters on them. Blake recognised that it is as if man lived in a cold, damp cave, when outside there is warm sunlight and fresh air. &rdquo;˜Five windows light the caverned man, through one he breathes the air . . .&rdquo;™&rdquo; &mdash; William Arkle <em>A Geography of Consciousness<em></p>
+<p>&ldquo;You could say that &rdquo;˜magic&rdquo; is a recognition that you have been underestimating the world, assuming that it is boring and limited when it is your own mind that is bored and limited. And this is important, for it brings the great fundamental insight, the insight that has come to all mystics and poets : that a large part of man&rdquo;s misery and pain is his own fault. For nearly three thousand years, cynical philosophers have been declaring that human life is disappointing and brief and miserable, and that the wise man has no objection to dying. But moments of &rdquo;˜magic&rdquo; bring a clear recognition that the world &rdquo;˜out there&rdquo; is infinitely interesting &mdash; so interesting that if we could &rdquo;˜turn on&rdquo; the magic at will, we would probably live for ever &mdash; or at least, want to. The magic doesn&rdquo;t get in past our senses, which have thick filters on them. Blake recognised that it is as if man lived in a cold, damp cave, when outside there is warm sunlight and fresh air. &rdquo;˜Five windows light the caverned man, through one he breathes the air . . .&rdquo;&rdquo; &mdash; William Arkle <em>A Geography of Consciousness<em></p>
 1213
 2019-03-11 06:27:15
 2019-03-11 10:27:15
@@ -3085,9 +2769,9 @@ axiomatic
 <link>http://www.consultingsmiths.com/sloth/</link>
 Mon, 08 Apr 2019 02:40:41
 http://www.consultingsmiths.com/?p=1228
-<p>&ldquo;One of the more misunderstood of the cardinal sins is sloth. Most see it merely as laziness, but there is more to it than that. Let&rdquo;™s take a moment and consider some aspects of this cardinal sin.
+<p>&ldquo;One of the more misunderstood of the cardinal sins is sloth. Most see it merely as laziness, but there is more to it than that. Let&rdquo;s take a moment and consider some aspects of this cardinal sin.
 &ldquo;The Greek word we translate as sloth is á¼€ÎºÎ·Î´Î¯Î± akedia (a = absence + kedos = care), meaning indifference or negligence. St. Thomas Aquinas speaks of sloth as sorrow for spiritual good. By it, we shun spiritual good as too toilsome (cf Summa Theologica II-II 35,2).
-&ldquo;Some modern commentators describe sloth as a &ldquo;don&rdquo;™t care&rdquo; feeling. Some even say it is a kind of falling out of love with God and the things of God (cf Rev 2:4). On account of sloth, the idea of right living and the gift of a transformed humanity inspires not joy, but aversion or even disgust because it is seen as too difficult or as requiring the setting aside of currently enjoyed or sinful pleasures. Through sloth, many experience sorrow rather than joy or zeal in following God and receiving a transformed human life. They are distressed at the prospect of what might have to occur should they embrace the faith more deeply.
+&ldquo;Some modern commentators describe sloth as a &ldquo;don&rdquo;t care&rdquo; feeling. Some even say it is a kind of falling out of love with God and the things of God (cf Rev 2:4). On account of sloth, the idea of right living and the gift of a transformed humanity inspires not joy, but aversion or even disgust because it is seen as too difficult or as requiring the setting aside of currently enjoyed or sinful pleasures. Through sloth, many experience sorrow rather than joy or zeal in following God and receiving a transformed human life. They are distressed at the prospect of what might have to occur should they embrace the faith more deeply.
 &ldquo;Sloth also tends to dismiss the power of grace, focusing instead on the &ldquo;trouble&rdquo; or effort involved in walking in the Christian way.
 &ldquo;Sloth is not merely laziness; it is more properly understood as sorrow or indifference. While sloth may sometimes look like boredom and a casual laziness toward attaining spiritual good, it can also be manifested by a frantic &ldquo;busyness&rdquo; with worldly things so as to avoid spiritual questions or living a reflective life.&rdquo; &mdash; <a href="http://blog.adw.org/2019/04/seven-deadly-sins-sloth/" rel="noopener noreferrer" target="_blank">Msgr. Charles Pope</a></p>
 1228
@@ -3116,7 +2800,7 @@ Fri, 12 Apr 2019 11:32:45
 &ldquo;I was emptying the dishwasher, holding both small clean bowls in one hand. One of them slipped, and I watched, aghast, as it started to fall in slow motion toward the hard kitchen floor.
 &ldquo;In a valiant but vain attempt to miraculously catch the bowl, I dropped the second one as well.
 &ldquo;Now both were gone.
-&ldquo;Often, the best thing to do with a lost cause is to let it go. Because pursuing it gets in the way of the causes you haven&rdquo;™t lost yet.&rdquo; &mdash; <a href="https://seths.blog/2019/04/the-second-bowl/" rel="noopener noreferrer" target="_blank">Seth Godin</a>
+&ldquo;Often, the best thing to do with a lost cause is to let it go. Because pursuing it gets in the way of the causes you haven&rdquo;t lost yet.&rdquo; &mdash; <a href="https://seths.blog/2019/04/the-second-bowl/" rel="noopener noreferrer" target="_blank">Seth Godin</a>
 2019-04-12 07:32:45
 2019-04-12 11:32:45
 
