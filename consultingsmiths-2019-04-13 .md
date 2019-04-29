@@ -1870,65 +1870,42 @@ Thu, 14 Feb 2019 15:22:26
 &ldquo;God is not a lesson plan or an intellectual construct. God is not one more thing to do well at, God is someone&mdash;or something&mdash;we meet, each in our own way.&rdquo;&mdash;Julia Cameron, <em>God Is No Laughing Matter</em>
 
 ## Seen Online
-<link>http://www.consultingsmiths.com/seen-online/</link>
 Mon, 25 Feb 2019 13:37:03
-http://www.consultingsmiths.com/?p=1206
+
 youngster: "You were online 30 years ago?  Was it different back then?"
+
 me: [silence]
+
 youngster: "Well?"
+
 me: "We didn't pretend we were doing anything important."
+
 David's comment -- well, some of it seemed important&mdash;it was for work, after all, but mostly, yeah.
-1206
-2019-02-25 08:37:03
-2019-02-25 13:37:03
-seen-online
-2
+
 ## Fathers and Sons
-<link>http://www.consultingsmiths.com/fathers-and-sons/</link>
 Fri, 01 Mar 2019 16:31:26
-http://www.consultingsmiths.com/?p=1208
+
 &ldquo;And in that moment Sherman made the terrible discovery that men make about their fathers sooner or later. For the first time he realized that the man before him was not an aging father but a boy, a boy much like himself, a boy who grew up and had a child of his own and, as best he could, out of a sense of duty and, perhaps, love, adopted a role called Being a Father so that his child would have something mythical and infinitely important: a Protector, who would keep a lid on all the chaotic and catastrophic possibilities of life. And now that boy, that good actor, had grown old and fragile and tired, wearier than ever at the thought of trying to hoist the Protector&rdquo;s armor back onto his shoulders again, now, so far down the line.&rdquo;&mdash;Tom Wolfe <em>Bonfire of the Vanities</em>
-1208
-2019-03-01 11:31:26
-2019-03-01 16:31:26
-fathers-and-sons
-2
+
 ## Boring and Dangerous
-<link>http://www.consultingsmiths.com/boring-and-dangerous/</link>
 Wed, 06 Mar 2019 13:57:52
-http://www.consultingsmiths.com/?p=1211
+
 &ldquo;Life is intrinsically, well, boring and dangerous at the same time &rdquo;¦ At any given moment the floor may open up. Of course, it almost never does; that&rdquo;s what makes it so boring.&rdquo;&mdash;Edward J. Gorey
-1211
-2019-03-06 08:57:52
-2019-03-06 13:57:52
-boring-and-dangerous
-2
+
 ## Magic
-<link>http://www.consultingsmiths.com/magic/</link>
 Mon, 11 Mar 2019 10:27:15
-http://www.consultingsmiths.com/?p=1213
+
 &ldquo;You could say that &rdquo;˜magic&rdquo; is a recognition that you have been underestimating the world, assuming that it is boring and limited when it is your own mind that is bored and limited. And this is important, for it brings the great fundamental insight, the insight that has come to all mystics and poets : that a large part of man&rdquo;s misery and pain is his own fault. For nearly three thousand years, cynical philosophers have been declaring that human life is disappointing and brief and miserable, and that the wise man has no objection to dying. But moments of &rdquo;˜magic&rdquo; bring a clear recognition that the world &rdquo;˜out there&rdquo; is infinitely interesting&mdash;so interesting that if we could &rdquo;˜turn on&rdquo; the magic at will, we would probably live for ever&mdash;or at least, want to. The magic doesn&rdquo;t get in past our senses, which have thick filters on them. Blake recognised that it is as if man lived in a cold, damp cave, when outside there is warm sunlight and fresh air. &rdquo;˜Five windows light the caverned man, through one he breathes the air . . .&rdquo;&rdquo;&mdash;William Arkle <em>A Geography of Consciousness</em>
-1213
-2019-03-11 06:27:15
-2019-03-11 10:27:15
-magic
-2
+
 ## Ressentiment
-<link>http://www.consultingsmiths.com/ressentiment/</link>
 Sun, 17 Mar 2019 01:18:54
-http://www.consultingsmiths.com/?p=1218
+
 &ldquo;Ressentiment is a self-poisoning of the mind which has quite definite causes and consequences. It is a lasting mental attitude, caused by the systematic repression of certain emotions and affects which, as such, are normal components of human nature. Their repression leads to the constant tendency to indulge in certain kinds of value delusions and corresponding value judgments. The emotions and affects primarily concerned are revenge, hatred, malice, envy, the impulse to detract, and spite.&rdquo;&mdash;Max Scheler <em><a href="https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Scheller/Ressentiment.pdf" rel="noopener" target="_blank">Ressentiment</a></em>
 H/T <a href="https://www.francisberger.com/bergers-blog/resentment-the-hate-fueling-contemporary-conceptions-of-love" rel="noopener" target="_blank">Francis Berger</a>
-1218
-2019-03-16 21:18:54
-2019-03-17 01:18:54
-ressentiment
-<category domain="category" nicename="thefaith">The Faith</category>
-2
+
 ## Increasingly Meaningless Words and Phrases
-<link>http://www.consultingsmiths.com/increasingly-meaningless-words-and-phrases/</link>
 Thu, 21 Mar 2019 22:58:49
-http://www.consultingsmiths.com/?p=1221
+
 &ldquo;As far as I can tell, the words contained in the list below no longer define what they are meant to define.  
 <ul>
 <li>moral authority</li>
@@ -1941,68 +1918,62 @@ http://www.consultingsmiths.com/?p=1221
 </ul>
 I hear these words repeated ad nauseam every day, yet I rarely perceive the things they are meant to delineate.
 &rdquo;‹What a truly confusing time to be alive.&rdquo;&mdash;<a href="https://www.francisberger.com/bergers-blog/increasingly-amorphous-words-and-phrases" rel="noopener" target="_blank">Francis Berger</a>
-1221
-2019-03-21 18:58:49
-2019-03-21 22:58:49
-increasingly-meaningless-words-and-phrases
-2
+
 ## Axiomatic
-<link>http://www.consultingsmiths.com/axiomatic/</link>
 Sun, 24 Mar 2019 12:17:57
-http://www.consultingsmiths.com/?p=1225
+
 &ldquo;There are some things that cannot be verified, or falsified. These would include all axioms of logic; even those of post-modern &ldquo;paraconsistent&rdquo; logics, wherein the very Law of Non-Contradiction is (implausibly) denied, but which are axiomatic on their own terms. We are out the door of &ldquo;science&rdquo; when we discuss logic; or the principles of mathematics for that matter. All we can say is that the world makes sense on axioms; and not otherwise.
 &ldquo;For science, or human knowledge more broadly, God is not an hypothesis, but an Axiom. Start in Aristotle, if you will, to see that the world has no purchase on sense, without the Unmoved Mover. The &ldquo;Five Ways&rdquo; by which the inevitability of God was demonstrated by Thomas Aquinas, and the related ways in which this was done by others before and after him, are easily misunderstood, because they are not proofs of an hypothesis but recursions. They show that, without that &ldquo;God Axiom,&rdquo; there can be no causation, no change, no being in itself, no gradation, no direction to an end. We need a Still Point, from which to depart. It cannot be hypothesized. It is too simple for that. You need to assume it even to contradict it.&rdquo;&mdash;<a href="https://www.davidwarrenonline.com/2019/03/23/the-cosmic-duh/" rel="noopener noreferrer" target="_blank">David Warren</a>
-1225
-2019-03-24 08:17:57
-2019-03-24 12:17:57
-axiomatic
-<category domain="category" nicename="thefaith">The Faith</category>
-2
+
 ## Sloth
 <link>http://www.consultingsmiths.com/sloth/</link>
 Mon, 08 Apr 2019 02:40:41
-http://www.consultingsmiths.com/?p=1228
+
 &ldquo;One of the more misunderstood of the cardinal sins is sloth. Most see it merely as laziness, but there is more to it than that. Let&rdquo;s take a moment and consider some aspects of this cardinal sin.
+
 &ldquo;The Greek word we translate as sloth is á¼€ÎºÎ·Î´Î¯Î± akedia (a = absence + kedos = care), meaning indifference or negligence. St. Thomas Aquinas speaks of sloth as sorrow for spiritual good. By it, we shun spiritual good as too toilsome (cf Summa Theologica II-II 35,2).
+
 &ldquo;Some modern commentators describe sloth as a &ldquo;don&rdquo;t care&rdquo; feeling. Some even say it is a kind of falling out of love with God and the things of God (cf Rev 2:4). On account of sloth, the idea of right living and the gift of a transformed humanity inspires not joy, but aversion or even disgust because it is seen as too difficult or as requiring the setting aside of currently enjoyed or sinful pleasures. Through sloth, many experience sorrow rather than joy or zeal in following God and receiving a transformed human life. They are distressed at the prospect of what might have to occur should they embrace the faith more deeply.
+
 &ldquo;Sloth also tends to dismiss the power of grace, focusing instead on the &ldquo;trouble&rdquo; or effort involved in walking in the Christian way.
+
 &ldquo;Sloth is not merely laziness; it is more properly understood as sorrow or indifference. While sloth may sometimes look like boredom and a casual laziness toward attaining spiritual good, it can also be manifested by a frantic &ldquo;busyness&rdquo; with worldly things so as to avoid spiritual questions or living a reflective life.&rdquo;&mdash;<a href="http://blog.adw.org/2019/04/seven-deadly-sins-sloth/" rel="noopener noreferrer" target="_blank">Msgr. Charles Pope</a>
-1228
-2019-04-07 22:40:41
-2019-04-08 02:40:41
-sloth
-<category domain="category" nicename="thefaith">The Faith</category>
-2
+
 ## History
-<link>http://www.consultingsmiths.com/history/</link>
 Tue, 09 Apr 2019 15:51:12
-http://www.consultingsmiths.com/?p=1231
+
 &ldquo;What with history being rewritten so often, nobody knows what is true anymore. They lose track of who is an enemy and who an ally. It&rsquo;s that kind of story.&rdquo;
+
 &ldquo;&ldquo;They rewrite history.&rdquo;
+
 &ldquo;&ldquo;Robbing people of their actual history is the same as robbing them of part of themselves. It&rsquo;s a crime.&rdquo;
+
 &ldquo;Fuka-Eri thought about that for a moment.
+
 &ldquo;Tengo went on, &ldquo;Our memory is made up of our individual memories and our collective memories. The two are intimately linked. And history is our collective memory. If our collective memory is taken from us&mdash;is rewritten&mdash;we lose the ability to sustain our true selves.&rdquo;&rdquo;&mdash;Haruki Murakami <em>1Q84</em>
-1231
-2019-04-09 11:51:12
-2019-04-09 15:51:12
+
 
 ## The Second Bowl
-<link>http://www.consultingsmiths.com/the-second-bowl/</link>
 Fri, 12 Apr 2019 11:32:45
+
 &ldquo;I broke two bowls today.
+
 &ldquo;I was emptying the dishwasher, holding both small clean bowls in one hand. One of them slipped, and I watched, aghast, as it started to fall in slow motion toward the hard kitchen floor.
+
 &ldquo;In a valiant but vain attempt to miraculously catch the bowl, I dropped the second one as well.
+
 &ldquo;Now both were gone.
+
 &ldquo;Often, the best thing to do with a lost cause is to let it go. Because pursuing it gets in the way of the causes you haven&rdquo;t lost yet.&rdquo;&mdash;<a href="https://seths.blog/2019/04/the-second-bowl/" rel="noopener noreferrer" target="_blank">Seth Godin</a>
-2019-04-12 07:32:45
-2019-04-12 11:32:45
 
 ## Ignorance
 Sat, 13 Apr 2019
+
 &ldquo;Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.&rdquo;&mdash;Daniel Kahneman
 
 ## Owen Barfield
 Sat. 27 Apr 2019
+
 Owen Barfield (1898–1997)
 Our destiny is to become both conscious and free.
 
