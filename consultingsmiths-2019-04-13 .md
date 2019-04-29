@@ -1516,7 +1516,7 @@ Is the nature of reality binary, dual? Is it in some way Gnostic, in that good d
 ## Speaking of Wealth or Power
 Thu, 28 Jun 2018 17:51:00
 
-"The only man who should speak of wealth or power is one who did not extend his hand when they were within his reach"&mdash;Don Colacho (NicolÃ¡s GÃ³mez DÃ¡vila)
+"The only man who should speak of wealth or power is one who did not extend his hand when they were within his reach"&mdash;Don Colacho (Nicolás Gómez Dávila)
 
 ## Poetry
 Fri, 29 Jun 2018 16:25:40
@@ -1540,9 +1540,8 @@ Tue, 17 Jul 2018 01:56:35
 "The Constitution, written by men with some experience of actual government, assumes that the chief executive will work to be king, the Parliament will scheme to sell off the silverware, and the judiciary will consider itself Olympian and do everything it can to much improve (destroy) the work of the other two branches. So the Constitution pits them against each other, in the attempt not to achieve stasis, but rather to allow for the constant corrections necessary to prevent one branch from getting too much power for too long."&mdash;<a href="https://www.americanthinker.com/blog/2008/03/mamets_revelation.html" rel="noopener" target="_blank">David Mamet</a>
 
 ## Horrible Old Person
-<link>http://www.consultingsmiths.com/horrible-old-person/</link>
 Sat, 21 Jul 2018 18:28:02
-http://www.consultingsmiths.com/?p=1044
+
 "I&rdquo;ve become a horrible person in my old age.  And that goes way beyond falling asleep so hard that I slept through my alarm and left my poor long-suffering blog fans waiting for hours in vain. No, I&rdquo;ve become one of those terrible people that Heinlein talks about who tell the unvarnished truth in social situations."&mdash;<a href="https://accordingtohoyt.com/2018/07/21/art-and-craft/" rel="noopener" target="_blank">Sarah Hoyt</a>
 Mea Culpa&mdash;if not "the unvarnished truth" at least my honest opinion.
 
@@ -1584,12 +1583,13 @@ Tue, 21 Aug 2018 16:18:21
 ## De mortuis nihil nisi bonum
 Sun, 26 Aug 2018 01:10:40
 
-Ï„á½¸Î½ Ï„ÎµÎ¸Î½Î·ÎºÃ³Ï„Î± Î¼á½´ ÎºÎ±ÎºÎ¿Î»Î¿Î³Îµá¿–Î½&mdash;Chilon of Sparta
+τὸν τεθνηκóτα μὴ κακολογεῖν&mdash;Chilon of Sparta
 
 ## The Plural of Anecdote
 Thu, 30 Aug 2018 18:02:16
 
 "The plural of anecdote is data."&mdash;<a href="https://web.archive.org/web/20080523225000/http://listserv.linguistlist.org/cgi-bin/wa?A2=ind0407a&amp;L=ads-l&amp;P=8874" rel="noopener" target="_blank">Fred R. Shapiro</a>
+
 I may have posted this before, but while trying to clean out my office before moving (yet again) I came across the scrap of paper that I'd jotted it down on when I first heard it, and wanted to be sure that I got it here with proper attribution before I tossed the paper.
 
 ## Paint it Black, er, Red
@@ -1641,8 +1641,11 @@ Mon, 15 Oct 2018 13:14:17
 Mon, 15 Oct 2018 13:27:20
 
 "When the Church emerged from the catacombs after Constantine won the battle of the Milvan Bridge and the Church was no longer persecuted, there came freedom and, worse, respectability. So with this freedom came terrible danger, a danger that is now convulsing the Church, namely what might be called the Imperialization of the Latin West. The pagans poured into the Church. This was a new organization, albeit sacred, where future generations could climb the ladder to power and wealth.
+
 From the moment that the Roman Church, and to a certain extent the Byzantine Church, took on the bureaucracy of the Roman Empire as a model for its working structures, there was a foothold for the Devil. In the hands of a Gregory the Great it was safe, but when popes, cardinals, and bishops became worldly and ambitious then there was more than a whiff of danger, there were darkness and a terrible thing. What was this terrible thing? It was nothing more and nothing less than the re-crucifying of Christ, not by out and out sinners such as gangsters, murderers, and heartless dictators, but by Popes, bishops, and cardinals, and by far, far too many priests infatuated with ambition, wealth, power, and sensuality.
-We must reflect profoundly on the fact that the great St. John Chrysostom and the utterly gentle Robert Bellarmine thought that most bishops go to Hell.  We priests are in no better state, as witnessed by that other great saint, Alphonsus Liguori, who said that most priests go to Hell. Today the great temptation among Catholics, and the mainstream Protestant churches, is the First Temptation of Christ; namely, to turn stones into bread.  As long as we are involved solely in the social Gospel, then that is all that is needed.  This Utopian style Christianity best incarnated in Liberation Theology is exactly what Christ speaks against, when Satan tempts Him to assuage his hunger by turning stones into bread. We must in our materialistic age reflect on Christ&rsquo;s response to Satan, &ldquo;Man shall not live by bread alone, but by every word that proceeds from the mouth of God&rdquo; (Matthew 4: 4 ). When we become engrossed on feeding and clothing the World&rsquo;s population and getting everyone jobs, noble as this effort is, it is not enough. There is only one thing that is enough, and that is that we give ourselves totally and utterly to God, holding nothing back.  However, because we are human most of us fail miserably, and before long there are programmes put into place that are anything but Christian. 
+
+We must reflect profoundly on the fact that the great St. John Chrysostom and the utterly gentle Robert Bellarmine thought that most bishops go to Hell.  We priests are in no better state, as witnessed by that other great saint, Alphonsus Liguori, who said that most priests go to Hell. Today the great temptation among Catholics, and the mainstream Protestant churches, is the First Temptation of Christ; namely, to turn stones into bread.  As long as we are involved solely in the social Gospel, then that is all that is needed.  This Utopian style Christianity best incarnated in Liberation Theology is exactly what Christ speaks against, when Satan tempts Him to assuage his hunger by turning stones into bread. We must in our materialistic age reflect on Christ&rsquo;s response to Satan, &ldquo;Man shall not live by bread alone, but by every word that proceeds from the mouth of God&rdquo; (Matthew 4: 4 ). When we become engrossed on feeding and clothing the World&rsquo;s population and getting everyone jobs, noble as this effort is, it is not enough. There is only one thing that is enough, and that is that we give ourselves totally and utterly to God, holding nothing back.  However, because we are human most of us fail miserably, and before long there are programmes put into place that are anything but Christian.
+
 God does not ask us to be successful, he asks us to be faithful."&mdash;<a href="https://www.lifesitenews.com/opinion/awake-and-do-your-duty-a-hermits-open-letter-to-catholic-bishops-amid-abuse" rel="noopener" target="_blank">An Anonymous Hermit Priest</a>
 
 ## Hell is Empty
@@ -1654,6 +1657,7 @@ Mon, 15 Oct 2018 13:55:37
 Mon, 22 Oct 2018 10:49:15
 
 He took me into his room, which smelt strongly of tobacco, and took out a book from one of the heaps,  turned the leaves and looked for the passage.
+
 "This is good, too, very good," he said, "listen to this: 'A man should be proud of suffering. All suffering is a reminder of our high estate.' Fine! Eighty years before Nietzsche. But that is not the sentence I meant. Wait a moment, here I have it. This: 'Most men will not swim before they are able to.' Is not that witty? Naturally, they will not swim! They are born for the solid earth, not for the water. And naturally they won't think. They are made for life, not for thought. Yes, and he who thinks, what's more, he who makes thought his business, he may go far in it, but he has bartered the solid earth for the water all the same, and one day he will drown."&mdash;Hermann Hesse <em>Steppenwolf</em>
 
 ## The Marriage at Cana
@@ -1686,7 +1690,9 @@ Mon, 03 Dec 2018 13:14:35
 ri, 14 Dec 2018 22:44:18
 
 &ldquo;Stephen&rsquo;s mind wandered away on the subject of authority, its nature, origin, base or bases: authority whether innate of acquired, and if acquired then by what means? Authority as opposed to mere power, how exactly to be defined? Its etymology: its relation to <em>auctor</em>. From these thoughts he was aroused by an expectant silence opposite him, and looking up he saw Dutourd and Vidal looking at him across the table, their forks poised: reaching back in his mind he caught the echo of a question: &lsquo;What do you think of democracy?&rsquo;
+
 &lsquo;The gentleman was asking what you thought of democracy, sir,&rsquo; said Vidal, smiling.
+
 &lsquo;Alas I cannot tell you, sir,&rsquo; said Stephen, returning the smile. &lsquo;For although it would not be proper to call this barque or vessel a King&rsquo;s ship except in the largest sense, we nevertheless adhere strictly to the naval tradition which forbids discussion of religion, women, or politics in our mess. It has been objected that this rule makes insipidity, which may be so; yet on the other hand it has it uses, since in this case for example it prevents any member from wounding any other gentleman present by saying that he did not think the policy that put Socrates to death and that left Athens prostrate was the highest expression of human wisdom, or by quoting Aristotle&rsquo;s definition of democracy as mob rule, the depraved version of a commonwealth.&rsquo;&rdquo;&mdash;Patrick O&rsquo;Brien, <em>The Wine-Dark Sea</em>
 
 ## Medieval Minds
@@ -1719,7 +1725,7 @@ Sat, 22 Dec 2018 17:03:16
 ## What&#039;s the Matter?
 Fri, 11 Jan 2019 21:55:10
 
-&ldquo;A naÃ¯ve understanding of materialism attributes to it a naÃ¯ve understanding of matter.  Matter, common sense says, is more or less the way it appears to us in ordinary experience.  It is solid, colored stuff that always tastes, smells, sounds, and feels a certain way.  Materialism, on a naÃ¯ve understanding, is the view that everything that exists is like that.  Even unobservable particles are assumed to be tiny solid, colored objects that have their own tastes, smells, sounds, and feels to them.  Like little stones or marbles.
+&ldquo;A naive understanding of materialism attributes to it a naive understanding of matter.  Matter, common sense says, is more or less the way it appears to us in ordinary experience.  It is solid, colored stuff that always tastes, smells, sounds, and feels a certain way.  Materialism, on a naÃ¯ve understanding, is the view that everything that exists is like that.  Even unobservable particles are assumed to be tiny solid, colored objects that have their own tastes, smells, sounds, and feels to them.  Like little stones or marbles.
   
 &ldquo;Of course, this is all wrong.&rdquo;&mdash;<a href="http://edwardfeser.blogspot.com/2019/01/materialism-subverts-itself.html" rel="noopener" target="_blank">Edward Feser</a>
 A pretty &ldquo;Barfieldian&rdquo; statement for someone who seems determined to ignore Barfield, even when his name is mentioned dozens of times by his commenters. Well, &lsquo;philosophers&rsquo; are like that.
