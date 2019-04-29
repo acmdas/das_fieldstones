@@ -1809,13 +1809,21 @@ Fri, 18 Jan 2019 13:03:41
 Fri, 18 Jan 2019 13:24:06
 
 &ldquo;All problems have solutions.
+
 &ldquo;That&rdquo;s what makes them problems.
+
 &ldquo;The solution might involve trade-offs or expenses that you don&rdquo;t want to incur. You might choose not to solve the problem. But there is a solution. Perhaps you haven&rdquo;t found it yet. Perhaps you need to do more research or make some tradeoffs in what you&rdquo;re hoping for.
+
 &ldquo;If there is no solution, then it&rdquo;s not a problem.
+
 &ldquo;It&rdquo;s a regrettable situation. It&rdquo;s a boundary condition. It&rdquo;s something you&rdquo;ll need to live with.
+
 &ldquo;Which might be no fun, but there&rdquo;s no sense in worrying about it or spending time or money on it, because it&rdquo;s not a problem.
+
 &ldquo;&ldquo;I want to go to the wedding, but it&rdquo;s a thousand miles away.&rdquo; That&rdquo;s a problem. You can solve it with a plane ticket and some cancelled plans.
+
 &ldquo;&ldquo;I want to go to the wedding, but I&rdquo;m not willing to cancel my meeting.&rdquo; That&rdquo;s not a problem. That&rdquo;s an unavoidable conflict. If you need to violate a law of physics to get out of a situation, it&rdquo;s not a problem. But you&rdquo;ve already given up turning it into a problem, so it doesn&rdquo;t pay to pretend it&rdquo;s solvable.
+
 &ldquo;Once we can walk away from unsolvable situations that pretend to be problems, we can focus our energy on the real problems in front of us.&rdquo;&mdash;<a href="https://seths.blog/2019/01/problems-and-boundaries/" rel="noopener" target="_blank">Seth Godin</a>
 
 ## Joining Forces
@@ -1848,82 +1856,44 @@ Thu, 24 Jan 2019 20:03:03
 ## Lucifer and Ahriman
 Wed, 30 Jan 2019 01:52:33
 
-<p>&ldquo;The aim of Lucifer is to conserve the past too long; to maintain, in the present, conditions that rightly obtained in the past, but should now be superseded. He adores tradition. In particular he seeks to maintain the permeation of the mind by the 'given', the physical, the instinctive warmth, which men bring with them from the past and must indeed use, but which should no longer permeate, or at least not involuntarily, their mental powers. You and I, my friend, have watched him at work already, for we have seen him trying to preserve into your time the psychology and the social patterns of the Gabriel age.
+&ldquo;The aim of Lucifer is to conserve the past too long; to maintain, in the present, conditions that rightly obtained in the past, but should now be superseded. He adores tradition. In particular he seeks to maintain the permeation of the mind by the 'given', the physical, the instinctive warmth, which men bring with them from the past and must indeed use, but which should no longer permeate, or at least not involuntarily, their mental powers. You and I, my friend, have watched him at work already, for we have seen him trying to preserve into your time the psychology and the social patterns of the Gabriel age.
+
 &ldquo;And what is the function, or the aim, of Ahriman?
-&ldquo;You must distinguish the function from the aim. It is the aims of both beings that we are at present concerned with. Their aim is to oppose those whom it will suffice for the present to call the true gods; but their <em>function</em> is to serve these gods against their will, and by means of that very opposition. Do not take this lightly, or repeat it glibly. The aim of Ahriman is to anticipate the future, but which can only appear in the present as a wicked caricature. In pursuit of this aim he will persuade you, if he can, to eradicate the past instead of transforming it. He abhors tradition. History is his bane. He operates, in the present age, principally in the field of mind, leaving the feelings for Lucifer to exploit. He freezes. His purpose is to destroy everything in human thinking which depends on a certain warmth, to replace wonder by sophistication, courtesy by vulgarity, understanding by calculation, imagination by statistics.&rdquo;&mdash;Owen Barfield <em>Unancestral Voice</em></p>
-1188
-2019-01-29 20:52:33
-2019-01-30 01:52:33
-1188-2
-"inklings"><p>Inklings</p></category>
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Politics
-<link>http://www.consultingsmiths.com/politics-2/</link>
+
+&ldquo;You must distinguish the function from the aim. It is the aims of both beings that we are at present concerned with. Their aim is to oppose those whom it will suffice for the present to call the true gods; but their <em>function</em> is to serve these gods against their will, and by means of that very opposition. Do not take this lightly, or repeat it glibly. The aim of Ahriman is to anticipate the future, but which can only appear in the present as a wicked caricature. In pursuit of this aim he will persuade you, if he can, to eradicate the past instead of transforming it. He abhors tradition. History is his bane. He operates, in the present age, principally in the field of mind, leaving the feelings for Lucifer to exploit. He freezes. His purpose is to destroy everything in human thinking which depends on a certain warmth, to replace wonder by sophistication, courtesy by vulgarity, understanding by calculation, imagination by statistics.&rdquo;&mdash;Owen Barfield <em>Unancestral Voice</em>
+
+## Politics
 Wed, 30 Jan 2019 02:20:51
-http://www.consultingsmiths.com/?p=1191
-<p>&ldquo;I am suggesting therefore that what we have to think of, and what future legislation must somehow learn to deal with, is not so much a public opinion that is sharply divided in two as it is two different publics: an A public and a B public. Or that, if this is not already the case, it is rapidly becoming so; and it seems that in the near future it will be so. Anyone who has felt the pulse, so to speak, of the intellectual climate in the English-speaking world, and of the changes that have been occurring in it over the last forty or fifty years, is likely to be impressed by the circumstance that, even at the philosophical level&mdash;even, that is, when a <em>bona fide</em> attempt is made to bridge the communication gap by recognizing the presuppositions, formulating them, debating them&mdash;it generally turns out to be impossible.&rdquo;&mdash;Owen Barfield <a href="http://www.owenbarfield.org/the-politics-of-abortion/" rel="noopener" target="_blank"><em>The Politics of Abortion</em></a></p>
-1191
-2019-01-29 21:20:51
-2019-01-30 02:20:51
-politics-2
-"inklings"><p>Inklings</p></category>
-2</p>
-## 
-Being an Ent
+
+&ldquo;I am suggesting therefore that what we have to think of, and what future legislation must somehow learn to deal with, is not so much a public opinion that is sharply divided in two as it is two different publics: an A public and a B public. Or that, if this is not already the case, it is rapidly becoming so; and it seems that in the near future it will be so. Anyone who has felt the pulse, so to speak, of the intellectual climate in the English-speaking world, and of the changes that have been occurring in it over the last forty or fifty years, is likely to be impressed by the circumstance that, even at the philosophical level&mdash;even, that is, when a <em>bona fide</em> attempt is made to bridge the communication gap by recognizing the presuppositions, formulating them, debating them&mdash;it generally turns out to be impossible.&rdquo;&mdash;Owen Barfield <a href="http://www.owenbarfield.org/the-politics-of-abortion/" rel="noopener" target="_blank"><em>The Politics of Abortion</em></a>
+
+## Being an Ent
 <link>http://www.consultingsmiths.com/being-an-ent/</link>
 Sat, 02 Feb 2019 14:12:40
 http://www.consultingsmiths.com/?p=1195
-<p>"'And what about yourself?' asked Merry. 
+"'And what about yourself?' asked Merry.
+
 "'Hoom, hm, I have not troubled about the Great Wars,' said Treebeard; 'they mostly concern Elves and Men. That is the business of Wizards: Wizards are always troubled about the future. I do not like worrying about the future. I am not altogether on anybody's side, because nobody is altogether on my side, if you understand me: nobody cares for the woods as I care for them, not even Elves nowadays...'"&mdash;J.R.R. Tolkien, <em>The Lord of the Rings: The Two Towers</em>, book 3, chapter IV
-A <a href="https://fencingbearatprayer.blogspot.com/2016/01/on-taking-sides-or-embracing-my-inner.html" rel="noopener" target="_blank">useful meditation</a> on not having a side.</p>
-1195
-2019-02-02 09:12:40
-2019-02-02 14:12:40
-being-an-ent
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-## 
-Location, Location, Location
-<link>http://www.consultingsmiths.com/location-location-location/</link>
+A <a href="https://fencingbearatprayer.blogspot.com/2016/01/on-taking-sides-or-embracing-my-inner.html" rel="noopener" target="_blank">useful meditation</a> on not having a side.
+
+## Location, Location, Location
 Sat, 02 Feb 2019 15:41:16
-http://www.consultingsmiths.com/?p=1197
-<p>At least a few of my strong memories are strongly associated with a very particular place. The bed at nine-mile, the sofa on Stanley street, the entry hall on Dale Drive.
+
+At least a few of my strong memories are strongly associated with a very particular place. The bed at nine-mile, the sofa on Stanley street, the entry hall on Dale Drive.
 This last with just a flash, that "we" could easily take a "wrong turn" in our thoughts and carry merrily on down a "wrong" path. "Two roads diverged in a yellow wood...and that has made all the difference."
-Brought to mind several times recently reading Barfield's writing about the history of consciousness.</p>
-1197
-2019-02-02 10:41:16
-2019-02-02 15:41:16
-location-location-location
-2</p>
-## 
-Miracles
-<link>http://www.consultingsmiths.com/miracles-2/</link>
+Brought to mind several times recently reading Barfield's writing about the history of consciousness.
+>
+## Miracles
 Sat, 09 Feb 2019 17:29:19
-http://www.consultingsmiths.com/?p=1199
-<p>&ldquo;They say miracles are past; and we have our philosophical persons, to make modern and familiar, things supernatural and causeless. Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge, when we should submit ourselves to an unknown fear.&rdquo;&mdash;Shakespeare, <em>All&rsquo;s Well That Ends Well</em>
-</p>
-1199
-2019-02-09 12:29:19
-2019-02-09 17:29:19
-miracles-2
-2</p>
-## 
-God Is Not
-<link>http://www.consultingsmiths.com/god-is-not/</link>
+
+&ldquo;They say miracles are past; and we have our philosophical persons, to make modern and familiar, things supernatural and causeless. Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge, when we should submit ourselves to an unknown fear.&rdquo;&mdash;Shakespeare, <em>All&rsquo;s Well That Ends Well</em>
+
+## God Is Not
 Thu, 14 Feb 2019 15:22:26
-http://www.consultingsmiths.com/?p=1203
-<p>&ldquo;God is not a lesson plan or an intellectual construct. God is not one more thing to do well at, God is someone&mdash;or something&mdash;we meet, each in our own way.&rdquo;&mdash;Julia Cameron, <em>God Is No Laughing Matter</em></p>
-1203
-2019-02-14 10:22:26
-2019-02-14 15:22:26
-god-is-not
-<category domain="category" nicename="new-thought"><p>New Thought</p></category>
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Seen Online
+
+&ldquo;God is not a lesson plan or an intellectual construct. God is not one more thing to do well at, God is someone&mdash;or something&mdash;we meet, each in our own way.&rdquo;&mdash;Julia Cameron, <em>God Is No Laughing Matter</em>
+
+## Seen Online
 <link>http://www.consultingsmiths.com/seen-online/</link>
 Mon, 25 Feb 2019 13:37:03
 http://www.consultingsmiths.com/?p=1206
