@@ -1808,7 +1808,7 @@ Fri, 18 Jan 2019 13:03:41
 ## Problems and Boundaries
 Fri, 18 Jan 2019 13:24:06
 
-<p>&ldquo;All problems have solutions.
+&ldquo;All problems have solutions.
 &ldquo;That&rdquo;s what makes them problems.
 &ldquo;The solution might involve trade-offs or expenses that you don&rdquo;t want to incur. You might choose not to solve the problem. But there is a solution. Perhaps you haven&rdquo;t found it yet. Perhaps you need to do more research or make some tradeoffs in what you&rdquo;re hoping for.
 &ldquo;If there is no solution, then it&rdquo;s not a problem.
@@ -1816,7 +1816,7 @@ Fri, 18 Jan 2019 13:24:06
 &ldquo;Which might be no fun, but there&rdquo;s no sense in worrying about it or spending time or money on it, because it&rdquo;s not a problem.
 &ldquo;&ldquo;I want to go to the wedding, but it&rdquo;s a thousand miles away.&rdquo; That&rdquo;s a problem. You can solve it with a plane ticket and some cancelled plans.
 &ldquo;&ldquo;I want to go to the wedding, but I&rdquo;m not willing to cancel my meeting.&rdquo; That&rdquo;s not a problem. That&rdquo;s an unavoidable conflict. If you need to violate a law of physics to get out of a situation, it&rdquo;s not a problem. But you&rdquo;ve already given up turning it into a problem, so it doesn&rdquo;t pay to pretend it&rdquo;s solvable.
-&ldquo;Once we can walk away from unsolvable situations that pretend to be problems, we can focus our energy on the real problems in front of us.&rdquo;&mdash;<a href="https://seths.blog/2019/01/problems-and-boundaries/" rel="noopener" target="_blank">Seth Godin</a></p>
+&ldquo;Once we can walk away from unsolvable situations that pretend to be problems, we can focus our energy on the real problems in front of us.&rdquo;&mdash;<a href="https://seths.blog/2019/01/problems-and-boundaries/" rel="noopener" target="_blank">Seth Godin</a>
 
 ## Joining Forces
 Wed, 23 Jan 2019 21:06:16
