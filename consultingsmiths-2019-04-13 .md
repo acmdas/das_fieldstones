@@ -1765,7 +1765,7 @@ Tue, 15 Jan 2019 02:56:22
 ## Judging
 Fri, 18 Jan 2019 13:03:41
 
-<p>&ldquo;Today&rdquo;s &ldquo;let&rdquo;s all get along, not judge or challenge anyone&rdquo; groupthink also reminds me of a major scene sequence in Milos Forman&rdquo;s adaptation of Ken Kesey&rdquo;s 1962 novel <em>One Flew Over the Cuckoo&rdquo;s Nest</em>.
+&ldquo;Today&rdquo;s &ldquo;let&rdquo;s all get along, not judge or challenge anyone&rdquo; groupthink also reminds me of a major scene sequence in Milos Forman&rdquo;s adaptation of Ken Kesey&rdquo;s 1962 novel <em>One Flew Over the Cuckoo&rdquo;s Nest</em>.
 &ldquo;Jack Nicholson portrays R.P. McMurphy, a good time Charlie with authority figure issues. He&rdquo;s playing crazy at a maximum-security insane asylum to get out of a work detail jail sentence. Years ago, they sentenced petty criminals to hard labor. I remember as a kid being in the backseat driving South and watching chain gangs cutting overgrown brush on the median of I95&rdquo;”Donn Pearce must have seen them too. He wrote <em>Cool Hand Luke</em>.
 <!--more-->
 &ldquo;McMurphy&rdquo;s Moriarty is Nurse Ratched, the head nurse in the asylum. Louise Fletcher played this role so brilliantly&rdquo;”all ice and pursed lips&rdquo;”she had difficulty finding work after winning the Oscar for it.
@@ -1785,7 +1785,7 @@ Fri, 18 Jan 2019 13:03:41
 &ldquo;Playing McMurphy as only he could play him, Jack Nicholson grabs the edges of the vanity, squats and surges into the plumbing. He turns blue from effort.  He commits to the action, gives it his best shot. When he&rdquo;s drenched with sweat, spent and defeated, he walks out of the room.  But not before turning to the stunned assemblage and saying:
 &ldquo;&ldquo;At least I tried.&rdquo;
 &ldquo;As a child in the 60s and 70s, I was raised on stories like this. (I wish we had more of them today) And they&rdquo;ve had a profound influence. This is why art is so important.
-&ldquo;These stories taught me that to passively disengage for fear of reprisal is cowardly. Making a judgment, taking a stand and then acting against an injustice or acting to support excellence is the stuff of the everyman hero.&rdquo; &amp;mdash: <a href="https://stevenpressfield.com/2019/01/art-and-polarity/" rel="noopener" target="_blank">Shawn Coyne</a></p>
+&ldquo;These stories taught me that to passively disengage for fear of reprisal is cowardly. Making a judgment, taking a stand and then acting against an injustice or acting to support excellence is the stuff of the everyman hero.&rdquo;&mdash;<a href="https://stevenpressfield.com/2019/01/art-and-polarity/" rel="noopener" target="_blank">Shawn Coyne</a>
 
 ## Problems and Boundaries
 Fri, 18 Jan 2019 13:24:06
