@@ -946,8 +946,7 @@ Thu, 14 Sep 2017 17:06:03
 Thu, 14 Sep 2017 19:38:31
 
 <p>"When everything that smacks of the transcendent is eliminated from the public life of a culture, something has to take its place. In our case it is largely commerce and the ideals and ideas that commerce fosters. Moreover, the liberty that accompanies such a commercial society is a liberty whose chief effect is the dissolving of traditional ties and the destruction of traditional communities, whether that takes place because of direct attacks on the family and chastity or indirectly because of an economic system that works as a solvent in hundreds of ways: driving mothers out of the home, exploiting sex to sell products, moving families about to seek employment, or emptying rural areas of farm families." &mdash; <a href="https://www.amazon.com/Christendom-Americanism-Beyond-Jagged-Postmodern-ebook/dp/B01EJ0OQ92/ref=la_B001K7S392_1_1?s=books&amp;ie=UTF8&amp;qid=1505417861&amp;sr=1-1" target="_blank">Thomas Storck</a></p>
-omain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
+
 ## Atheist for a Day
 Tue, 19 Sep 2017 16:42:43
 
@@ -1099,223 +1098,110 @@ http://www.consultingsmiths.com/?p=839
 &rdquo;” NicolÃ¡s GÃ³mez DÃ¡vila</p>
 
 ## Meditation for November 30
-<link>http://www.consultingsmiths.com/meditation-for-november-30/</link>
 Thu, 30 Nov 2017 13:42:55
-http://www.consultingsmiths.com/?p=841
+
 <p>"The eternal God is thy refuge." He is a sanctuary, a refuge from the cares of life. You can get away from the misunderstanding of others by retiring into your own place of meditation. But from yourself, from your sense of failure, your weakness, your shortcomings, whether can you flee? Only to the eternal God, your refuge, until the immensity of His spirit envelopes your spirit and it loses its smallness and weakness and comes into harmony again with His.
 Prayer for the Day
 I pray that I may lose my limitations in the immensity of God's love. I pray that my spirit may be in harmony with His spirit.
 From the original AA Meditation book, <em>Twenty-Four Hours a Day</em>, by Richmond Walker</p>
-841
-2017-11-30 08:42:55
-2017-11-30 13:42:55
-meditation-for-november-30
-2</p>
-## 
-A Masterless House, a Pilotless Ship
-<link>http://www.consultingsmiths.com/a-masterless-house-a-pilotless-ship/</link>
+
+## A Masterless House, a Pilotless Ship
 Thu, 30 Nov 2017 13:55:13
-http://www.consultingsmiths.com/?p=845
+
 <p>"When a house has no master living in it, it becomes dark, vile and contemptible, choked with filth and disgusting refuse. So too is a soul which has lost its master, who once rejoiced there with his angels. This soul is darkened with sin, its desires are degraded, and it knows nothing but shame.
 "Woe to the path that is not walked on, or along which the voices of men are not heard, for then it becomes the haunt of wild animals. Woe to the soul if the Lord does not walk within it to banish with his voice the spiritual beasts of sin. Woe to the house where no master dwells, to the field where no farmer works, to the pilotless ship, storm-tossed and sinking. Woe to the soul without Christ as its true pilot; drifting in the darkness, buffeted by the waves of passion, storm-tossed at the mercy of evil spirits, its end is destruction. Woe to the soul that does not have Christ to cultivate it with care to produce the good fruit of the Holy Spirit. Left to itself, it is choked with thorns and thistles; instead of fruit it produces only what is fit for burning. Woe to the soul that does not have Christ dwelling in it; deserted and foul with the filth of the passions, it becomes a haven for all the vices." &mdash; <a href="http://blog.adw.org/2017/11/a-culture-without-god-is-adrift-like-a-ship-without-a-pilot/" rel="noopener" target="_blank">St. Macarius, bishop</a>, <em>Hom. 28: PG 34, 710-711</em></p>
-845
-2017-11-30 08:55:13
-2017-11-30 13:55:13
-a-masterless-house-a-pilotless-ship
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Its Nature is to Live
-<link>http://www.consultingsmiths.com/its-nature-is-to-live/</link>
+
+## Its Nature is to Live
 Thu, 30 Nov 2017 14:04:31
-http://www.consultingsmiths.com/?p=848
+
 <p>"I think we have misunderstood the promise of Christ of the survival of the Church. You can&rdquo;t kill something whose nature it is to live. The Faith is like life itself; life is designed to live. It might not make it in this or that particular place, and it may go through periods of such reduction that we would hardly recognise it, but it can&rdquo;t be killed. Volcanoes make ash that enrich the soil; ice ages spread spores and seeds around the world. Life lives. The Faith is something even stronger." &mdash; <a href="http://whatisupwiththesynod.com/index.php/2017/11/30/you-cant-kill-something-whose-nature-it-is-to-live/" rel="noopener" target="_blank">Hilary White</a></p>
-848
-2017-11-30 09:04:31
-2017-11-30 14:04:31
-its-nature-is-to-live
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-As the Pervnado Turns
-<link>http://www.consultingsmiths.com/as-the-pervnado-turns/</link>
+
+## As the Pervnado Turns
 Thu, 30 Nov 2017 22:40:48
-http://www.consultingsmiths.com/?p=851
+
 <p>"Maybe Trump&rdquo;s voters aren&rdquo;t angry enough yet. It&rdquo;s not just a large number of women our elites have raped and victimized, it&rdquo;s our entire country. Our infrastructure is crumbling, our debt is astronomical, our universities increasingly resemble insane asylums, our largest inner cities are free-fire zones terrorized by a permanent criminal underclass. And what&rdquo;s the elite response? Oh, look, a squirrel &mdash; where the squirrel of the week is carbon emissions, or transgender rights, or railing at &ldquo;white privilege&rdquo;, or whatever other form of virtue signaling might serve to hide the fact that, oh, look, <em>they put remote-controlled locks on their rape dungeons</em>." &mdash; <a href="http://esr.ibiblio.org/?p=7767" rel="noopener" target="_blank">Eric Raymond</a>
 By all means, read the whole thing.</p>
-851
-2017-11-30 17:40:48
-2017-11-30 22:40:48
-as-the-pervnado-turns
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-## 
-Lossy Press
-<link>http://www.consultingsmiths.com/lossy-press/</link>
+
+## Lossy Press
 Sat, 02 Dec 2017 16:37:13
-http://www.consultingsmiths.com/?p=854
+
 <p>"The press is a lossy and biased compression of events in the actual world, and is singularly consumed with its own rituals, status games, and incentives. The news necessarily fails to capture almost everything which happened yesterday. What it says is important usually isn't." &mdash; from "Things Many People Find Too Obvious To Have Told You Already" by <a href="https://threadreaderapp.com/thread/936615043126370306" rel="noopener" target="_blank">Patrick McKenzie</a></p>
-854
-2017-12-02 11:37:13
-2017-12-02 16:37:13
-lossy-press
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-## 
-&quot;Senior&quot;
-<link>http://www.consultingsmiths.com/senior/</link>
+
+## &quot;Senior&quot;
 Sat, 02 Dec 2017 16:49:57
-http://www.consultingsmiths.com/?p=856
+
 <p>"The explosive growth of the tech sector keeps average age down and depresses average wages. Compared to industries which existed in materially the same form in 1970, we have a stupidly compressed experience spectrum: 5+ years rounds to "senior." This is not a joke." &mdash; from "Things Many People Find Too Obvious To Have Told You Already" by <a href="https://threadreaderapp.com/thread/936615043126370306" rel="noopener" target="_blank">Patrick McKenzie</a></p>
-856
-2017-12-02 11:49:57
-2017-12-02 16:49:57
-senior
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-## 
-Not learning to Program
-<link>http://www.consultingsmiths.com/not-learning-to-program/</link>
+
+## Not learning to Program
 Sat, 02 Dec 2017 16:55:36
-http://www.consultingsmiths.com/?p=859
+
 <p>"CS programs have, in the main, not decided that the primary path to becoming a programmer should involve doing material actual programming. There are some exceptions: Waterloo, for example. This is the point where I joke "That's an exhaustive list" but not sure that a joke." &mdash; from "Things Many People Find Too Obvious To Have Told You Already" by <a href="https://threadreaderapp.com/thread/936615043126370306" rel="noopener" target="_blank">Patrick McKenzie</a></p>
-859
-2017-12-02 11:55:36
-2017-12-02 16:55:36
-not-learning-to-program
-<category domain="category" nicename="whats-new-at-consultingsmiths"><p>News</p></category>
-2</p>
-## 
-Secular Civilization
-<link>http://www.consultingsmiths.com/secular-civilization/</link>
+
+## Secular Civilization
 Fri, 15 Dec 2017 03:22:54
-http://www.consultingsmiths.com/?p=862
+
 <p>&ldquo;The World is trying the experiment of attempting to form a civilized but non-Christian mentality. The experiment will fail; but we must be very patient in awaiting its collapse; meanwhile redeeming the time: so that the Faith may be preserved alive through the dark ages before us; to renew and rebuild civilization, and save the World from suicide.&rdquo; &mdash; T. S. Eliot, <em>Thoughts After Lambeth</em>, 1931.</p>
-862
-2017-12-14 22:22:54
-2017-12-15 03:22:54
-secular-civilization
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-This House
-<link>http://www.consultingsmiths.com/this-house/</link>
+
+## This House
 Sun, 17 Dec 2017 14:00:38
-http://www.consultingsmiths.com/?p=864
+
 <p>"This house where such good things are done year by year has suffered all the things that every age has suffered. It has known the sudden separation of wife and husband, the sudden fall of young men under arms who will never more come home, the scattering of the living and their precarious return, the increase and the loss of fortune, all those terrors and all those lessenings and haltings and failures of hope which make up the life of man. But its Christmas binds it to its own past and promises its future; making the house an undying thing of which those subject to mortality within it are members, sharing in its continuous survival." &mdash; Hilaire Belloc: <em><a href="https://oldthunderbelloc.blogspot.com/2013/12/a-remaining-christmas.html" rel="noopener" target="_blank">A Remaining Christmas</a></em>.</p>
-864
-2017-12-17 09:00:38
-2017-12-17 14:00:38
-this-house
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-The Altar of Love
-<link>http://www.consultingsmiths.com/the-altar-of-love/</link>
+
+## The Altar of Love
 Mon, 18 Dec 2017 12:53:38
-http://www.consultingsmiths.com/?p=866
+
 <p>"Where there is no giving of one self, one can only love the physical attributes of the other. Poets and philosophers have filled many volumes musing about the fleeting beauty of youth. Those who can only love that surface shine will soon grow bored. That boredom will be followed by some sort of hate or indifference. Those who love the soul are different because for them, their youth is a sacrificial present, an oblation offered in the altar of love. The men and women of God conquer each other not by possession  but by surrendering and becoming part of the beloved." &mdash; <a href="https://casorosendi.wordpress.com/2017/12/18/the-days-of-wormwood/" rel="noopener" target="_blank">Carlos Caso_Rosendi</a></p>
-866
-2017-12-18 07:53:38
-2017-12-18 12:53:38
-the-altar-of-love
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Extraordinary Decency
-<link>http://www.consultingsmiths.com/extraordinary-decency/</link>
+
+## Extraordinary Decency
 Mon, 18 Dec 2017 12:59:11
-http://www.consultingsmiths.com/?p=868
+
 <p>"If you can think of times in your life that you&rdquo;ve treated people with extraordinary decency and love, and pure uninterested concern, just because they were valuable as human beings. The ability to do that with ourselves.  To treat ourselves the way we would treat a really good, precious friend. Or a tiny child of ours that we absolutely loved more than life itself.  And I think it&rdquo;s probably possible to achieve that.  I think part of the job we&rdquo;re here for is to learn how to do it.  I know that sounds a little pious." &mdash; David Foster Wallace</p>
-868
-2017-12-18 07:59:11
-2017-12-18 12:59:11
-extraordinary-decency
-2</p>
-## 
-Sentimentality
+
+## Sentimentality
 <link>http://www.consultingsmiths.com/sentimentality/</link>
 Tue, 19 Dec 2017 02:43:23
 http://www.consultingsmiths.com/?p=870
 <p>"Call me a sentimentalist, but I liked the days when FBI agents went undercover as subversives better than today when subversives go undercover as FBI agents." &mdash; <a href="https://spectator.org/fbi-gate-deep-state-in-deep-spit/" rel="noopener" target="_blank">Daniel J. Flynn</a></p>
-870
-2017-12-18 21:43:23
-2017-12-19 02:43:23
-sentimentality
-## 
-Clay
 
+## Clay
 Sat, 23 Dec 2017 13:33:59
-http://www.consultingsmiths.com/?p=873
+
 <p>"We may consider the material world as the clay which the artist works with, to make of it something beautiful or ugly. We need not fear material things, which are neither good nor bad in the moral sense. There seems to be no active force for evil&mdash;outside of human beings themselves. Humans alone can have either evil intentions&mdash;resentments, malevolence, hate and revenge&mdash;or good intentions&mdash;love and good will, They can make something ugly or something beautiful out of the clay of their lives." &mdash; Twenty-Four Hours a Day entry for December 19</p>
-873
-2017-12-23 08:33:59
-2017-12-23 13:33:59
-clay
-2</p>
-## 
-Gender
-<link>http://www.consultingsmiths.com/gender/</link>
+
+## Gender
 Tue, 26 Dec 2017 21:59:36
-http://www.consultingsmiths.com/?p=876
+
 <p>"I want everyone to stop using the word &ldquo;gender&rdquo; for anything other than masculine and feminine nouns. I am male. I am of the male sex. I am not of the male gender.  You do not have choice in participating in your sexual  identity, contrary to all fashionable nonsense of the era. &ldquo;Gender&rdquo; is akin to the Marxist use of the word &ldquo;exploitation&rdquo;. It is ideologically loaded; it is nonsense on stilts. Biology is not a social construct." &mdash; Written by one of those bloggers who, for whatever reason, won't use a "real" name. Found <a href="http://www.barrelstrength.com/2017/12/20/deconstructing-jordan-peterson/" rel="noopener" target="_blank">here</a>.
 Oh, and by the way, I agree totally and unreservedly. I'm certainly open to the thought that we need to be willing for men and women to dress, walk and talk in ways other than how John Wayne or Rita Hayworth dressed, walked and talked, but let's be serious. Once a man, always a man. And vice versa.</p>
-876
-2017-12-26 16:59:36
-2017-12-26 21:59:36
-gender
-2</p>
-## 
-Respect
-<link>http://www.consultingsmiths.com/respect/</link>
+
+## Respect
 Thu, 28 Dec 2017 20:43:37
-http://www.consultingsmiths.com/?p=881
+
 <p>"If you want me to treat your ideas with more respect, get some better ideas." &mdash; John Scalzi</p>
-881
-2017-12-28 15:43:37
-2017-12-28 20:43:37
-respect
-2</p>
-## 
-Expect the Opposite
-<link>http://www.consultingsmiths.com/expect-the-opposite/</link>
+
+## Expect the Opposite
 Fri, 29 Dec 2017 00:43:29
-http://www.consultingsmiths.com/?p=884
+
 <p>"If yours truly has learned anything living in Washington, D.C. since 1976, it&rdquo;s that when you need to know where the country is headed in the near future, check the conventional wisdom among America&rdquo;s political, academic and media elites, then expect the opposite to occur." &mdash; Mark Tapscott</p>
-884
-2017-12-28 19:43:29
-2017-12-29 00:43:29
-expect-the-opposite
-2</p>
-## 
-Hiding from the mission
-<link>http://www.consultingsmiths.com/hiding-from-the-mission/</link>
+
+## 2018
+
+## Hiding from the mission
 Sun, 07 Jan 2018 20:13:07
-http://www.consultingsmiths.com/?p=887
+
 <p>We do this in two ways:
 The first is refusing to be clear and precise about what the mission is. Avoiding specifics about what we hope to accomplish and for whom. Being vague about success and (thus about failure).
 After all, if no one knows exactly what the mission is, it's hard feel like a failure if it doesn't succeed.
 The second is even more insidious. We degrade the urgency of the mission. We become diffuse. We get distracted. Anything to avoid planting a stake and saying, "I made this."
 It's possible to spend 7 hours and 52 minutes out of an eight-hour day in doing nothing but hiding from the mission. And it's exhausting.
 <a href="http://sethgodin.typepad.com/seths_blog/2018/01/hiding-from-the-mission.html" rel="noopener" target="_blank">Seth Godin</a></p>
-887
-2018-01-07 15:13:07
-2018-01-07 20:13:07
-hiding-from-the-mission
-## 
-He is Inescapable
-<link>http://www.consultingsmiths.com/he-is-inescapable/</link>
+
+## He is Inescapable
 Wed, 10 Jan 2018 22:35:47
-http://www.consultingsmiths.com/?p=889
+
 <p>&ldquo;Because God is not a finite object over against you as a subject, you cannot simply turn away towards &rdquo;˜something else.&rdquo;; He is the ground and end of all desire and knowledge as such, the Good in itself. You cannot choose or not choose God the way you would choose or not choose a cup of coffee. You desire anything because of your original desire for God as the transcendental Good and Beautiful; you know anything because of your original intellectual appetite for God as the transcendental Truth as such. Even in desiring to flee God, you are desiring God as the &rdquo;˜good end&rdquo; you seek in godlessness. He is inescapable because all being, goodness, unity, truth, and beauty simply are God in their transcendent truth, and because a rational nature is nothing but an infinite dynamic orientation towards that transcendent end. The natural will, as Maximus says, can will only God. Don&rdquo;t think of God as a candidate in a political race, whom you could simply reject and be done with; he is the original and final act of your every discrete act of desire. And, in the ages, since God is all and there is literally nothing beyond him, the natural will is always seeking its natural supernatural end. Simply said, God is not an object of desire; he is the end that makes desire.&rdquo; &mdash; <a href="https://afkimel.wordpress.com/essential-readings-on-universalism/" rel="noopener" target="_blank">David Bentley Hart</a></p>
-889
-2018-01-10 17:35:47
-2018-01-10 22:35:47
-he-is-inescapable
-<category domain="category" nicename="thefaith"><p>The Faith</p></category>
-2</p>
-## 
-Being Christian
+
+## Being Christian
 <link>http://www.consultingsmiths.com/being-christian/</link>
 Wed, 10 Jan 2018 23:38:35
 http://www.consultingsmiths.com/?p=891
