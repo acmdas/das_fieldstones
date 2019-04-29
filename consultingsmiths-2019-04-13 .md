@@ -1765,26 +1765,44 @@ Tue, 15 Jan 2019 02:56:22
 ## Judging
 Fri, 18 Jan 2019 13:03:41
 
-&ldquo;Today&rdquo;s &ldquo;let&rdquo;s all get along, not judge or challenge anyone&rdquo; groupthink also reminds me of a major scene sequence in Milos Forman&rdquo;s adaptation of Ken Kesey&rdquo;s 1962 novel <em>One Flew Over the Cuckoo&rdquo;s Nest</em>.
-&ldquo;Jack Nicholson portrays R.P. McMurphy, a good time Charlie with authority figure issues. He&rdquo;s playing crazy at a maximum-security insane asylum to get out of a work detail jail sentence. Years ago, they sentenced petty criminals to hard labor. I remember as a kid being in the backseat driving South and watching chain gangs cutting overgrown brush on the median of I95&rdquo;”Donn Pearce must have seen them too. He wrote <em>Cool Hand Luke</em>.
-<!--more-->
+&ldquo;Today&rdquo;s &ldquo;let&rdquo;s all get along, not judge or challenge anyone&rdquo; groupthink also reminds me of a major scene sequence in Milos Forman&rsquo;s adaptation of Ken Kesey&rsquo;s 1962 novel <em>One Flew Over the Cuckoo&rdquo;s Nest</em>.
+
+&ldquo;Jack Nicholson portrays R.P. McMurphy, a good time Charlie with authority figure issues. He&rsquo;s playing crazy at a maximum-security insane asylum to get out of a work detail jail sentence. Years ago, they sentenced petty criminals to hard labor. I remember as a kid being in the backseat driving South and watching chain gangs cutting overgrown brush on the median of I95&rdquo;”Donn Pearce must have seen them too. He wrote <em>Cool Hand Luke</em>.
+
 &ldquo;McMurphy&rdquo;s Moriarty is Nurse Ratched, the head nurse in the asylum. Louise Fletcher played this role so brilliantly&rdquo;”all ice and pursed lips&rdquo;”she had difficulty finding work after winning the Oscar for it.
+
 &ldquo;One afternoon, during an interminable group therapy session, McMurphy requests that the guys be allowed to watch the World Series that evening. Knowing that the last thing the other men would want to do is stand up and challenge the way she rules her kingdom, Ratched sees an opportunity to put McMurphy in his place.
+
 &ldquo;She&rdquo;ll put the request up to a vote.
+
 &ldquo;McMurphy sticks his hand up to vote &ldquo;yea&rdquo; assuming that his fellow patients will come to the same conclusion that he has.  By simply raising their arms, together the men can let this lady know that denying a simple pleasure like watching a ball game to a bunch of lunatics is absurd.
+
 &ldquo;Which one of you nuts has any guts?
+
 &ldquo;The needy fuser Cheswick is the only other one who has the courage to challenge Nurse Ratched&rdquo;s command. Meeting adjourned. The men are then shuttled into the shower room for their evening cleaning. McMurphy is out of his mind with anger.
+
 &ldquo;If you&rdquo;re a writer, this scene is a perfect example of a set-up that dramatically portrays a character&rdquo;s inner change.  How does Ken Kesey pay it off?
+
 &ldquo;From the first moment McMurphy lays eyes on Ratched, the reader/viewer knows he judges her as rotten to the core. McMurphy is not afraid to judge. His problem is that he acts on his judgments too quickly. That&rdquo;s what got him in the clink in the first place.
+
 &ldquo;In the nuthouse, though, he is forced to keep the judgment to himself. He&rdquo;s supposed to be crazy! And to McMurphy, only crazy people don&rdquo;t judge, so he shouldn&rdquo;t either.
+
 &ldquo;But when the evidence of Ratched&rdquo;s evil is incontrovertible to him, he can&rdquo;t help himself but act. He&rdquo;s the novel&rdquo;s protagonist. He&rdquo;s the hero. If he doesn&rdquo;t act on his judgments, there&rdquo;s no story.
+
 &ldquo;Kesey could have made any number of choices with this scene. He could have had McMurphy act selfishly, like a child, and physically attack a guard or an inmate or himself. Something the character has a reputation for doing earlier in his life.
+
 &ldquo;Instead, for the first time (and the perfect time) Kesey has his character act beyond himself. He changes his behavior. McMurphy sees that these men have it within themselves to judge Ratched as a tyrant. If he can make them understand how important it is to make a judgment and to act on that judgment&rdquo;”even if it puts them in harm&rdquo;s way&rdquo;”he will help them. And helping them will help him bring down tyranny. He&rdquo;ll win.
+
 &ldquo;McMurphy, already known as a consummate hustler, challenges all of the men to take a bet. He puts all of his money on his succeeding. He will pick up a thousand pound marble bathroom vanity, throw it through the barred window, walk to a nearby bar with his buddy Cheswick, wet his whistle and watch Mickey Mantle play in the World Series&rdquo;¦Who wants some of this action?
+
 &ldquo;He&rdquo;s so convincing that only the most cynical among them take his bet.
+
 &ldquo;Playing McMurphy as only he could play him, Jack Nicholson grabs the edges of the vanity, squats and surges into the plumbing. He turns blue from effort.  He commits to the action, gives it his best shot. When he&rdquo;s drenched with sweat, spent and defeated, he walks out of the room.  But not before turning to the stunned assemblage and saying:
+
 &ldquo;&ldquo;At least I tried.&rdquo;
+
 &ldquo;As a child in the 60s and 70s, I was raised on stories like this. (I wish we had more of them today) And they&rdquo;ve had a profound influence. This is why art is so important.
+
 &ldquo;These stories taught me that to passively disengage for fear of reprisal is cowardly. Making a judgment, taking a stand and then acting against an injustice or acting to support excellence is the stuff of the everyman hero.&rdquo;&mdash;<a href="https://stevenpressfield.com/2019/01/art-and-polarity/" rel="noopener" target="_blank">Shawn Coyne</a>
 
 ## Problems and Boundaries
