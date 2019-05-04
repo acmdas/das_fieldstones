@@ -4,23 +4,20 @@
 ## 2009
 
 ## Fallacy
-
 Wed, 30 Dec 2009 18:55:38
-http://www.consultingsmiths.com/totd/
+
 Fallacies do not cease to be fallacies because they become fashions.&mdash;G. K. Chesterton
 
 ## Proof
-
 Thu, 31 Dec 2009 14:17:13
-http://www.consultingsmiths.com/2/
+
 You can prove anything if you make up your data.&mdash;Jerry Pournelle
 
 ## 2010
 
 ## Data
-
 Fri, 01 Jan 2010 18:30:22
-http://www.consultingsmiths.com/3/
+
 If they do that with marks and grades, should they be trusted with experimental data?&mdash;Harry Erwin, PhD
 
 ## Research
@@ -72,120 +69,86 @@ It is difficult to get a man to understand something when his job depends on not
 Fri, 30 Apr 2010 16:33:48
 
 For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.&mdash;Richard Feynman
-2010-04-30 12:33:48
-2010-04-30 16:33:48
 
 ## Outrage
 Tue, 11 May 2010 18:15:02
 
 It is not more <em>objective</em> to narrate an outrage calmly.&mdash;James Chastek
-2010-05-11 14:15:02
-2010-05-11 18:15:02
 
 ## TOTD
 Thu, 13 May 2010 12:47:29
 
 If you don&rsquo;t read the newspaper, you are uninformed. If you do read the newspaper, you are misinformed.&mdash;Mark Twain
-2010-05-13 08:47:29
-2010-05-13 12:47:29
 
 ## TOTD
 Tue, 01 Jun 2010 12:43:30
 
 You can safely assume that you&rsquo;ve created God in your own image when it turns out that God hates all the same people you do.&mdash;Anne Lamott (<em>Traveling Mercies</em>, credited to &ldquo;my priest friend Tom")
-2010-06-01 08:43:30
-2010-06-01 12:43:30
 
 ## TOTD
 Fri, 09 Jul 2010 13:32:50
 
 All attacks on science are ultimately an attack on freedom. All attacks on religion are ultimately an attack on mind.&mdash;Robert W. Godwin
-2010-07-09 09:32:50
-2010-07-09 13:32:50
 
 ## TOTD
 Wed, 14 Jul 2010 17:29:20
 
 We are as gods, and might as well get good at it.&mdash;The Whole Earth Catalog (1968)
-2010-07-14 13:29:20
-2010-07-14 17:29:20
 
 ## TOTD
 Wed, 28 Jul 2010 11:41:06
 
 Science is the belief in the ignorance of experts.&mdash;Richard Feynman
-2010-07-28 07:41:06
-2010-07-28 11:41:06
 
 ## TOTD
 Fri, 30 Jul 2010 13:43:20
 
 If there were no God, there would be no atheists.&mdash;Gilbert K. Chesterton
-2010-07-30 09:43:20
-2010-07-30 13:43:20
 
 ## Giving and Forgiving
 Tue, 12 Oct 2010 07:45:00
 
 If you have ill will toward any, if you are prejudiced against any, if you have accused any even in your silent thought, of injustice, or if you have criticised any one, sit down alone at night before retiring and mentally ask him to forgive you. Calling him by name, silently confess to him what you have done, and ask his forgiveness, telling him as you do the others, over and over again, that you love him, and are sure there is nothing but God&rsquo;s perfect Love between you. Never retire until you have thus definitely &ldquo;cleaned up the slate&rdquo; between yourself and every other human being, having definitely forgiven---given love for---every one. Keep at this until all the tightened cords which have been cutting off the free flow of God&rsquo;s love and life through you are loosened; until a habit of forgiving is established within you.&mdash;H. Emilie Cady (God a Present Help)
-2010-10-12 03:45:00
-2010-10-12 07:45:00
 
 ## TOTD
 Wed, 20 Oct 2010 11:13:10
 
 Every atom of fear, or condemnation, or criticism, that we carry in our hearts, no matter for whom it may be, is a wall between ourselves and God.&mdash;Emmet Fox
-2010-10-20 07:13:10
-2010-10-20 11:13:10
 
 ## TOTD
 Fri, 29 Oct 2010 11:53:02
 
 Being intelligent is not a felony, but most societies evaluate it as at least a misdemeanor.&mdash;Robert A. Heinlein
-2010-10-29 07:53:02
-2010-10-29 11:53:02
 
 ## Testimony
 Mon, 08 Nov 2010 14:41:46
 
 It isn&rsquo;t irrational to accept the testimony of eyewitnesses to miracles.&mdash;Antonin Scalia 
-2010-11-08 09:41:46
-2010-11-08 14:41:46
 
 ## Time
 Wed, 10 Nov 2010 15:43:20
 
 It is only in appearance that time is a river. It is rather a vast landscape and it is the eye of the beholder that moves.&mdash;Thornton Wilder (The Eighth Day)
-2010-11-10 10:43:20
-2010-11-10 15:43:20
 
 ## Superstition
 Sun, 12 Dec 2010 22:25:53
 
 We must do our best to see life as it really is and not as modern superstition interprets it. -- Lewis Maclachlan
-2010-12-12 17:25:53
-2010-12-12 22:25:53
 
 ## Science
 Sun, 12 Dec 2010 23:32:02
 
 We approach the subject (prayer) in a spirit of scientific enquiry. The question to be asked is not what according to our theology God ought to do, but what He actually does. -- Lewis Maclachlan
-2010-12-12 17:32:02
-2010-12-12 23:32:02
 
 ## Belief
 Mon, 13 Dec 2010 16:29:16
 
 In my experience over 90% of the arguments and criticisms made against Christianity can be answered with, &ldquo;Yeah, I don&rsquo;t believe in a God like that either.&rdquo; -- <a href="http://agentintellect.blogspot.com/2010/09/thought-of-day.html">Jim S.</a>
-2010-12-13 10:29:16
-2010-12-13 16:29:16
 
 ## Hands
 Wed, 15 Dec 2010 20:25:09
 
 I would fain be to the eternal God what a man's hand is to a man. -- <i>Theologia Germanica</i>
-2010-12-15 14:25:09
-2010-12-15 20:25:09
 
 ## 2011
 
@@ -193,87 +156,75 @@ I would fain be to the eternal God what a man's hand is to a man. -- <i>Theologi
 Sun, 09 Jan 2011 19:40:18
 
 The problem with Internet quotations is that many are not genuine. -- Abraham Lincoln
-2011-01-09 13:40:18
-2011-01-09 19:40:18
 
 ## Science
 Thu, 23 Dec 2010 15:37:31
 
 When everything is evidence of the thing you want to believe, it might be time to stop pretending you're all about <i>science</i>.&mdash;<a href="http://althouse.blogspot.com/2010/12/that-snow-outside-is-what-global.html">Ann Althouse</a>
-2010-12-23 09:37:31
-2010-12-23 15:37:31
 
 ## Real Science
 Fri, 21 Jan 2011 22:32:40
 
 Real science looks at data, makes falsifiable predictions, and attempts to falsify or confirm those predictions. The rest is &ldquo;other forces at work.&rdquo; <a href="http://www.jerrypournelle.com/mail/2011/Q1/mail658.html## climate">Jerry Pournelle</a>
-2011-01-21 16:32:40
-2011-01-21 22:32:40
 
 ## Good or Better?
 Tue, 25 Jan 2011 17:08:47
 
 When everything is good enough, it takes work to discover what&rsquo;s better, and better is often a matter of whim and preference anyway. -- <a href="http://www.chaosmanorreviews.com//oa/2011/20110124_col.php">Jerry Pournelle</a>
-2011-01-25 11:08:47
-2011-01-25 17:08:47
 
 ## Scientific Religion
 Tue, 01 Feb 2011 02:33:29
 
 So far neither Dark Energy nor the Multiverse seem to generate falsifiable hypotheses, removing them from science and relegating them to religion. I cheerfully admit that in the absence of evidence I prefer the religion I grew up with to these new ones, but perhaps I am insufficiently flexible in my views.&mdash;<a href="http://www.jerrypournelle.com/mail/2011/Q1/mail660.html## Monday">Jerry Pournelle</a>
-2011-01-31 20:33:29
-2011-02-01 02:33:29
 
 ## Discriminating
 Tue, 22 Feb 2011 20:31:19
 
 The way to stop discrimination on the basis of race is to stop discriminating on the basis of race. -- Chief Justice John Roberts (<a href="http://www.law.cornell.edu/supct/html/05-908.ZO.html">Parents Involved In Community Schools v. Seattle School Dist. No. 1</a> [June 28, 2007])
-2011-02-22 14:31:19
-2011-02-22 20:31:19
 
 ## Normal
 Mon, 28 Feb 2011 22:33:00
 
 Anything that is in the world when you&rsquo;re born is normal and ordinary and is just a natural part of the way the world works. Anything that&rsquo;s invented between when you&rdquo;re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you&rdquo;re thirty-five is against the natural order of things.&mdash;Douglas Adams, &ldquo;The Salmon of Doubt&rdquo;
-2011-02-28 16:33:00
-2011-02-28 22:33:00
 
 ## Relief
 Fri, 15 Apr 2011 21:17:31
 
 In life I know, there is lots of grief,<br>
 But your love is my relief. -- Bob Marley
-2011-04-15 15:17:31
-2011-04-15 21:17:31
 
 ## Marvels
 Wed, 01 Jun 2011 16:26:32
 
 The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments. -- George Washington
-2011-06-01 10:26:32
-2011-06-01 16:26:32
 
 ## Despair as Pride
 Wed, 25 May 2011 17:33:42
 
 Despair is the absolute extreme of self-love.
 Despair is the ultimate development of a pride so great and so stiff-necked that it selects the absolute misery of damnation rather than accept happiness from the hands of God and thereby acknowledge that [God] is above us. -- Thomas Merton (1961)
-2011-05-25 11:33:42
-2011-05-25 17:33:42
 
 ## Portable Devices and PHI
 Thu, 07 Jul 2011 17:15:55
 
-I recently sent the following to a behavioral health researcher who was planning to develop a mobile application for clinicians that would include client information--I believe that it may be of interest to others who are considering the use of smart phones and laptops in their clinical practice:
-"As you know, any high-technology product aimed at the medical market (defined in the sense of being subject to the Federal privacy regulations HIPAA and Hitech) needs to not only take all appropriate steps to protect the clients' identity and other protected health information (PHI), but it must do so demonstrably. By that, I mean that it must protect the information and also appear to protect it to the satisfaction of funders, consumers and regulators.<!--more-->
+I recently sent the following to a behavioral health researcher who was planning to develop a mobile application for clinicians that would include client information&mdash;I believe that it may be of interest to others who are considering the use of smart phones and laptops in their clinical practice:
+
+"As you know, any high-technology product aimed at the medical market (defined in the sense of being subject to the Federal privacy regulations HIPAA and Hitech) needs to not only take all appropriate steps to protect the clients' identity and other protected health information (PHI), but it must do so demonstrably. By that, I mean that it must protect the information and also appear to protect it to the satisfaction of funders, consumers and regulators.
+
 "When we are serving the portion of the medical market which includes consumers of substance-abuse treatment (broadly defined) we must also satisfy the Federal privacy regulations found in 42 C.F.R. Part 2. These regulations represent a thornier matter for the provider of technology services not only because they are much stricter than HIPAA and Hitech, but they were written long before digital exchange of PHI was common, and thus were not written with an eye to ease of compliance (as were HIPAA and Hitech).
+
 "In our particular application, then, we must look at two concerns:
+
 - Will we be putting PHI at an unusual risk; and
 - Will we be able to readily convince the reviewers at SAMHSA that our product is adequately secure.
 "We all have heard about high-profile security breaches caused by sensitive data being stored on a portable device (typically a laptop) which is then either left in a public place or is stolen from a car or home. Credit card companies, hospitals and nuclear weapons laboratories have all found themselves on the front pages in recent years in this way, and they are never able to explain the breach away&mdash;because it is indefensible that the data in question were ever stored on a portable device in the first place.
+
 "Portable devices are by their nature insecure. When we designed [a recent online assessment system], like any system designed to protect sensitive data, we designed "rings" of protection. The data were encrypted. Access to the servers both from the Internet and from within the data center was carefully restricted. And finally, physical access to the server devices was controlled in the most rigorous manner. This is, obviously, not possible with a laptop in the back seat of a car, in a hotel room or a living room table. This is even less possible with a cell phone, which will tend to be on its user's person most of their waking hours and can be dropped or stolen as easily as a wallet or a pair of glasses.
+
 "So, from my personal professional perspective, without a compelling reason to use the cell phone as the platform for this application, physical security concerns strongly suggest a more secure platform. Added to this is the relative newness of the Android or iOS (iPhone) software environments. With years of experience (years from now), we will have a good idea how to measure and mitigate risk on those platforms, as we have learned to measure and mitigate risk on the more mature hardware/software environments. While Android is based on a Linux kernel, which has a good history, its application on the cell phone hardware, using the cell network, is largely unproven ground. This also tends to concern me. I'm excited about Android and have plans to develop for it, but nothing that needs to be secure.
+
 "The IT engineers at SAMHSA will be asking themselves similar questions, and will very possibly come to a similar conclusion. We will have to write a Security Plan and submit it to them, and it will not have the same components that they are expecting. Were we to put my concerns to rest, we would then have to do the same in the Security Plan, and I would expect that would be difficult to write, and would be given extremely close scrutiny.
+
 "Taken as a whole, my considered judgment is that the prudent course of action would be to redesign the application to use a more conventional architecture&mdash;a server behind a firewall in a secure data center&mdash;one that we can be more confident of securing and more confident of getting approved."
 
 
@@ -291,8 +242,7 @@ Think about it. Seriously.
 Thu, 15 Nov 2012 20:22:28
 
 "If your main goal is to show that your heart is in the right place, then your heart is not in the right place." -- David Schmidtz
-2012-11-15 15:22:28
-2012-11-15 20:22:28
+
 
 ## 2013
 
@@ -300,8 +250,6 @@ Thu, 15 Nov 2012 20:22:28
 Mon, 25 Mar 2013 18:43:24
 
 Our educational system is about crowd control, but there is no small cabal of Lex Luthor-style evil geniuses that cackle with glee at their plan. The somnolence and mediocrity go all the way up and all the way down. The Secretary of Education herself would be horrified if she madeÂ <a href="http://newsfeed.time.com/2013/03/04/watch-boy-suspended-from-school-for-making-gun-out-of-a-pop-tart/">a gun out of a Pop-Tart</a>. -- <a title="James Chastek" href="http://thomism.wordpress.com/2013/03/09/the-american-student/" target="_blank">James Chastek</a>
-2013-03-25 12:43:24
-2013-03-25 18:43:
 
 ## 2015
 
@@ -309,9 +257,11 @@ Our educational system is about crowd control, but there is no small cabal of Le
 Tue, 17 Mar 2015 11:31:38
 
 Emmet Fox challenges "believers" to accept that miracles are a necessary part of the gospel story, and likewise challenges "skeptics" to consider that they are a natural part of a universe that science doesn't fully comprehend.
+
 <h1 align="center">Miracles</h1>
 Now, one must extend every sympathy to the special pleadings of a man enthralled by the beauty and mystery of the Gospels, but who, in the absence of the Spiritual Key, seems to find his common sense and all the scientific knowledge of mankind flouted by much that these Gospels contain. But this simply will not do. If the miracles did not happen, the rest of the Gospel story loses all real significance.<!--more--> If Jesus did not believe them to be possible, and undertake to perform them&mdash;never, it is true, for the sake of display, but still constantly and repeatedly&mdash;if he did not believe and teach many things in flat contradiction to eighteenth-and nineteenth-century rationalistic philosophy, then the Gospel message is chaotic, contradictory, and devoid of all significance. We cannot ride away from the dilemma by saying that Jesus was not interested in the current beliefs and superstitions of his time; that he took them more or less for granted passively; because what really interested him was character. This is a feeble argument, because character must include both an intelligent and a vital all-round reaction to life. Character must include some definite beliefs and convictions concerning things that really matter.
 But the miracles did happen. All the deeds related of Jesus in the four Gospels did happen, and many others too, "the which, if they should be written, every one, I suppose that even the world itself could not contain the books that should be written." Jesus himself justified what people thought to be a strange and wonderful teaching by the works he was able to do; and he went further and said, referring to those who study and practice his teaching: "The works that I do, ye shall do, and greater works."
+
 Now what, after all, is a miracle? Those who deny the possibility of miracles on the ground that the universe is a perfect system of law and order, to the operation of which there can be no exceptions, are perfectly right. But the explanation is that the world of which we are normally aware, and with whose laws alone most people are acquainted, is only a fragment of the whole universe as it really is; and that there is such a thing as appealing from a lower to a higher law&mdash;from a lesser to a greater expression. Now the appeal from the lower to the higher law is not really a breach of law, for the possibility of such an appeal is part of the major constitution of the universe, and, therefore, in the sense of a real breach of law, miracles are impossible. Yet, in the sense that all the ordinary rules and limitations of the physical plane can be set aside or overridden by an understanding which has risen above them, miracles, in the colloquial sense of the word, can and do happen.
 
 ## Moral Authority
@@ -319,8 +269,6 @@ Thu, 24 Sep 2015 17:11:45
 
 When I heard that Pope Francis had visited the Little Sisters of the Poor last night, I heard Martin Luther King's voice saying his words from Birmingham Jail: "One has not only a legal but a moral responsibility to obey just laws. Conversely, one has a moral responsibility to disobey unjust laws."
 He deserves his propers for doing that.
-2015-09-24 11:11:45
-2015-09-24 17:11:45
 
 ## 2016
 
@@ -345,26 +293,28 @@ And W. H. Auden, in <em>September 1, 1939</em> covered the same ground as German
 &nbsp;&nbsp;The unmentionable odour of death.
 I can't help noticing a significant difference that we face today, however.
 The Irish Republic was established three years after the Rising, and WWII had come to an end in just under six years after the invasion of Poland, long, terrible years that they were in both cases, but the still the denouement was achieved.
-And here we are, fifteen years later. 
+
+And here we are, fifteen years later.
+
 I had no idea. Did you?
+
 Have you found the poem describing September 10, 2001? Is it too soon?
+
 h/t to Gerard Van der Leun
-395
-2016-09-10 20:58:53
-2016-09-11 00:58:53
 
 ## Why Add to a Blog in 2016?
 Thu, 22 Sep 2016 20:46:41
 
 Why, indeed? When Facebook, Twitter and whatever other social media silos exist out there, where Everybody is following Everybody else, why write something new to add to something as old-school, so Last Year or Last Decade as a blog, where arguably nobody will see it?
+
 Well, trust me, I've tried to share "socially", at least on FB. I resisted joining that Place where Youngsters Talk Past Each Other for a while. My tipping point came sometime in the spring of 2012 while I was visiting Maryland to stay with my ailing Father. My first night there, my baby sister (who lived next door to him) dropped in and said, "Congratulations!" I was grateful for the kind words, but didn't know why I was to be congratulated. "Because Caitlyn is having another baby&mdash;you're going to be a Great-Grandpa again!" It turns out that any family news is now shared on Facebook and nowhere else. OK, I may be a Canuck by choice, but I'm not going to be Canute, ordering the tides to cease. I joined Facebook and tried to play the game.
-<!--more-->
+
 I've been as loyal a FB'er as an over-the-hill not-very-leftist Old Fart could, sharing family pictures, commenting kindly (most of the time) on others' family pictures, and sharing silly pictures with humorous (if sometimes a bit sharp) "memes" and links to interesting articles about this and that. For the most part, I've practiced "Stifle yerself, Edith!" as I learned to do during my career as a Federal Consultant, surrounded by Feds, Social Workers and Academics who either tolerated my trogdolitism or blithely assumed that I was One Of Them politically or ideologically.
+
 This Federal Election Cycle, I've practiced and encouraged others to practice (with little effect) a strict policy of No Digs At Candidates&mdash;If You Must Talk Politics, Discuss What You're For, Not Who You're Repelled By. It's been a struggle, but rewarding. I haven't "unliked" anyone, although I've had to "unfollow" a few to not be constantly upset.
+
 Anyway, there are topics of interest to Old Farts other than Federal Politics, although this close to the Imperial Capital that seems hard to imagine. Every now and then I'd wax so fulsomely on some topic that the dreaded "see more" would appear with most of the thought swallowed by the FB interface (don't get me started on the FB interface, though). All evidence is that none of those hidden words were ever seen or heard from again. I've been tempted to close a longer, thoughtful post with something bizarre, like a "farewell, cruel world" note just to see whether anyone at all read it, but instead I've decided to just hide it over here, in Consultingsmiths limbo.
 Cheers!
-2016-09-22 16:46:41
-2016-09-22 20:46:41
 
 ## On Discipline
 Thu, 22 Sep 2016 20:57:18
@@ -526,7 +476,7 @@ Quoted today by the President at a rally in Melbourne, Florida.
 ## Miracles (again)
 Mon, 20 Feb 2017 13:33:06
 
-&ldquo;And I dare say the first time you saw a man raised from the dead you might think so too.&rdquo; He giggled unconvincingly behind the smiling mask. &ldquo;Oh, it&rsquo;s funny, isn&rsquo;t it? It isn&rsquo;t a case of miracles not happening&mdash;it&rsquo;s just a case of people calling them something else. Can&rsquo;t you see the doctors round the dead man? He isn&rsquo;t breathing any more, his pulse has stopped, his heart&rsquo;s not beating: he&rsquo;s dead. The somebody gives him back his life, and they all&mdash;what&rsquo;s the expression?&mdash;reserve their opinion. They won&rsquo;t say it&rsquo;s a miracle, because that&rsquo;s a word they don&rsquo;t like. Then it happens again and again perhaps&mdash;because God&rsquo;s about on earth&mdash;and they say: these aren&rsquo;t miracles, it is simply that we have enlarged our conception of what life is. Now we know you can be alive without pulse, breath, heart-beats. And they invent a new word to describe that state of life, and they say science has disproved a miracle.&rdquo; He giggled again. &rdquo;˜You can&rsquo;t get round them.&rdquo;"&mdash;Graham Greene <em>The Power and the Glory</em>
+&ldquo;And I dare say the first time you saw a man raised from the dead you might think so too.&rdquo; He giggled unconvincingly behind the smiling mask. &ldquo;Oh, it&rsquo;s funny, isn&rsquo;t it? It isn&rsquo;t a case of miracles not happening&mdash;it&rsquo;s just a case of people calling them something else. Can&rsquo;t you see the doctors round the dead man? He isn&rsquo;t breathing any more, his pulse has stopped, his heart&rsquo;s not beating: he&rsquo;s dead. The somebody gives him back his life, and they all&mdash;what&rsquo;s the expression?&mdash;reserve their opinion. They won&rsquo;t say it&rsquo;s a miracle, because that&rsquo;s a word they don&rsquo;t like. Then it happens again and again perhaps&mdash;because God&rsquo;s about on earth&mdash;and they say: these aren&rsquo;t miracles, it is simply that we have enlarged our conception of what life is. Now we know you can be alive without pulse, breath, heart-beats. And they invent a new word to describe that state of life, and they say science has disproved a miracle.&rdquo; He giggled again. &lsquo;You can&rsquo;t get round them.&rdquo;"&mdash;Graham Greene <em>The Power and the Glory</em>
 Courtesy of <a href="http://wmbriggs.com/post/8069/" target="_blank">William M. Briggs&mdash;Statistician to the Stars</a>
 
 ## History and Leaves
@@ -542,7 +492,7 @@ Wed, 15 Mar 2017 21:39:34
 ## Simply Because It&#039;s Amusing
 Thu, 16 Mar 2017 12:20:07
 
-"Certain magazines have symposiums (I will call them &rdquo;˜symposia&rdquo; if I am allowed to call the two separate South Kensington collections &rdquo;˜musea&rdquo;)" &ndash; G. K. Chesterton
+"Certain magazines have symposiums (I will call them &lsquo;symposia&rdquo; if I am allowed to call the two separate South Kensington collections &lsquo;musea&rdquo;)" &ndash; G. K. Chesterton
 Amusing because it pokes at one of my own peccadilloes. Saying "peccadilloes" rather than "bad habits" deserves another clever poke at the same personal weakness, but it's too early and I've had too little coffee.
 
 ## Straw Men
@@ -683,7 +633,7 @@ Sat, 27 May 2017 10:56:12
 ## Our House
 Sat, 27 May 2017 11:02:19
 
-&ldquo;We&rdquo;re not living in a two-story house with us on the bottom floor and God upstairs and that&rsquo;s it. Far more realistic is to realize that we&rdquo;re living in a skyscraper and that there are who knows how many dimensions of creation above us.&rdquo;&mdash;Mark Shea, at <a href="http://www.archindy.org/criterion/local/series/evil/1.htm" target="_blank">Archindy.org</a>
+&ldquo;we&rsquo;re not living in a two-story house with us on the bottom floor and God upstairs and that&rsquo;s it. Far more realistic is to realize that we&rsquo;re living in a skyscraper and that there are who knows how many dimensions of creation above us.&rdquo;&mdash;Mark Shea, at <a href="http://www.archindy.org/criterion/local/series/evil/1.htm" target="_blank">Archindy.org</a>
 
 
 ## Unthinkable?
@@ -765,7 +715,7 @@ Fri, 30 Jun 2017 02:02:40
 ## Political Ideals
 Mon, 03 Jul 2017 11:31:20
 
-&ldquo;Political ideals will vary according to men&rsquo;s views on human destiny. Those who are persuaded that the purpose of life is pleasure, or power, or honour, will reckon that State best arranged in which they can live comfortably, or acquire great wealth, or achieve great power and lord it over many. Others who think that the crowning good of virtue is the purpose of our present life will want an arrangement under which men can live virtuously and peaceably together. In short, political judgment will be settled by the sort of life a man expects and proposes to lead by living in a community.&rdquo;&mdash;St. Thomas Aquinas: Commentary on Aristotle&rsquo;s &rdquo;˜Politics,&rdquo; Book II, lect. 1.
+&ldquo;Political ideals will vary according to men&rsquo;s views on human destiny. Those who are persuaded that the purpose of life is pleasure, or power, or honour, will reckon that State best arranged in which they can live comfortably, or acquire great wealth, or achieve great power and lord it over many. Others who think that the crowning good of virtue is the purpose of our present life will want an arrangement under which men can live virtuously and peaceably together. In short, political judgment will be settled by the sort of life a man expects and proposes to lead by living in a community.&rdquo;&mdash;St. Thomas Aquinas: Commentary on Aristotle&rsquo;s &lsquo;Politics,&rdquo; Book II, lect. 1.
 
 ## No New Thing
 Wed, 05 Jul 2017 02:27:56
@@ -949,7 +899,7 @@ Attr. to St. Augustine. Also to St. Ignatius of Loyola. And to Martin Luther.
 ## Why?
 Fri, 22 Sep 2017 18:03:53
 
- &rdquo;˜Now I will tell you the answer to my question. It is this. The Party seeks power entirely for its own sake. We are not interested in the good of others ; we are interested solely in power. Not wealth or luxury or long life or happiness: only power, pure power. What pure power means you will understand presently. We are different from all the oligarchies of the past, in that we know what we are doing. All the others, even those who resembled ourselves, were cowards and hypocrites. The German Nazis and the Russian Communists came very close to us in their methods, but they never had the courage to recognize their own motives. They pretended, perhaps they even believed, that they had seized power unwillingly and for a limited time, and that just round the corner there lay a paradise where human beings would be free and equal. We are not like that. We know that no one ever seizes power with the intention of relinquishing it. Power is not a means, it is an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship. The object of persecution is persecution. The object of torture is torture. The object of power is power. Now do you begin to understand me?&rdquo;&mdash;George Orwell&mdash;<em>1984</em> O'Brien to Winston
+ &lsquo;Now I will tell you the answer to my question. It is this. The Party seeks power entirely for its own sake. We are not interested in the good of others ; we are interested solely in power. Not wealth or luxury or long life or happiness: only power, pure power. What pure power means you will understand presently. We are different from all the oligarchies of the past, in that we know what we are doing. All the others, even those who resembled ourselves, were cowards and hypocrites. The German Nazis and the Russian Communists came very close to us in their methods, but they never had the courage to recognize their own motives. They pretended, perhaps they even believed, that they had seized power unwillingly and for a limited time, and that just round the corner there lay a paradise where human beings would be free and equal. We are not like that. We know that no one ever seizes power with the intention of relinquishing it. Power is not a means, it is an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship. The object of persecution is persecution. The object of torture is torture. The object of power is power. Now do you begin to understand me?&rdquo;&mdash;George Orwell&mdash;<em>1984</em> O'Brien to Winston
 
 ## Tails
 Fri, 22 Sep 2017 18:24:26
@@ -990,7 +940,7 @@ Fri, 13 Oct 2017 11:38:34
 ## On Heresy
 Fri, 13 Oct 2017 11:45:56
 
-&ldquo;Therefore, heresy is so called from the Greek word meaning &rdquo;˜choice,&rdquo; by which each chooses according to his own will what he pleases to teach or believe. But we are not permitted to believe whatever we choose, nor to choose whatever someone else has believed. We have the apostles of God as authorities, who did not themselves of their own will choose what they would believe, but faithfully transmitted to the nations the teaching received from Christ. So, even if an angel from heaven should preach otherwise, he shall be called anathema.&rdquo;&mdash;St. Isidore of Seville (c. 560&mdash;636): Etymologies, 8, 3.
+&ldquo;Therefore, heresy is so called from the Greek word meaning &lsquo;choice,&rdquo; by which each chooses according to his own will what he pleases to teach or believe. But we are not permitted to believe whatever we choose, nor to choose whatever someone else has believed. We have the apostles of God as authorities, who did not themselves of their own will choose what they would believe, but faithfully transmitted to the nations the teaching received from Christ. So, even if an angel from heaven should preach otherwise, he shall be called anathema.&rdquo;&mdash;St. Isidore of Seville (c. 560&mdash;636): Etymologies, 8, 3.
 
 ## The habit of neglecting true books
 Mon, 23 Oct 2017 12:00:31
@@ -1143,7 +1093,7 @@ Mon, 18 Dec 2017 12:53:38
 ## Extraordinary Decency
 Mon, 18 Dec 2017 12:59:11
 
-"If you can think of times in your life that you&rdquo;ve treated people with extraordinary decency and love, and pure uninterested concern, just because they were valuable as human beings. The ability to do that with ourselves.  To treat ourselves the way we would treat a really good, precious friend. Or a tiny child of ours that we absolutely loved more than life itself.  And I think it&rsquo;s probably possible to achieve that.  I think part of the job we&rdquo;re here for is to learn how to do it.  I know that sounds a little pious."&mdash;David Foster Wallace
+"If you can think of times in your life that you&rdquo;ve treated people with extraordinary decency and love, and pure uninterested concern, just because they were valuable as human beings. The ability to do that with ourselves.  To treat ourselves the way we would treat a really good, precious friend. Or a tiny child of ours that we absolutely loved more than life itself.  And I think it&rsquo;s probably possible to achieve that.  I think part of the job we&rsquo;re here for is to learn how to do it.  I know that sounds a little pious."&mdash;David Foster Wallace
 
 ## Sentimentality
 Tue, 19 Dec 2017 02:43:23
@@ -1186,7 +1136,7 @@ It's possible to spend 7 hours and 52 minutes out of an eight-hour day in doing 
 ## He is Inescapable
 Wed, 10 Jan 2018 22:35:47
 
-&ldquo;Because God is not a finite object over against you as a subject, you cannot simply turn away towards &rdquo;˜something else.&rdquo;; He is the ground and end of all desire and knowledge as such, the Good in itself. You cannot choose or not choose God the way you would choose or not choose a cup of coffee. You desire anything because of your original desire for God as the transcendental Good and Beautiful; you know anything because of your original intellectual appetite for God as the transcendental Truth as such. Even in desiring to flee God, you are desiring God as the &rdquo;˜good end&rdquo; you seek in godlessness. He is inescapable because all being, goodness, unity, truth, and beauty simply are God in their transcendent truth, and because a rational nature is nothing but an infinite dynamic orientation towards that transcendent end. The natural will, as Maximus says, can will only God. Don&rsquo;t think of God as a candidate in a political race, whom you could simply reject and be done with; he is the original and final act of your every discrete act of desire. And, in the ages, since God is all and there is literally nothing beyond him, the natural will is always seeking its natural supernatural end. Simply said, God is not an object of desire; he is the end that makes desire.&rdquo;&mdash;<a href="https://afkimel.wordpress.com/essential-readings-on-universalism/" rel="noopener" target="_blank">David Bentley Hart</a>
+&ldquo;Because God is not a finite object over against you as a subject, you cannot simply turn away towards &lsquo;something else.&rdquo;; He is the ground and end of all desire and knowledge as such, the Good in itself. You cannot choose or not choose God the way you would choose or not choose a cup of coffee. You desire anything because of your original desire for God as the transcendental Good and Beautiful; you know anything because of your original intellectual appetite for God as the transcendental Truth as such. Even in desiring to flee God, you are desiring God as the &lsquo;good end&rdquo; you seek in godlessness. He is inescapable because all being, goodness, unity, truth, and beauty simply are God in their transcendent truth, and because a rational nature is nothing but an infinite dynamic orientation towards that transcendent end. The natural will, as Maximus says, can will only God. Don&rsquo;t think of God as a candidate in a political race, whom you could simply reject and be done with; he is the original and final act of your every discrete act of desire. And, in the ages, since God is all and there is literally nothing beyond him, the natural will is always seeking its natural supernatural end. Simply said, God is not an object of desire; he is the end that makes desire.&rdquo;&mdash;<a href="https://afkimel.wordpress.com/essential-readings-on-universalism/" rel="noopener" target="_blank">David Bentley Hart</a>
 
 ## Being Christian
 Wed, 10 Jan 2018 23:38:35
@@ -1456,7 +1406,9 @@ Fri, 13 Apr 2018 13:00:12
 Fri, 20 Apr 2018 15:37:01
 
 It occurred to me that I have "Spiritual ADD"&mdash;that I'll get an inspiration that bounces all over, then gets lost.
+
 And, since they are real inspirations (at least, sometimes) they'll come back, somewhat evolved, perhaps decades later. "David, it's Me again. Remember this..."
+
 From a note that I left to myself 6 April, 2017
 
 ## Needlework
@@ -1468,32 +1420,38 @@ Sat, 05 May 2018 15:11:29
 Thu, 31 May 2018 12:10:45
 
 Also, science (intentionally uncapitalized) and engineering:
+
 "Education is what, when, and why to do things. Training is how to do it.
+
 "In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know what you are doing, you should not be doing it."&mdash;Richard Hamming, <em>The Art of Doing Science and Engineering (1997)</em>
 
 ## A Brief Note
 Thu, 31 May 2018 12:16:41
 
 To my other reader, acknowledging my absence...
+
 Been trying to get into a single-story home, for the sake of our sadly abused knees, etc.
+
 Succeeded three weeks ago, been consumed with "next steps" since then.
+
 Posting may or may not continue to be erratic, but then it's always been like that, hasn't it?
 
 ## Criticism and The Web
 Thu, 31 May 2018 12:29:55
 
-"When I first prepared this particular talk... I realized that my usual approach is usually critical. That is, a lot of the things that I do, that most people do, are because they hate something somebody else has done, or they hate that something hasn't been done. And I realized that informed criticism has completely been done in by the web. Because the web has produced so much uninformed criticism. It's kind of a Gresham's Law -- bad money drives the good money out of circulation. Bad criticism drives good criticism out of circulation. You just can't criticize anything."&mdash;Alan Kay <a href="https://vimeo.com/10260548" rel="noopener" target="_blank"><em>How Simply and Understandably Could The &ldquo;Personal Computing Experience&rdquo; Be Programmed?</em></a>
+&ldquo;When I first prepared this particular talk... I realized that my usual approach is usually critical. That is, a lot of the things that I do, that most people do, are because they hate something somebody else has done, or they hate that something hasn't been done. And I realized that informed criticism has completely been done in by the web. Because the web has produced so much uninformed criticism. It&rsquo;s kind of a Gresham&rsquo;s Law&mdash;bad money drives the good money out of circulation. Bad criticism drives good criticism out of circulation. You just can&rsquo;t criticize anything.&rdquo;&mdash;Alan Kay <a href="https://vimeo.com/10260548" rel="noopener" target="_blank"><em>How Simply and Understandably Could The &lsquo;Personal Computing Experience&rsquo; Be Programmed?</em></a>
 
 ## The Language of Nature
 Thu, 31 May 2018 12:36:41
 
-"We must remember that Galileo merely said that the language of nature is written in mathematics. He did not say everything is. And even the truth about nature need not be expressed in mathematics. For most of human history, the language of nature has been the language of myth and ritual. These forms, one might add, had the virtues of leaving nature unthreatened and of encouraging the belief that human beings are part of it. It hardly befits a people who stand ready to blow up the planet to praise themselves too vigorously for having found the true way to talk about nature." &amp;mdash: Neil Postman <em>Amusing Ourselves to Death</em>
+&ldquo;We must remember that Galileo merely said that the language of nature is written in mathematics. He did not say everything is. And even the truth about nature need not be expressed in mathematics. For most of human history, the language of nature has been the language of myth and ritual. These forms, one might add, had the virtues of leaving nature unthreatened and of encouraging the belief that human beings are part of it. It hardly befits a people who stand ready to blow up the planet to praise themselves too vigorously for having found the true way to talk about nature.&rdquo; &amp;mdash: Neil Postman <em>Amusing Ourselves to Death</em>
 
 ## Power/Corruption
 Thu, 31 May 2018 12:47:53
 
-"&rdquo;˜Power tends to corrupt, and absolute power corrupts absolutely.&rdquo; We&rdquo;ve all seen this quote of Lord Acton. Most people agree with it. I don&rsquo;t. Like many (if not most) great quotes, it is dead wrong. Why? Because it&rsquo;s exactly backwards, that&rsquo;s why...
-"Let&rsquo;s reconstruct Acton&rsquo;s sentence in a way that reflects the truth of the matter (and energy) of power. Put the word &rdquo;˜man&rdquo; in place of &rdquo;˜power&rdquo;, and then move the word &rdquo;˜power&rdquo; behind the word &rdquo;˜corrupt(s)&rdquo;. Now let&rsquo;s see what it should look like if we&rdquo;re truly seeking the truth: &rdquo;˜(Man) tends to corrupt power, and absolute (Man) corrupts power absolutely&rdquo;."&mdash;Ianto Watt <a href="http://wmbriggs.com/post/24549/" rel="noopener" target="_blank"><em>Lord Acton's Apostasy</em></a>
+&ldquo;&lsquo;Power tends to corrupt, and absolute power corrupts absolutely.&rsquo; We&rsquo;ve all seen this quote of Lord Acton. Most people agree with it. I don&rsquo;t. Like many (if not most) great quotes, it is dead wrong. Why? Because it&rsquo;s exactly backwards, that&rsquo;s why...
+
+&ldquo;Let&rsquo;s reconstruct Acton&rsquo;s sentence in a way that reflects the truth of the matter (and energy) of power. Put the word &lsquo;man&rsquo; in place of &lsquo;power&rsquo;, and then move the word &lsquo;power&rsquo; behind the word &lsquo;corrupt(s)&rsquo;. Now let&rsquo;s see what it should look like if we&rsquo;re truly seeking the truth: &lsquo;(Man) tends to corrupt power, and absolute (Man) corrupts power absolutely&rsquo;.&rdquo;&mdash;Ianto Watt <a href="http://wmbriggs.com/post/24549/" rel="noopener" target="_blank"><em>Lord Acton&rsquo;s Apostasy</em></a>
 
 ## The Problem
 Sat, 02 Jun 2018 11:48:39
@@ -1503,13 +1461,15 @@ Sat, 02 Jun 2018 11:48:39
 ## Joyce&#039;s Reality
 Mon, 18 Jun 2018 11:07:32
 
-"Beckett wrote that Joyce believed fervently in the significance of chance events and of random connections. &rdquo;˜To Joyce reality was a paradigm, an illustration of a possibly unstateable rule&rdquo;¦ According to this rule, reality, no matter how much we try to manipulate it, can only shift about in continual movement, yet movement limited in its possibilities&rdquo;¦&rdquo; giving rise to &rdquo;˜the notion of the world where unexpected simultaneities are the rule.&rdquo; In other words, a coincidence such as sitting down to dinner with James Joyce is actually just part of a continually moving pattern, like a kaleidoscope. Or Joyce likes to put it, a &rdquo;˜collideorscape&rdquo;."&mdash;Gabrielle Carey <em><a href="https://sydneyreviewofbooks.com/breaking-james-joyce/" rel="noopener" target="_blank">Breaking Up With James Joyce</a></em>
+"Beckett wrote that Joyce believed fervently in the significance of chance events and of random connections.
+
+&lsquo;To Joyce reality was a paradigm, an illustration of a possibly unstateable rule... According to this rule, reality, no matter how much we try to manipulate it, can only shift about in continual movement, yet movement limited in its possibilities...&rsquo; giving rise to &lsquo;the notion of the world where unexpected simultaneities are the rule.&rsquo; In other words, a coincidence such as sitting down to dinner with James Joyce is actually just part of a continually moving pattern, like a kaleidoscope. Or Joyce likes to put it, a &lsquo;collideorscape&rsquo;&rdquo;.&mdash;Gabrielle Carey <em><a href="https://sydneyreviewofbooks.com/breaking-james-joyce/" rel="noopener" target="_blank">Breaking Up With James Joyce</a></em>
 <a href="http://www.consultingsmiths.com/wp-content/uploads/2018/06/MarxRealith.jpg"><img src="http://www.consultingsmiths.com/wp-content/uploads/2018/06/MarxRealith-200x300.jpg" alt="" width="200" height="300" class="alignnone size-medium wp-image-1024" /></a>
 
 ## We Must Sin
 Mon, 18 Jun 2018 11:27:48
 
-"According to Ellman, Joyce&rsquo;s view of sin was influenced by Hermann Suderman&rsquo;s play Magda: &rdquo;˜Magda&rsquo;s philosophy of life may well have helped to shape Joyce&rsquo;s. As she says, &ldquo;And one thing more, my friend&mdash;sin! We must sin if we wish to grow. To become greater than our sins is worth more than all the purity you preach.&rdquo;&rdquo;"&mdash;Gabrielle Carey <em><a href="https://sydneyreviewofbooks.com/breaking-james-joyce/" rel="noopener" target="_blank">Breaking Up With James Joyce</a></em>
+"According to Ellman, Joyce&rsquo;s view of sin was influenced by Hermann Suderman&rsquo;s play Magda: &lsquo;Magda&rsquo;s philosophy of life may well have helped to shape Joyce&rsquo;s. As she says, &ldquo;And one thing more, my friend&mdash;sin! We must sin if we wish to grow. To become greater than our sins is worth more than all the purity you preach.&rdquo;&rdquo;"&mdash;Gabrielle Carey <em><a href="https://sydneyreviewofbooks.com/breaking-james-joyce/" rel="noopener" target="_blank">Breaking Up With James Joyce</a></em>
 Is the nature of reality binary, dual? Is it in some way Gnostic, in that good deeds have those side effects of evil, and evil deeds have some atom of good? What does Preston Howard have to say about that?
 
 
@@ -1717,7 +1677,7 @@ Sat, 22 Dec 2018 16:54:28
 Sat, 22 Dec 2018 17:03:16
 
 &ldquo;St. Mary&rsquo;s Church in Dublin, Ireland, built at the beginning of the 18th century and closed in 1964, was abandoned for a number of years until it was bought and transformed into a restaurant and bar in 1997. The transformation was given the Dublin City Neighborhood Awards 2006, where it won first prize in the category of Best Old Building. Now it goes by the name of The Church Bar and Restaurant.
-&ldquo;The travel destinations section of The Telegraph (London) notes that, at the historic heart of Assisi, Italy, you may enjoy the <em>Nun Assisi Relais and Spa and Museum</em>: &ldquo;This stylish convent-turned-design-hotel enjoys a quiet spot in the historical heart of Assisi. An inspired renovation not only transformed the 13th-century structure into a sleek, minimalist haven; but also uncovered the ruins of a Roman amphitheater&mdash;now home to an atmospheric &rdquo;˜spa museum&rdquo;.&rdquo;
+&ldquo;The travel destinations section of The Telegraph (London) notes that, at the historic heart of Assisi, Italy, you may enjoy the <em>Nun Assisi Relais and Spa and Museum</em>: &ldquo;This stylish convent-turned-design-hotel enjoys a quiet spot in the historical heart of Assisi. An inspired renovation not only transformed the 13th-century structure into a sleek, minimalist haven; but also uncovered the ruins of a Roman amphitheater&mdash;now home to an atmospheric &lsquo;spa museum&rdquo;.&rdquo;
 &ldquo;Can ecclesiastical buildings be recycled, re-purposed, or transformed without profanation?&rdquo;&mdash;<a href="https://www.thecatholicthing.org/2018/12/13/are-churches-easily-dispensable/" rel="noopener" target="_blank">Ines A. Murzaku</a>
 
 ## 2019
@@ -2012,3 +1972,8 @@ Even more briefly, humanity began as conscious, became free; and is destined to 
 Barfield proposes real, coherent, and clear answers to the most fundamental problems.
 
 by Bruce Charlton at http://www.owenbarfield.org/
+
+## The Past
+Sat May 4, 2019
+
+"The past is a foreign country; They do things different there."&mdash;L. P. Hartley <em>The Go-Between</em>
