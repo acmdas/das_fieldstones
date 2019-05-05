@@ -300,3 +300,10 @@ Sat May 4, 2019
 Sun May 5, 2019
 
 "A changeless society would be as intolerable for people as the present society of constant change. Convivial reconstruction requires limits on the rate of compulsory change. An unlimited rate of change makes lawful community meaningless. Law is based on the retrospective judgment of peers about circumstances that occur ordinarily and are likely to occur again. If the rate of change which affects all circumstances accelerates beyond some point, such judgments cease to be valid. Lawful society breaks down. Social control does not accommodate community participation and becomes the function of experts. Educators define how people are to be trained and retrained throughout their lives—shaped and reshaped until they fit the demands of industry and are attracted by its profits. Ideologues define what is right or wrong. The tooling of man for the milieu becomes the major industry when this milieu changes beyond a certain rate; then man’s need for language and law, for memories and myths, imposes limits to the change of tools."—Ivan Illich, <em>Tools for Conviviality</em>
+
+## Knavish Imbecility
+Sun May 5, 2019
+
+“The Catholic Church is an institution I am bound to hold divine — but for unbelievers a proof of its divinity might be found in the fact that no merely human institution conducted with such knavish imbecility would have lasted a fortnight.”&mdash;Hilaire Belloc (A comment made to William Temple, quoted in The Life of Hilaire Belloc by Robert Speaight)
+
+Seen at [link text](https://casorosendi.wordpress.com/2019/05/05/dodging-the-bullet/)Carlos Cassetti's blog
