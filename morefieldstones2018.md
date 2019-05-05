@@ -1,7 +1,7 @@
 # More Fieldstones 2018
 
 ## Hiding from the mission
-Sun, 07 Jan 2018 20:13:07
+Sun, 07 Jan 2018
 
 We do this in two ways:
 The first is refusing to be clear and precise about what the mission is. Avoiding specifics about what we hope to accomplish and for whom. Being vague about success and (thus about failure).
@@ -14,7 +14,7 @@ It's possible to spend 7 hours and 52 minutes out of an eight-hour day in doing 
 <a href="http://sethgodin.typepad.com/seths_blog/2018/01/hiding-from-the-mission.html" rel="noopener" target="_blank">Seth Godin</a>
 
 ## He is Inescapable
-Wed, 10 Jan 2018 22:35:47
+Wed, 10 Jan 2018
 
 &ldquo;Because God is not a finite object over against you as a subject, you cannot simply turn away towards &lsquo;something else.&rdquo;; He is the ground and end of all desire and knowledge as such, the Good in itself. You cannot choose or not choose God the way you would choose or not choose a cup of coffee. You desire anything because of your original desire for God as the transcendental Good and Beautiful; you know anything because of your original intellectual appetite for God as the transcendental Truth as such. Even in desiring to flee God, you are desiring God as the &lsquo;good end&rdquo; you seek in godlessness. He is inescapable because all being, goodness, unity, truth, and beauty simply are God in their transcendent truth, and because a rational nature is nothing but an infinite dynamic orientation towards that transcendent end. The natural will, as Maximus says, can will only God. Don&rsquo;t think of God as a candidate in a political race, whom you could simply reject and be done with; he is the original and final act of your every discrete act of desire. And, in the ages, since God is all and there is literally nothing beyond him, the natural will is always seeking its natural supernatural end. Simply said, God is not an object of desire; he is the end that makes desire.&rdquo;&mdash;<a href="https://afkimel.wordpress.com/essential-readings-on-universalism/" rel="noopener" target="_blank">David Bentley Hart</a>
 
@@ -24,7 +24,7 @@ Wed, 10 Jan 2018 23:38:35
 "It is almost universally assumed today that becoming a Christian means in essence the adoption of a new set of beliefs or the initiation of a new mode of behaviour. A Christian would be defined as one who 'believes in Christ' or 'worships Christ' or 'tries to follow Christ's teaching.' Now it is far from my purpose to belittle either Christian dogma or Christian ethics. Nevertheless, it must be pointed out that to define the essence of Christianity in terms of belief or of practice involves the neglect of two principles that are fundamental to all sound theology. The former of these is that the act of God precedes and is presupposed by the acts of man: 'Herein is love, not that we loved God, but that he loved us'; 'Ye have come to know God, <em>or rather to be known of God</em>.' The second is that what a being <em>is</em> precedes what it <em>does</em>; our actions are a consequence of what we are <em>operari sequitur esse</em>. It will follow from this that the Christian should be defined not in terms of what he himself does, but of what God has made him to be. Being a Christian is an ontological fact, resulting from an act of God."&mdash;E. L. Mascall, <em>Christ, the Christian, and the Church</em> p.77
 
 ## Meditation for January 15
-Mon, 15 Jan 2018 17:34:22
+Mon, 15 Jan 2018
 
 I will relax and not get tense. I will have no fear, because everything will work out in the end. I will learn soul-balance and poise in a vacillating, changing world. I will claim God's power and use it because if I do not use it, it will be withdrawn. As long as I get back to God and replenish my strength after each task, no work can be too much. 
 Prayer for the Day
@@ -32,52 +32,60 @@ I pray that I may relax and that God's strength will be given to me. I pray that
 From the original AA Meditation book, <em>Twenty-Four Hours a Day</em>, by Richmond Walker
 
 ## Okay?
-Sun, 21 Jan 2018 03:01:29
+Sun, 21 Jan 2018
 
 "Everything will be okay in the end. If it's not okay, it's not the end"&mdash;John Lennon, or maybe Paulo Coelho, or maybe someone else.
 
 ## The Cost of Discipleship
-Tue, 23 Jan 2018 03:46:50
+Tue, 23 Jan 2018
 
 "What did Jesus want to say to us? What does he want from us today? How does he help us to be faithful Christians today? It is not ultimately important to us what this or that church leader wants. Rather, we want to know what Jesus wants. When we go to hear a sermon, his own word is what we want to hear. This matters to us not only for our own sakes, but also for all those who have become estranged from the church and its message. It is also our opinion that if Jesus himself and Jesus alone with his word were among us in our preaching, then quite a different set of people would hear the word and quite a different set of people would again turn away from it."&mdash;Dietrich Bonhoeffer, <em>The Cost of Discipleship</em>
 
 ## Democracy of the Dead
-Thu, 25 Jan 2018 17:55:55
+Thu, 25 Jan 2018
 
 &ldquo;Tradition means giving a vote to most obscure of all classes, our ancestors. It is the democracy of the dead.&rdquo;&mdash;G. K. Chesterton, <em>Orthodoxy</em>, Chapter 4.
 
 ## A Short Story
-Thu, 25 Jan 2018 22:20:36
+Thu, 25 Jan 2018
 
 "A man, walking through the forest saw a fox that had lost its legs, and wondered how it lived. Then he saw a tiger come up with game in its mouth. The tiger ate its fill and left the rest of the meat for the fox. The next day God fed the fox by means of the same tiger.
 "The man began to wonder at God&rsquo;s greatness and said to himself, 'I too shall just rest in a corner with full trust in the Lord and He will provide me with all I need.'
 "He did this for many days, but nothing happened, and he was almost at death&rsquo;s door when he heard a voice say, 'O you who are in the path of error, open your eyes to the truth! Stop imitating the disabled fox and follow the example of the tiger'&rdquo;&mdash;Ernie Kurtz
 
 ## Gospel Demands
-Sun, 28 Jan 2018 22:37:44
+Sun, 28 Jan 2018
 
 &ldquo;If the gospel demands that we renounce this world . . . , then the simple thing to do is: do it&rdquo;&mdash;SÃ¸ren Kierkegaard, <em>Journals</em>
 
 ## Instructions For Wayfarers
-Tue, 30 Jan 2018 22:14:04
+Tue, 30 Jan 2018
 
-<em>They will declare: Every journey has been taken.
+*They will declare: Every journey has been taken.
+
 You shall respond: I have not been to see myself.
+
 They will insist: Everything has been spoken.
+
 You shall reply: I have not had my say.
+
 They will tell you: Everything has been done.
+
 You shall reply: My way is not complete.
+
 You are warned: Any way is long, any way is hard.
+
 Fear not. You are the gate&mdash;you, the gatekeeper.
-And you shall go through and on . . .</em>&mdash;Alexandros Evangelou Xenopouloudakis
+
+And you shall go through and on . . .*&mdash;Alexandros Evangelou Xenopouloudakis
 Courtesy of <a href="http://americandigest.org/wp/lets-review-36-instructions/" rel="noopener" target="_blank">Gerard VanDerleun</a>
 
 ## Politics
-Thu, 01 Feb 2018 16:37:53
+Thu, 01 Feb 2018
  any chance body of persons, or in any chance period of time. Most of the states which have admitted persons of another stock, either at the time of their foundation or later, have been troubled by sedition.&rdquo;&mdash;Aristotle, <em>Politics</em>
 
 ## Falling Out
-Thu, 01 Feb 2018 16:48:52
+Thu, 01 Feb 2018
 
 "The hard part isn't coming up with a new idea.
 "The hard part is falling out of love with the old idea.
@@ -85,14 +93,14 @@ Thu, 01 Feb 2018 16:48:52
 "Situation switching, acting as if, loving the idea enough to sketch it out and then caring enough to stop loving it... that's where the tension often lies."&mdash;<a href="http://sethgodin.typepad.com/seths_blog/2018/02/falling-out.html" rel="noopener" target="_blank">Seth Godin</a>
 
 ## The Exterminator
-Thu, 01 Feb 2018 16:53:47
+Thu, 01 Feb 2018
 
 "If you've got an infestation of rats, you call the guy to come in," she says.
 "You don't care if his crack's showing. You don't care if he's swearing.
 "You don't care if he's got tobacco-stained teeth. You want the rats taken out."&mdash;from <a href="http://www.bbc.com/news/world-us-canada-42628577" rel="noopener" target="_blank">BBC's take</a> on why Michigan flipped for Trump in 2016.
 
 ## Little Things
-Thu, 08 Feb 2018 03:47:36
+Thu, 08 Feb 2018
 
 <em>Quod minimum, minimum est,
 Sed in minimo fidelem esse,
@@ -102,7 +110,7 @@ But to be faithful in a little thing,
 is a great thing.&mdash;St. Thomas Aquinas <em>De Doctrina Christiana</em>, IV,35
 
 ## Incompatibility
-Mon, 12 Feb 2018 03:31:34
+Mon, 12 Feb 2018
 
 "IF Americans can be divorced for 'incompatibility of temper,' I cannot conceive why they are not all divorced. I have known many happy marriages, but never a compatible one. The whole aim of marriage is to fight through and survive the instant when incompatibility becomes unquestionable. For a man and a woman, as such, are incompatible."&mdash;G.K. Chesterton: <em>What's Wrong with the World</em>.
 
