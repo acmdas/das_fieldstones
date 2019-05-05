@@ -9,8 +9,6 @@ So, enough deep background. I see that I told this story in more detail just a f
 
 First, the parting is partial because FB is still the only place to keep up with Grandkids and Great-Grandkids, particularly the ones in British Columbia. And other folks I give a damn about. So, I'll be checking in off and on, liking and saying nice things about other folks posts now and then. Just trying to not see too much and saying as little as I can. It's just too depressing&mdash;the alternative reality that a lot of my friends and family are living in isn't somewhere I want to visit.
 So, to wrap this one up, I just might be putting stuff of interest, and even the occasional output from my fevered brain, here. We'll see.
-2017-01-21 13:09:41
-2017-01-21 18:09:41
 
 ## Twitter and Me and Very Strange Business Decisions
 Sat, 21 Jan 2017 21:10:24
