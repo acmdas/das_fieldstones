@@ -1,0 +1,76 @@
+
+# More Fieldstones
+
+## Real Science
+Fri, 21 Jan 2011 22:32:40
+
+Real science looks at data, makes falsifiable predictions, and attempts to falsify or confirm those predictions. The rest is &ldquo;other forces at work.&rdquo; <a href="http://www.jerrypournelle.com/mail/2011/Q1/mail658.html## climate">Jerry Pournelle</a>
+
+## Good or Better?
+Tue, 25 Jan 2011 17:08:47
+
+When everything is good enough, it takes work to discover what&rsquo;s better, and better is often a matter of whim and preference anyway. -- <a href="http://www.chaosmanorreviews.com//oa/2011/20110124_col.php">Jerry Pournelle</a>
+
+## Scientific Religion
+Tue, 01 Feb 2011 02:33:29
+
+So far neither Dark Energy nor the Multiverse seem to generate falsifiable hypotheses, removing them from science and relegating them to religion. I cheerfully admit that in the absence of evidence I prefer the religion I grew up with to these new ones, but perhaps I am insufficiently flexible in my views.&mdash;<a href="http://www.jerrypournelle.com/mail/2011/Q1/mail660.html## Monday">Jerry Pournelle</a>
+
+## Discriminating
+Tue, 22 Feb 2011 20:31:19
+
+The way to stop discrimination on the basis of race is to stop discriminating on the basis of race. -- Chief Justice John Roberts (<a href="http://www.law.cornell.edu/supct/html/05-908.ZO.html">Parents Involved In Community Schools v. Seattle School Dist. No. 1</a> [June 28, 2007])
+
+## Normal
+Mon, 28 Feb 2011 22:33:00
+
+Anything that is in the world when you&rsquo;re born is normal and ordinary and is just a natural part of the way the world works. Anything that&rsquo;s invented between when you&rdquo;re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you&rdquo;re thirty-five is against the natural order of things.&mdash;Douglas Adams, &ldquo;The Salmon of Doubt&rdquo;
+
+## Relief
+Fri, 15 Apr 2011 21:17:31
+
+In life I know, there is lots of grief,<br>
+But your love is my relief. -- Bob Marley
+
+## Marvels
+Wed, 01 Jun 2011 16:26:32
+
+The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments. -- George Washington
+
+## Despair as Pride
+Wed, 25 May 2011 17:33:42
+
+Despair is the absolute extreme of self-love.
+Despair is the ultimate development of a pride so great and so stiff-necked that it selects the absolute misery of damnation rather than accept happiness from the hands of God and thereby acknowledge that [God] is above us. -- Thomas Merton (1961)
+
+## Portable Devices and PHI
+Thu, 07 Jul 2011 17:15:55
+
+I recently sent the following to a behavioral health researcher who was planning to develop a mobile application for clinicians that would include client information&mdash;I believe that it may be of interest to others who are considering the use of smart phones and laptops in their clinical practice:
+
+"As you know, any high-technology product aimed at the medical market (defined in the sense of being subject to the Federal privacy regulations HIPAA and Hitech) needs to not only take all appropriate steps to protect the clients' identity and other protected health information (PHI), but it must do so demonstrably. By that, I mean that it must protect the information and also appear to protect it to the satisfaction of funders, consumers and regulators.
+
+"When we are serving the portion of the medical market which includes consumers of substance-abuse treatment (broadly defined) we must also satisfy the Federal privacy regulations found in 42 C.F.R. Part 2. These regulations represent a thornier matter for the provider of technology services not only because they are much stricter than HIPAA and Hitech, but they were written long before digital exchange of PHI was common, and thus were not written with an eye to ease of compliance (as were HIPAA and Hitech).
+
+"In our particular application, then, we must look at two concerns:
+
+- Will we be putting PHI at an unusual risk; and
+- Will we be able to readily convince the reviewers at SAMHSA that our product is adequately secure.
+"We all have heard about high-profile security breaches caused by sensitive data being stored on a portable device (typically a laptop) which is then either left in a public place or is stolen from a car or home. Credit card companies, hospitals and nuclear weapons laboratories have all found themselves on the front pages in recent years in this way, and they are never able to explain the breach away&mdash;because it is indefensible that the data in question were ever stored on a portable device in the first place.
+
+"Portable devices are by their nature insecure. When we designed [a recent online assessment system], like any system designed to protect sensitive data, we designed "rings" of protection. The data were encrypted. Access to the servers both from the Internet and from within the data center was carefully restricted. And finally, physical access to the server devices was controlled in the most rigorous manner. This is, obviously, not possible with a laptop in the back seat of a car, in a hotel room or a living room table. This is even less possible with a cell phone, which will tend to be on its user's person most of their waking hours and can be dropped or stolen as easily as a wallet or a pair of glasses.
+
+"So, from my personal professional perspective, without a compelling reason to use the cell phone as the platform for this application, physical security concerns strongly suggest a more secure platform. Added to this is the relative newness of the Android or iOS (iPhone) software environments. With years of experience (years from now), we will have a good idea how to measure and mitigate risk on those platforms, as we have learned to measure and mitigate risk on the more mature hardware/software environments. While Android is based on a Linux kernel, which has a good history, its application on the cell phone hardware, using the cell network, is largely unproven ground. This also tends to concern me. I'm excited about Android and have plans to develop for it, but nothing that needs to be secure.
+
+"The IT engineers at SAMHSA will be asking themselves similar questions, and will very possibly come to a similar conclusion. We will have to write a Security Plan and submit it to them, and it will not have the same components that they are expecting. Were we to put my concerns to rest, we would then have to do the same in the Security Plan, and I would expect that would be difficult to write, and would be given extremely close scrutiny.
+
+"Taken as a whole, my considered judgment is that the prudent course of action would be to redesign the application to use a more conventional architecture&mdash;a server behind a firewall in a secure data center&mdash;one that we can be more confident of securing and more confident of getting approved."
+
+
+## It&#039;s Not Your Computer Anymore
+Wed, 31 Aug 2011 18:44:33
+
+Over at Microsoft's Technet site, the folks at their Security Response Center have posted the "<a href="http://technet.microsoft.com/en-us/library/cc722487.aspx" target="_blank">10 Immutable Laws of Security</a>."
+Admittedly, it only covers security for computers (and remember, that means your cell phone and tablet) and websites, but it's still very worth reviewing. There's nothing new, nothing arcane there, but they are the cold, hard facts that we all have to remember if we make any pretense of caring about our clients' privacy. Simple things, like "If a bad guy can persuade you to run his program on your computer, it's not your computer anymore."
+Do you have client phone numbers on your iPhone? Have you installed any apps?
+Think about it. Seriously.
