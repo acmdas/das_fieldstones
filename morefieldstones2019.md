@@ -1,5 +1,5 @@
 # More Fieldstones 2019
-[Home}(./index.html)
+[Home](./index.html)
 
 ## What&#039;s the Matter?
 Fri, 11 Jan 2019
