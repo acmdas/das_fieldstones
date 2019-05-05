@@ -203,23 +203,23 @@ Sun, 17 Mar 2019 01:18:54
 H/T <a href="https://www.francisberger.com/bergers-blog/resentment-the-hate-fueling-contemporary-conceptions-of-love" rel="noopener" target="_blank">Francis Berger</a>
 
 ## Increasingly Meaningless Words and Phrases
-Thu, 21 Mar 2019 22:58:49
+Thu, 21 Mar 2019
 
-&ldquo;As far as I can tell, the words contained in the list below no longer define what they are meant to define.  
-<ul>
-<li>moral authority</li>
-<li>freedom</li>
-<li>human rights</li>
-<li>democracy</li>
-<li>values</li>
-<li>justice</li>
-<li>philanthropist</li>
-</ul>
+&ldquo;As far as I can tell, the words contained in the list below no longer define what they are meant to define.
+
+* moral authority
+* freedom
+* human rights
+* democracy
+* values
+* justice
+* philanthropist
+
 I hear these words repeated ad nauseam every day, yet I rarely perceive the things they are meant to delineate.
 &rdquo;‹What a truly confusing time to be alive.&rdquo;&mdash;<a href="https://www.francisberger.com/bergers-blog/increasingly-amorphous-words-and-phrases" rel="noopener" target="_blank">Francis Berger</a>
 
 ## Axiomatic
-Sun, 24 Mar 2019 12:17:57
+Sun, 24 Mar 2019
 
 &ldquo;There are some things that cannot be verified, or falsified. These would include all axioms of logic; even those of post-modern &ldquo;paraconsistent&rdquo; logics, wherein the very Law of Non-Contradiction is (implausibly) denied, but which are axiomatic on their own terms. We are out the door of &ldquo;science&rdquo; when we discuss logic; or the principles of mathematics for that matter. All we can say is that the world makes sense on axioms; and not otherwise.
 
@@ -239,7 +239,7 @@ Mon, 08 Apr 2019
 &ldquo;Sloth is not merely laziness; it is more properly understood as sorrow or indifference. While sloth may sometimes look like boredom and a casual laziness toward attaining spiritual good, it can also be manifested by a frantic &ldquo;busyness&rdquo; with worldly things so as to avoid spiritual questions or living a reflective life.&rdquo;&mdash;<a href="http://blog.adw.org/2019/04/seven-deadly-sins-sloth/" rel="noopener noreferrer" target="_blank">Msgr. Charles Pope</a>
 
 ## History
-Tue, 09 Apr 2019 15:51:12
+Tue, 09 Apr 2019
 
 &ldquo;What with history being rewritten so often, nobody knows what is true anymore. They lose track of who is an enemy and who an ally. It&rsquo;s that kind of story.&rdquo;
 
@@ -253,7 +253,7 @@ Tue, 09 Apr 2019 15:51:12
 
 
 ## The Second Bowl
-Fri, 12 Apr 2019 11:32:45
+Fri, 12 Apr 2019
 
 &ldquo;I broke two bowls today.
 
