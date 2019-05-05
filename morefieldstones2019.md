@@ -307,3 +307,8 @@ Sun May 5, 2019
 “The Catholic Church is an institution I am bound to hold divine — but for unbelievers a proof of its divinity might be found in the fact that no merely human institution conducted with such knavish imbecility would have lasted a fortnight.”&mdash;Hilaire Belloc (A comment made to William Temple, quoted in The Life of Hilaire Belloc by Robert Speaight)
 
 Seen at [Carlos Cassetti's Blog](https://casorosendi.wordpress.com/2019/05/05/dodging-the-bullet/)
+
+## Serenity vs Apathy
+Sun May 5, 2019
+
+&ldquo;Serenity is not the same as apathy, although both words denote a state that is beyond caring. One difference is that serenity is cheerful and apathy is gloomy. The serene man has overcome the world, whereas the apathetic man has been overcome by it.  Both men have lost their ambitions, but the serene man left them behind, like a newspaper on a park bench, whereas the apathetic man had them torn from his fingers in a desperate but losing fight with a band of wild banditti.&rdquo;&mdash:[J. M. Smith](https://orthosphere.wordpress.com/2019/05/05/divest-yourself-or-be-divested/)
