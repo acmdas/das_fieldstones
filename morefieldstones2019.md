@@ -306,4 +306,4 @@ Sun May 5, 2019
 
 “The Catholic Church is an institution I am bound to hold divine — but for unbelievers a proof of its divinity might be found in the fact that no merely human institution conducted with such knavish imbecility would have lasted a fortnight.”&mdash;Hilaire Belloc (A comment made to William Temple, quoted in The Life of Hilaire Belloc by Robert Speaight)
 
-Seen at [link text](https://casorosendi.wordpress.com/2019/05/05/dodging-the-bullet/)Carlos Cassetti's blog
+Seen at [Carlos Cassetti's Blog](https://casorosendi.wordpress.com/2019/05/05/dodging-the-bullet/)
