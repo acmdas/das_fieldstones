@@ -226,8 +226,7 @@ Sun, 24 Mar 2019 12:17:57
 &ldquo;For science, or human knowledge more broadly, God is not an hypothesis, but an Axiom. Start in Aristotle, if you will, to see that the world has no purchase on sense, without the Unmoved Mover. The &ldquo;Five Ways&rdquo; by which the inevitability of God was demonstrated by Thomas Aquinas, and the related ways in which this was done by others before and after him, are easily misunderstood, because they are not proofs of an hypothesis but recursions. They show that, without that &ldquo;God Axiom,&rdquo; there can be no causation, no change, no being in itself, no gradation, no direction to an end. We need a Still Point, from which to depart. It cannot be hypothesized. It is too simple for that. You need to assume it even to contradict it.&rdquo;&mdash;<a href="https://www.davidwarrenonline.com/2019/03/23/the-cosmic-duh/" rel="noopener noreferrer" target="_blank">David Warren</a>
 
 ## Sloth
-<link>http://www.consultingsmiths.com/sloth/</link>
-Mon, 08 Apr 2019 02:40:41
+Mon, 08 Apr 2019
 
 &ldquo;One of the more misunderstood of the cardinal sins is sloth. Most see it merely as laziness, but there is more to it than that. Let&rsquo;s take a moment and consider some aspects of this cardinal sin.
 
@@ -311,4 +310,4 @@ Seen at [Carlos Cassetti's Blog](https://casorosendi.wordpress.com/2019/05/05/do
 ## Serenity vs Apathy
 Sun May 5, 2019
 
-&ldquo;Serenity is not the same as apathy, although both words denote a state that is beyond caring. One difference is that serenity is cheerful and apathy is gloomy. The serene man has overcome the world, whereas the apathetic man has been overcome by it.  Both men have lost their ambitions, but the serene man left them behind, like a newspaper on a park bench, whereas the apathetic man had them torn from his fingers in a desperate but losing fight with a band of wild banditti.&rdquo;&mdash:[J. M. Smith](https://orthosphere.wordpress.com/2019/05/05/divest-yourself-or-be-divested/)
+&ldquo;Serenity is not the same as apathy, although both words denote a state that is beyond caring. One difference is that serenity is cheerful and apathy is gloomy. The serene man has overcome the world, whereas the apathetic man has been overcome by it.  Both men have lost their ambitions, but the serene man left them behind, like a newspaper on a park bench, whereas the apathetic man had them torn from his fingers in a desperate but losing fight with a band of wild banditti.&rdquo;&mdash;[J. M. Smith](https://orthosphere.wordpress.com/2019/05/05/divest-yourself-or-be-divested/)
