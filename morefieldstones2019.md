@@ -363,3 +363,7 @@ Mon, 5 May 2019
 
 &ldquo;The great enemy of truth is very often not the lie -- deliberate, contrived and dishonest -- but the myth -- persistent, persuasive and unrealistic. Too often we hold fast to the clichés of our forebears. We subject all facts to a prefabricated set of interpretations. We enjoy the comfort of opinion without the discomfort of thought.&rdquo;&mdash;John F. Kennedy *Commencement Address at Yale, 11 June, 1962*
 
+## The Human Mind Needs
+Mon, 5 May 2019
+
+&ldquo;NOW the human mind needs&mdash;─if it would be united to God&mdash;the guidance of the things of sense; for as the apostle says to the Romans (1:20): &lsquo;The invisible things of him are clearly seen, being understood by the things that are made.&rsquo; Hence in divine worship  it is necessary to make use of certain corporal acts, so that by their means, as by certain signs, man&rsquo;s mind may be stirred up to those spiritual acts whereby it is knit to God. Consequently religion has certain interior acts which are its chief ones and which essentially belong to it; but it has also external which are secondary and which are subordinated to the interior acts.&rdquo;&mdash;St. Thomas Aquinas: *Summa Theologica, II-II, 81, 7.*
