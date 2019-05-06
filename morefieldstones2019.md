@@ -158,11 +158,11 @@ At least a few of my strong memories are strongly associated with a very particu
 This last with just a flash, that "we" could easily take a "wrong turn" in our thoughts and carry merrily on down a "wrong" path. "Two roads diverged in a yellow wood...and that has made all the difference."
 
 Brought to mind several times recently reading Barfield's writing about the history of consciousness.
->
+
 ## Miracles
 Sat, 09 Feb 2019
 
-&ldquo;They say miracles are past; and we have our philosophical persons, to make modern and familiar, things supernatural and causeless. Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge, when we should submit ourselves to an unknown fear.&rdquo;&mdash;Shakespeare, <em>All&rsquo;s Well That Ends Well</em>
+&ldquo;They say miracles are past; and we have our philosophical persons, to make modern and familiar, things supernatural and causeless. Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge, when we should submit ourselves to an unknown fear.&rdquo;&mdash;Shakespeare, *All&rsquo;s Well That Ends Well*
 
 ## God Is Not
 Thu, 14 Feb 2019
@@ -271,8 +271,29 @@ Sat, 13 Apr 2019
 
 &ldquo;Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.&rdquo;&mdash;Daniel Kahneman
 
+## Scare Quotes
+Wed, 17 Apr 2019
+
+Students exist who will scare quote “right,” “wrong,” “good,” and “evil,” as though one were talking about gnomes, trolls and “‘cultural’ studies.” — [Richard Cocks](https://orthosphere.wordpress.com/2019/04/17/berdyaev-summer-camp/)
+
+## Deus vult - an Easter Morning Thought
+Sun, Apr 21, 2019
+
+One of those “blasts from the past” that seem like original-to-me thoughts (as in I don’t remember reading them first) which I recall with complete visual memory of where I was when they first came to me. Location is the office at Saint Saviour’s Pro-Cathedral in Nelson, BC. Late winter or very early spring (slushy snow in the street), early 1980s.
+
+“Christ didn’t die to convince God to love us — He died to convince us that God loved us.”
+
+I am, in general, disinclined to give too much value to detailed theological/philosophical analysis of the inner-workings of the Creator — the interaction of the Persons of the Trinity, which Person spoke to Moses, Who divided the waters, etc., so I won’t further analyze or defend that thought. John 14:15 seems an adequate entry point to a Holy life: “If ye love me, keep my commandments.”
+
+We can analyze what the commandments are, and how to keep them in a particular circumstance without delving into why He considers them important, or which Person originated or communicated them. “Our Lord Jesus Christ said: Hear O Israel, The Lord our God is one Lord; and thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength. This is the first and great commandment. And the second is like unto it: Thou shalt love your neighbour as thyself. On these two commandments hang all the Law and the Prophets”
+
+## Pagan Gods
+Sun, 21 Apr 2019
+
+“MEN do not live long without gods; when the gods of the New Paganism come they will not be merely insufficient, as were the gods of Greece, nor merely false; they will be evil. One might put it in a sentence, and say that the New Paganism, foolishly expecting satisfaction, will fall, before it knows where it is, into Satanism.” — Hilaire Belloc: *Essays of a Catholic*.
+
 ## Owen Barfield
-Sat. 27 Apr 2019
+Sat, 27 Apr 2019
 
 Owen Barfield (1898–1997)
 Our destiny is to become both conscious and free.
@@ -291,30 +312,43 @@ Barfield proposes real, coherent, and clear answers to the most fundamental prob
 
 by Bruce Charlton at http://www.owenbarfield.org/
 
+## No Big Thing
+Wed, 1 May, 2019
+
+&ldquo;I have found that one of my favorite quotes from St. Augustine is not all that well known. Here it is in Latin, followed by my own translation:
+
+Quod minimum, minimum est,
+Sed in minimo fidelem esse,
+magnum est.
+
+What is a little thing, is (just) a little thing.
+But to be faithful in a little thing
+is a great thing.&rdquo;&mdash;[Msgr. Charles Pope](http://blog.adw.org/2019/05/greatness-little-things-reflection-quote-st-augustine/) (from St. Augustine’s De Doctrina Christiana, IV, 35)
+
 ## The Past
-Sat May 4, 2019
+Sat, 4 May, 2019
 
 "The past is a foreign country; They do things different there."&mdash;L. P. Hartley <em>The Go-Between</em>
 
 ## Change
-Sun May 5, 2019
+Sun, 5 May, 2019
 
 "A changeless society would be as intolerable for people as the present society of constant change. Convivial reconstruction requires limits on the rate of compulsory change. An unlimited rate of change makes lawful community meaningless. Law is based on the retrospective judgment of peers about circumstances that occur ordinarily and are likely to occur again. If the rate of change which affects all circumstances accelerates beyond some point, such judgments cease to be valid. Lawful society breaks down. Social control does not accommodate community participation and becomes the function of experts. Educators define how people are to be trained and retrained throughout their lives—shaped and reshaped until they fit the demands of industry and are attracted by its profits. Ideologues define what is right or wrong. The tooling of man for the milieu becomes the major industry when this milieu changes beyond a certain rate; then man’s need for language and law, for memories and myths, imposes limits to the change of tools."—Ivan Illich, <em>Tools for Conviviality</em>
 
 ## Knavish Imbecility
-Sun May 5, 2019
+Sun, 5 May, 2019
 
 “The Catholic Church is an institution I am bound to hold divine — but for unbelievers a proof of its divinity might be found in the fact that no merely human institution conducted with such knavish imbecility would have lasted a fortnight.”&mdash;Hilaire Belloc (A comment made to William Temple, quoted in The Life of Hilaire Belloc by Robert Speaight)
 
 Seen at [Carlos Cassetti's Blog](https://casorosendi.wordpress.com/2019/05/05/dodging-the-bullet/)
 
 ## Serenity vs Apathy
-Sun May 5, 2019
+Sun, 5 May, 2019
 
 &ldquo;Serenity is not the same as apathy, although both words denote a state that is beyond caring. One difference is that serenity is cheerful and apathy is gloomy. The serene man has overcome the world, whereas the apathetic man has been overcome by it.  Both men have lost their ambitions, but the serene man left them behind, like a newspaper on a park bench, whereas the apathetic man had them torn from his fingers in a desperate but losing fight with a band of wild banditti.&rdquo;&mdash;[J. M. Smith](https://orthosphere.wordpress.com/2019/05/05/divest-yourself-or-be-divested/)
 
 ## Regardless Power
-Sun May 5, 2019
+Sun, 5 May, 2019
 
 &ldquo;I am, however, equally troubled by another specter, another threat. I'm not sure what to call it, perhaps the threat of emancipatory technics, the emancipation here being something like the total emancipation from our embodied-in-the-world human condition. Together they constitute what I think of as the Charybdis and Scylla of the modern techo-social order. What I have in mind here is the development and deployment of technology without any regard for the givenness of our condition (any, I should note, does a lot of work in this sentence). We might also refer to the temptation of what Albert Borgmann has termed "regardless power" or, as Katherine Hayles once put it, to view our bodies as "fashion accessories rather than the ground of being." It seems to me that such power is, yes, problematic whether it is authoritarian or democratic. I am, in other words, indiscriminately suspicious of post-humanist fantasies whatever their ideological sources. 
 
