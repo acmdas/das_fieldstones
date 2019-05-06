@@ -359,11 +359,16 @@ Sun, 5 May 2019
 &ldquo;CREEDS must disagree: it is the whole fun of the thing. If I think the universe is triangular, and you think it is square, there cannot be room for two universes. We may argue politely, we may argue humanely, we may argue with great mutual benefit; but, obviously, we must argue. Modern toleration is really a tyranny. It is a tyranny because it is a silence. To say that I must not deny my opponent's faith is to say I must not discuss it . . . It is absurd to have a discussion on Comparative Religions if you don't compare them.&rdquo;&mdash;G.K. Chesterton: *Illustrated London News, Oct. 10, 1908.*
 
 ## The Myth as Enemy
-Mon, 5 May 2019
+Mon, 6 May 2019
 
 &ldquo;The great enemy of truth is very often not the lie -- deliberate, contrived and dishonest -- but the myth -- persistent, persuasive and unrealistic. Too often we hold fast to the clichés of our forebears. We subject all facts to a prefabricated set of interpretations. We enjoy the comfort of opinion without the discomfort of thought.&rdquo;&mdash;John F. Kennedy *Commencement Address at Yale, 11 June, 1962*
 
 ## The Human Mind Needs
-Mon, 5 May 2019
+Mon, 6 May 2019
 
 &ldquo;NOW the human mind needs&mdash;─if it would be united to God&mdash;the guidance of the things of sense; for as the apostle says to the Romans (1:20): &lsquo;The invisible things of him are clearly seen, being understood by the things that are made.&rsquo; Hence in divine worship  it is necessary to make use of certain corporal acts, so that by their means, as by certain signs, man&rsquo;s mind may be stirred up to those spiritual acts whereby it is knit to God. Consequently religion has certain interior acts which are its chief ones and which essentially belong to it; but it has also external which are secondary and which are subordinated to the interior acts.&rdquo;&mdash;St. Thomas Aquinas: *Summa Theologica, II-II, 81, 7.*
+
+## Romanticizing the Past
+Mon, 6 May 2019
+
+&ldquo;I understand the impulse, I really do. I think it was from Alan Jacobs that I first learned about the poet W. H. Auden’s distinction between those whose tendency is to look longingly back at some better age in the past and those who look hopefully toward some ideal future:  Arcadians and Utopians respectively, he called them. Auden took these to be matters of temperament. If so, then I would readily admit to being temperamentally Arcadian. For that reason, I think I well understand the temptation and try to be on guard against it.&rdquo;&mdash;[L. M. Sacasas](https://thefrailestthing.com/2019/02/06/dont-romanticize-the-present/)
