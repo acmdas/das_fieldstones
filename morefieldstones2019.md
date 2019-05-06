@@ -361,7 +361,7 @@ Sun, 5 May 2019
 ## The Myth as Enemy
 Mon, 6 May 2019
 
-&ldquo;The great enemy of truth is very often not the lie -- deliberate, contrived and dishonest -- but the myth -- persistent, persuasive and unrealistic. Too often we hold fast to the clichés of our forebears. We subject all facts to a prefabricated set of interpretations. We enjoy the comfort of opinion without the discomfort of thought.&rdquo;&mdash;John F. Kennedy *Commencement Address at Yale, 11 June, 1962*
+&ldquo;The great enemy of truth is very often not the lie -- deliberate, contrived and dishonest -- but the myth -- persistent, persuasive and unrealistic. Too often we hold fast to the clichés of our forebears. We subject all facts to a prefabricated set of interpretations. We enjoy the comfort of opinion without the discomfort of thought.&rdquo;&mdash;John F. Kennedy *Commencement Address at Yale University, 11 June, 1962*
 
 ## The Human Mind Needs
 Mon, 6 May 2019
@@ -381,5 +381,7 @@ Mon, 6 May 2019
 &ldquo;Bradbury makes clear that the firemen who famously start fires to burn books are doing so only long after people stopped reading books of their own accord as other forms of media came to dominate their experience. Actually, to be more precise, they did not stop reading altogether. They stopped reading certain kinds of books: the ones that made demands of the reader, intellectual, emotional, moral demands that might upset their fragile sense of well-being.
 
 &ldquo;*Fahrenheit 451*, in other words, is more Huxley than Orwell.&rdquo;&mdash;[L. M. Sacasas](https://thefrailestthing.com/2018/06/15/were-reading-fahrenheit-451-wrong/)
+
+
 
 
