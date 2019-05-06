@@ -372,3 +372,14 @@ Mon, 6 May 2019
 Mon, 6 May 2019
 
 &ldquo;I understand the impulse, I really do. I think it was from Alan Jacobs that I first learned about the poet W. H. Auden’s distinction between those whose tendency is to look longingly back at some better age in the past and those who look hopefully toward some ideal future:  Arcadians and Utopians respectively, he called them. Auden took these to be matters of temperament. If so, then I would readily admit to being temperamentally Arcadian. For that reason, I think I well understand the temptation and try to be on guard against it.&rdquo;&mdash;[L. M. Sacasas](https://thefrailestthing.com/2019/02/06/dont-romanticize-the-present/)
+
+## More Huxley than Orwell
+Mon, 6 May 2019
+
+&ldquo;*Fahrenheit 451* isn’t really about censorship, after all, and it’s unfortunate that the novel has been reduced to that theme in the popular imagination.
+
+&ldquo;Bradbury makes clear that the firemen who famously start fires to burn books are doing so only long after people stopped reading books of their own accord as other forms of media came to dominate their experience. Actually, to be more precise, they did not stop reading altogether. They stopped reading certain kinds of books: the ones that made demands of the reader, intellectual, emotional, moral demands that might upset their fragile sense of well-being.
+
+&ldquo;*Fahrenheit 451*, in other words, is more Huxley than Orwell.&rdquo;&mdash;[L. M. Sacasas](https://thefrailestthing.com/2018/06/15/were-reading-fahrenheit-451-wrong/)
+
+
