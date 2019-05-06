@@ -1,4 +1,5 @@
 # More Fieldstones 2018
+[Home](./index.html)
 
 ## Hiding from the mission
 Sun, 07 Jan 2018
