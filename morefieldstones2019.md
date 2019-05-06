@@ -354,3 +354,7 @@ Sun, 5 May, 2019
 
 &ldquo;I suppose one way of thinking about all of this is to ask whether it might not be best to respect the integrity of each component in the circuit I described above: mind, body, technology, world. That presupposes, of course, that we might be able to arrive at some meaningful understanding of what such integrity might entail. (Needless to say, I think we are just beginning a hard lesson in what happens when we do not respect the integrity of the world, a lesson which will not be halted by our inability to get a theoretical handle on nature's integrity.) Or, to put it another way, should we yield to the temptation of allowing our minds and our technology to act in tandem without any regard to the limits implicit in our being bodies in the world?&rdquo;&mdash;[L. M. Sacasas](https://tinyletter.com/lmsacasas/letters/the-convivial-society-no-14)
 
+## Creeds Must Disagree
+Sun, 5 May 2019
+
+&ldquo;CREEDS must disagree: it is the whole fun of the thing. If I think the universe is triangular, and you think it is square, there cannot be room for two universes. We may argue politely, we may argue humanely, we may argue with great mutual benefit; but, obviously, we must argue. Modern toleration is really a tyranny. It is a tyranny because it is a silence. To say that I must not deny my opponent's faith is to say I must not discuss it . . . It is absurd to have a discussion on Comparative Religions if you don't compare them.&rdquo;&mdash;G.K. Chesterton: *Illustrated London News, Oct. 10, 1908.*
