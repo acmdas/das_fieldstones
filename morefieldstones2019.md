@@ -216,8 +216,7 @@ Thu, 21 Mar 2019
 * justice
 * philanthropist
 
-I hear these words repeated ad nauseam every day, yet I rarely perceive the things they are meant to delineate.
-&rdquo;‹What a truly confusing time to be alive.&rdquo;&mdash;<a href="https://www.francisberger.com/bergers-blog/increasingly-amorphous-words-and-phrases" rel="noopener" target="_blank">Francis Berger</a>
+&ldquo;I hear these words repeated ad nauseam every day, yet I rarely perceive the things they are meant to delineate. What a truly confusing time to be alive.&rdquo;&mdash;<a href="https://www.francisberger.com/bergers-blog/increasingly-amorphous-words-and-phrases" rel="noopener" target="_blank">Francis Berger</a>
 
 ## Axiomatic
 Sun, 24 Mar 2019
