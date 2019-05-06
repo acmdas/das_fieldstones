@@ -389,3 +389,39 @@ Mon, 6 May 2019
 
 &ldquo;In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know.&rdquo;&mdash;Michael Crichton
 
+## Every Schoolboy Knows
+Mon, 6 May 2019
+
+From Gregory Bateson's *Mind and Nature*
+
+&ldquo;Official education was telling people almost nothing of the nature of all those things on the seashores and in the redwood forests, in the deserts and the plains.  Even grown-up persons with children of their own cannot give a reasonable account fo concepts such as entropy, sacrament, syntax, number, quantity, pattern, linear relation, name, class, relevance, energy, redundancy, force, probability, parts, whole, information, tautology, homology, mass (either Newtonian or Christian), explanation, description, rule of dimensions, logical type, metaphor, topology, and so on.  What are butterflies? What are starfish?  What are beauty and ugliness?&rdquo; p. 3
+
+Chapter II, &ldquo;Every Schoolboy Knows&rdquo;
+
+Quoting Macauley:
+&ldquo:Every schoolboy knows who imprisoned Montezuma and who strangled Atahualpa.&rdquo;
+
+&ldquo:Those who lack all idea that it is possible to be wrong can learn nothing but know-how.&rdquo; p.28
+
+&ldquo:It is worthwhile to attempt a tentative recognition of certain basic presuppositons which all minds must share or, conversely, to define mind by listing a number of such basic communicational characteristics:&rdquo: p.29
+
+Section Headings:
+
+1. Science never proves anything.
+2. The map is not the territory, and the name is not the thing.
+3. There is no objective experience.
+4. The processes of image formation are unconscious.
+5. The division of the perceived universe into parts and wholes is convenient and may be necessary, but no necessity determines how it shall be done.
+6. Divergent sequences are unpredictable.
+7. Convergent sequences are predictable.
+8. "Nothing will come of nothing."
+9. Number is different from quantity.
+10. Quantity does not determine pattern.
+11. There are no "monotone" values in biology.
+12. Sometimes, small is beautiful.
+13. Logic is a poor model of cause and effect.
+14. Causality does not work backward.
+15. Language commonly stresses only one side of any interaction.
+16. "Stability" and "change" describe parts of our descriptions.
+
+Bateson is another connection that I owe to The Whole Earth Catalog. I believe that I purchased and first read Steps in about 1984, then reread and made these notes in early October of 2008. Reading them now, I'm struck by how closely they seem to relate to Owen Barfield's writing.
