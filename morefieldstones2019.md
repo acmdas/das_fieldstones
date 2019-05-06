@@ -357,3 +357,9 @@ Sun, 5 May, 2019
 Sun, 5 May 2019
 
 &ldquo;CREEDS must disagree: it is the whole fun of the thing. If I think the universe is triangular, and you think it is square, there cannot be room for two universes. We may argue politely, we may argue humanely, we may argue with great mutual benefit; but, obviously, we must argue. Modern toleration is really a tyranny. It is a tyranny because it is a silence. To say that I must not deny my opponent's faith is to say I must not discuss it . . . It is absurd to have a discussion on Comparative Religions if you don't compare them.&rdquo;&mdash;G.K. Chesterton: *Illustrated London News, Oct. 10, 1908.*
+
+## The Myth as Enemy
+Mon, 5 May 2019
+
+&ldquo;The great enemy of truth is very often not the lie -- deliberate, contrived and dishonest -- but the myth -- persistent, persuasive and unrealistic. Too often we hold fast to the clichés of our forebears. We subject all facts to a prefabricated set of interpretations. We enjoy the comfort of opinion without the discomfort of thought.&rdquo;&mdash;John F. Kennedy *Commencement Address at Yale, 11 June, 1962*
+
