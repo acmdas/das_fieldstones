@@ -401,11 +401,11 @@ From Gregory Bateson's *Mind and Nature*
 Chapter II, &ldquo;Every Schoolboy Knows&rdquo;
 
 Quoting Macauley:
-&ldquo:Every schoolboy knows who imprisoned Montezuma and who strangled Atahualpa.&rdquo;
+&ldquo;Every schoolboy knows who imprisoned Montezuma and who strangled Atahualpa.&rdquo;
 
-&ldquo:Those who lack all idea that it is possible to be wrong can learn nothing but know-how.&rdquo; p.28
+&ldquo;Those who lack all idea that it is possible to be wrong can learn nothing but know-how.&rdquo; p.28
 
-&ldquo:It is worthwhile to attempt a tentative recognition of certain basic presuppositons which all minds must share or, conversely, to define mind by listing a number of such basic communicational characteristics:&rdquo: p.29
+&ldquo;It is worthwhile to attempt a tentative recognition of certain basic presuppositons which all minds must share or, conversely, to define mind by listing a number of such basic communicational characteristics:&rdquo; p.29
 
 Section Headings:
 
