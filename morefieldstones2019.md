@@ -438,6 +438,13 @@ Thu, 9 May 2019
 
 &ldquo;Most scientists are not corrupt but doing good science is hard, even for very intelligent and diligent people. I also suspect most researchers have inadequate education in statistics.
 
-&ldquo;The pressure to publish, the pressure to publish conclusions that wont get you ostracized of your scientific community, the pressure to make whoever funds your research happy, are all corrupting influences on science.
+&ldquo;The pressure to publish, the pressure to publish conclusions that won&rsquo;t get you ostracized of your scientific community, the pressure to make whoever funds your research happy, are all corrupting influences on science.
 
 &ldquo;If a theory makes reliable predictions, and those predictions are used by engineers, I consider it to be solid science. Otherwise, it’s most likely bunk.&rdquo;&mdash;Commenter jermo sapiens at [SlateStarCodex](https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/)
+
+
+## *Imitatio Christi*
+Thu, 9 May 2019
+
+&ldquo;Ronald Knox said, of *The Imitation of Christ*, that anyone who claims to be “fond” of it is either a saint, or he is lying. This most formidable of late mediaeval spiritual guides — to call it a “devotional book” is to set out in the wrong direction — was meant as an acid bath. It strips off the skin of one’s vanity, then claws at what lies underneath. The charm in the writing lands like salt. There are no “happyface” moments, unless one counts a surprising chapter, whose number I won’t give lest some innocent try to start there. That chapter can be read as a transcription of mystical experience, along the unitive way. But I take it not as “encouragement” but as grounding and orientation, for the book is deadly serious beginning to end, and the point of it is to point the reader where the Christian must go: on a path that unavoidably includes “the dark night of the soul.”&rdquo;&mdash;[David Warren](https://www.davidwarrenonline.com/2019/05/08/tough-loves/)
+
