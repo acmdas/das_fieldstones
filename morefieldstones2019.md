@@ -432,3 +432,12 @@ Bateson is another connection that I owe to The Whole Earth Catalog. I believe t
 Wed, May 8 2019
 
 &ldquo;The message of the Book of Revelation is a strong antidote to times like these, now, in the past, and in the future: be strong, be prepared, and be willing to suffer, realizing that no matter how powerful and glamorous evil may seem, Jesus is the victor. We must persevere and realize that we are swept up into a cosmic battle that is much larger than our current situation but that reaches us nonetheless. We must choose sides. Don’t think that you can sit on the fence. Satan owns the fence; he will come for you and say, “You belong to me.”&rdquo;&mdash;[Msgr. Charles Pope](http://blog.adw.org/2019/05/book-revelation-sure-guide-really-going-2/)
+
+## Replication Crisis
+Thu, 9 May 2019
+
+&ldquo;Most scientists are not corrupt but doing good science is hard, even for very intelligent and diligent people. I also suspect most researchers have inadequate education in statistics.
+
+&ldquo;The pressure to publish, the pressure to publish conclusions that wont get you ostracized of your scientific community, the pressure to make whoever funds your research happy, are all corrupting influences on science.
+
+&ldquo;If a theory makes reliable predictions, and those predictions are used by engineers, I consider it to be solid science. Otherwise, it’s most likely bunk.&rdquo;&mdash;Commenter jermo sapiens at [SlateStarCodex](https://slatestarcodex.com/2019/05/07/5-httlpr-a-pointed-review/)
