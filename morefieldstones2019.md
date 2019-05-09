@@ -270,6 +270,11 @@ Sat, 13 Apr 2019
 
 &ldquo;Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.&rdquo;&mdash;Daniel Kahneman
 
+## Audacity
+Sat, 13 Apr 2019
+
+“If you are inclined - late in life though it be - to reconnoitre a foreign sphere of limitless extent, then be persuaded that the first quality that is needed is Audacity. There really is no time for the deliberate approach...We must not be too ambitious. We cannot aspire to masterpieces. We may content ourselves with a joy ride. And for this Audacity is the only ticket.”&mdash;W. S. Churchill&mdash;*Painting as a Pastime*
+
 ## Scare Quotes
 Wed, 17 Apr 2019
 
