@@ -457,3 +457,8 @@ Thu, 9 May 2019
 Mon, 13 May 2019
 
 &ldquo;But in God there is a passionate and anguished longing for man. In God there is a tragic deficiency which is satisfied by the great gain of man’s birth in Him. The mystics taught the mystery of God’s birth in man. But there is another mystery; that of man’s birth in God. There is a summons, a call in man, for God to be born in him. This is the mystery of Christianity, the mystery of Christ, which is unknown to the Hindu mystics, to Plotinus, or to any of the abstract monistic mystics. God and man are greater than God alone. The substantial multinomial being revealed in One is greater than a One undifferentiated. Only the myth of God’s longing for man and for man’s love can bring us near to the final mystery.&rdquo;&mdash;Nikolai Berdyaev *The Meaning of the Creative Act*
+
+## Metaphysic Mathematics
+Mon, 13 May 2019
+
+&ldquo;The crux of today's cosmological paradigm is that in order to maintain a mathematically unified theory valid for the entire universe, we must accept that 95 percent of our cosmos is furnished by completely unknown elements and forces for which we have no empirical evidence whatsoever. For a scientist to be confident of this picture requires an exceptional faith in the power of mathematical unification.&rdquo;&mdash;Bjorn Ekeberg [*Scientific American*](https://blogs.scientificamerican.com/observations/cosmology-has-some-big-problems/)
