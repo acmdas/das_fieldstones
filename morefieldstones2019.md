@@ -476,16 +476,30 @@ Sat, 18 May 2019
 ## Creating Need
 Sat, 18 May 2019
 
-Brown: So Deschooling was based on the insight that the school industry teaches people, not teaches them but manipulates them, into thinking that they have certain needs that the school itself alone can satisfy?
+**Brown**: So Deschooling was based on the insight that the school industry teaches people, not teaches them but manipulates them, into thinking that they have certain needs that the school itself alone can satisfy?
 
-Illich: That they have needs. Not all people whom I knew as a young man had needs. We were hungry but we couldn't translate the hunger into a need for food stuff. They were hungry for a tortilla, for comida, not calories. The idea that people are born with needs, that needs can be translated into rights, that these rights can be translated into entitlements, is a development of the modern world and it's reasonable, it's acceptable, it's obvious only for people who have had some of their educational needs awakened or created, then satisfied and then learned that we have less than others. Schooling, which we engage in and supposedly creates equal opportunities, has become the unique, never before attempted way of dividing the whole society into classes. Everybody knows in which level of his twelve or sixteen years of schooling he has dropped out, and in addition knows what price tag is attached to the higher schooling he has gotten.
+**Illich**: That they have needs. Not all people whom I knew as a young man had needs. We were hungry but we couldn't translate the hunger into a need for food stuff. They were hungry for a tortilla, for comida, not calories. The idea that people are born with needs, that needs can be translated into rights, that these rights can be translated into entitlements, is a development of the modern world and it's reasonable, it's acceptable, it's obvious only for people who have had some of their educational needs awakened or created, then satisfied and then learned that we have less than others. Schooling, which we engage in and supposedly creates equal opportunities, has become the unique, never before attempted way of dividing the whole society into classes. Everybody knows in which level of his twelve or sixteen years of schooling he has dropped out, and in addition knows what price tag is attached to the higher schooling he has gotten.
 
-Brown: So you get a precise definition of where you are in the social hierarchy by how much schooling your had or how much schooling you don't have, so you didn't know you needed fourteen years and a postgraduate degree or to get out of high school depending upon where you lived.
+**Brown**: So you get a precise definition of where you are in the social hierarchy by how much schooling your had or how much schooling you don't have, so you didn't know you needed fourteen years and a postgraduate degree or to get out of high school depending upon where you lived.
 
-Illich: It's a history of degrading the majority of people.
+**Illich**: It's a history of degrading the majority of people.
 
-Brown: So you take somebody who's poor and you modernize the poverty by not only having a person that doesn't have a lot of material goods but now lacks the mental self-confidence that his father or grandfather had before that.
+**Brown**: So you take somebody who's poor and you modernize the poverty by not only having a person that doesn't have a lot of material goods but now lacks the mental self-confidence that his father or grandfather had before that.
 
-Illich: And I can create a world for him in which he needs constantly something which--at that time I searched for a word I didn't findd, context sensitive help. You know, when you are in front of a computer and when you are in that program and put in Word Perfect it tells you what help you need at that point at which you are. This is instructions for use. This is incorporation of teaching into the object with which you encounter at its high point. We have created a world in which people constantly are grateful if they are taken by the hand to know how to use a knife or to use the coffee maker or how to go on from here in text composing.
+**Illich**: And I can create a world for him in which he needs constantly something which--at that time I searched for a word I didn't findd, context sensitive help. You know, when you are in front of a computer and when you are in that program and put in Word Perfect it tells you what help you need at that point at which you are. This is instructions for use. This is incorporation of teaching into the object with which you encounter at its high point. We have created a world in which people constantly are grateful if they are taken by the hand to know how to use a knife or to use the coffee maker or how to go on from here in text composing.
+
+&mdash;Ivan Illich [Interview with Jerry Brown](http://www.wtp.org/archive/transcripts/ivan_illich_jerry.html)
+
+## Objectify
+Sat, 18 May 2019
+Inevitably modern technology has polarized society. It has polluted the environment. It has disabled very simple native abilities and made them dependent on objects.
+
+Brown: Like an automobile.
+
+**Illich**: An automobile which cuts out the use value from your feet. Like an automobile which makes the world inaccessible when actually that means in Latin using your feet to get somewhere. The automobile makes it unthinkable. I recently had the question, "You're a liar!" when I said to somebody I walked down the spine of the Andes. Every Spaniard in the 16th, 17th century did that. The idea that somebody could just walk! He can jog perhaps in the morning but he can't walk anywhere! The world has become inaccessible because we drive there.
+
+**Brown**: So the objects, like a car or even like a school, change who we are.
+
+**Illich**: Who you are and even more deeply they change the way your senses work. Traditionally the gaze was conceived as a way of fingering, of touching. The old Greeks spoke about looking as a way of sending out my psychopodia [?], my soul's limbs, to touch your face and establish a relationship between the two of us which is this relationship, and this relationship was called vision. Then, after Galileo at the time of Kepler, the idea developed that the eyes are receptors into which light brings something from the outside, keeping you separate from me even when I look at you. Even if I gaze at you. Even if I enjoy your face. People began to conceive of their eyes as some kind of camera obscura. In our age people conceive of their eyes and actually use them as if they were part of a machinery. They speak about interface. Anybody who says to me, I want to have an interface with you, I say please go somewhere else, to a toilet or wherever you want, to a mirror. Anybody who says, I want to communicate with you, I say can't you talk? Can't you speak? Can't you recognize that there's a deep otherness between me and you, so deep that it would be offensive for me to be programmed in the same way you are.
 
 &mdash;Ivan Illich [Interview with Jerry Brown](http://www.wtp.org/archive/transcripts/ivan_illich_jerry.html)
