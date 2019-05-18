@@ -462,3 +462,13 @@ Mon, 13 May 2019
 Mon, 13 May 2019
 
 &ldquo;The crux of today's cosmological paradigm is that in order to maintain a mathematically unified theory valid for the entire universe, we must accept that 95 percent of our cosmos is furnished by completely unknown elements and forces for which we have no empirical evidence whatsoever. For a scientist to be confident of this picture requires an exceptional faith in the power of mathematical unification.&rdquo;&mdash;Bjorn Ekeberg [*Scientific American*](https://blogs.scientificamerican.com/observations/cosmology-has-some-big-problems/)
+
+## Hospitality
+Sat, 18 May 2019
+
+&ldquo;Hospitality was a condition consequent on a good society in politics, *politaea*, and by now might be the starting point of *politaea*, of politics. But this is difficult because hospitality requires a threshold over which I can lead you — and TV, internet, newspaper, the idea of communication, abolished the walls and therefore also the friendship, the possibility of leading somebody over the door. Hospitality requires a table around which you can sit and if people get tired they can sleep. You have to belong to a subculture to say, we have a few mattresses here. It's still considered highly improper to conceive of this as the ideal moments in a day or a year. Hospitality is deeply threatened by the idea of personality, of scholastic status. I do think that if I had to choose one word to which hope can be tied it is hospitality. A practice of hospitality— recovering threshold, table, patience, listening, and from there generating seedbeds for virtue and friendship on the one hand — on the other hand radiating out for possible community, for rebirth of community.&rdquo;&mdash;Ivan Illich, interview with Jerry Brown
+
+## In-group, out-group
+Sat, 18 May 2019
+
+&ldquo;...the problem is that when we encounter opposing views in the age and context of social media, it’s not like reading them in a newspaper while sitting alone. It’s like hearing them from the opposing team while sitting with our fellow fans in a football stadium. Online, we’re connected with our communities, and we seek approval from our like-minded peers. We bond with our team by yelling at the fans of the other one. In sociology terms, we strengthen our feeling of &lsquo;in-group&rsquo; belonging by increasing our distance from and tension with the &lsquo;out-group&rsquo;&mdash;us versus them.&rdquo;&mdash;[Zeynep Tufekci](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)
