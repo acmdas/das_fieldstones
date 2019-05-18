@@ -496,7 +496,7 @@ Sat, 18 May 2019
 Sat, 18 May 2019
 Inevitably modern technology has polarized society. It has polluted the environment. It has disabled very simple native abilities and made them dependent on objects.
 
-Brown: Like an automobile.
+**Brown**: Like an automobile.
 
 **Illich**: An automobile which cuts out the use value from your feet. Like an automobile which makes the world inaccessible when actually that means in Latin using your feet to get somewhere. The automobile makes it unthinkable. I recently had the question, "You're a liar!" when I said to somebody I walked down the spine of the Andes. Every Spaniard in the 16th, 17th century did that. The idea that somebody could just walk! He can jog perhaps in the morning but he can't walk anywhere! The world has become inaccessible because we drive there.
 
