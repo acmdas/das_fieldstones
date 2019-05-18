@@ -472,3 +472,20 @@ Sat, 18 May 2019
 Sat, 18 May 2019
 
 &ldquo;...the problem is that when we encounter opposing views in the age and context of social media, it’s not like reading them in a newspaper while sitting alone. It’s like hearing them from the opposing team while sitting with our fellow fans in a football stadium. Online, we’re connected with our communities, and we seek approval from our like-minded peers. We bond with our team by yelling at the fans of the other one. In sociology terms, we strengthen our feeling of &lsquo;in-group&rsquo; belonging by increasing our distance from and tension with the &lsquo;out-group&rsquo;&mdash;us versus them.&rdquo;&mdash;[Zeynep Tufekci](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)
+
+## Creating Need
+Sat, 18 May 2019
+
+Brown: So Deschooling was based on the insight that the school industry teaches people, not teaches them but manipulates them, into thinking that they have certain needs that the school itself alone can satisfy?
+
+Illich: That they have needs. Not all people whom I knew as a young man had needs. We were hungry but we couldn't translate the hunger into a need for food stuff. They were hungry for a tortilla, for comida, not calories. The idea that people are born with needs, that needs can be translated into rights, that these rights can be translated into entitlements, is a development of the modern world and it's reasonable, it's acceptable, it's obvious only for people who have had some of their educational needs awakened or created, then satisfied and then learned that we have less than others. Schooling, which we engage in and supposedly creates equal opportunities, has become the unique, never before attempted way of dividing the whole society into classes. Everybody knows in which level of his twelve or sixteen years of schooling he has dropped out, and in addition knows what price tag is attached to the higher schooling he has gotten.
+
+Brown: So you get a precise definition of where you are in the social hierarchy by how much schooling your had or how much schooling you don't have, so you didn't know you needed fourteen years and a postgraduate degree or to get out of high school depending upon where you lived.
+
+Illich: It's a history of degrading the majority of people.
+
+Brown: So you take somebody who's poor and you modernize the poverty by not only having a person that doesn't have a lot of material goods but now lacks the mental self-confidence that his father or grandfather had before that.
+
+Illich: And I can create a world for him in which he needs constantly something which--at that time I searched for a word I didn't findd, context sensitive help. You know, when you are in front of a computer and when you are in that program and put in Word Perfect it tells you what help you need at that point at which you are. This is instructions for use. This is incorporation of teaching into the object with which you encounter at its high point. We have created a world in which people constantly are grateful if they are taken by the hand to know how to use a knife or to use the coffee maker or how to go on from here in text composing.
+
+&mdash;Ivan Illich [Interview with Jerry Brown](http://www.wtp.org/archive/transcripts/ivan_illich_jerry.html)
