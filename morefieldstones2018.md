@@ -410,8 +410,8 @@ Which, I suppose, is a longish way of saying “I found Troward’s work interes
 Fri, 13 Apr 2018
 
 "THE men whom the people ought to choose to represent them are too busy to take the jobs. But the politician is waiting for it. He&rsquo;s the pestilence of modern times. What we should try to do is make politics as local as possible. Keep the politicians near enough to kick them. The villagers who met under the village tree could also hang their politicians to the tree. It is terrible to contemplate how few politicians are hanged."
+
 &mdash; G.K. Chesterton: *Cleveland Press* interview, March 1, 1921.
-<a href="http://www.consultingsmiths.com/wp-content/uploads/2018/04/hanged.png"><img src="http://www.consultingsmiths.com/wp-content/uploads/2018/04/hanged-300x229.png" alt="" width="300" height="229" class="alignnone size-medium wp-image-992" /></a>
 
 ## The Gospels
 Sat, 14 Apr 2018
@@ -605,7 +605,7 @@ Mon, 18 Jun 2018
 
 "Beckett wrote that Joyce believed fervently in the significance of chance events and of random connections.
 
-&lsquo;To Joyce reality was a paradigm, an illustration of a possibly unstateable rule... According to this rule, reality, no matter how much we try to manipulate it, can only shift about in continual movement, yet movement limited in its possibilities...&rsquo; giving rise to &lsquo;the notion of the world where unexpected simultaneities are the rule.&rsquo; In other words, a coincidence such as sitting down to dinner with James Joyce is actually just part of a continually moving pattern, like a kaleidoscope. Or Joyce likes to put it, a &lsquo;collideorscape&rsquo;&rdquo;.&mdash;Gabrielle Carey *<a href="https://sydneyreviewofbooks.com/breaking-james-joyce/" rel="noopener" target="_blank">Breaking Up With James Joyce</a>*
+&lsquo;To Joyce reality was a paradigm, an illustration of a possibly unstateable rule... According to this rule, reality, no matter how much we try to manipulate it, can only shift about in continual movement, yet movement limited in its possibilities...&rsquo; giving rise to &lsquo;the notion of the world where unexpected simultaneities are the rule.&rsquo; In other words, a coincidence such as sitting down to dinner with James Joyce is actually just part of a continually moving pattern, like a kaleidoscope. Or Joyce likes to put it, a &lsquo;collideorscape&rsquo;&rdquo;.&mdash;Gabrielle Carey [*Breaking Up With James Joyce*](https://sydneyreviewofbooks.com/breaking-james-joyce/)
 
 ## We Must Sin
 Mon, 18 Jun 2018
@@ -652,7 +652,7 @@ The, 12 Jun 2019
 ## Kings, Silverware and Olympus
 Tue, 17 Jul 2018
 
-"The Constitution, written by men with some experience of actual government, assumes that the chief executive will work to be king, the Parliament will scheme to sell off the silverware, and the judiciary will consider itself Olympian and do everything it can to much improve (destroy) the work of the other two branches. So the Constitution pits them against each other, in the attempt not to achieve stasis, but rather to allow for the constant corrections necessary to prevent one branch from getting too much power for too long."&mdash;<a href="https://www.americanthinker.com/blog/2008/03/mamets_revelation.html" rel="noopener" target="_blank">David Mamet</a>
+"The Constitution, written by men with some experience of actual government, assumes that the chief executive will work to be king, the Parliament will scheme to sell off the silverware, and the judiciary will consider itself Olympian and do everything it can to much improve (destroy) the work of the other two branches. So the Constitution pits them against each other, in the attempt not to achieve stasis, but rather to allow for the constant corrections necessary to prevent one branch from getting too much power for too long."&mdash;[David Mamet](https://www.americanthinker.com/blog/2008/03/mamets_revelation.html)
 
 ## Horrible Old Person
 Sat, 21 Jul 2018
