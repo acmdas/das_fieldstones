@@ -370,6 +370,92 @@ And, since they are real inspirations (at least, sometimes) they'll come back, s
 
 From a note that I left to myself 6 April, 2017
 
+## Fate
+Mon, 23 Apr 2018
+
+“I DO NOT believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.” — G.K. Chesterton, *Illustrated London News*. (29 April 1922)
+
+## Fate, Again
+Mon, 23 Apr 2018
+
+“THE point is not that if we go on as we are we shall collide with some frightful fate. The point is rather that unless we make a magnificent effort, our frightful fate will be-to go on as we are.” — G.K. Chesterton, *Daily News*, (Feb. 24, 1906)
+
+## Faith
+Mon, 23 Apr 2018
+
+Faith suppresses
+
+No doubt.
+
+Rather,
+
+Illumines
+
+Walking along paths
+
+Commonly traveled without
+
+Mindfulness.
+
+Faith brings us
+
+Deep
+
+Into the essential
+
+Superficiality of
+
+Existence.
+
+It mocks our
+
+Seriousness.
+
+It smiles at our
+
+Sufferings
+
+Through shared tears.
+
+Yes, I suppose we
+
+Can live without it,
+
+But why?
+
+To what purpose
+
+Suppress
+
+Doubt?
+
+Rather
+
+Plunge
+
+Deep,
+
+Drink of despair of
+
+Meaning
+
+That we may
+
+Have
+
+Faith.
+
+Found again today on a sheet torn from a steno pad – almost certainly written in the late 1980s or early 1990s. I have no memory of writing it, but but it’s in my scrawl with more than a few misspellings, and since there are many false starts and strike-outs, it’s almost certainly not transcribed from someone else’s work.
+
+Not sure what to make of it, thirty years on, but I’ll stand by it.
+
+## What Precedes
+Mon, 30 Apr 2018
+
+“Either way you believe, it seems to me that this world has been marvelously constructed (however you perceive that word) in such a manner as to scientifically defy the detection and absolute definition of its actual origin.
+
+“Forget time. Forget matter. What precedes them is what really counts. Who or what invented this place is the sole question. Regardless of your first premise, no one can marshal any definitive and irrefutable physical evidence of the First Cause that has set this puzzle before us. No one can point to the glowing neon sign in the sky that spells it out in capital letters, with footnotes available. Which means each side is operating on faith, of some kind. Which makes for a Holy War, for all concerned.” — [Ianto Watt](https://wmbriggs.com/post/24389/)
+
 ## Needlework
 Sat, 05 May 2018
 
