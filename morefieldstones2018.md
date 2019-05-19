@@ -467,7 +467,20 @@ This week has been consumed by a greater than usual series of family crises and 
 ## Needlework
 Sat, 05 May 2018
 
-"Saint Luke was a painter, by some accounts, and by others a physician. I think he was both, and more, from acquaintance with his writings. But certainly a physician. When Matthew and Mark recount the saying of Jesus, that it is easier for a camel to pass through the eye of a needle, than for a rich man to pass through the gates of heaven, they use the Greek term for a household sewing needle. But Luke instinctively uses the term for a surgeon&rsquo;s suturing needle. Case closed, to my mind."&mdash;<a href="https://www.davidwarrenonline.com/2018/05/05/needlework/" rel="noopener" target="_blank">David Warren</a>
+"Saint Luke was a painter, by some accounts, and by others a physician. I think he was both, and more, from acquaintance with his writings. But certainly a physician. When Matthew and Mark recount the saying of Jesus, that it is easier for a camel to pass through the eye of a needle, than for a rich man to pass through the gates of heaven, they use the Greek term for a household sewing needle. But Luke instinctively uses the term for a surgeon&rsquo;s suturing needle. Case closed, to my mind."&mdash;[David Warren](https://www.davidwarrenonline.com/2018/05/05/needlework/)
+
+## This Place
+Thu, 10 May 2018
+
+Another Thursday, another MWP (minimum weekly post). You, my sole other reader, already know that things are heating up around here – we closed on the single-story house that we’ve known for years that we’d eventually need. Given that it’s a foreclosure and has been empty for ten years, it’ll be a while before we have to pack up and move in, and it’s going to be a busy summer. And, like so many of us, the busier I get the more open I seem to be to, whatever, the muse, organizing principles, call it what you will. Like when I had to write to a deadline for money, when, sitting there at the keyboard, the words stopped coming, even the least little exercise – the start of a walk – would pull the next chunk of text or story line out of the air.
+
+So it was during this morning’s walk. Not that it came shazam unexpected out of the blue, more that it congealed a little more so that it can be explained blog-post style. Well, not totally explained – it’s a threescore-and-ten story, after all. In fact, it’s more like the start of the Prologue before the Introduction, explaining that while the point of the story isn’t to tell my story (as much as I love to tell my stories), things are the way they are because they got this way, and how they got this way is at least-off-and-on the story of me.
+
+My parents, admirable folks both, wrote their memoirs in their last years. Great Depression survivors, WWII veterans, parents of five, teachers and much more, their detailed stories of what their childhoods were like, their school years, early marriage, the War Years, etc. are fascinating as a picture of life as it was and is no more, and my similar story may be of interest to my kids and their kids and etc., but that isn’t what I foresee.
+
+The memories that have been pushing their way into my meditations this past year or so seem more, in retrospect, like breadcrumbs dropped to mark, not where I came from as a way to get back home, but rather as markers to where I’m going, perhaps as a way to get back home. I’ve already mentioned some of them when I tried to explain what that “It” is that keeps happening over and over – how the reference to the True Tao or the Whole Earth Catalog fell into my life. So, maybe, since (as Shakespeare said in the Tempest and as someone carved into the marble over the front door to my high school) the past is prologue, I’ll string together some of those breadcrumbs to get things started.
+
+But not just now…
 
 ## Education and Training
 Thu, 31 May 2018
@@ -492,7 +505,7 @@ Posting may or may not continue to be erratic, but then it's always been like th
 ## Criticism and The Web
 Thu, 31 May 2018
 
-&ldquo;When I first prepared this particular talk... I realized that my usual approach is usually critical. That is, a lot of the things that I do, that most people do, are because they hate something somebody else has done, or they hate that something hasn't been done. And I realized that informed criticism has completely been done in by the web. Because the web has produced so much uninformed criticism. It&rsquo;s kind of a Gresham&rsquo;s Law&mdash;bad money drives the good money out of circulation. Bad criticism drives good criticism out of circulation. You just can&rsquo;t criticize anything.&rdquo;&mdash;Alan Kay <a href="https://vimeo.com/10260548" rel="noopener" target="_blank"><em>How Simply and Understandably Could The &lsquo;Personal Computing Experience&rsquo; Be Programmed?</em></a>
+&ldquo;When I first prepared this particular talk... I realized that my usual approach is usually critical. That is, a lot of the things that I do, that most people do, are because they hate something somebody else has done, or they hate that something hasn't been done. And I realized that informed criticism has completely been done in by the web. Because the web has produced so much uninformed criticism. It&rsquo;s kind of a Gresham&rsquo;s Law&mdash;bad money drives the good money out of circulation. Bad criticism drives good criticism out of circulation. You just can&rsquo;t criticize anything.&rdquo;&mdash;[Alan Kay](https://vimeo.com/10260548) *How Simply and Understandably Could The &lsquo;Personal Computing Experience&rsquo; Be Programmed?*
 
 ## The Language of Nature
 Thu, 31 May 2018
@@ -504,7 +517,7 @@ Thu, 31 May 2018
 
 &ldquo;&lsquo;Power tends to corrupt, and absolute power corrupts absolutely.&rsquo; We&rsquo;ve all seen this quote of Lord Acton. Most people agree with it. I don&rsquo;t. Like many (if not most) great quotes, it is dead wrong. Why? Because it&rsquo;s exactly backwards, that&rsquo;s why...
 
-&ldquo;Let&rsquo;s reconstruct Acton&rsquo;s sentence in a way that reflects the truth of the matter (and energy) of power. Put the word &lsquo;man&rsquo; in place of &lsquo;power&rsquo;, and then move the word &lsquo;power&rsquo; behind the word &lsquo;corrupt(s)&rsquo;. Now let&rsquo;s see what it should look like if we&rsquo;re truly seeking the truth: &lsquo;(Man) tends to corrupt power, and absolute (Man) corrupts power absolutely&rsquo;.&rdquo;&mdash;Ianto Watt <a href="http://wmbriggs.com/post/24549/" rel="noopener" target="_blank"><em>Lord Acton&rsquo;s Apostasy</em></a>
+&ldquo;Let&rsquo;s reconstruct Acton&rsquo;s sentence in a way that reflects the truth of the matter (and energy) of power. Put the word &lsquo;man&rsquo; in place of &lsquo;power&rsquo;, and then move the word &lsquo;power&rsquo; behind the word &lsquo;corrupt(s)&rsquo;. Now let&rsquo;s see what it should look like if we&rsquo;re truly seeking the truth: &lsquo;(Man) tends to corrupt power, and absolute (Man) corrupts power absolutely&rsquo;.&rdquo;&mdash;[Ianto Watt](http://wmbriggs.com/post/24549/) *Lord Acton&rsquo;s Apostasy*
 
 ## The Problem
 Sat, 02 Jun 2018
