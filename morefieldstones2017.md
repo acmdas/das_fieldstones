@@ -57,7 +57,7 @@ Tue, 14 Feb 2017
 When you tell people what they want to hear, you don't have to be too careful about premises, facts, and conclusions.&mdash;Angelo M. Codevilla
 What do we call those people in a society who are licensed or allowed to use violence? 
 
-No hints this time. <em>We call these the people in charge</em>.&mdash;William M. Briggs
+No hints this time. *We call these the people in charge*.&mdash;William M. Briggs
 
 I found the Codevilla quote at Mike Flynn's <a href="http://tofspot.blogspot.com/2017/02/rule-of-law.html" target="_blank">The TOF Spot</a>, and the Briggs quote at this <a href="https://stream.org/really-climate-violence-campuses/" target="_blank">Stream page</a>.
 
@@ -106,7 +106,7 @@ Wed, 15 Feb 2017
 ## Regard for Power
 Thu, 16 Feb 2017
 
-"Somewhere in <em>The Power Broker</em> I write that regard for power means disregard of those without power. I mean, we're really talking about justice and injustice."&mdash;Robert Caro
+"Somewhere in *The Power Broker* I write that regard for power means disregard of those without power. I mean, we're really talking about justice and injustice."&mdash;Robert Caro
 
 I found a wonderful <a href="https://www.theparisreview.org/interviews/6442/robert-caro-the-art-of-biography-no-5-robert-caro" target="_blank">interview with author Robert Caro</a> on the Paris Review site about "The Art of Biography"&mdash;linked to, from all places, <a href="https://news.ycombinator.com/" target="_blank">Hacker News</a>! That's the WWW, good stuff is where you find it. I love surprises.
 
@@ -128,7 +128,7 @@ Sat, 18 Feb 2017
 ## The Enlightenment contra Grace
 Sat, 18 Feb 2017
 
-&ldquo;The Enlightenment is always wrong, because its ultimate goal is to <em>expose</em>. Grace, by contrast, is founded on truth, because it covers a multitude of sins. What God once and for all does not wish to know should never become the object of human knowledge and investigation.&rdquo;&mdash;Hans Urs von Balthasar
+&ldquo;The Enlightenment is always wrong, because its ultimate goal is to *expose*. Grace, by contrast, is founded on truth, because it covers a multitude of sins. What God once and for all does not wish to know should never become the object of human knowledge and investigation.&rdquo;&mdash;Hans Urs von Balthasar
 
 Once again, courtesy of <a href="http://www.davidwarrenonline.com/2017/02/18/aphorisms-for-saturday/" target="_blank">David Warren</a>
 
@@ -142,7 +142,7 @@ Quoted today by the President at a rally in Melbourne, Florida.
 ## Miracles (again)
 Mon, 20 Feb 2017
 
-&ldquo;And I dare say the first time you saw a man raised from the dead you might think so too.&rdquo; He giggled unconvincingly behind the smiling mask. &ldquo;Oh, it&rsquo;s funny, isn&rsquo;t it? It isn&rsquo;t a case of miracles not happening&mdash;it&rsquo;s just a case of people calling them something else. Can&rsquo;t you see the doctors round the dead man? He isn&rsquo;t breathing any more, his pulse has stopped, his heart&rsquo;s not beating: he&rsquo;s dead. The somebody gives him back his life, and they all&mdash;what&rsquo;s the expression?&mdash;reserve their opinion. They won&rsquo;t say it&rsquo;s a miracle, because that&rsquo;s a word they don&rsquo;t like. Then it happens again and again perhaps&mdash;because God&rsquo;s about on earth&mdash;and they say: these aren&rsquo;t miracles, it is simply that we have enlarged our conception of what life is. Now we know you can be alive without pulse, breath, heart-beats. And they invent a new word to describe that state of life, and they say science has disproved a miracle.&rdquo; He giggled again. &lsquo;You can&rsquo;t get round them.&rdquo;"&mdash;Graham Greene <em>The Power and the Glory</em>
+&ldquo;And I dare say the first time you saw a man raised from the dead you might think so too.&rdquo; He giggled unconvincingly behind the smiling mask. &ldquo;Oh, it&rsquo;s funny, isn&rsquo;t it? It isn&rsquo;t a case of miracles not happening&mdash;it&rsquo;s just a case of people calling them something else. Can&rsquo;t you see the doctors round the dead man? He isn&rsquo;t breathing any more, his pulse has stopped, his heart&rsquo;s not beating: he&rsquo;s dead. The somebody gives him back his life, and they all&mdash;what&rsquo;s the expression?&mdash;reserve their opinion. They won&rsquo;t say it&rsquo;s a miracle, because that&rsquo;s a word they don&rsquo;t like. Then it happens again and again perhaps&mdash;because God&rsquo;s about on earth&mdash;and they say: these aren&rsquo;t miracles, it is simply that we have enlarged our conception of what life is. Now we know you can be alive without pulse, breath, heart-beats. And they invent a new word to describe that state of life, and they say science has disproved a miracle.&rdquo; He giggled again. &lsquo;You can&rsquo;t get round them.&rdquo;"&mdash;Graham Greene *The Power and the Glory*
 
 Courtesy of <a href="http://wmbriggs.com/post/8069/" target="_blank">William M. Briggs&mdash;Statistician to the Stars</a>
 
@@ -171,7 +171,7 @@ Fri, 21 Apr 2017
 ## Free Press vs. Official Press
 Thu, 04 May 2017
 
-"WHEREVER I go, my first object, if I wish to find out the truth, is to get hold of the Free Press in France as in England, and even in America. But I know that wherever I get hold of such an organ it will be very strongly coloured with the opinion, or even fanaticism, of some minority. The Free Press, as a whole, if you add it all up and cancel out one exaggerated statement against another, does give you a true view of the state of society in which you live. The Official Press to-day gives you an absurdly false one everywhere. What a caricature&mdash;and what a base, empty caricature&mdash;of England or France or Italy you get in the "Times," or the "Manchester Guardian," the "Matin," or the "Tribune"! No one of them is in any sense general&mdash;or really national."&mdash;Hilaire Belloc: <em>The Free Press</em>, XI, B.
+"WHEREVER I go, my first object, if I wish to find out the truth, is to get hold of the Free Press in France as in England, and even in America. But I know that wherever I get hold of such an organ it will be very strongly coloured with the opinion, or even fanaticism, of some minority. The Free Press, as a whole, if you add it all up and cancel out one exaggerated statement against another, does give you a true view of the state of society in which you live. The Official Press to-day gives you an absurdly false one everywhere. What a caricature&mdash;and what a base, empty caricature&mdash;of England or France or Italy you get in the "Times," or the "Manchester Guardian," the "Matin," or the "Tribune"! No one of them is in any sense general&mdash;or really national."&mdash;Hilaire Belloc: *The Free Press*, XI, B.
 
 ## Am I a Bad Person?
 Fri, 05 May 2017
@@ -326,7 +326,7 @@ Sun, 28 May 2017
 ## Wolves
 Tue, 30 May 2017
 
-"It is an act of charity to cry out against the wolf when he is among the sheep."&mdash;St. Francis de Sales, <em>Introduction to the Devout Life, Part 3, Ch.29</em> 
+"It is an act of charity to cry out against the wolf when he is among the sheep."&mdash;St. Francis de Sales, *Introduction to the Devout Life, Part 3, Ch.29* 
 
 ## Laughing at honour
 Tue, 06 Jun 2017
@@ -341,47 +341,47 @@ Thu, 08 Jun 2017
 ## A Great Man
 Thu, 08 Jun 2017
 
-"Whatever the word 'great' means, Dickens was what it means. Even the fastidious and unhappy who cannot read his books without a continuous critical exasperation, would use the word of him without stopping to think."&mdash;G. K. Chesterton, <em>Charles Dickens</em>
+"Whatever the word 'great' means, Dickens was what it means. Even the fastidious and unhappy who cannot read his books without a continuous critical exasperation, would use the word of him without stopping to think."&mdash;G. K. Chesterton, *Charles Dickens*
 
 ## Adversus Haereses
 Thu, 08 Jun 2017
 
-"It would be futile to make a sketch of St. Thomas and conceal the fact that he fought with heretics; and yet the fact itself may embarrass the very purpose for which it is employed. I can only express the hope, and indeed the confidence, that those who regard me as the heretic will hardly blame me for expressing my own convictions, and certainly not for expressing my hero's convictions. There is only one point upon which such a question concerns this very simple narrative. It is the conviction, which I have expressed once or twice in the course of it, that the sixteenth-century schism was really a belated revolt of the thirteenth-century pessimists. It was a back-wash of the old Augustinian Puritanism against the Aristotelian liberality. Without that, I could not place my historical figure in history."&mdash;G. K. Chesterton <em>Saint Thomas Aquinas&mdash;the Dumb Ox</em>
+"It would be futile to make a sketch of St. Thomas and conceal the fact that he fought with heretics; and yet the fact itself may embarrass the very purpose for which it is employed. I can only express the hope, and indeed the confidence, that those who regard me as the heretic will hardly blame me for expressing my own convictions, and certainly not for expressing my hero's convictions. There is only one point upon which such a question concerns this very simple narrative. It is the conviction, which I have expressed once or twice in the course of it, that the sixteenth-century schism was really a belated revolt of the thirteenth-century pessimists. It was a back-wash of the old Augustinian Puritanism against the Aristotelian liberality. Without that, I could not place my historical figure in history."&mdash;G. K. Chesterton *Saint Thomas Aquinas&mdash;the Dumb Ox*
 
 ## In Your Philosophy, Horatio
 Sun, 11 Jun 2017
 
-"There can be no doubt that there is an essential relation between Christian revelation and certain fundamental natural truths. The existence of objective truth, the spiritual reality of the person, the difference between soul and body, the objectivity of moral good and evil, the freedom of the will, the immortality of the soul, the existence of a personal God&mdash;all are implied by Christian revelation. Every word in the New Testament clearly presupposes these elementary truths. And any philosophy that denies them can never be accepted or tolerated by the Church."&mdash;Deitrich von Hildebrand, <em>Trojan Horse in the City of God</em> (p. 62)
+"There can be no doubt that there is an essential relation between Christian revelation and certain fundamental natural truths. The existence of objective truth, the spiritual reality of the person, the difference between soul and body, the objectivity of moral good and evil, the freedom of the will, the immortality of the soul, the existence of a personal God&mdash;all are implied by Christian revelation. Every word in the New Testament clearly presupposes these elementary truths. And any philosophy that denies them can never be accepted or tolerated by the Church."&mdash;Deitrich von Hildebrand, *Trojan Horse in the City of God* (p. 62)
 
 ## Contagion
 Fri, 23 Jun 2017
 
-"There is nothing so contagious as holiness, nothing more pervasive than Prayer. This is precisely what the traditional Church means by evangelism and what distinguishes it from recruitment."&mdash;Fr. Martin Thornton, <em>Pastoral Theology: A Reorientation</em>
+"There is nothing so contagious as holiness, nothing more pervasive than Prayer. This is precisely what the traditional Church means by evangelism and what distinguishes it from recruitment."&mdash;Fr. Martin Thornton, *Pastoral Theology: A Reorientation*
 
 ## Belief
 Sat, 24 Jun 2017
 
-"I have heard it confidently stated, for instance, that the American troops had been brought to Europe not to fight the Germans but to crush an English revolution. One has to belong to the intelligentsia to believe things like that: no ordinary man could be such a fool."&mdash;George Orwell, <em><a href="http://orwell.ru/library/essays/nationalism/english/e_nat" target="_blank">Notes on Nationalism</a></em>
+"I have heard it confidently stated, for instance, that the American troops had been brought to Europe not to fight the Germans but to crush an English revolution. One has to belong to the intelligentsia to believe things like that: no ordinary man could be such a fool."&mdash;George Orwell, *<a href="http://orwell.ru/library/essays/nationalism/english/e_nat" target="_blank">Notes on Nationalism</a>*
 
 ## Fantasies
 Sun, 25 Jun 2017
 
-"We say that it is in believing ages that you get men living in the open and dancing and telling tales by the fire. We say that it is in ages of unbelief, that you get emperors dressing up as women, and gladiators, or minor poets wearing green carnations and praising unnameable things. We say that, taking ages as a whole, the wildest fantasies of superstition are nothing to the fantasies of rationalism."&mdash;G. K. Chesterton, <em>God and my Neighbour</em>
+"We say that it is in believing ages that you get men living in the open and dancing and telling tales by the fire. We say that it is in ages of unbelief, that you get emperors dressing up as women, and gladiators, or minor poets wearing green carnations and praising unnameable things. We say that, taking ages as a whole, the wildest fantasies of superstition are nothing to the fantasies of rationalism."&mdash;G. K. Chesterton, *God and my Neighbour*
 
 ## Respect and Fidelity
 Sun, 25 Jun 2017
 
-"Today, certainly it is important for us to show that same respect and fidelity to the Word of God, so as not to manipulate it to fit historical, political, or ideological circumstances, for the purpose of pleasing men and acquiring a reputation as a scholar or avant-garde theologian.Â .Â .Â . As Saint Paul says, 'We are not like so many [who] practice cunning or.Â .Â . tamper with God&rsquo;s word' (cf. 2 Cor 2:17; 4:2)."&mdash;Cardinal Robert Sarah, <em>God or Nothing</em>
+"Today, certainly it is important for us to show that same respect and fidelity to the Word of God, so as not to manipulate it to fit historical, political, or ideological circumstances, for the purpose of pleasing men and acquiring a reputation as a scholar or avant-garde theologian.Â .Â .Â . As Saint Paul says, 'We are not like so many [who] practice cunning or.Â .Â . tamper with God&rsquo;s word' (cf. 2 Cor 2:17; 4:2)."&mdash;Cardinal Robert Sarah, *God or Nothing*
 
 ## The Pagan Ideal
 Sun, 25 Jun 2017
 
-"My objection to Mr. Lowes Dickinson and the reassertors of the pagan ideal is, then, this. I accuse them of ignoring definite human discoveries in the moral world, discoveries as definite, though not as material, as the discovery of the circulation of the blood. We cannot go back to an ideal of reason and sanity. For mankind has discovered that reason does not lead to sanity. We cannot go back to an ideal of pride and enjoyment. For mankind has discovered that pride does not lead to enjoyment. I do not know by what extraordinary mental accident modern writers so constantly connect the idea of progress with the idea of independent thinking. Progress is obviously the antithesis of independent thinking. For under independent or individualistic thinking, every man starts at the beginning, and goes, in all probability, just as far as his father before him. But if there really be anything of the nature of progress, it must mean, above all things, the careful study and assumption of the whole of the past. I accuse Mr. Lowes Dickinson and his school of reaction in the only real sense. If he likes, let him ignore these great historic mysteries&mdash;the mystery of charity, the mystery of chivalry, the mystery of faith. If he likes, let him ignore the plough or the printing-press. But if we do revive and pursue the pagan ideal of a simple and rational self-completion we shall end&mdash;where Paganism ended. I do not mean that we shall end in destruction. I mean that we shall end in Christianity."&mdash;G. K. Chesterton, <a href="https://www.ccel.org/ccel/chesterton/heretics.xii.html" target="_blank"><em>Heretics</em></a>
+"My objection to Mr. Lowes Dickinson and the reassertors of the pagan ideal is, then, this. I accuse them of ignoring definite human discoveries in the moral world, discoveries as definite, though not as material, as the discovery of the circulation of the blood. We cannot go back to an ideal of reason and sanity. For mankind has discovered that reason does not lead to sanity. We cannot go back to an ideal of pride and enjoyment. For mankind has discovered that pride does not lead to enjoyment. I do not know by what extraordinary mental accident modern writers so constantly connect the idea of progress with the idea of independent thinking. Progress is obviously the antithesis of independent thinking. For under independent or individualistic thinking, every man starts at the beginning, and goes, in all probability, just as far as his father before him. But if there really be anything of the nature of progress, it must mean, above all things, the careful study and assumption of the whole of the past. I accuse Mr. Lowes Dickinson and his school of reaction in the only real sense. If he likes, let him ignore these great historic mysteries&mdash;the mystery of charity, the mystery of chivalry, the mystery of faith. If he likes, let him ignore the plough or the printing-press. But if we do revive and pursue the pagan ideal of a simple and rational self-completion we shall end&mdash;where Paganism ended. I do not mean that we shall end in destruction. I mean that we shall end in Christianity."&mdash;G. K. Chesterton, <a href="https://www.ccel.org/ccel/chesterton/heretics.xii.html" target="_blank">*Heretics*</a>
 
 ## The Virtue of Toleration
 Tue, 27 Jun 2017
 
-&ldquo;There was a confused liberal notion that toleration was in some way a virtue in itself.&rdquo;&mdash;Hilaire Belloc, <em>Essays of a Catholic</em>
+&ldquo;There was a confused liberal notion that toleration was in some way a virtue in itself.&rdquo;&mdash;Hilaire Belloc, *Essays of a Catholic*
 
 ## In Which Case...
 Fri, 30 Jun 2017
@@ -396,17 +396,17 @@ Mon, 03 Jul 2017
 ## No New Thing
 Wed, 05 Jul 2017
 
-"To say that the present is a time of change and upheaval, social, political and religious, is to state a truism so obvious as to invite ironic contradiction.  The cataclysm through which we are passing is at once so vast in its dimensions and so profound in its penetration of individual life, that we may well shrink from looking to history for guidance on circumstances to which history itself affords no parallel.  Yet it is no new thing for the established manners, customs and beliefs of men to be upset.  In all such times of violent transition the same great problem of the reconciliation between old and new forces itself upon the judgement of mankind, and it should not be impossible to find in the lesser crises of the past principles of thought and action which may help us to deal with the gigantic perplexities of today."&mdash;Oliver Chase Quick, <em>Essays in Orthodoxy</em> 1916
+"To say that the present is a time of change and upheaval, social, political and religious, is to state a truism so obvious as to invite ironic contradiction.  The cataclysm through which we are passing is at once so vast in its dimensions and so profound in its penetration of individual life, that we may well shrink from looking to history for guidance on circumstances to which history itself affords no parallel.  Yet it is no new thing for the established manners, customs and beliefs of men to be upset.  In all such times of violent transition the same great problem of the reconciliation between old and new forces itself upon the judgement of mankind, and it should not be impossible to find in the lesser crises of the past principles of thought and action which may help us to deal with the gigantic perplexities of today."&mdash;Oliver Chase Quick, *Essays in Orthodoxy* 1916
 
 ## The Riddle of Life
 Thu, 06 Jul 2017
 
-"The riddle of life is simply this. For some mad reason in this mad world of ours, the things which men differ about most are exactly the things about which they must be got to agree. Men can agree on the fact that the earth goes round the sun. But then it does not matter a dump whether the earth goes around the sun or the Pleiades. But men cannot agree about morals: sex, property, individual rights, fixity and contracts, patriotism, suicide, public habits of health&mdash;these are exactly the things that men tend to fight about. And these are exactly the things that must be settled somehow on strict principles. Study each of them, and you will find each of them works back certainly to a philosophy, probably to a religion."&mdash;G. K. Chesterton, <em>The Victorian Age</em>
+"The riddle of life is simply this. For some mad reason in this mad world of ours, the things which men differ about most are exactly the things about which they must be got to agree. Men can agree on the fact that the earth goes round the sun. But then it does not matter a dump whether the earth goes around the sun or the Pleiades. But men cannot agree about morals: sex, property, individual rights, fixity and contracts, patriotism, suicide, public habits of health&mdash;these are exactly the things that men tend to fight about. And these are exactly the things that must be settled somehow on strict principles. Study each of them, and you will find each of them works back certainly to a philosophy, probably to a religion."&mdash;G. K. Chesterton, *The Victorian Age*
 
 ## The Safety of Antiquity
 Fri, 07 Jul 2017
 
-"What, then, shall a Catholic Christian do, if some small part of the Church cut itself off from the communion of the universal faith?  What else but prefer the health of the whole body before the pestiferous and corrupt member? What if some new infection goeth about to corrupt, not in this case only a little part, but the whole Church? Then, likewise, shall he regard, and be sure to cleave unto Antiquity; which can now no more be seduced by any crafty novelty."&mdash;Vincentius of Lerin. <em>The Doctrine of the Fathers</em>
+"What, then, shall a Catholic Christian do, if some small part of the Church cut itself off from the communion of the universal faith?  What else but prefer the health of the whole body before the pestiferous and corrupt member? What if some new infection goeth about to corrupt, not in this case only a little part, but the whole Church? Then, likewise, shall he regard, and be sure to cleave unto Antiquity; which can now no more be seduced by any crafty novelty."&mdash;Vincentius of Lerin. *The Doctrine of the Fathers*
 
 ## Paranoia
 Wed, 12 Jul 2017
@@ -540,7 +540,7 @@ Wed, 30 Aug 2017
 ## Thought out thought
 Sun, 03 Sep 2017
 
-"PHILOSOPHY is merely thought that has been thought out. It is often a great bore. But man has no alternative, except between being influenced by thought that has been thought out and being influenced by thought that has not been thought out. The latter is what we commonly call culture and enlightenment today."&mdash;G.K. Chesterton: <em>The Revival of Philosophy&mdash;Why?</em>
+"PHILOSOPHY is merely thought that has been thought out. It is often a great bore. But man has no alternative, except between being influenced by thought that has been thought out and being influenced by thought that has not been thought out. The latter is what we commonly call culture and enlightenment today."&mdash;G.K. Chesterton: *The Revival of Philosophy&mdash;Why?*
 
 ## Truth and Error
 Fri, 08 Sep 2017
@@ -586,7 +586,7 @@ Attr. to St. Augustine. Also to St. Ignatius of Loyola. And to Martin Luther.
 ## Why?
 Fri, 22 Sep 2017
 
- &lsquo;Now I will tell you the answer to my question. It is this. The Party seeks power entirely for its own sake. We are not interested in the good of others ; we are interested solely in power. Not wealth or luxury or long life or happiness: only power, pure power. What pure power means you will understand presently. We are different from all the oligarchies of the past, in that we know what we are doing. All the others, even those who resembled ourselves, were cowards and hypocrites. The German Nazis and the Russian Communists came very close to us in their methods, but they never had the courage to recognize their own motives. They pretended, perhaps they even believed, that they had seized power unwillingly and for a limited time, and that just round the corner there lay a paradise where human beings would be free and equal. We are not like that. We know that no one ever seizes power with the intention of relinquishing it. Power is not a means, it is an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship. The object of persecution is persecution. The object of torture is torture. The object of power is power. Now do you begin to understand me?&rdquo;&mdash;George Orwell&mdash;<em>1984</em> O'Brien to Winston
+ &lsquo;Now I will tell you the answer to my question. It is this. The Party seeks power entirely for its own sake. We are not interested in the good of others ; we are interested solely in power. Not wealth or luxury or long life or happiness: only power, pure power. What pure power means you will understand presently. We are different from all the oligarchies of the past, in that we know what we are doing. All the others, even those who resembled ourselves, were cowards and hypocrites. The German Nazis and the Russian Communists came very close to us in their methods, but they never had the courage to recognize their own motives. They pretended, perhaps they even believed, that they had seized power unwillingly and for a limited time, and that just round the corner there lay a paradise where human beings would be free and equal. We are not like that. We know that no one ever seizes power with the intention of relinquishing it. Power is not a means, it is an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship. The object of persecution is persecution. The object of torture is torture. The object of power is power. Now do you begin to understand me?&rdquo;&mdash;George Orwell&mdash;*1984* O'Brien to Winston
 
 ## Tails
 Fri, 22 Sep 2017
@@ -666,12 +666,12 @@ Sun, 29 Oct 2017
 ## Origins
 Thu, 02 Nov 2017
 
-&ldquo;Consider your origin. You were not formed to live like brutes but to follow virtue and knowledge.&rdquo;&mdash;Dante <em>The Divine Comedy</em>
+&ldquo;Consider your origin. You were not formed to live like brutes but to follow virtue and knowledge.&rdquo;&mdash;Dante *The Divine Comedy*
 
 ## What the People Need
 Thu, 02 Nov 2017
 
-"The Saint is a medicine because he is an antidote. Indeed that is why the saint is often a martyr; he is mistaken for a poison because he is an antidote. He will generally be found restoring the world to sanity by exaggerating whatever the world neglects, which is by no means always the same element in every age. Yet each generation seeks its saint by instinct; and he is not what the people want, but rather what the people need."&mdash;G.K. Chesterton: <em>St. Thomas Aquinas</em>, Chap. I.
+"The Saint is a medicine because he is an antidote. Indeed that is why the saint is often a martyr; he is mistaken for a poison because he is an antidote. He will generally be found restoring the world to sanity by exaggerating whatever the world neglects, which is by no means always the same element in every age. Yet each generation seeks its saint by instinct; and he is not what the people want, but rather what the people need."&mdash;G.K. Chesterton: *St. Thomas Aquinas*, Chap. I.
 
 ## Proof of its Divinity
 Thu, 02 Nov 2017
@@ -686,7 +686,7 @@ Fri, 03 Nov 2017
 ## Chesterton&#039;s Fence
 Tue, 07 Nov 2017
 
-"In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, &ldquo;I don&rsquo;t see the use of this; let us clear it away." To which the more intelligent type of reformer will do well to answer: "If you don&rsquo;t see the use of it, I certainly won&rsquo;t let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it."&mdash;G. K. Chesterton, <em>The Drift from Domesticity</em>
+"In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, &ldquo;I don&rsquo;t see the use of this; let us clear it away." To which the more intelligent type of reformer will do well to answer: "If you don&rsquo;t see the use of it, I certainly won&rsquo;t let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it."&mdash;G. K. Chesterton, *The Drift from Domesticity*
 
 ## The Task of Redemption
 Thu, 09 Nov 2017
@@ -702,7 +702,7 @@ St. John Paul II describes how Christ's act of redeeming us from slavery to sin 
 "It also enables us to discover values. And hence we conclude that the purgative way leads organically into the illuminative way. Values are lights which illumine existence and, as we work on our lives, they shine ever more brightly on the horizon. So side by side with observance of the commandments&mdash;which has an essentially purgative meaning&mdash;we develop virtues. For example, in observing the commandment: "Thou shall not kill!" we discover the value of life under various aspects and we learn an ever deeper respect for it. In observing the commandment: "Thou shall not commit adultery!" we acquire the virtue of purity, and this means that we come to an ever greater awareness of the gratuitous beauty of the human body, of masculinity and femininity. This gratuitous beauty becomes a light for our actions. In observing the commandment: "Thou shall not bear false witness!" we learn the virtue of truthfulness. This not only excludes all lying and hypocrisy from our lives, but it develops within us a kind of "instinct for truth" which guides all our actions. And living thus in the truth, we acquire in our own humanity a connatural truthfulness.
 
 "So the illuminative stage in the interior life emerges gradually from the purgative stage. With the passage of time, if we persevere in following Christ our Teacher, we feel less and less burdened by the struggle against sin, and we enjoy more and more the divine light which pervades all creation. This is most important, because it allows us to escape from a situation of constant inner exposure to the risk of sin&mdash;even though, on this earth, the risk always remains present to some degree&mdash;so as to move with ever greater freedom within the whole of the created world. The same freedom and simplicity characterizes our relations with other human beings, including those of the opposite sex. Interior light illumines our actions and shows us all the good in the created world as coming from the hand of God. Thus the purgative way and then the illuminative way form the organic introduction to what is known as the unitive way. This is the final stage of the interior journey, when the soul experiences a special union with God. This union is realized in contemplation of the divine Being and in the experience of love which flows from it with growing intensity. In this way we somehow anticipate what is destined to be ours in eternity, beyond death and the grave. Christ, supreme Teacher of the spiritual life, together with all those who have been formed in his school, teaches that even in this life we can enter onto the path of union with God."
-&mdash; St. John Paul II &ndash; <em>Memory and Identity</em> Rizzoli 2005:
+&mdash; St. John Paul II &ndash; *Memory and Identity* Rizzoli 2005:
 
 ## The Love of (a small &lsquo;g&rsquo;) god
 Mon, 20 Nov 2017
@@ -713,7 +713,7 @@ I like to think that I love God's creation, but I love my family more particular
 ## A Conspiracy of a very few Millionaires
 Fri, 24 Nov 2017
 
-"The point about the Press is that it is not what it is called. It is not the "popular Press." It is not the public Press. It is not an organ of public opinion. It is a conspiracy of a very few millionaires, all sufficiently similar in type to agree on the limits of what this great nation (to which we belong) may know about itself and its friends and enemies. The ring is not quite complete; there are old-fashioned and honest papers: but it is sufficiently near to completion to produce on the ordinary purchaser of news the practical effects of a corner and a monopoly. He receives all his political information and all his political marching orders from what is by this time a sort of half-conscious secret society, with very few members, but a great deal of money."&mdash;G.K. Chesterton: <em>Utopia of Usurers and Other Essays</em>
+"The point about the Press is that it is not what it is called. It is not the "popular Press." It is not the public Press. It is not an organ of public opinion. It is a conspiracy of a very few millionaires, all sufficiently similar in type to agree on the limits of what this great nation (to which we belong) may know about itself and its friends and enemies. The ring is not quite complete; there are old-fashioned and honest papers: but it is sufficiently near to completion to produce on the ordinary purchaser of news the practical effects of a corner and a monopoly. He receives all his political information and all his political marching orders from what is by this time a sort of half-conscious secret society, with very few members, but a great deal of money."&mdash;G.K. Chesterton: *Utopia of Usurers and Other Essays*
 
 ## Sauce for the Goose
 Fri, 24 Nov 2017
@@ -742,14 +742,14 @@ Prayer for the Day
 
 I pray that I may lose my limitations in the immensity of God's love. I pray that my spirit may be in harmony with His spirit.
 
-From the original AA Meditation book, <em>Twenty-Four Hours a Day</em>, by Richmond Walker
+From the original AA Meditation book, *Twenty-Four Hours a Day*, by Richmond Walker
 
 ## A Masterless House, a Pilotless Ship
 Thu, 30 Nov 2017
 
 "When a house has no master living in it, it becomes dark, vile and contemptible, choked with filth and disgusting refuse. So too is a soul which has lost its master, who once rejoiced there with his angels. This soul is darkened with sin, its desires are degraded, and it knows nothing but shame.
 
-"Woe to the path that is not walked on, or along which the voices of men are not heard, for then it becomes the haunt of wild animals. Woe to the soul if the Lord does not walk within it to banish with his voice the spiritual beasts of sin. Woe to the house where no master dwells, to the field where no farmer works, to the pilotless ship, storm-tossed and sinking. Woe to the soul without Christ as its true pilot; drifting in the darkness, buffeted by the waves of passion, storm-tossed at the mercy of evil spirits, its end is destruction. Woe to the soul that does not have Christ to cultivate it with care to produce the good fruit of the Holy Spirit. Left to itself, it is choked with thorns and thistles; instead of fruit it produces only what is fit for burning. Woe to the soul that does not have Christ dwelling in it; deserted and foul with the filth of the passions, it becomes a haven for all the vices."&mdash;<a href="http://blog.adw.org/2017/11/a-culture-without-god-is-adrift-like-a-ship-without-a-pilot/" rel="noopener" target="_blank">St. Macarius, bishop</a>, <em>Hom. 28: PG 34, 710-711</em>
+"Woe to the path that is not walked on, or along which the voices of men are not heard, for then it becomes the haunt of wild animals. Woe to the soul if the Lord does not walk within it to banish with his voice the spiritual beasts of sin. Woe to the house where no master dwells, to the field where no farmer works, to the pilotless ship, storm-tossed and sinking. Woe to the soul without Christ as its true pilot; drifting in the darkness, buffeted by the waves of passion, storm-tossed at the mercy of evil spirits, its end is destruction. Woe to the soul that does not have Christ to cultivate it with care to produce the good fruit of the Holy Spirit. Left to itself, it is choked with thorns and thistles; instead of fruit it produces only what is fit for burning. Woe to the soul that does not have Christ dwelling in it; deserted and foul with the filth of the passions, it becomes a haven for all the vices."&mdash;<a href="http://blog.adw.org/2017/11/a-culture-without-god-is-adrift-like-a-ship-without-a-pilot/" rel="noopener" target="_blank">St. Macarius, bishop</a>, *Hom. 28: PG 34, 710-711*
 
 ## Its Nature is to Live
 Thu, 30 Nov 2017
@@ -759,7 +759,7 @@ Thu, 30 Nov 2017
 ## As the Pervnado Turns
 Thu, 30 Nov 2017 22:40:48
 
-"Maybe Trump&rsquo;s voters aren&rsquo;t angry enough yet. It&rsquo;s not just a large number of women our elites have raped and victimized, it&rsquo;s our entire country. Our infrastructure is crumbling, our debt is astronomical, our universities increasingly resemble insane asylums, our largest inner cities are free-fire zones terrorized by a permanent criminal underclass. And what&rsquo;s the elite response? Oh, look, a squirrel&mdash;where the squirrel of the week is carbon emissions, or transgender rights, or railing at &ldquo;white privilege&rdquo;, or whatever other form of virtue signaling might serve to hide the fact that, oh, look, <em>they put remote-controlled locks on their rape dungeons</em>."&mdash;<a href="http://esr.ibiblio.org/?p=7767" rel="noopener" target="_blank">Eric Raymond</a>
+"Maybe Trump&rsquo;s voters aren&rsquo;t angry enough yet. It&rsquo;s not just a large number of women our elites have raped and victimized, it&rsquo;s our entire country. Our infrastructure is crumbling, our debt is astronomical, our universities increasingly resemble insane asylums, our largest inner cities are free-fire zones terrorized by a permanent criminal underclass. And what&rsquo;s the elite response? Oh, look, a squirrel&mdash;where the squirrel of the week is carbon emissions, or transgender rights, or railing at &ldquo;white privilege&rdquo;, or whatever other form of virtue signaling might serve to hide the fact that, oh, look, *they put remote-controlled locks on their rape dungeons*."&mdash;<a href="http://esr.ibiblio.org/?p=7767" rel="noopener" target="_blank">Eric Raymond</a>
 By all means, read the whole thing.
 
 ## Lossy Press
@@ -780,12 +780,12 @@ Sat, 02 Dec 2017
 ## Secular Civilization
 Fri, 15 Dec 2017
 
-&ldquo;The World is trying the experiment of attempting to form a civilized but non-Christian mentality. The experiment will fail; but we must be very patient in awaiting its collapse; meanwhile redeeming the time: so that the Faith may be preserved alive through the dark ages before us; to renew and rebuild civilization, and save the World from suicide.&rdquo;&mdash;T. S. Eliot, <em>Thoughts After Lambeth</em>, 1931.
+&ldquo;The World is trying the experiment of attempting to form a civilized but non-Christian mentality. The experiment will fail; but we must be very patient in awaiting its collapse; meanwhile redeeming the time: so that the Faith may be preserved alive through the dark ages before us; to renew and rebuild civilization, and save the World from suicide.&rdquo;&mdash;T. S. Eliot, *Thoughts After Lambeth*, 1931.
 
 ## This House
 Sun, 17 Dec 2017
 
-"This house where such good things are done year by year has suffered all the things that every age has suffered. It has known the sudden separation of wife and husband, the sudden fall of young men under arms who will never more come home, the scattering of the living and their precarious return, the increase and the loss of fortune, all those terrors and all those lessenings and haltings and failures of hope which make up the life of man. But its Christmas binds it to its own past and promises its future; making the house an undying thing of which those subject to mortality within it are members, sharing in its continuous survival."&mdash;Hilaire Belloc: <em><a href="https://oldthunderbelloc.blogspot.com/2013/12/a-remaining-christmas.html" rel="noopener" target="_blank">A Remaining Christmas</a></em>.
+"This house where such good things are done year by year has suffered all the things that every age has suffered. It has known the sudden separation of wife and husband, the sudden fall of young men under arms who will never more come home, the scattering of the living and their precarious return, the increase and the loss of fortune, all those terrors and all those lessenings and haltings and failures of hope which make up the life of man. But its Christmas binds it to its own past and promises its future; making the house an undying thing of which those subject to mortality within it are members, sharing in its continuous survival."&mdash;Hilaire Belloc: [*A Remaining Christmas*](https://oldthunderbelloc.blogspot.com/2013/12/a-remaining-christmas.html)
 
 ## The Altar of Love
 Mon, 18 Dec 2017
