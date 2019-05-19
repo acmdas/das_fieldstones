@@ -663,7 +663,7 @@ Mea Culpa&mdash;if not "the unvarnished truth" at least my honest opinion.
 ## Call it George
 Wed, 01 Aug 2018
 
-"To write, you have to&mdash;to an extent&mdash;understand evil.  You don&rsquo;t have to fondle, pet it, or call it George."&mdash;<a href="https://madgeniusclub.com/2018/08/01/stop-fondling-evil/" rel="noopener" target="_blank">Sarah Hoyt</a>
+"To write, you have to&mdash;to an extent&mdash;understand evil.  You don&rsquo;t have to fondle, pet it, or call it George."&mdash;[Sarah Hoyt](https://madgeniusclub.com/2018/08/01/stop-fondling-evil/)
 
 ## The Problem of Evil
 Tue, 07 Aug 2018
@@ -673,7 +673,7 @@ Tue, 07 Aug 2018
 ## Deciding
 Mon, 13 Aug 2018
 
-"*How* people decide, in what direction they decide, is something we cannot (and should not try to) control&mdash;although we should try to influence for Good in whatever honest and personal fashion presents itself."&mdash;<a href="http://albionawakening.blogspot.com/2018/08/why-recent-suppression-of-conspiracy.html" rel="noopener" target="_blank">Dr. Bruce Charlton</a>
+"*How* people decide, in what direction they decide, is something we cannot (and should not try to) control&mdash;although we should try to influence for Good in whatever honest and personal fashion presents itself."&mdash;[Dr. Bruce Charlton](http://albionawakening.blogspot.com/2018/08/why-recent-suppression-of-conspiracy.html)
 
 ## Improvement
 Mon, 20 Aug 2018
@@ -703,7 +703,7 @@ Sun, 26 Aug 2018
 ## The Plural of Anecdote
 Thu, 30 Aug 2018
 
-"The plural of anecdote is data."&mdash;<a href="https://web.archive.org/web/20080523225000/http://listserv.linguistlist.org/cgi-bin/wa?A2=ind0407a&amp;L=ads-l&amp;P=8874" rel="noopener" target="_blank">Fred R. Shapiro</a>
+"The plural of anecdote is data."&mdash;[Fred R. Shapiro](https://web.archive.org/web/20080523225000/http://listserv.linguistlist.org/cgi-bin/wa?A2=ind0407a&L=ads-l&P=8874)
 
 I may have posted this before, but while trying to clean out my office before moving (yet again) I came across the scrap of paper that I'd jotted it down on when I first heard it, and wanted to be sure that I got it here with proper attribution before I tossed the paper.
 
@@ -715,7 +715,7 @@ Fri, 31 Aug 2018
 ## Enjoying Progress
 Fri, 31 Aug 2018
 
-"Why, he asked, are certain societies or groups content to enjoy the fruits of progress, while affecting to despise the conditions that promote that progress?"&mdash;<a href="https://www.city-journal.org/html/our-universal-civilization-12753.html" rel="noopener" target="_blank">V. S. Naipaul</a>
+"Why, he asked, are certain societies or groups content to enjoy the fruits of progress, while affecting to despise the conditions that promote that progress?"&mdash;[V. S. Naipaul](https://www.city-journal.org/html/our-universal-civilization-12753.html)
 
 ## Sometimes a Cigar
 Sun, 02 Sep 2018
