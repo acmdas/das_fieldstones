@@ -494,7 +494,8 @@ Sat, 18 May 2019
 
 ## Objectify
 Sat, 18 May 2019
-Inevitably modern technology has polarized society. It has polluted the environment. It has disabled very simple native abilities and made them dependent on objects.
+
+**Illich**: ...Inevitably modern technology has polarized society. It has polluted the environment. It has disabled very simple native abilities and made them dependent on objects.
 
 **Brown**: Like an automobile.
 
