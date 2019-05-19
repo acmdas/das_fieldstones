@@ -242,11 +242,40 @@ Mon, 26 Feb 2018
 
 "The inquiry of truth, which is the love-making or wooing of it; the knowledge of truth, which is the presence of it; and the belief in truth, which is the enjoying of it&mdash;is the sovereign good of human nature."&mdash;Sir Francis Bacon, 1st Viscount St. Alban
 
+## It Happened Again
+Sat, 03 Mar 2018
+
+Well, to be perfectly honest, it keeps happening, but that’s another story. Or maybe not—maybe that’s the whole story. Yeah, that’s the ticket, but since I turned 70 a while back, and the Web prefers haiku to War and Peace, we’ll have to see The Big Picture in bite-sized pieces.
+
+The bottom-line is that [redacted] has been on my butt for a year or more to stop solely studying and meditating and avoiding and studying some more and start writing it down. And I’ve been writing blips and blabs—mostly memories of times when It Happened sixty or fifty or forty or, well you get the idea years ago so they don’t sink back into the oh-so-understandable distraction (and Distraction with a capital-D is Satan’s favorite tactic with this one).
+
+And yesterday, backed into a corner in a small room, I promised [redacted} that I’d repurpose this place to do just that, and so here it is. Begun. Take that.
+
 ## True Terror
-<link>http://www.consultingsmiths.com/true-terror/</link>
 Mon, 05 Mar 2018
-http://www.consultingsmiths.com/?p=969
+
 <a href="http://www.consultingsmiths.com/wp-content/uploads/2018/03/Vonnegut.jpg"><img src="http://www.consultingsmiths.com/wp-content/uploads/2018/03/Vonnegut-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-968" /></a>
+
+## It
+Mon, 05 Mar 2018
+
+So, that was a bit coy, I must admit. “It happened again…” and then a month of silence. Were anyone reading this it would be just too, too. But enough of that.
+
+There actually is a there there, or an it to it, and if it were easy to nail it, or to name it, I’d have done it already. The thing is, it isn’t a thing. It doesn’t even have a name, not properly so, at least. Not that it doesn’t get talked about, but the point is, talking about it isn’t the point. You remember the Further Adventures of Nick Danger, Third Eye, don’t you? Sure, you do. They’re (Nick and Betty Jo Bialowski, whom everyone knows as Nancy) in the Old Same Place and Nancy says, “We can’t talk here” and Nick says, “Wadda ya mean blurfp mlurg…oh, you’re right, we can’t talk here.” Now, since Nick and Nancy were just characters in a radio script, they could just go into the Chapel and they could talk. Here in Consensus Reality, there are things that we can’t talk about at all. Well, actually they aren’t really “things” but, the point is, words fail me. They fail you, too, but that’s just the way things are.
+
+So, there is an “It” to the “It” but we can’t name it or even give it a useful definition. So, what’s the point? Why throw down so many words talking about something that I can’t talk about? And why have so many others over so many ages done the same? I can’t speak for them, but in my case (not including [redacted] insisting that I should write) it’s because it just won’t stop, or just won’t go away, or just isn’t over yet. See what I mean? It’s hard to even explain why I’m talking about something that I can’t talk about!
+
+So, now what? Seems to me that the next best thing is to talk about the side effects of it’s breaking in on my otherwise bland and very ordinary life. Just a few examples – it’s currently a seventy-year-old story, and it has been busting in at least since I was eight or nine.
+
+What does it do ? I’m eight or nine years old – it’s 1955 or ’56, there’s a new World Book Encyclopedia in the little, built-in bookshelf next to the fireplace in the living room, and I’m exploring those Adult Books. It might have been Durant’s “The Mature Mind” or maybe a book of quotes. What I remember is a page with mostly white space, just the words “The Tao that can be named is not the true Tao” credited to Lao Tzu. When I was eight or nine it was Tao with a T, not a D the way it was in my later incarnation as a “Hippie seeker after truth,” but it managed to smack me up side of the head. I didn’t know it then, but it had broken in. That’s a hint, but not the whole picture. Let’s try another example.
+
+What does it really do? It’s late summer, 1969, and I’m in Georgetown waiting for the machinist who balances parts for our (Bill Scott Racing’s) engines to finish so that I can get back to the shop. He says he’ll be an hour or so, and I head out to poke around in the head shops along M Street. Georgetown Leather Design turned into a really posh, expensive outfit eventually, but in those days it was sandals, rolling papers and other long-haired weirdo paraphernalia. My jeans had holes in both front pockets from carrying keys and I couldn’t keep any change smaller than a quarter, so when I saw a pocket-sized leather pouch for $3 in the window, I was sold. I kept that pouch in my right-front pants pocket so long that it finally disintegrated, but there was another item in that window that caught my eye and had an even longer influence on me. The second Whole Earth Catalog, Fall 1969, $4 was deep black with a paste-up image of the “whole earth” and the moon taken from Apollo flights. Apollo 11 had either just landed or was just about to take off and my brief stint at IBM’s Apollo support office had left me hyper-aware of the moon shot. I probably wouldn’t have done more than notice the image otherwise, but since I was going inside to buy the pouch, I thumbed through the tabloid-sized magazine/book/catalog and was hooked. I met Buckminster Fuller, Norbert Weiner, Carl Jung, Hannah Arendt, Joseph Campbell, Olaf Stapleton, Rene Dubos, and that’s just the first few pages of that first WEC (and as far as I could I bought them all). In 1971 there was an article about George Dyson and his baidarkas, with a sidebar about British Columbia and becoming a landed immigrant. In April, 1972 we were there, and the rest is history. Did it have anything to do with the crankshaft and flywheel not being ready, and Georgetown Leather Design putting the pouch and the WEC both in the window, or was that a coincidence (whatever that means)?
+
+Over those sixty years between that first taste of Lao Tzu and today, those bursting-ins or it (or those coincidences) have happened often enough for my imagining that there’s a pattern. It happens, I’m exposed to a new metaphor for thinking about it, and then Life Happens and I return to unadulterated Consensus Reality until the next time that it happens. I say “a new metaphor” because it’s pretty clear now from the neurosciences that each of us lives in a “constructed reality” – that while we each seem to be constructing a reality that’s close enough to our friends’ and neighbors’ that we can all talk about “blue” and most of the time safely drive our cars, what we see and hear and apprehend with our senses is largely created “inside” us. Insofar as we are our “consciousness” we operate within a limited frequency of electromagnetic energy, such that we sense things as being “hard” and “wet” and “bright” and “dark” and a second is a very short time and a year is very long. What exists outside those limits, and those limits as they are expanded by our various physical and mental tools, are things that for the most part “we can’t talk about” because our languages have been developed for other purposes. And yet…and yet at least some of us are certain that there are other…what, other worlds? No, that’s too “consensus reality” – other dimensions? No, that’s still too…something. There’s something else, something more, and we use metaphor to talk about what we can’t talk about because we have no choice and that’s the best we can do.
+
+Whatever that is, I can’t help but feel/believe/think/whatever-verb/ that it’s It in some respect and it breaks through now and then. Maybe one more (extended) example:
+
+It’s 1990. I had my last drink a year ago and a friend suggested that I might like Emmet Fox’s Sermon on The Mount – that it had been a staple of AA since the earliest days. I got a copy, got most of his other books, and was greatly influenced by them for many years. It’s almost twenty years later – 2009. I describe Fox’s interpretation of the Garden of Eden story to Valerie, and she asks, “How did he know that?” I decide to research Fox’s backstory, and discover Thomas Troward. Fast forward another nine years to this February. I’ve looked at Troward’s “Bible Mystery, Bible Meaning” again and wonder whether anyone else is thinking about what he said about what Jesus taught. Googling “Troward Christianity” I discover a site devoted to a fifty-two-year-old book The Shining Stranger” and whoops! It’s happened again. Or I’m desperately trying to find meaning in an otherwise absurd world – am I right, or is Sartre?
 
 ## Our Times
 Sat, 10 Mar 2018
@@ -285,12 +314,52 @@ Fri, 23 Mar 2018
 
 In man, empathy, not conscience, is the resonator. But conscience has a vital role to play. Just as a satellite must have a continuous sensing of its motion and attitude in space, keeping itself horizontal in relation to the surface of the earth below if it is to perform its complicated maneuvers, so man must have a continuous sense of &ldquo;right or wrong,&rdquo; regardless of the compassion his empathy arouses within him as he views good or evil in this world. Conscience, which is of the closed world of the past, acts as an &ldquo;inertial reference package&rdquo; to balance the course empathy takes.&mdash;Preston Harold, <em>The Shining Stranger</em>, p. 161
 
+## What About Thomas Troward?
+Thu, 12 Apr 2018
+
+It’s been a week, and by now I’ve learned that if something doesn’t get posted at least once a week, it might well be months before I “find time” to write any more. At the end of last week’s post, I mentioned how Valerie’s innocent question nine years ago started me on a trek from Emmet Fox to Thomas Troward, and then in February, to “Preston Howard” and The Shining Stranger. This week’s mini-topic is “what was it about Thomas Troward that has kept my interest lo these many years?” The crux of it is found in his Edinburgh Lectures, his first published work based on a series of lectures he gave in 1904 in, wait for it, Edinburgh. In his foreword to the original edition, he says:
+
+*This book contains the substance of a course of lectures recently given by the writer in the Queen Street Hall, Edinburgh. Its purpose is to indicate the Natural Principles governing the relation between Mental Action and Material Conditions, and thus to afford the student an intelligible starting-point for the practical study of the subject.*
+
+Couched in language appropriate to an educated Brit of the time, it’s an attempt to provide a rational (i.e., non-magical) yet non-scientistic description of that basic question, “Why is there something rather than nothing?”
+
+Because it was written in 1904, it mentions “æther” and describes “atoms” as the basic components of matter. Because it is not scientistic, it offers a description of the act of creation, in fact the ongoing act of creation, without falling back on any form of mythology or other religious explanation. Because it is rational, it recognizes that “creation” implies a “creator” of some sort.
+
+IMHO, a reader who is comfortable reading British English of the period and willing to exert some effort at open-mindedness might find The Edinburgh Lectures at least interesting. And if they do, they might also find Troward’s other writings interesting as well.
+
+Which, I suppose, is a longish way of saying “I found Troward’s work interesting because it is a way to think about God, Creation and Jesus’ message and what we know about physics, astronomy, biology, anthropology, and psychology all at once.” Of course, Troward was using 1904 scientific metaphors, just as “Preston Howard” was using 1967 scientific metaphors, but that’s for another day/week. And I’ll get to why “Preston Howard” is in quotes later, too.
+
+
 ## Make politics as local as possible
 Fri, 13 Apr 2018
 
 "THE men whom the people ought to choose to represent them are too busy to take the jobs. But the politician is waiting for it. He&rsquo;s the pestilence of modern times. What we should try to do is make politics as local as possible. Keep the politicians near enough to kick them. The villagers who met under the village tree could also hang their politicians to the tree. It is terrible to contemplate how few politicians are hanged."
 &mdash; G.K. Chesterton: <em>Cleveland Press</em> interview, March 1, 1921.
 <a href="http://www.consultingsmiths.com/wp-content/uploads/2018/04/hanged.png"><img src="http://www.consultingsmiths.com/wp-content/uploads/2018/04/hanged-300x229.png" alt="" width="300" height="229" class="alignnone size-medium wp-image-992" /></a>
+
+## The Gospels
+Sat, 14 Apr 2018
+
+No concept of Jesus can be definitive if it is contrived by arbitrary dealing with the Gospels, choosing to affirm certain reports that support one’s theory while dismissing others as falsifications, elaborations, interpolations, or errors deriving from the disciples’ loss of memory. Casting doubt upon the veracity and reliability of the Gospels renders one report and one Gospel as suspect as another, because it is possible to make a case for accepting or rejecting any part of any Gospel. Thus, a theory resting upon the unreliability of the Gospels perforce becomes as suspect and questionable as the author holds the Gospels to be.
+
+Whatever may be said about the rest of the Bible, if a concept of Jesus is to have a firm base it must rest upon the conviction that the four Gospels are honest reports, albeit each offers a subjective view. Therefore, in THE SHINING STRANGER, concomitant with the attempt to draw a true picture of Jesus, the integrity of the four Gospels is dealt with—for example, how each could be so contradictory and different from the others, yet true, and how the memory of each disciple could have been adequate to the task of recording Jesus’ actual words. Here, it may be pointed out that no one can say when the disciples recorded their reports—information as to the earliest copies in circulation is all that is available. No doubt some errors in copying and omissions occurred, but such as these do not obliterate or seriously distort the full body of the record of Jesus as given in the four versions, in which the testimony of His mother is incorporated.
+
+It is unlikely that the disciples deliberately falsified or contrived the story of Jesus’ life or His words. If this were the case, the reports would be less contradictory, certain unfavorable passages would have been omitted, and certain gaps would have been filled. It is doubtful, also, that the early Christians would have suffered martyrdom to found a religion based upon their own inventions. For these and other reasons given in the text of this book, the author accepts the four Gospels as basically honest reports, and regards every word in every Gospel as given data with which one must deal in formulating as true and complete a picture of Jesus as it is possible to obtain.
+
+— “Preston Howard”, *The Shining Stranger* p. -1
+
+## You Take What You Need...
+Thu, 19 Apr 2018
+
+…and you leave the rest? Actually, that hasn’t been true in my case. Looking back, I’ve been more likely to put the rest aside for another day, but knowing how way leads on to way…
+
+Enough! Now I’m just being cute. Or am I? Actually, what I’ve noticed in recent years is that I have had the habit of “trying on” different worldviews, different perspectives, different orthodoxies/heterodoxies, lived/immersed myself with each for a longer or lesser time, then moved on. “Leave the rest?” More like “leave some and take some” with lots put on hold for later.
+
+Perhaps the image from “The Memory Palace of Matteo Ricci” is a good one – a gradually enlarged structure of rooms and hallways, crammed with furniture of various styles and ages, each with drawers and slots filled with “facts,” images and metaphors sitting quietly, some moldering, some busily breeding and evolving, ready to be pulled out and used to build a new…something.
+
+Is that so different from anyone else’s experience? Does anyone start off down one road, outfit their memory palace with one chest of drawers, and pass by every other road that diverges in the yellow/green/brown wood without so much as a glance? Or do some folks take some of those divergent roads, but only upon orders from another?
+
+I don’t know. I may be the strange one. My ex-brother-in-law Daniel was sure that I was an alien.
 
 ## Spiritual ADD
 Fri, 20 Apr 2018
