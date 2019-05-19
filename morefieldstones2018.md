@@ -456,6 +456,14 @@ Mon, 30 Apr 2018
 
 “Forget time. Forget matter. What precedes them is what really counts. Who or what invented this place is the sole question. Regardless of your first premise, no one can marshal any definitive and irrefutable physical evidence of the First Cause that has set this puzzle before us. No one can point to the glowing neon sign in the sky that spells it out in capital letters, with footnotes available. Which means each side is operating on faith, of some kind. Which makes for a Holy War, for all concerned.” — [Ianto Watt](https://wmbriggs.com/post/24389/)
 
+## The Newman Option
+Thu, 03 May 2018
+
+Dear Other Reader;
+This week has been consumed by a greater than usual series of family crises and other developments, of interest to DAS and a very few others, with the result that cut-and-paste rather than write is the best that he can do. Maybe later…
+
+“John Henry Newman, on the occasion of his elevation to the Cardinalate in 1878 made a short address that should be read and recommended repeatedly because of its prescience. Newman saw that the danger to the Church was not the public refutation of its principles but its subtle transformation into a humanitarian project in which the highest virtue was kindness or the desire to avoid pain for oneself and others, the highest concern the goods of this life to which a certain commercial morality was intrinsic, and theology a kind of religious atheism. He considered this more dangerous than such obviously incarnation-denying heresies as Arianism, because it would seem to be a kind of fulfillment of Christianity for modern times, providing a kind of quasi-religious object for sentiment while ignoring the purpose of the religion of Christ, which is to make us worthy Citizens of the Kingdom of Heaven who now live in Christ and who will live with Him forever.” — [Dr. James Patrick](https://mailchi.mp/lewistolkiensociety/newman-option?e=d8fff9e5e6)
+
 ## Needlework
 Sat, 05 May 2018
 
