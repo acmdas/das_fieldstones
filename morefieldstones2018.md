@@ -12,12 +12,13 @@ After all, if no one knows exactly what the mission is, it's hard feel like a fa
 The second is even more insidious. We degrade the urgency of the mission. We become diffuse. We get distracted. Anything to avoid planting a stake and saying, "I made this."
 
 It's possible to spend 7 hours and 52 minutes out of an eight-hour day in doing nothing but hiding from the mission. And it's exhausting.
-<a href="http://sethgodin.typepad.com/seths_blog/2018/01/hiding-from-the-mission.html" rel="noopener" target="_blank">Seth Godin</a>
+
+[Seth Godin](http://sethgodin.typepad.com/seths_blog/2018/01/hiding-from-the-mission.html)
 
 ## He is Inescapable
 Wed, 10 Jan 2018
 
-&ldquo;Because God is not a finite object over against you as a subject, you cannot simply turn away towards &lsquo;something else.&rdquo;; He is the ground and end of all desire and knowledge as such, the Good in itself. You cannot choose or not choose God the way you would choose or not choose a cup of coffee. You desire anything because of your original desire for God as the transcendental Good and Beautiful; you know anything because of your original intellectual appetite for God as the transcendental Truth as such. Even in desiring to flee God, you are desiring God as the &lsquo;good end&rdquo; you seek in godlessness. He is inescapable because all being, goodness, unity, truth, and beauty simply are God in their transcendent truth, and because a rational nature is nothing but an infinite dynamic orientation towards that transcendent end. The natural will, as Maximus says, can will only God. Don&rsquo;t think of God as a candidate in a political race, whom you could simply reject and be done with; he is the original and final act of your every discrete act of desire. And, in the ages, since God is all and there is literally nothing beyond him, the natural will is always seeking its natural supernatural end. Simply said, God is not an object of desire; he is the end that makes desire.&rdquo;&mdash;<a href="https://afkimel.wordpress.com/essential-readings-on-universalism/" rel="noopener" target="_blank">David Bentley Hart</a>
+&ldquo;Because God is not a finite object over against you as a subject, you cannot simply turn away towards &lsquo;something else.&rdquo;; He is the ground and end of all desire and knowledge as such, the Good in itself. You cannot choose or not choose God the way you would choose or not choose a cup of coffee. You desire anything because of your original desire for God as the transcendental Good and Beautiful; you know anything because of your original intellectual appetite for God as the transcendental Truth as such. Even in desiring to flee God, you are desiring God as the &lsquo;good end&rdquo; you seek in godlessness. He is inescapable because all being, goodness, unity, truth, and beauty simply are God in their transcendent truth, and because a rational nature is nothing but an infinite dynamic orientation towards that transcendent end. The natural will, as Maximus says, can will only God. Don&rsquo;t think of God as a candidate in a political race, whom you could simply reject and be done with; he is the original and final act of your every discrete act of desire. And, in the ages, since God is all and there is literally nothing beyond him, the natural will is always seeking its natural supernatural end. Simply said, God is not an object of desire; he is the end that makes desire.&rdquo;&mdash;[David Bentley Hart](https://afkimel.wordpress.com/essential-readings-on-universalism/)
 
 ## Being Christian
 Wed, 10 Jan 2018
@@ -79,7 +80,7 @@ You are warned: Any way is long, any way is hard.
 Fear not. You are the gate&mdash;you, the gatekeeper.
 
 And you shall go through and on . . .*&mdash;Alexandros Evangelou Xenopouloudakis
-Courtesy of <a href="http://americandigest.org/wp/lets-review-36-instructions/" rel="noopener" target="_blank">Gerard VanDerleun</a>
+Courtesy of [Gerard VanDerleun](http://americandigest.org/wp/lets-review-36-instructions/)
 
 ## Politics
 Thu, 01 Feb 2018
@@ -92,14 +93,14 @@ Thu, 01 Feb 2018
 &ldquo;The hard part isn't coming up with a new idea.
 The hard part is falling out of love with the old idea.
 That's why editing work is so difficult. In order to make the new thing, to make the old thing better, you need to destroy it first.
-Situation switching, acting as if, loving the idea enough to sketch it out and then caring enough to stop loving it... that's where the tension often lies.&rdquo;&mdash;<a href="http://sethgodin.typepad.com/seths_blog/2018/02/falling-out.html" rel="noopener" target="_blank">Seth Godin</a>
+Situation switching, acting as if, loving the idea enough to sketch it out and then caring enough to stop loving it... that's where the tension often lies.&rdquo;&mdash;[Seth Godin](http://sethgodin.typepad.com/seths_blog/2018/02/falling-out.html)
 
 ## The Exterminator
 Thu, 01 Feb 2018
 
 "If you've got an infestation of rats, you call the guy to come in," she says.
 "You don't care if his crack's showing. You don't care if he's swearing.
-"You don't care if he's got tobacco-stained teeth. You want the rats taken out."&mdash;from <a href="http://www.bbc.com/news/world-us-canada-42628577" rel="noopener" target="_blank">BBC's take</a> on why Michigan flipped for Trump in 2016.
+"You don't care if he's got tobacco-stained teeth. You want the rats taken out."&mdash;from [BBC's take</a> on why Michigan flipped for Trump in 2016.](http://www.bbc.com/news/world-us-canada-42628577)
 
 ## Little Things
 Thu, 08 Feb 2018
@@ -124,7 +125,7 @@ A "critic" is a person who creates nothing and thereby feels qualified to judge 
 ## Useful History
 Sat, 17 Feb 2018
 
-"A great deal of false history was written, by people who never strayed north of London, about working-class hardship in those parts. Yes, there was plenty, but what we get from the entrepreneurs of socialism is twisted to their agitprop needs. Rewriting the history, to make it more true, makes another nice hobby; and in the course of it we discover that the ugliest of the capitalists often did less damage than the philanthropists."&mdash;<a href="https://www.davidwarrenonline.com/2018/02/16/as-the-world-turns-2/" rel="noopener" target="_blank">David Warren</a>
+"A great deal of false history was written, by people who never strayed north of London, about working-class hardship in those parts. Yes, there was plenty, but what we get from the entrepreneurs of socialism is twisted to their agitprop needs. Rewriting the history, to make it more true, makes another nice hobby; and in the course of it we discover that the ugliest of the capitalists often did less damage than the philanthropists."&mdash;[David Warren](https://www.davidwarrenonline.com/2018/02/16/as-the-world-turns-2/)
 
 ## Turning and Turning
 Sat, 17 Feb 2018
@@ -165,7 +166,9 @@ Wed, 21 Feb 2018
  Other times I can barely see
  Lately it occurs to me
  What a long, strange trip it's been."&mdash;Hunter/Garcia</blockquote>
-Steven Pressfield <a href="http://www.stevenpressfield.com/2018/02/untitled-book-installment-2/" rel="noopener" target="_blank">posted this</a> today:
+
+Steven Pressfield [posted this](http://www.stevenpressfield.com/2018/02/untitled-book-installment-2/) today:
+
 <blockquote>I have a theory about the Hero&rsquo;s Journey. We all have one. We have many, in fact. But our primary hero&rsquo;s journey as artists is the passage we live out, in real life, before we find our calling.
 The hero&rsquo;s journey is the search for that calling.
 It&rsquo;s preparation.
@@ -174,9 +177,13 @@ On the hero&rsquo;s journey, we see, we experience, we suffer. We learn.
 On our hero&rsquo;s journey, we acquire a history that is ours alone. It&rsquo;s a secret history, a private history, a personal history. No one has it but us. No one knows it but us. This secret history is the most valuable possession we hold, or ever will hold. We will draw upon it for the rest of our lives.
 The hero&rsquo;s journey ends when, like Odysseus, we return home to Ithaca, to the place from which we started. We wash up on shore. We have survived. We have come home.
 Now what?</blockquote>
+
 Well, what? There's a calling, that calling, the one that's mysteriously been whispering and talking and yelling and screaming obscenities at you/me all along. Only now, it's explicit. It's there, not "out there" but "right there" and there's some question but not much and not enough to put it off anymore.
+
 Now what?
+
 It's been a long, strange trip, and it isn't over. Hell, it's not much more than just started.
+
 Now what?
 
 ## Morally Homeless
@@ -534,7 +541,8 @@ Mon, 18 Jun 2018
 ## We Must Sin
 Mon, 18 Jun 2018
 
-"According to Ellman, Joyce&rsquo;s view of sin was influenced by Hermann Suderman&rsquo;s play Magda: &lsquo;Magda&rsquo;s philosophy of life may well have helped to shape Joyce&rsquo;s. As she says, &ldquo;And one thing more, my friend&mdash;sin! We must sin if we wish to grow. To become greater than our sins is worth more than all the purity you preach.&rdquo;&rdquo;"&mdash;Gabrielle Carey <em><a href="https://sydneyreviewofbooks.com/breaking-james-joyce/" rel="noopener" target="_blank">Breaking Up With James Joyce</a></em>
+"According to Ellman, Joyce&rsquo;s view of sin was influenced by Hermann Suderman&rsquo;s play Magda: &lsquo;Magda&rsquo;s philosophy of life may well have helped to shape Joyce&rsquo;s. As she says, &ldquo;And one thing more, my friend&mdash;sin! We must sin if we wish to grow. To become greater than our sins is worth more than all the purity you preach.&rdquo;&rdquo;"&mdash;Gabrielle Carey [*Breaking Up With James Joyce*](https://sydneyreviewofbooks.com/breaking-james-joyce/)
+
 Is the nature of reality binary, dual? Is it in some way Gnostic, in that good deeds have those side effects of evil, and evil deeds have some atom of good? What does Preston Howard have to say about that?
 
 
@@ -553,17 +561,18 @@ Wed, 27 Jun 2018
 ## Poetry
 Fri, 29 Jun 2018
 
-"<strong>John Keating</strong>:  We don&rsquo;t read and write poetry because it&rsquo;s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for. To quote from Whitman, &ldquo;O me! O life! &rdquo;¦ of the questions of these recurring; of the endless trains of the faithless &rdquo;¦ of cities filled with the foolish; what good amid these, O me, O life?&rdquo; Answer. That you are here&mdash;that life exists, and identity; that the powerful play goes on and you may contribute a verse. That the powerful play *goes on* and you may contribute a verse. What will your verse be?"&mdash;<em>Dead Poets Society (1989)</em> h/t <a href="http://epsilontheory.com/clever-hans/" rel="noopener" target="_blank">Epsilon Theory (Dr. Ben W. Hunt)</a>
+"<strong>John Keating</strong>:  We don&rsquo;t read and write poetry because it&rsquo;s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for. To quote from Whitman, &ldquo;O me! O life! &rdquo;¦ of the questions of these recurring; of the endless trains of the faithless &rdquo;¦ of cities filled with the foolish; what good amid these, O me, O life?&rdquo; Answer. That you are here&mdash;that life exists, and identity; that the powerful play goes on and you may contribute a verse. That the powerful play *goes on* and you may contribute a verse. What will your verse be?"&mdash;<em>Dead Poets Society (1989)</em> h/t [Epsilon Theory (Dr. Ben W. Hunt)](http://epsilontheory.com/clever-hans/)
 
 ## Bloody Noses
 Wed, 04 Jul 2018
 
-"If there were more bloody noses, there'd be fewer wars."&mdash;<em>Hagbard Celene</em> in <em>The Illumninatus!</em> by <a href="https://www.goodreads.com/author/quotes/5752454.Robert_Shea?page=2" rel="noopener" target="_blank">R. Shea</a> and R. A. Wilson
+"If there were more bloody noses, there'd be fewer wars."&mdash;<em>Hagbard Celene</em> in <em>The Illumninatus!</em> by [R. Shea and R. A. Wilson](https://www.goodreads.com/author/quotes/5752454.Robert_Shea?page=2)
 
 ## Absurdum
 Wed, 04 Jul 2018
 
-"For the first time in history, we have reached a stage of absurdity in which a <em>reductio ad absurdum</em> is no longer viable as a rhetorical maneuver, for there is nothing so absurd that everyone recognizes it as such."&mdash;<a href="http://takimag.com/article/street_corner_semantics_theodore_dalrymple/" rel="noopener" target="_blank">Theodore Dalrymple</a>
+"For the first time in history, we have reached a stage of absurdity in which a <em>reductio ad absurdum</em> is no longer viable as a rhetorical maneuver, for there is nothing so absurd that everyone recognizes it as such."&mdash;[Theodore Dalrymple](http://takimag.com/article/street_corner_semantics_theodore_dalrymple/)
+
 History covers a long time and a lot of absurdity, but this is pretty clearly true &ndash;  least in my lifetime.
 
 ## God the Father
