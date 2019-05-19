@@ -15,26 +15,28 @@ Sun, 13 Jan 2019
 
 &ldquo;Surface plausibility, reasonableness, persuasiveness, enjoyability... yet all the time, underneath, nagging away at me&mdash;there a revulsion, a rising tide of suspicion. The 'balance' of 'evidence' suggests that these are 'well-meaning' people, saying things that have 'some value'... yet from the start, and all the time, there is this drum-beat of inner rejection.
 &ldquo;This is what I call That Antichrist feeling&mdash;that sense that I am here dealing with an Antichrist phenomenon...
-&ldquo;It is the knowledge of my own heart that I am dealing with some person, institution or product that has (to some degree&mdash;perhaps unconsciously to itself) a rotten, corrupt, dishonest, manipulative heart. That is pretending to be on the side of God, while actually working against God... That is pretending to be on the side of God in order to work against God.&rdquo;&mdash;<a href="http://charltonteaching.blogspot.com/2019/01/that-antichrist-feeling.html" rel="noopener" target="_blank">Bruce Charlton</a>
+&ldquo;It is the knowledge of my own heart that I am dealing with some person, institution or product that has (to some degree&mdash;perhaps unconsciously to itself) a rotten, corrupt, dishonest, manipulative heart. That is pretending to be on the side of God, while actually working against God... That is pretending to be on the side of God in order to work against God.&rdquo;&mdash;[Bruce Charlton](http://charltonteaching.blogspot.com/2019/01/that-antichrist-feeling.html)
 
 ## Justice or Love
 Sun, 13 Jan 2019
 
 &ldquo;It is going-against a very mainstream&mdash;especially Protestant&mdash;view of Christianity (and the emphasis of the Apostle Paul) when I say Christianity is not&mdash;or is hardly at all&mdash;about justice.
-&ldquo;Indeed, quite the opposite: the promise of Christ is that salvation comes to all who follow him in love&mdash;and that is a massive short-circuit of anything like justice.&rdquo;&mdash;<a href="http://charltonteaching.blogspot.com/2019/01/christianity-is-not-much-about-justice.html" rel="noopener" target="_blank">Bruce Charlton</a>
+&ldquo;Indeed, quite the opposite: the promise of Christ is that salvation comes to all who follow him in love&mdash;and that is a massive short-circuit of anything like justice.&rdquo;&mdash;[Bruce Charlton](http://charltonteaching.blogspot.com/2019/01/christianity-is-not-much-about-justice.html)
+
 Reminds me of the AA saying, &ldquo;Good thing that God&rsquo;s love is greater than His sense of justice&mdash;I&rsquo;d hate to think where I&rsquo;d be if I got what I deserve!&rdquo;
 
 ## Modern Lit
 Sun, 13 Jan 2019
 
 &ldquo;The intelligentsia was driven to create literary modernism by a profound loathing of ordinary common readers. The intellectuals feared the masses not because they were illiterate but because, by the early twentieth century, they were becoming more literate, thanks to public education, adult education, scholarships, and cheap editions of the great books.
-&ldquo;If more and more working people were reading the classics, if they were closing the cultural gap between themselves and the middle classes, how could intellectuals preserve their elite status as arbiters of taste and custodians of rare knowledge? They had to create a new body of modernist literature which was deliberately made so difficult and obscure that the average reader did not understand it.&rdquo;&mdash;<a href="https://daily.jstor.org/was-modernism-meant-to-keep-the-working-classes-out/" rel="noopener" target="_blank">Jonathan Rose</a>
+&ldquo;If more and more working people were reading the classics, if they were closing the cultural gap between themselves and the middle classes, how could intellectuals preserve their elite status as arbiters of taste and custodians of rare knowledge? They had to create a new body of modernist literature which was deliberately made so difficult and obscure that the average reader did not understand it.&rdquo;&mdash;[Jonathan Rose](https://daily.jstor.org/was-modernism-meant-to-keep-the-working-classes-out/)
+
 This explains Virginia Woolf, Stein and Pound. And a lot of Joyce, Kafka, Eliot. Not to mention a lot of newer stuff. Or is it just me?
 
 ## The State of Current Science
 Tue, 15 Jan 2019
 
-&ldquo;Modern, Linear Faustian Science has run it&rsquo;s course. The decline is obviously visible when the spokesmanship passes from Albert Einstein to Carl Sagan to Neil DeGrasse Tyson. It&rsquo;s been about 40 years since we really smashed through any scientific barriers. &rdquo;&mdash;<a href="http://www.amerika.org/politics/periscope-january-11-2019/" rel="noopener" target="_blank">Jonathan Wilkinson</a>
+&ldquo;Modern, Linear Faustian Science has run it&rsquo;s course. The decline is obviously visible when the spokesmanship passes from Albert Einstein to Carl Sagan to Neil DeGrasse Tyson. It&rsquo;s been about 40 years since we really smashed through any scientific barriers. &rdquo;&mdash;[Jonathan Wilkinson](http://www.amerika.org/politics/periscope-january-11-2019/)
 
 ## Judging
 Fri, 18 Jan 2019
@@ -77,7 +79,7 @@ Fri, 18 Jan 2019
 
 &ldquo;As a child in the 60s and 70s, I was raised on stories like this. (I wish we had more of them today) And they&rdquo;ve had a profound influence. This is why art is so important.
 
-&ldquo;These stories taught me that to passively disengage for fear of reprisal is cowardly. Making a judgment, taking a stand and then acting against an injustice or acting to support excellence is the stuff of the everyman hero.&rdquo;&mdash;<a href="https://stevenpressfield.com/2019/01/art-and-polarity/" rel="noopener" target="_blank">Shawn Coyne</a>
+&ldquo;These stories taught me that to passively disengage for fear of reprisal is cowardly. Making a judgment, taking a stand and then acting against an injustice or acting to support excellence is the stuff of the everyman hero.&rdquo;&mdash;[Shawn Coyne](https://stevenpressfield.com/2019/01/art-and-polarity/)
 
 ## Problems and Boundaries
 Fri, 18 Jan 2019
@@ -98,7 +100,7 @@ Fri, 18 Jan 2019
 
 &ldquo;&ldquo;I want to go to the wedding, but I&rdquo;m not willing to cancel my meeting.&rdquo; That&rsquo;s not a problem. That&rsquo;s an unavoidable conflict. If you need to violate a law of physics to get out of a situation, it&rsquo;s not a problem. But you&rdquo;ve already given up turning it into a problem, so it doesn&rsquo;t pay to pretend it&rsquo;s solvable.
 
-&ldquo;Once we can walk away from unsolvable situations that pretend to be problems, we can focus our energy on the real problems in front of us.&rdquo;&mdash;<a href="https://seths.blog/2019/01/problems-and-boundaries/" rel="noopener" target="_blank">Seth Godin</a>
+&ldquo;Once we can walk away from unsolvable situations that pretend to be problems, we can focus our energy on the real problems in front of us.&rdquo;&mdash;[Seth Godin](https://seths.blog/2019/01/problems-and-boundaries/)
 
 ## Joining Forces
 Wed, 23 Jan 2019
@@ -111,7 +113,7 @@ Thu, 24 Jan 2019
 &ldquo;The great Greg Cochran will often point out that a smart person is someone who says smart things, but more important, they don&rsquo;t say many dumb things. Everyone, no matter how smart, will get a dumb idea in their head or get carried away and say something stupid on occasion. It&rsquo;s just not common with smart people, at least not as common as it is with dumb people. Being smart is as much the absence of stupidity as it is getting right answers or having a long list of brilliant insights.
 
 &ldquo;This comes up often in public discussion of the human sciences. It is remarkable how often an allegedly smart person will say things that are laughably wrong about something in biology or human evolution.&rdquo;
-It's worth reading the rest at: <a href="http://thezman.com/wordpress/?p=16243" rel="noopener" target="_blank">The Z Man</a> blog.
+It's worth reading the rest at: [The Z Man](http://thezman.com/wordpress/?p=16243) blog.
 
 ## Equality (outside mathematics)
 Thu, 24 Jan 2019
@@ -140,7 +142,7 @@ Wed, 30 Jan 2019
 ## Politics
 Wed, 30 Jan 2019
 
-&ldquo;I am suggesting therefore that what we have to think of, and what future legislation must somehow learn to deal with, is not so much a public opinion that is sharply divided in two as it is two different publics: an A public and a B public. Or that, if this is not already the case, it is rapidly becoming so; and it seems that in the near future it will be so. Anyone who has felt the pulse, so to speak, of the intellectual climate in the English-speaking world, and of the changes that have been occurring in it over the last forty or fifty years, is likely to be impressed by the circumstance that, even at the philosophical level&mdash;even, that is, when a <em>bona fide</em> attempt is made to bridge the communication gap by recognizing the presuppositions, formulating them, debating them&mdash;it generally turns out to be impossible.&rdquo;&mdash;Owen Barfield <a href="http://www.owenbarfield.org/the-politics-of-abortion/" rel="noopener" target="_blank"><em>The Politics of Abortion</em></a>
+&ldquo;I am suggesting therefore that what we have to think of, and what future legislation must somehow learn to deal with, is not so much a public opinion that is sharply divided in two as it is two different publics: an A public and a B public. Or that, if this is not already the case, it is rapidly becoming so; and it seems that in the near future it will be so. Anyone who has felt the pulse, so to speak, of the intellectual climate in the English-speaking world, and of the changes that have been occurring in it over the last forty or fifty years, is likely to be impressed by the circumstance that, even at the philosophical level&mdash;even, that is, when a <em>bona fide</em> attempt is made to bridge the communication gap by recognizing the presuppositions, formulating them, debating them&mdash;it generally turns out to be impossible.&rdquo;&mdash;Owen Barfield [*The Politics of Abortion*](http://www.owenbarfield.org/the-politics-of-abortion/)
 
 ## Being an Ent
 Sat, 02 Feb 2019
@@ -149,7 +151,7 @@ Sat, 02 Feb 2019
 
 "'Hoom, hm, I have not troubled about the Great Wars,' said Treebeard; 'they mostly concern Elves and Men. That is the business of Wizards: Wizards are always troubled about the future. I do not like worrying about the future. I am not altogether on anybody's side, because nobody is altogether on my side, if you understand me: nobody cares for the woods as I care for them, not even Elves nowadays...'"&mdash;J.R.R. Tolkien, <em>The Lord of the Rings: The Two Towers</em>, book 3, chapter IV
 
-A <a href="https://fencingbearatprayer.blogspot.com/2016/01/on-taking-sides-or-embracing-my-inner.html" rel="noopener" target="_blank">useful meditation</a> on not having a side.
+A [useful meditation](https://fencingbearatprayer.blogspot.com/2016/01/on-taking-sides-or-embracing-my-inner.html)
 
 ## Location, Location, Location
 Sat, 02 Feb 2019
@@ -201,8 +203,9 @@ Mon, 11 Mar 2019
 ## Ressentiment
 Sun, 17 Mar 2019
 
-&ldquo;Ressentiment is a self-poisoning of the mind which has quite definite causes and consequences. It is a lasting mental attitude, caused by the systematic repression of certain emotions and affects which, as such, are normal components of human nature. Their repression leads to the constant tendency to indulge in certain kinds of value delusions and corresponding value judgments. The emotions and affects primarily concerned are revenge, hatred, malice, envy, the impulse to detract, and spite.&rdquo;&mdash;Max Scheler <em><a href="https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Scheller/Ressentiment.pdf" rel="noopener" target="_blank">Ressentiment</a></em>
-H/T <a href="https://www.francisberger.com/bergers-blog/resentment-the-hate-fueling-contemporary-conceptions-of-love" rel="noopener" target="_blank">Francis Berger</a>
+&ldquo;Ressentiment is a self-poisoning of the mind which has quite definite causes and consequences. It is a lasting mental attitude, caused by the systematic repression of certain emotions and affects which, as such, are normal components of human nature. Their repression leads to the constant tendency to indulge in certain kinds of value delusions and corresponding value judgments. The emotions and affects primarily concerned are revenge, hatred, malice, envy, the impulse to detract, and spite.&rdquo;&mdash;Max Scheler {*Ressentiment*](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Scheller/Ressentiment.pdf)
+
+H/T [Francis Berger](https://www.francisberger.com/bergers-blog/resentment-the-hate-fueling-contemporary-conceptions-of-love)
 
 ## Increasingly Meaningless Words and Phrases
 Thu, 21 Mar 2019
@@ -217,14 +220,14 @@ Thu, 21 Mar 2019
 * justice
 * philanthropist
 
-&ldquo;I hear these words repeated ad nauseam every day, yet I rarely perceive the things they are meant to delineate. What a truly confusing time to be alive.&rdquo;&mdash;<a href="https://www.francisberger.com/bergers-blog/increasingly-amorphous-words-and-phrases" rel="noopener" target="_blank">Francis Berger</a>
+&ldquo;I hear these words repeated ad nauseam every day, yet I rarely perceive the things they are meant to delineate. What a truly confusing time to be alive.&rdquo;&mdash;[Francis Berger](https://www.francisberger.com/bergers-blog/increasingly-amorphous-words-and-phrases)
 
 ## Axiomatic
 Sun, 24 Mar 2019
 
 &ldquo;There are some things that cannot be verified, or falsified. These would include all axioms of logic; even those of post-modern &ldquo;paraconsistent&rdquo; logics, wherein the very Law of Non-Contradiction is (implausibly) denied, but which are axiomatic on their own terms. We are out the door of &ldquo;science&rdquo; when we discuss logic; or the principles of mathematics for that matter. All we can say is that the world makes sense on axioms; and not otherwise.
 
-&ldquo;For science, or human knowledge more broadly, God is not an hypothesis, but an Axiom. Start in Aristotle, if you will, to see that the world has no purchase on sense, without the Unmoved Mover. The &ldquo;Five Ways&rdquo; by which the inevitability of God was demonstrated by Thomas Aquinas, and the related ways in which this was done by others before and after him, are easily misunderstood, because they are not proofs of an hypothesis but recursions. They show that, without that &ldquo;God Axiom,&rdquo; there can be no causation, no change, no being in itself, no gradation, no direction to an end. We need a Still Point, from which to depart. It cannot be hypothesized. It is too simple for that. You need to assume it even to contradict it.&rdquo;&mdash;<a href="https://www.davidwarrenonline.com/2019/03/23/the-cosmic-duh/" rel="noopener noreferrer" target="_blank">David Warren</a>
+&ldquo;For science, or human knowledge more broadly, God is not an hypothesis, but an Axiom. Start in Aristotle, if you will, to see that the world has no purchase on sense, without the Unmoved Mover. The &ldquo;Five Ways&rdquo; by which the inevitability of God was demonstrated by Thomas Aquinas, and the related ways in which this was done by others before and after him, are easily misunderstood, because they are not proofs of an hypothesis but recursions. They show that, without that &ldquo;God Axiom,&rdquo; there can be no causation, no change, no being in itself, no gradation, no direction to an end. We need a Still Point, from which to depart. It cannot be hypothesized. It is too simple for that. You need to assume it even to contradict it.&rdquo;&mdash;[David Warren](https://www.davidwarrenonline.com/2019/03/23/the-cosmic-duh/)
 
 ## Sloth
 Mon, 08 Apr 2019
@@ -237,7 +240,7 @@ Mon, 08 Apr 2019
 
 &ldquo;Sloth also tends to dismiss the power of grace, focusing instead on the &ldquo;trouble&rdquo; or effort involved in walking in the Christian way.
 
-&ldquo;Sloth is not merely laziness; it is more properly understood as sorrow or indifference. While sloth may sometimes look like boredom and a casual laziness toward attaining spiritual good, it can also be manifested by a frantic &ldquo;busyness&rdquo; with worldly things so as to avoid spiritual questions or living a reflective life.&rdquo;&mdash;<a href="http://blog.adw.org/2019/04/seven-deadly-sins-sloth/" rel="noopener noreferrer" target="_blank">Msgr. Charles Pope</a>
+&ldquo;Sloth is not merely laziness; it is more properly understood as sorrow or indifference. While sloth may sometimes look like boredom and a casual laziness toward attaining spiritual good, it can also be manifested by a frantic &ldquo;busyness&rdquo; with worldly things so as to avoid spiritual questions or living a reflective life.&rdquo;&mdash;[Msgr. Charles Pope](http://blog.adw.org/2019/04/seven-deadly-sins-sloth/)
 
 ## History
 Tue, 09 Apr 2019
@@ -264,7 +267,7 @@ Fri, 12 Apr 2019
 
 &ldquo;Now both were gone.
 
-&ldquo;Often, the best thing to do with a lost cause is to let it go. Because pursuing it gets in the way of the causes you haven&rsquo;t lost yet.&rdquo;&mdash;<a href="https://seths.blog/2019/04/the-second-bowl/" rel="noopener noreferrer" target="_blank">Seth Godin</a>
+&ldquo;Often, the best thing to do with a lost cause is to let it go. Because pursuing it gets in the way of the causes you haven&rsquo;t lost yet.&rdquo;&mdash;[Seth Godin](https://seths.blog/2019/04/the-second-bowl/)
 
 ## Ignorance
 Sat, 13 Apr 2019
@@ -315,7 +318,7 @@ Even more briefly, humanity began as conscious, became free; and is destined to 
 
 Barfield proposes real, coherent, and clear answers to the most fundamental problems.
 
-by Bruce Charlton at http://www.owenbarfield.org/
+by [Bruce Charlton](http://www.owenbarfield.org/)
 
 ## No Big Thing
 Wed, 1 May, 2019
@@ -416,20 +419,35 @@ Quoting Macauley:
 Section Headings:
 
 1. Science never proves anything.
+
 2. The map is not the territory, and the name is not the thing.
+
 3. There is no objective experience.
+
 4. The processes of image formation are unconscious.
+
 5. The division of the perceived universe into parts and wholes is convenient and may be necessary, but no necessity determines how it shall be done.
+
 6. Divergent sequences are unpredictable.
+
 7. Convergent sequences are predictable.
+
 8. "Nothing will come of nothing."
+
 9. Number is different from quantity.
+
 10. Quantity does not determine pattern.
+
 11. There are no "monotone" values in biology.
+
 12. Sometimes, small is beautiful.
+
 13. Logic is a poor model of cause and effect.
+
 14. Causality does not work backward.
+
 15. Language commonly stresses only one side of any interaction.
+
 16. "Stability" and "change" describe parts of our descriptions.
 
 Bateson is another connection that I owe to The Whole Earth Catalog. I believe that I purchased and first read Steps in about 1984, then reread and made these notes in early October of 2008. Reading them now, I'm struck by how closely they seem to relate to Owen Barfield's writing.
