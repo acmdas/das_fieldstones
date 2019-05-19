@@ -725,7 +725,7 @@ Sun, 02 Sep 2018
 ## Minority Rule
 Sun, 02 Sep 2018
 
-It suffices for an intransigent minority&mdash;a certain type of intransigent minority&mdash;to reach a minutely small level, say three or four percent of the total population, for the entire population to have to submit to their preferences.&mdash;Nassim Nicholas Taleb, <a href="https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15" rel="noopener" target="_blank">"The Most Intolerant Wins: The Dictatorship of the Small Minority"</a>
+It suffices for an intransigent minority&mdash;a certain type of intransigent minority&mdash;to reach a minutely small level, say three or four percent of the total population, for the entire population to have to submit to their preferences.&mdash;Nassim Nicholas Taleb, [*The Most Intolerant Wins: The Dictatorship of the Small Minority*](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15)
 
 ## Science
 Sun, 02 Sep 2018
@@ -740,12 +740,12 @@ Tue, 04 Sep 2018
 ## Models
 Mon, 10 Sep 2018
 
-"Yet my explicit metaphysical foundation is that ultimate reality is personal, not abstract&mdash;my bottom line is that reality is made up of beings (variously alive and conscious beings). Abstractions are therefore merely models&mdash;therefore (being models) always simplified and always incomplete and always not-true... no matter how expedient or useful in limited circumstances."&mdash;<a href="https://charltonteaching.blogspot.com/2018/01/not-process-but-provenance-and-polarity.html" rel="noopener" target="_blank">Bruce Charlton</a>
+"Yet my explicit metaphysical foundation is that ultimate reality is personal, not abstract&mdash;my bottom line is that reality is made up of beings (variously alive and conscious beings). Abstractions are therefore merely models&mdash;therefore (being models) always simplified and always incomplete and always not-true... no matter how expedient or useful in limited circumstances."&mdash;[Dr. Bruce Charlton](https://charltonteaching.blogspot.com/2018/01/not-process-but-provenance-and-polarity.html)
 
 ## Homo Economicus?
 Mon, 15 Oct 2018
 
-"Theological error is at the root of all other errors of the Modern Age. The idea that man&rsquo;s most fundamental nature is that of a homo economicus, a rational agent whose chief end is material possession, is the common basis of both economic liberalism or capitalism and socialism. At its heart it is a denial of the classical and Christian idea that man has a spiritual as well as a physical nature and that the spiritual ought to rule the animal nature. The idea that most or all of human suffering can be eliminated by reorganizing society economically, socially, and politically is rooted in the ancient heresy of Pelagianism for it is a denial of the fact that since the Fall, human nature itself has been afflicted with the flaw of Original Sin, which is the true source of all human suffering, an affliction for which there is no economic, social, or political cure."&mdash;<a href="http://thronealtarliberty.blogspot.com/2018/09/assorted-reflections.html" rel="noopener" target="_blank">Gerry T. Neal</a>
+"Theological error is at the root of all other errors of the Modern Age. The idea that man&rsquo;s most fundamental nature is that of a homo economicus, a rational agent whose chief end is material possession, is the common basis of both economic liberalism or capitalism and socialism. At its heart it is a denial of the classical and Christian idea that man has a spiritual as well as a physical nature and that the spiritual ought to rule the animal nature. The idea that most or all of human suffering can be eliminated by reorganizing society economically, socially, and politically is rooted in the ancient heresy of Pelagianism for it is a denial of the fact that since the Fall, human nature itself has been afflicted with the flaw of Original Sin, which is the true source of all human suffering, an affliction for which there is no economic, social, or political cure."&mdash;[Gerry T. Neal](http://thronealtarliberty.blogspot.com/2018/09/assorted-reflections.html)
 
 ## The Aim of the High
 Mon, 15 Oct 2018
@@ -761,7 +761,7 @@ From the moment that the Roman Church, and to a certain extent the Byzantine Chu
 
 We must reflect profoundly on the fact that the great St. John Chrysostom and the utterly gentle Robert Bellarmine thought that most bishops go to Hell.  We priests are in no better state, as witnessed by that other great saint, Alphonsus Liguori, who said that most priests go to Hell. Today the great temptation among Catholics, and the mainstream Protestant churches, is the First Temptation of Christ; namely, to turn stones into bread.  As long as we are involved solely in the social Gospel, then that is all that is needed.  This Utopian style Christianity best incarnated in Liberation Theology is exactly what Christ speaks against, when Satan tempts Him to assuage his hunger by turning stones into bread. We must in our materialistic age reflect on Christ&rsquo;s response to Satan, &ldquo;Man shall not live by bread alone, but by every word that proceeds from the mouth of God&rdquo; (Matthew 4: 4 ). When we become engrossed on feeding and clothing the World&rsquo;s population and getting everyone jobs, noble as this effort is, it is not enough. There is only one thing that is enough, and that is that we give ourselves totally and utterly to God, holding nothing back.  However, because we are human most of us fail miserably, and before long there are programmes put into place that are anything but Christian.
 
-God does not ask us to be successful, he asks us to be faithful."&mdash;<a href="https://www.lifesitenews.com/opinion/awake-and-do-your-duty-a-hermits-open-letter-to-catholic-bishops-amid-abuse" rel="noopener" target="_blank">An Anonymous Hermit Priest</a>
+God does not ask us to be successful, he asks us to be faithful."&mdash;[An Anonymous Hermit Priest](https://www.lifesitenews.com/opinion/awake-and-do-your-duty-a-hermits-open-letter-to-catholic-bishops-amid-abuse)
 
 ## Hell is Empty
 Mon, 15 Oct 2018
@@ -778,7 +778,7 @@ He took me into his room, which smelt strongly of tobacco, and took out a book f
 ## The Marriage at Cana
 Wed, 31 Oct 2018
 
-Reading this blog post today from <a href="http://charltonteaching.blogspot.com/2018/10/the-marriage-and-miracle-at-cana-fourth.html" rel="noopener" target="_blank">Bruce Charlton</a> and following interior link after link, I found some interesting "links" to Thomas Troward's thoughts on the "process" of G_d desiring a "conversation" and beginning the creation by "becoming" a dyad&mdash;a second Person. Since we're in the middle of actually moving stuff into the new house, there's no time to say more, just marking this with the thought that I'll be back.
+Reading this blog post today from [Bruce Charlton](http://charltonteaching.blogspot.com/2018/10/the-marriage-and-miracle-at-cana-fourth.html) and following interior link after link, I found some interesting "links" to Thomas Troward's thoughts on the "process" of G_d desiring a "conversation" and beginning the creation by "becoming" a dyad&mdash;a second Person. Since we're in the middle of actually moving stuff into the new house, there's no time to say more, just marking this with the thought that I'll be back.
 
 ## What embitters the world
 Wed, 21 Nov 2018
@@ -793,13 +793,16 @@ I love how just following the basic plan for hyperspace, link to link to yet ano
 ## Enlightenment, The
 Mon, 03 Dec 2018
 
-<a href="http://www.consultingsmiths.com/wp-content/uploads/2018/12/The_sleep_of_reason.jpg"><img src="http://www.consultingsmiths.com/wp-content/uploads/2018/12/The_sleep_of_reason-198x300.jpg" alt="" width="198" height="300" class="alignnone size-medium wp-image-1125" /></a><br>&ldquo;Ah well, the bones of the Enlightenment lie buried in a shallow grave somewhere along the Western Front. It had some nice ideals, but left us living rapt in the spell of Reason.&rdquo;&mdash;<a href="https://americandigest.org/wp/on-advent-we-are-all-lying-in-the-mud-but-some-of-us-are-looking-at-the-stars/" rel="noopener" target="_blank">Gerard Vanderleun</a> 
+<a href="http://www.consultingsmiths.com/wp-content/uploads/2018/12/The_sleep_of_reason.jpg"><img src="http://www.consultingsmiths.com/wp-content/uploads/2018/12/The_sleep_of_reason-198x300.jpg" alt="" width="198" height="300" class="alignnone size-medium wp-image-1125" /></a>
+
+&ldquo;Ah well, the bones of the Enlightenment lie buried in a shallow grave somewhere along the Western Front. It had some nice ideals, but left us living rapt in the spell of Reason.&rdquo;&mdash;[Gerard VanDerleun](https://americandigest.org/wp/on-advent-we-are-all-lying-in-the-mud-but-some-of-us-are-looking-at-the-stars/
+
 The image is Goya's &ldquo;The sleep of reason breeds monsters&rdquo;...
 
 ## And The Second is Like Unto It
 Mon, 03 Dec 2018
 
-&ldquo;Nearly all human personal or emotional success depends upon being able to give and to accept love, and nearly all human personal failure reflects an inability to do so.&rdquo;&mdash;<a href="https://www.madinamerica.com/2018/11/disorders-of-love/" rel="noopener" target="_blank">Peter Breggin, M.D.</a>
+&ldquo;Nearly all human personal or emotional success depends upon being able to give and to accept love, and nearly all human personal failure reflects an inability to do so.&rdquo;&mdash;[Peter Breggin, M.D.](https://www.madinamerica.com/2018/11/disorders-of-love/)
 
 ## Democracy
 Fri, 14 Dec 2018
@@ -826,11 +829,13 @@ Sat, 22 Dec 2018
 
 &ldquo;Many Catholics have forgotten that the Church is established for the forgiveness of sins and the proclamation of the gospel, and believe instead that the Church is here to make the world a better place, and that this needs to be accomplished by all sorts of educational, social welfare, political and even revolutionary activities.
 &ldquo;Preachers, priests and prelates have decided Jesus&rsquo; kingdom really is of this world after all and have exchanged the gospel of salvation for the gospel of political activism. They are more concerned with saving the planet than saving souls.
-&ldquo;Tell it straight. This is the message of anti-Christ.&rdquo;&mdash;<a href="https://dwightlongenecker.com/advent-apostasy-and-the-anti-christ/" rel="noopener" target="_blank">Fr. Dwight Longnecker</a>
+&ldquo;Tell it straight. This is the message of anti-Christ.&rdquo;&mdash;[Fr. Dwight Longnecker](https://dwightlongenecker.com/advent-apostasy-and-the-anti-christ/)
 
 ## Profination
 Sat, 22 Dec 2018
 
 &ldquo;St. Mary&rsquo;s Church in Dublin, Ireland, built at the beginning of the 18th century and closed in 1964, was abandoned for a number of years until it was bought and transformed into a restaurant and bar in 1997. The transformation was given the Dublin City Neighborhood Awards 2006, where it won first prize in the category of Best Old Building. Now it goes by the name of The Church Bar and Restaurant.
+
 &ldquo;The travel destinations section of The Telegraph (London) notes that, at the historic heart of Assisi, Italy, you may enjoy the *Nun Assisi Relais and Spa and Museum*: &ldquo;This stylish convent-turned-design-hotel enjoys a quiet spot in the historical heart of Assisi. An inspired renovation not only transformed the 13th-century structure into a sleek, minimalist haven; but also uncovered the ruins of a Roman amphitheater&mdash;now home to an atmospheric &lsquo;spa museum&rdquo;.&rdquo;
-&ldquo;Can ecclesiastical buildings be recycled, re-purposed, or transformed without profanation?&rdquo;&mdash;<a href="https://www.thecatholicthing.org/2018/12/13/are-churches-easily-dispensable/" rel="noopener" target="_blank">Ines A. Murzaku</a>
+
+&ldquo;Can ecclesiastical buildings be recycled, re-purposed, or transformed without profanation?&rdquo;&mdash;[Ines A. Murzaku](https://www.thecatholicthing.org/2018/12/13/are-churches-easily-dispensable/)
