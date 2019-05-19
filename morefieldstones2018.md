@@ -190,7 +190,8 @@ Now what?
 Thu, 22 Feb 2018
 
 "As we should be genuinely sorry for tramps and paupers who are materially homeless, so we should be sorry for those who are morally homeless, and who suffer a philosophical starvation as deadly as physical starvation."&mdash;G.K. Chesterton: <em>Illustrated London News, Nov. 24, 1934.</em>
-With a hat tip to the <a href="https://gkcdaily.blogspot.com/2018/02/for-those-who-are-morally-homeless.html" rel="noopener" target="_blank">GKCDaily</a> blog...
+
+With a hat tip to the [GKCDaily](https://gkcdaily.blogspot.com/2018/02/for-those-who-are-morally-homeless.html) blog...
 
 ## Scorn Not
 Thu, 22 Feb 2018
@@ -201,28 +202,46 @@ Thu, 22 Feb 2018
 Thu, 22 Feb 2018
 
 <blockquote>The monologue that runs in our brain is loud. It's heavy-metal loud compared to the quiet signals we get from the rest of the world.
+
 All day, every day, that noise keeps going. It's the only voice that has seen everything we've seen, believes everything we believe. It's the noise that not only criticizes every action of every other person who disagrees with us, but it criticizes their motives as well. And, if we question it, it criticizes us as well.
+
 Is it any wonder that projection is more powerful than empathy?
+
 When we meet people, we either celebrate when they agree with us or plot to change or ignore them when they don't. There's not a lot of room for, "they might have a different experience of this moment than I do."
+
 That noise in our head is selfish, afraid and angry. That noise is self-satisfied, self-important and certain. That noise pushes intimacy away and will do anything it can to degrade those that might challenge us.
+
 But, against all odds, empathy is possible.
+
 It's possible to amplify those too-quiet signals that others send us and to practice imagining, even for a moment, what it might be like to have their noise instead of our noise.
+
 If we put in the effort and devote the time to practice this skill, we can get better at it. We merely have to begin.</blockquote>
-&mdash; <a href="http://sethgodin.typepad.com/seths_blog/2018/02/is-the-noise-in-my-head-bothering-you.html" rel="noopener" target="_blank">Seth Godin</a>
+
+&mdash;[Seth Godin](https://seths.blog/2018/02/is-the-noise-in-my-head-bothering-you/)
 
 ## You cannot...
 Fri, 23 Feb 2018
 
 <blockquote>You cannot bring about prosperity by discouraging thrift.
+
 You cannot help small men by tearing down big men.
+
 You cannot strengthen the weak by weakening the strong.
+
 You cannot lift the wage-earner by pulling down the wage-payer.
+
 You cannot help the poor man by destroying the rich.
+
 You cannot keep out of trouble by spending more than your income.
+
 You cannot further the brotherhood of man by inciting class hatred.
+
 You cannot establish security on borrowed money.
+
 You cannot build character and courage by taking away men's initiative and independence.
+
 You cannot help men permanently by doing for them what they could and should do for themselves.</blockquote>
+
 &mdash; William Boetcker, 1873&mdash;1962
 
 ## What You Believe
@@ -234,14 +253,23 @@ Sat, 24 Feb 2018
 Sat, 24 Feb 2018
 
 <blockquote>But I have lived, and have not lived in vain:
+
 My mind may lose its force, my blood its fire,
+
 And my frame perish even in conquering pain,
+
 But there is that within me which shall tire
+
 Torture and Time, and breathe when I expire:
+
 Something unearthly, which they deem not of,
+
 Like the remembered tone of a mute lyre,
+
 Shall on their softened spirits sink, and move
+
 In hearts all rocky now the late remorse of love.</blockquote>
+
 &mdash; Lord Byron; <em>Childe Harold's Pilgrimage</em> CXXXVII
 
 ## The Inquiry of Truth
@@ -288,6 +316,7 @@ It’s 1990. I had my last drink a year ago and a friend suggested that I might 
 Sat, 10 Mar 2018
 
 "War, by imposing hardships and controls on daily life, produces an aggressive mentality and degrades people's character according to their wretched conditions. The result in this case was a general state of public disorder in all countries. As time went on and the earlier atrocities became an accepted fact, the later ones were marked by refinements of technique and novel methods of retaliation. Even words lost their proper meanings and were changed to suit current propaganda . . . . family ties were broken for the sake of party loyalty. . . . Relations between people were governed not by the security of established customs but by the prospect of selfish gain in defiance of the law."
+
 Does this sound familiar? Is this an apt description of our lifetime and that of our parents (or grandparents, that Greatest Generation)? These words were written by Thucydides to describe Athens as it warred with Sparta (ca. 400 B.C.).
 
 ## Trivial and Great Truths
@@ -299,17 +328,20 @@ Mon, 12 Mar 2018
 Mon, 19 Mar 2018
 
 Christianity has projected Jesus as the long-suffering, meek, and gentle "lamb of God." The Gospels present another picture: Gentle and compassionate, yes, but the Jesus of these pages is predominantly strong, candid, and above all <em>authoritative</em>. As Harold points out:
+
 <blockquote>At the time, people did not marvel so much at what Jesus said in the Sermon on the Mount as at the <em>authority</em> with which He spoke:
+
 <blockquote>"...the people were astonished at his doctrine; for he taught them as one having authority, and not as the scribes."</blockquote>
 Today, "scribes" have rewritten these words. In <em>The New English Bible</em>, read the translation thirteen scholars offer to men whose souls are starved, and scared, and scarred&mdash;it is a timid bit:
+
 <blockquote>". . . he taught with a note of authority."</blockquote>
 The translators write in the tenor of their age&mdash;a "note" of faith in anything, a "note" of authority in anything, is all that is left. But because of this, the twentieth century is a time pregnant with the possibility of grasping truth, for now man must seek the authority within himself.</blockquote>
-&mdash;Winifred Babcock, <em>Jung-Hesse-Harold</em>, p. 35, quoting Preston Harold, <em>The Shining Stranger</em>, p. 256
+&mdash;Winifred Babcock, *Jung-Hesse-Harold*, p. 35, quoting Preston Harold, *The Shining Stranger*, p. 256
 
 ## Pure, Simple Truth
 Mon, 19 Mar 2018
 
-"The truth is rarely pure, and never simple."&mdash;Oscar Wilde, <em>The Importance of Being Earnest</em>
+"The truth is rarely pure, and never simple."&mdash;Oscar Wilde, *The Importance of Being Earnest*
 
 ## Five Stages
 Tue, 20 Mar 2018
