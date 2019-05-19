@@ -63,23 +63,23 @@ Sun, 28 Jan 2018
 ## Instructions For Wayfarers
 Tue, 30 Jan 2018
 
-*They will declare: Every journey has been taken.
+*They will declare: Every journey has been taken.*
 
-You shall respond: I have not been to see myself.
+*You shall respond: I have not been to see myself.*
 
-They will insist: Everything has been spoken.
+*They will insist: Everything has been spoken.*
 
-You shall reply: I have not had my say.
+*You shall reply: I have not had my say.*
 
-They will tell you: Everything has been done.
+*They will tell you: Everything has been done.*
 
-You shall reply: My way is not complete.
+*You shall reply: My way is not complete.*
 
-You are warned: Any way is long, any way is hard.
+*You are warned: Any way is long, any way is hard.*
 
-Fear not. You are the gate&mdash;you, the gatekeeper.
+*Fear not. You are the gate&mdash;you, the gatekeeper.*
 
-And you shall go through and on . . .*&mdash;Alexandros Evangelou Xenopouloudakis
+*And you shall go through and on . . .*&mdash;Alexandros Evangelou Xenopouloudakis
 Courtesy of [Gerard VanDerleun](http://americandigest.org/wp/lets-review-36-instructions/)
 
 ## Politics
