@@ -543,6 +543,13 @@ Thu, 28 Jun 2018
 
 "The only man who should speak of wealth or power is one who did not extend his hand when they were within his reach"&mdash;Don Colacho (Nicolás Gómez Dávila)
 
+## The Artist&rsquo;s Role
+Wed, 27 Jun 2018
+
+“The artist’s role is to complete the circle that started with Adam and Eve. Her charge is to lead us back to Eden, not in the state of unconsciousness and dependence in which we stood before the Fall, but in full awareness of ourselves and our station, our mortality, and of the greater world around and within us.
+
+“The artist’s role is to make the unconscious conscious.”&mdash;[Steven Pressfield](https://stevenpressfield.com/2018/06/the-artists-journey-20/)
+
 ## Poetry
 Fri, 29 Jun 2018
 
@@ -558,6 +565,11 @@ Wed, 04 Jul 2018
 
 "For the first time in history, we have reached a stage of absurdity in which a <em>reductio ad absurdum</em> is no longer viable as a rhetorical maneuver, for there is nothing so absurd that everyone recognizes it as such."&mdash;<a href="http://takimag.com/article/street_corner_semantics_theodore_dalrymple/" rel="noopener" target="_blank">Theodore Dalrymple</a>
 History covers a long time and a lot of absurdity, but this is pretty clearly true &ndash;  least in my lifetime.
+
+## God the Father
+The, 12 Jun 2019
+
+“GOD is therefore truly the Father, inasmuch as He is Father of truth; He does not create the Son from outside Himself, but generates Him from His own substance. That is to say, being wise, He generates Wisdom, being just, Justice, be eternal, the Eternal, being immortal, the Immortal, being invisible, the Invisible. Because He is Light, He generates Brightness, and because He is Mind, the Word.” — Rufinus: *Commentary on the Apostles’ Creed*, 4. (5th cent.)
 
 ## Kings, Silverware and Olympus
 Tue, 17 Jul 2018
