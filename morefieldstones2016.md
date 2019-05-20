@@ -1,5 +1,3 @@
-
-
 # More Fieldstones 2016
 
 ## September 10, 2001
@@ -9,33 +7,33 @@ It's a stretch to remember what concerned me fifteen years ago, on September 10,
 
 William Butler Yeats wrote <em>Easter, 1916</em> in part describing Easter Sunday, April 23, 1916, the day before the Easter Rising, and how after Easter Monday:
 
-&nbsp;&nbsp;He, too, has resigned his part
+	He, too, has resigned his part
 
-&nbsp;&nbsp;In the casual comedy;
+	In the casual comedy;
 
-&nbsp;&nbsp;He, too, has been changed in his turn,
+	He, too, has been changed in his turn,
 
-&nbsp;&nbsp;Transformed utterly:
+	nbsp;Transformed utterly:
 
-&nbsp;&nbsp;A terrible beauty is born.
+	nbsp;A terrible beauty is born.
 
 And W. H. Auden, in <em>September 1, 1939</em> covered the same ground as Germany poised to invade Poland:
 
-&nbsp;&nbsp;Uncertain and afraid
+	Uncertain and afraid
 
-&nbsp;&nbsp;As the clever hopes expire
+	As the clever hopes expire
 
-&nbsp;&nbsp;Of a low dishonest decade:
+	Of a low dishonest decade:
 
-&nbsp;&nbsp;Waves of anger and fear
+	Waves of anger and fear
 
-&nbsp;&nbsp;Circulate over the bright
+	Circulate over the bright
 
-&nbsp;&nbsp;And darkened lands of the earth,
+	And darkened lands of the earth,
 
-&nbsp;&nbsp;Obsessing our private lives;
+	Obsessing our private lives;
 
-&nbsp;&nbsp;The unmentionable odour of death.
+	The unmentionable odour of death.
 
 I can't help noticing a significant difference that we face today, however.
 
