@@ -287,7 +287,8 @@ Wed, 24 May 2017
 ## If You Don&#039;t Read Books
 Wed, 24 May 2017
 
-"...the most suggestive thing I saw in America the past 18 months I actually think of an item in a hotel gift shop in southern Florida.  It was a decorative kitchen towel, I think made locally.  It bore these words:   'America, 2016.'  Below that it said, 'Once we had Steve Jobs, Johnny Cash and Bob Hope.  Now they're gone, and we're outta jobs, outta cash and outta hope.  And below that it said, "Please Kevin Bacon, don't die."" -- Peggy Noonan, at the <a href="https://www.cua.edu/speeches-and-homilies/2017/commencement-2017.html" target="_blank">Catholic University Commencement</a>
+"...the most suggestive thing I saw in America the past 18 months I actually think of an item in a hotel gift shop in southern Florida.  It was a decorative kitchen towel, I think made locally.  It bore these words:   'America, 2016.'  Below that it said, 'Once we had Steve Jobs, Johnny Cash and Bob Hope.  Now they're gone, and we're outta jobs, outta cash and outta hope.  And below that it said, "Please Kevin Bacon, don't die."" -- Peggy Noonan, at the [Catholic University Commencement](https://www.cua.edu/speeches-and-homilies/2017/commencement-2017.html).
+
 Clever line, but what's it got to do with reading? Well, follow the link and read the rest of her remarks&mdash;it's worth it!
 
 ## Otherworldly Twits
@@ -297,12 +298,13 @@ Fri, 26 May 2017
 "Some thoughts from a guy who spent a career in the racket:
 
 "Ask journalists when they were last in a truck stop on an Interstate, last in Boone, North Carolina or Barstow, California or any of thousands of such towns across the country. Ask whether they were in the military, whether they have ever talked to a cop or an ambulance crewman or a fireman. Ask whether they have a Mexican friend, when they last ate in a restaurant where a majority of the customers were black.  Whether they know an enlisted man, or anyone in the armed services. Whether they have hitchhiked overnight, baited a hook, hunted, or fired a rifle. Whether they have ever worked washing dishes, harvesting crops, driving a delivery truck. Whether they have a blue-collar friend. Know what the Texas Two-Step is, have been in a biker bar.
-"Now do you see why Trump surprised them?"&mdash;<a href="https://fredoneverything.org/notes-of-a-reformed-news-weasel-understanding-the-vacuity/" target="_blank">Fred Reed</a>
+
+"Now do you see why Trump surprised them?"&mdash;[Fred Reed](https://fredoneverything.org/notes-of-a-reformed-news-weasel-understanding-the-vacuity/)
 
 ## More Reed on today&#039;s reporters
 Fri, 26 May 2017
 
-"Journalists are not stupid, running to well above average in intelligence. You could form a large chapter of Mensa by raiding newsrooms in Washington. However, with a fair few exceptions, they are not intellectuals, not contemplative, not studious. They are high-pressure fact-accountants, competitive, comfortable under tight deadlines, aggressive, combative, quick but shallow. This can be a serviceable substituent for stupid."&mdash;<a href="https://fredoneverything.org/notes-of-a-reformed-news-weasel-understanding-the-vacuity/" target="_blank">Fred Reed</a>
+"Journalists are not stupid, running to well above average in intelligence. You could form a large chapter of Mensa by raiding newsrooms in Washington. However, with a fair few exceptions, they are not intellectuals, not contemplative, not studious. They are high-pressure fact-accountants, competitive, comfortable under tight deadlines, aggressive, combative, quick but shallow. This can be a serviceable substituent for stupid."&mdash;[Fred Reed](https://fredoneverything.org/notes-of-a-reformed-news-weasel-understanding-the-vacuity/)
 
 ## Truth, essentially
 Sat, 27 May 2017
@@ -312,7 +314,7 @@ Sat, 27 May 2017
 ## Our House
 Sat, 27 May 2017
 
-&ldquo;we&rsquo;re not living in a two-story house with us on the bottom floor and God upstairs and that&rsquo;s it. Far more realistic is to realize that we&rsquo;re living in a skyscraper and that there are who knows how many dimensions of creation above us.&rdquo;&mdash;Mark Shea, at <a href="http://www.archindy.org/criterion/local/series/evil/1.htm" target="_blank">Archindy.org</a>
+&ldquo;we&rsquo;re not living in a two-story house with us on the bottom floor and God upstairs and that&rsquo;s it. Far more realistic is to realize that we&rsquo;re living in a skyscraper and that there are who knows how many dimensions of creation above us.&rdquo;&mdash;Mark Shea, at [Archindy.org](http://www.archindy.org/criterion/local/series/evil/1.htm)
 
 
 ## Unthinkable?
@@ -364,7 +366,7 @@ Fri, 23 Jun 2017
 ## Belief
 Sat, 24 Jun 2017
 
-"I have heard it confidently stated, for instance, that the American troops had been brought to Europe not to fight the Germans but to crush an English revolution. One has to belong to the intelligentsia to believe things like that: no ordinary man could be such a fool."&mdash;George Orwell, *<a href="http://orwell.ru/library/essays/nationalism/english/e_nat" target="_blank">Notes on Nationalism</a>*
+"I have heard it confidently stated, for instance, that the American troops had been brought to Europe not to fight the Germans but to crush an English revolution. One has to belong to the intelligentsia to believe things like that: no ordinary man could be such a fool."&mdash;George Orwell, [*Notes on Nationalism*](http://orwell.ru/library/essays/nationalism/english/e_nat)
 
 ## Fantasies
 Sun, 25 Jun 2017
@@ -379,7 +381,7 @@ Sun, 25 Jun 2017
 ## The Pagan Ideal
 Sun, 25 Jun 2017
 
-"My objection to Mr. Lowes Dickinson and the reassertors of the pagan ideal is, then, this. I accuse them of ignoring definite human discoveries in the moral world, discoveries as definite, though not as material, as the discovery of the circulation of the blood. We cannot go back to an ideal of reason and sanity. For mankind has discovered that reason does not lead to sanity. We cannot go back to an ideal of pride and enjoyment. For mankind has discovered that pride does not lead to enjoyment. I do not know by what extraordinary mental accident modern writers so constantly connect the idea of progress with the idea of independent thinking. Progress is obviously the antithesis of independent thinking. For under independent or individualistic thinking, every man starts at the beginning, and goes, in all probability, just as far as his father before him. But if there really be anything of the nature of progress, it must mean, above all things, the careful study and assumption of the whole of the past. I accuse Mr. Lowes Dickinson and his school of reaction in the only real sense. If he likes, let him ignore these great historic mysteries&mdash;the mystery of charity, the mystery of chivalry, the mystery of faith. If he likes, let him ignore the plough or the printing-press. But if we do revive and pursue the pagan ideal of a simple and rational self-completion we shall end&mdash;where Paganism ended. I do not mean that we shall end in destruction. I mean that we shall end in Christianity."&mdash;G. K. Chesterton, <a href="https://www.ccel.org/ccel/chesterton/heretics.xii.html" target="_blank">*Heretics*</a>
+"My objection to Mr. Lowes Dickinson and the reassertors of the pagan ideal is, then, this. I accuse them of ignoring definite human discoveries in the moral world, discoveries as definite, though not as material, as the discovery of the circulation of the blood. We cannot go back to an ideal of reason and sanity. For mankind has discovered that reason does not lead to sanity. We cannot go back to an ideal of pride and enjoyment. For mankind has discovered that pride does not lead to enjoyment. I do not know by what extraordinary mental accident modern writers so constantly connect the idea of progress with the idea of independent thinking. Progress is obviously the antithesis of independent thinking. For under independent or individualistic thinking, every man starts at the beginning, and goes, in all probability, just as far as his father before him. But if there really be anything of the nature of progress, it must mean, above all things, the careful study and assumption of the whole of the past. I accuse Mr. Lowes Dickinson and his school of reaction in the only real sense. If he likes, let him ignore these great historic mysteries&mdash;the mystery of charity, the mystery of chivalry, the mystery of faith. If he likes, let him ignore the plough or the printing-press. But if we do revive and pursue the pagan ideal of a simple and rational self-completion we shall end&mdash;where Paganism ended. I do not mean that we shall end in destruction. I mean that we shall end in Christianity."&mdash;G. K. Chesterton, [*Heretics*](https://www.ccel.org/ccel/chesterton/heretics.xii.html)
 
 ## The Virtue of Toleration
 Tue, 27 Jun 2017
@@ -439,7 +441,7 @@ Mon, 17 Jul 2017
 "When I am dead, I hope it is said,
 'His sins were scarlet, but his books were read'." â”€ Hilaire Belloc
 Hilaire Belloc died July 16, 1953. He was 11 days short of his 83rd birthday.
-Read a contemporary <a href="http://trove.nla.gov.au/newspaper/article/18388585" target="_blank">obituary</a>.
+Read a contemporary [obituary](http://trove.nla.gov.au/newspaper/article/18388585)
 
 ## The Gods of the Copybook Headings
 Mon, 24 Jul 2017
@@ -521,18 +523,20 @@ Thu, 10 Aug 2017
 ## Our task...
 Mon, 14 Aug 2017
 
-"Men, a species that includes bishops, are left with a certain radical freedom, which constant intervention by the Deity would cancel. We have been already provided with what we need to know in the Deposit of Faith. There is nothing that Christ absent-mindedly forgot to tell us. Our task is not to supply what he overlooked or failed to anticipate, or to &ldquo;update&rdquo; the teaching for a human condition which does not, itself, change. Nor is it to murkily redefine terms long since clarified. Neither popes nor bishops are above that Revelation."&mdash;<a href="http://www.davidwarrenonline.com/2015/10/04/fact-mystery/" target="_blank">David Warren</a>
+"Men, a species that includes bishops, are left with a certain radical freedom, which constant intervention by the Deity would cancel. We have been already provided with what we need to know in the Deposit of Faith. There is nothing that Christ absent-mindedly forgot to tell us. Our task is not to supply what he overlooked or failed to anticipate, or to &ldquo;update&rdquo; the teaching for a human condition which does not, itself, change. Nor is it to murkily redefine terms long since clarified. Neither popes nor bishops are above that Revelation."&mdash;[David Warren](http://www.davidwarrenonline.com/2015/10/04/fact-mystery/)
 
 ## Seditious and Tyrannical
 Sat, 26 Aug 2017
 
-"It seems to me that at a deep level, 'democracy' can be criticized for its intention: to replace the sometimes inscrutable judgement of God with the too-scrutable judgement of humans. Or to put this more plainly: it is seditious and tyrannical, both, from the start. Its effect can be seen from this cause: for we are all atheists today, insofar as we are enfranchised; all fully 'secularized' in the public square."&mdash;<a href="http://www.davidwarrenonline.com/2017/08/26/war-famine-plague-sedition/" target="_blank">David Warren</a> once again.
+"It seems to me that at a deep level, 'democracy' can be criticized for its intention: to replace the sometimes inscrutable judgement of God with the too-scrutable judgement of humans. Or to put this more plainly: it is seditious and tyrannical, both, from the start. Its effect can be seen from this cause: for we are all atheists today, insofar as we are enfranchised; all fully 'secularized' in the public square."&mdash;[David Warren](http://www.davidwarrenonline.com/2017/08/26/war-famine-plague-sedition/)
 
 ## The Most Well-Known Amount of People
 Sat, 26 Aug 2017
 
 Okay, time for a little "David admits his prejudices" post.
+
 Apparently you can get a journalism (or it is "Communications" now) degree without reading Strunk and White? And you can publish articles without any perusal by an editor who has read Strunk and White? That has to be the case when foolishness like "amount of people" rather than "number of people" or "most well-known" instead of "best known" appears over and over and over again.
+
 These are Heinlein's Crazy Years, we just live in them!
 
 ## When not being angry is a sin...
@@ -558,7 +562,7 @@ Fri, 08 Sep 2017
 ## Correcting is Judging
 Sun, 10 Sep 2017
 
-"We live in times in which there is a widespread notion that to correct sinners is to &ldquo;judge&rdquo; them. Never mind that it is sin that we judge, not the sinner. Never mind that in accusing us of judging, the worldly-minded are themselves doing the very judging they condemn. Never mind any of that; the point of the charge is to try to shame us into silence. Despite the fact that Scripture consistently directs us to correct the sinner, many Catholics have bought into the notion that correcting the sinner is &ldquo;judging&rdquo; him. In this, the devil, who orchestrates the &ldquo;correcting is judging&rdquo; campaign, rejoices; for if he can keep us from correcting one another, sin can and does flourish."&mdash;<a href="http://blog.adw.org/2017/09/obligation-clear-compassionate-correction-sinner-homily-23rd-sunday-year/" target="_blank">Msgr. Charles Pope</a>
+"We live in times in which there is a widespread notion that to correct sinners is to &ldquo;judge&rdquo; them. Never mind that it is sin that we judge, not the sinner. Never mind that in accusing us of judging, the worldly-minded are themselves doing the very judging they condemn. Never mind any of that; the point of the charge is to try to shame us into silence. Despite the fact that Scripture consistently directs us to correct the sinner, many Catholics have bought into the notion that correcting the sinner is &ldquo;judging&rdquo; him. In this, the devil, who orchestrates the &ldquo;correcting is judging&rdquo; campaign, rejoices; for if he can keep us from correcting one another, sin can and does flourish."&mdash;[Msgr. Charles Pope](http://blog.adw.org/2017/09/obligation-clear-compassionate-correction-sinner-homily-23rd-sunday-year/)
 
 ## RIP, Dr. Pournelle
 Thu, 14 Sep 2017
@@ -573,12 +577,12 @@ Thu, 14 Sep 2017
 ## Facing the Future on the Downside of the Liberal Revolution
 Thu, 14 Sep 2017
 
-"When everything that smacks of the transcendent is eliminated from the public life of a culture, something has to take its place. In our case it is largely commerce and the ideals and ideas that commerce fosters. Moreover, the liberty that accompanies such a commercial society is a liberty whose chief effect is the dissolving of traditional ties and the destruction of traditional communities, whether that takes place because of direct attacks on the family and chastity or indirectly because of an economic system that works as a solvent in hundreds of ways: driving mothers out of the home, exploiting sex to sell products, moving families about to seek employment, or emptying rural areas of farm families."&mdash;<a href="https://www.amazon.com/Christendom-Americanism-Beyond-Jagged-Postmodern-ebook/dp/B01EJ0OQ92/ref=la_B001K7S392_1_1?s=books&amp;ie=UTF8&amp;qid=1505417861&amp;sr=1-1" target="_blank">Thomas Storck</a>
+"When everything that smacks of the transcendent is eliminated from the public life of a culture, something has to take its place. In our case it is largely commerce and the ideals and ideas that commerce fosters. Moreover, the liberty that accompanies such a commercial society is a liberty whose chief effect is the dissolving of traditional ties and the destruction of traditional communities, whether that takes place because of direct attacks on the family and chastity or indirectly because of an economic system that works as a solvent in hundreds of ways: driving mothers out of the home, exploiting sex to sell products, moving families about to seek employment, or emptying rural areas of farm families."&mdash;[Thomas Storck](https://www.amazon.com/gp/product/B01EJ0OQ92/ref=dbs_a_def_rwt_bibl_vppi_i1)
 
 ## Atheist for a Day
 Tue, 19 Sep 2017
 
-"Often even fully catechized Christians act from unbelief. For the man who succumbs to a terrible temptation is playing atheist for the day. He might think himself Christian on other days, when there are no significant temptations. But he is fooling himself. For God IS watching."&mdash;<a href="https://www.thecatholicthing.org/2017/09/15/back-to-nature-2/" target="_blank">David Warren</a>
+"Often even fully catechized Christians act from unbelief. For the man who succumbs to a terrible temptation is playing atheist for the day. He might think himself Christian on other days, when there are no significant temptations. But he is fooling himself. For God IS watching."&mdash;[David Warren](https://www.thecatholicthing.org/2017/09/15/back-to-nature-2/)
 
 ## Work and Pray
 Tue, 19 Sep 2017
@@ -600,12 +604,12 @@ Four, because, even if you call it a leg, it&rsquo;s still a tail.&rdquo;&mdash;
 ## Empathy for the Grieving
 Sat, 07 Oct 2017
 
-"The truest act of empathy for the grieving is to pray for the dead."&mdash;<a href="http://www.davidwarrenonline.com/2017/10/03/against-closure/" rel="noopener" target="_blank">David Warren</a>
+"The truest act of empathy for the grieving is to pray for the dead."&mdash;[David Warren](http://www.davidwarrenonline.com/2017/10/03/against-closure/)
 
 ## Rules, or maybe, Intelligence
 Sun, 08 Oct 2017
 
-"Only rule-based societies value intelligence in their common participants, for it has value nowhere else."&mdash;<a href="https://bastionofliberty.blogspot.com/2015/05/somebodys-gotta-say-it-part-2-further.html" rel="noopener" target="_blank">Francis Porretto</a>
+"Only rule-based societies value intelligence in their common participants, for it has value nowhere else."&mdash;[Francis Porretto](https://bastionofliberty.blogspot.com/2015/05/somebodys-gotta-say-it-part-2-further.html)
 
 ## Being Right
 Sun, 08 Oct 2017
