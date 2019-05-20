@@ -65,11 +65,12 @@ I found the Codevilla quote at Mike Flynn's [The TOF Spot](http://tofspot.blogsp
 ## When I Was A Kid...
 Tue, 14 Feb 2017
 
-<a href="http://www.consultingsmiths.com/wp-content/uploads/2017/02/tumblr_mg4aen5f3a1r53nlzo1_500.jpg"><img src="http://www.consultingsmiths.com/wp-content/uploads/2017/02/tumblr_mg4aen5f3a1r53nlzo1_500-245x300.jpg" alt="" width="490" height="600" class="alignnone size-medium wp-image-545" /></a>
+
+![Dan Gurney](media/tumblr_mg4aen5f3a1r53nlzo1_500.jpg)
 
 Dan Gurney, Nurburgring 1000Km, 1959.
 
-Ferrari 250 Testa Rosa 58, Scuderia Ferrari, # 5, 5th place.
+Ferrari 250 Testa Rosa 58, Scuderia Ferrari, \#5, 5th place.
 
 Won by the Moss/Fairman David Brown Aston Martin DBR1.
 
