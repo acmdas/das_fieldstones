@@ -326,7 +326,7 @@ And yesterday, backed into a corner in a small room, I promised [redacted} that 
 ## True Terror
 Mon, 05 Mar 2018
 
-<a href="http://www.consultingsmiths.com/wp-content/uploads/2018/03/Vonnegut.jpg"><img src="http://www.consultingsmiths.com/wp-content/uploads/2018/03/Vonnegut-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-968" /></a>
+![Kurt Vonnegut](media/Vonnegut.jpg)
 
 ## It
 Mon, 05 Mar 2018
