@@ -527,3 +527,9 @@ Sat, 18 May 2019
 
 &mdash;Ivan Illich [Interview with Jerry Brown](http://www.wtp.org/archive/transcripts/ivan_illich_jerry.html)
 
+## Somebody Gets It
+Mon, 20 May 2019
+
+“I have an idea that some men are born out of their due place. Accident has cast them amid strangers in their birthplace, and the leafy lanes they have known from childhood or the populous streets in which they have played, remain but a place of passage. they may spend their whole lives aliens among their kindred and remain aloof among the only scenes they have ever known. Perhaps it is this sense of strangeness that sends men far and wide in the search for something permanent, to which they may attach themselves. Perhaps some deep-rooted atavism urges the wanderer back to lands which his ancestors left in the dim beginnings of history. Sometimes a man hits upon a place to which he mysteriously feels that he belongs. Here is the home he sought, and he will settle amid scenes that he has never seen before, among men he has never known, as though they were familiar to him from his birth. Here at last he finds rest.”&mdash; W. Somerset Maugham, *The Moon and Sixpence* 1919
+
+h/t to [Sarah Hoyt](https://accordingtohoyt.com/2019/05/20/above-our-own-dignity/)
