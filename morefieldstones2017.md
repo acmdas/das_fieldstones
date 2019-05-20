@@ -78,7 +78,7 @@ Won by the Moss/Fairman David Brown Aston Martin DBR1.
 Tue, 14 Feb 2017
 
 Apropos all the recent fuss:
-8 U.S.C. Â§ 1182(f), as currently posted by the <a href="https://www.gpo.gov/fdsys/pkg/USCODE-2011-title8/html/USCODE-2011-title8-chap12-subchapII-partII-sec1182.htm" target="_blank">Government Printing Office</a> is the enabling statute (check it for yourself):
+8 U.S.C. Â§ 1182(f), as currently posted by the [Government Printing Office](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title8/html/USCODE-2011-title8-chap12-subchapII-partII-sec1182.htm) is the enabling statute (check it for yourself):
 
 "(f) Suspension of entry or imposition of restrictions by President
 Whenever the President finds that the entry of any aliens or of any class of aliens into the United States would be detrimental to the interests of the United States, he may by proclamation, and for such period as he shall deem necessary, suspend the entry of all aliens or any class of aliens as immigrants or nonimmigrants, or impose on the entry of aliens any restrictions he may deem to be appropriate."
@@ -111,7 +111,7 @@ Thu, 16 Feb 2017
 
 "Somewhere in *The Power Broker* I write that regard for power means disregard of those without power. I mean, we're really talking about justice and injustice."&mdash;Robert Caro
 
-I found a wonderful <a href="https://www.theparisreview.org/interviews/6442/robert-caro-the-art-of-biography-no-5-robert-caro" target="_blank">interview with author Robert Caro</a> on the Paris Review site about "The Art of Biography"&mdash;linked to, from all places, <a href="https://news.ycombinator.com/" target="_blank">Hacker News</a>! That's the WWW, good stuff is where you find it. I love surprises.
+I found a wonderful [interview with author Robert Caro](https://www.theparisreview.org/interviews/6442/robert-caro-the-art-of-biography-no-5-robert-caro) on the Paris Review site about "The Art of Biography"&mdash;linked to, from all places, [Hacker News!](https://news.ycombinator.com/) That's the WWW, good stuff is where you find it. I love surprises.
 
 ## Illegitimi non carborundum
 Fri, 17 Feb 2017
@@ -133,7 +133,7 @@ Sat, 18 Feb 2017
 
 &ldquo;The Enlightenment is always wrong, because its ultimate goal is to *expose*. Grace, by contrast, is founded on truth, because it covers a multitude of sins. What God once and for all does not wish to know should never become the object of human knowledge and investigation.&rdquo;&mdash;Hans Urs von Balthasar
 
-Once again, courtesy of <a href="http://www.davidwarrenonline.com/2017/02/18/aphorisms-for-saturday/" target="_blank">David Warren</a>
+Once again, courtesy of [David Warren](http://www.davidwarrenonline.com/2017/02/18/aphorisms-for-saturday/).
 
 ## Polluted Vehicles
 Sun, 19 Feb 2017
@@ -147,7 +147,7 @@ Mon, 20 Feb 2017
 
 &ldquo;And I dare say the first time you saw a man raised from the dead you might think so too.&rdquo; He giggled unconvincingly behind the smiling mask. &ldquo;Oh, it&rsquo;s funny, isn&rsquo;t it? It isn&rsquo;t a case of miracles not happening&mdash;it&rsquo;s just a case of people calling them something else. Can&rsquo;t you see the doctors round the dead man? He isn&rsquo;t breathing any more, his pulse has stopped, his heart&rsquo;s not beating: he&rsquo;s dead. The somebody gives him back his life, and they all&mdash;what&rsquo;s the expression?&mdash;reserve their opinion. They won&rsquo;t say it&rsquo;s a miracle, because that&rsquo;s a word they don&rsquo;t like. Then it happens again and again perhaps&mdash;because God&rsquo;s about on earth&mdash;and they say: these aren&rsquo;t miracles, it is simply that we have enlarged our conception of what life is. Now we know you can be alive without pulse, breath, heart-beats. And they invent a new word to describe that state of life, and they say science has disproved a miracle.&rdquo; He giggled again. &lsquo;You can&rsquo;t get round them.&rdquo;"&mdash;Graham Greene *The Power and the Glory*
 
-Courtesy of <a href="http://wmbriggs.com/post/8069/" target="_blank">William M. Briggs&mdash;Statistician to the Stars</a>
+Courtesy of [William M. Briggs](http://wmbriggs.com/post/8069/)&mdash;Statistician to the Stars!
 
 ## History and Leaves
 Thu, 09 Mar 2017
@@ -243,7 +243,7 @@ What if the rules others take for granted are seen by you and your team as stand
 
 What if we take the responsibility instead of waiting for it to be offered?
 
-From <a href="http://sethgodin.typepad.com/seths_blog/2017/05/its-not-my-problem.html" target="_blank">Seth Godin</a>.
+From [Seth Godin](http://sethgodin.typepad.com/seths_blog/2017/05/its-not-my-problem.html)
 
 ## The Danger of Books
 Fri, 12 May 2017
@@ -265,19 +265,19 @@ More than half a century ago, while I was still a child, I recall hearing a numb
 
 Since then I have spent well-nigh fifty years working on the history of our Revolution; in the process I have read hundreds of books, collected hundreds of personal testimonies, and have already contributed eight volumes of my own toward the effort of clearing away the rubble left by that upheaval. But if I were asked today to formulate as concisely as possible the main cause of the ruinous Revolution that swallowed up some sixty million of our people, I could not put it more accurately than to repeat: Men have forgotten God; that's why all this has happened.
 
-What is more, the events of the Russian Revolution can only be understood now, at the end of the century, against the background of what has since occurred in the rest of the world. What emerges here is a process of universal significance. And if I were called upon to identify briefly the principal trait of the entire twentieth century, here too, I would be unable to find anything more precise and pithy than to repeat once again: Men have forgotten God.&mdash;<a href="http://www.roca.org/OA/36/36h.htm" target="_blank">Alexander Solzhenitsyn</a>
+What is more, the events of the Russian Revolution can only be understood now, at the end of the century, against the background of what has since occurred in the rest of the world. What emerges here is a process of universal significance. And if I were called upon to identify briefly the principal trait of the entire twentieth century, here too, I would be unable to find anything more precise and pithy than to repeat once again: Men have forgotten God.&mdash;[Alexander Solzhenitsyn](http://www.roca.org/OA/36/36h.htm)
 
 ## Cold Civil War
 Thu, 18 May 2017
 
-"Much of the heat in contemporary American politics comes from the attempt, principally from the Left but increasingly from the Right as well, to force the entire nation to live in precisely the same way with precisely the same values. Statesmanship should begin by questioning and moderating that tendency."&mdash;<a href="http://www.claremont.org/crb/article/the-cold-civil-war/" target="_blank">Angelo M. Codevilla</a>
+"Much of the heat in contemporary American politics comes from the attempt, principally from the Left but increasingly from the Right as well, to force the entire nation to live in precisely the same way with precisely the same values. Statesmanship should begin by questioning and moderating that tendency."&mdash;[Angelo M. Codevilla](http://www.claremont.org/crb/article/the-cold-civil-war/)
 
 ## Let Them Paste Passwords!
 Thu, 18 May 2017
 
 The British NCSC agrees with yours truly that those websites who prevent you, me and everyone else from pasting passwords (or using browser plug-ins that do it for us) in the name of "security" are in fact undermining security. I'm not always a fan of NCSC, but on this one they're 100% right on.
 
-Read the report <a href="https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords" target="_blank">here</a>.
+Read the report [here](https://www.ncsc.gov.uk/blog-post/let-them-paste-passwords).
 
 ## Art and Money
 Wed, 24 May 2017
