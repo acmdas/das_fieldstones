@@ -1,26 +1,44 @@
 
+
 # More Fieldstones 2016
 
 ## September 10, 2001
 Sun, 11 Sep 2016 00:58:53
 
 It's a stretch to remember what concerned me fifteen years ago, on September 10, 2001.
+
 William Butler Yeats wrote <em>Easter, 1916</em> in part describing Easter Sunday, April 23, 1916, the day before the Easter Rising, and how after Easter Monday:
+
 &nbsp;&nbsp;He, too, has resigned his part
+
 &nbsp;&nbsp;In the casual comedy;
+
 &nbsp;&nbsp;He, too, has been changed in his turn,
+
 &nbsp;&nbsp;Transformed utterly:
+
 &nbsp;&nbsp;A terrible beauty is born.
+
 And W. H. Auden, in <em>September 1, 1939</em> covered the same ground as Germany poised to invade Poland:
+
 &nbsp;&nbsp;Uncertain and afraid
+
 &nbsp;&nbsp;As the clever hopes expire
+
 &nbsp;&nbsp;Of a low dishonest decade:
+
 &nbsp;&nbsp;Waves of anger and fear
+
 &nbsp;&nbsp;Circulate over the bright
+
 &nbsp;&nbsp;And darkened lands of the earth,
+
 &nbsp;&nbsp;Obsessing our private lives;
+
 &nbsp;&nbsp;The unmentionable odour of death.
+
 I can't help noticing a significant difference that we face today, however.
+
 The Irish Republic was established three years after the Rising, and WWII had come to an end in just under six years after the invasion of Poland, long, terrible years that they were in both cases, but the still the denouement was achieved.
 
 And here we are, fifteen years later.

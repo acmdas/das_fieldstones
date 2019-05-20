@@ -624,12 +624,12 @@ Tue, 10 Oct 2017
 ## Schism and Heresy
 Fri, 13 Oct 2017
 
-"Heresy and schism are distinguished in respect of those things to which each is opposed essentially and directly. For heresy is essentially opposed to faith, while schism is essentially opposed to the unity of ecclesiastical charity. Wherefore just as faith and charity are different virtues, although whoever lacks faith lacks charity, so too schism and heresy are different vices, although whoever is a heretic is also a schismatic, but not conversely. This is what Jerome says in his commentary on the Epistle to the Galatians [In Ep. ad Tit. iii, 10]: "I consider the difference between schism and heresy to be that heresy holds false doctrine while schism severs a man from the Church." Nevertheless, just as the loss of charity is the road to the loss of faith, according to 1 Timothy 1:6: "From which things," i.e. charity and the like, "some going astray, are turned aside into vain babbling," so too, schism is the road to heresy. Wherefore Jerome adds (In Ep. ad Tit. iii, 10) that "at the outset it is possible, in a certain respect, to find a difference between schism and heresy: yet there is no schism that does not devise some heresy for itself, that it may appear to have had a reason for separating from the Church."&mdash;St. Thomas Aquinas: <a href="http://newadvent.org/summa/3039.htm" rel="noopener" target="_blank">Summa Theologica</a>, II-II, q. 39, a. 1, ad 3
+"Heresy and schism are distinguished in respect of those things to which each is opposed essentially and directly. For heresy is essentially opposed to faith, while schism is essentially opposed to the unity of ecclesiastical charity. Wherefore just as faith and charity are different virtues, although whoever lacks faith lacks charity, so too schism and heresy are different vices, although whoever is a heretic is also a schismatic, but not conversely. This is what Jerome says in his commentary on the Epistle to the Galatians [In Ep. ad Tit. iii, 10]: "I consider the difference between schism and heresy to be that heresy holds false doctrine while schism severs a man from the Church." Nevertheless, just as the loss of charity is the road to the loss of faith, according to 1 Timothy 1:6: "From which things," i.e. charity and the like, "some going astray, are turned aside into vain babbling," so too, schism is the road to heresy. Wherefore Jerome adds (In Ep. ad Tit. iii, 10) that "at the outset it is possible, in a certain respect, to find a difference between schism and heresy: yet there is no schism that does not devise some heresy for itself, that it may appear to have had a reason for separating from the Church."&mdash;St. Thomas Aquinas: [*Summa Theologica*](http://newadvent.org/summa/3039.htm), II-II, q. 39, a. 1, ad 3
 
 ## Society is Dissolving
 Fri, 13 Oct 2017
 
-"Cultures spring from religions; ultimately the vital force which maintains any culture is its philosophy, its attitude toward the universe; the decay of a religion involves the decay of the culture corresponding to it&mdash;we see that most clearly in the breakdown of Christendom today. The bad work begun at the Reformation is bearing its final fruit in the dissolution of our ancestral doctrines&mdash;the very structure of our society is dissolving."&mdash;Hilaire Belloc: <a href="https://oldthunderbelloc.blogspot.com/2015/05/the-great-heresies.html" rel="noopener" target="_blank">The Great Heresies</a>, Chap. III
+"Cultures spring from religions; ultimately the vital force which maintains any culture is its philosophy, its attitude toward the universe; the decay of a religion involves the decay of the culture corresponding to it&mdash;we see that most clearly in the breakdown of Christendom today. The bad work begun at the Reformation is bearing its final fruit in the dissolution of our ancestral doctrines&mdash;the very structure of our society is dissolving."&mdash;Hilaire Belloc: [*The Great Heresies*](https://oldthunderbelloc.blogspot.com/2015/05/the-great-heresies.html), Chap. III
 
 ## On Heresy
 Fri, 13 Oct 2017
@@ -641,7 +641,7 @@ Mon, 23 Oct 2017
 
 "IT is an interesting speculation by what means the Book lost its old position in this country. This is not only an interesting speculation, but one which nearly concerns a vital matter. For if men fall into the habit of neglecting true books in an old and traditional civilization, the inaccuracy of their judgments and the illusions to which they will be subject, must increase.
 "To take but one example: history. The less the true historical book is read and the more men depend upon ephemeral statement, the more will legend crystallize, the harder will it be to destroy in the general mind some comforting lie, and the great object-lesson of politics (which is an accurate knowledge of how men have acted in the past) will become at last unknown."
-&mdash; Hilaire Belloc: <a href="https://oldthunderbelloc.blogspot.com/2014/02/on-decline-of-book.html" rel="noopener" target="_blank">On the Decline of the Book</a>
+&mdash; Hilaire Belloc: [*On the Decline of the Book*](https://oldthunderbelloc.blogspot.com/2014/02/on-decline-of-book.html)
 
 ## But first...
 Wed, 25 Oct 2017
@@ -714,7 +714,8 @@ St. John Paul II describes how Christ's act of redeeming us from slavery to sin 
 ## The Love of (a small &lsquo;g&rsquo;) god
 Mon, 20 Nov 2017
 
-"As the old saying goes, the flip side of love is hatred. You cannot care about something, and fail to hate what threatens it. This leads us to the difficult question of what to love, and the Left posits universal love, which for them means pretending to be a god and loving everything, without understanding that the love of a god is love for creation itself, not a desire to preserve each part."&mdash;<a href="http://www.amerika.org/politics/love-possesses-two-dimensions/" rel="noopener" target="_blank">Brett Stevens</a>
+"As the old saying goes, the flip side of love is hatred. You cannot care about something, and fail to hate what threatens it. This leads us to the difficult question of what to love, and the Left posits universal love, which for them means pretending to be a god and loving everything, without understanding that the love of a god is love for creation itself, not a desire to preserve each part."&mdash;[Brett Stevens](http://www.amerika.org/politics/love-possesses-two-dimensions/)
+
 I like to think that I love God's creation, but I love my family more particularly. Don't threaten my wife and kids or there'll be ructions!
 
 ## A Conspiracy of a very few Millionaires
@@ -725,7 +726,7 @@ Fri, 24 Nov 2017
 ## Sauce for the Goose
 Fri, 24 Nov 2017
 
-"The fact of the matter is, one cannot be both a cultural relativist and a revolutionary. The revolutionary proposes changing the culture. A cultural relativist can never propose such a change. What standard could be used? A cultural relativist, were he honest, would hold his own culture to the same standards as a foreign culture, and say that our laws, traditions, and customs cannot be changed or criticized&mdash;for if the only yardstick of what is considered right or wrong comes from the culture, well, obviously this applies to Christendom (aka Western Culture) as well."&mdash;<a href="http://www.scifiwright.com/2017/11/fooled-by-heinlein-for-fourty-years/" rel="noopener" target="_blank">John C. Wright</a>
+"The fact of the matter is, one cannot be both a cultural relativist and a revolutionary. The revolutionary proposes changing the culture. A cultural relativist can never propose such a change. What standard could be used? A cultural relativist, were he honest, would hold his own culture to the same standards as a foreign culture, and say that our laws, traditions, and customs cannot be changed or criticized&mdash;for if the only yardstick of what is considered right or wrong comes from the culture, well, obviously this applies to Christendom (aka Western Culture) as well."&mdash;[John C. Wright](http://www.scifiwright.com/2017/11/fooled-by-heinlein-for-fourty-years/)
 
 ## Technology Dreams
 Thu, 30 Nov 2017
@@ -756,33 +757,33 @@ Thu, 30 Nov 2017
 
 "When a house has no master living in it, it becomes dark, vile and contemptible, choked with filth and disgusting refuse. So too is a soul which has lost its master, who once rejoiced there with his angels. This soul is darkened with sin, its desires are degraded, and it knows nothing but shame.
 
-"Woe to the path that is not walked on, or along which the voices of men are not heard, for then it becomes the haunt of wild animals. Woe to the soul if the Lord does not walk within it to banish with his voice the spiritual beasts of sin. Woe to the house where no master dwells, to the field where no farmer works, to the pilotless ship, storm-tossed and sinking. Woe to the soul without Christ as its true pilot; drifting in the darkness, buffeted by the waves of passion, storm-tossed at the mercy of evil spirits, its end is destruction. Woe to the soul that does not have Christ to cultivate it with care to produce the good fruit of the Holy Spirit. Left to itself, it is choked with thorns and thistles; instead of fruit it produces only what is fit for burning. Woe to the soul that does not have Christ dwelling in it; deserted and foul with the filth of the passions, it becomes a haven for all the vices."&mdash;<a href="http://blog.adw.org/2017/11/a-culture-without-god-is-adrift-like-a-ship-without-a-pilot/" rel="noopener" target="_blank">St. Macarius, bishop</a>, *Hom. 28: PG 34, 710-711*
+"Woe to the path that is not walked on, or along which the voices of men are not heard, for then it becomes the haunt of wild animals. Woe to the soul if the Lord does not walk within it to banish with his voice the spiritual beasts of sin. Woe to the house where no master dwells, to the field where no farmer works, to the pilotless ship, storm-tossed and sinking. Woe to the soul without Christ as its true pilot; drifting in the darkness, buffeted by the waves of passion, storm-tossed at the mercy of evil spirits, its end is destruction. Woe to the soul that does not have Christ to cultivate it with care to produce the good fruit of the Holy Spirit. Left to itself, it is choked with thorns and thistles; instead of fruit it produces only what is fit for burning. Woe to the soul that does not have Christ dwelling in it; deserted and foul with the filth of the passions, it becomes a haven for all the vices."&mdash;[St. Macarius, bishop](http://blog.adw.org/2017/11/a-culture-without-god-is-adrift-like-a-ship-without-a-pilot/), *Hom. 28: PG 34, 710-711*
 
 ## Its Nature is to Live
 Thu, 30 Nov 2017
 
-"I think we have misunderstood the promise of Christ of the survival of the Church. You can&rsquo;t kill something whose nature it is to live. The Faith is like life itself; life is designed to live. It might not make it in this or that particular place, and it may go through periods of such reduction that we would hardly recognise it, but it can&rsquo;t be killed. Volcanoes make ash that enrich the soil; ice ages spread spores and seeds around the world. Life lives. The Faith is something even stronger."&mdash;<a href="http://whatisupwiththesynod.com/index.php/2017/11/30/you-cant-kill-something-whose-nature-it-is-to-live/" rel="noopener" target="_blank">Hilary White</a>
+"I think we have misunderstood the promise of Christ of the survival of the Church. You can&rsquo;t kill something whose nature it is to live. The Faith is like life itself; life is designed to live. It might not make it in this or that particular place, and it may go through periods of such reduction that we would hardly recognise it, but it can&rsquo;t be killed. Volcanoes make ash that enrich the soil; ice ages spread spores and seeds around the world. Life lives. The Faith is something even stronger."&mdash;[Hilary White](http://whatisupwiththesynod.com/index.php/2017/11/30/you-cant-kill-something-whose-nature-it-is-to-live/)
 
 ## As the Pervnado Turns
 Thu, 30 Nov 2017 22:40:48
 
-"Maybe Trump&rsquo;s voters aren&rsquo;t angry enough yet. It&rsquo;s not just a large number of women our elites have raped and victimized, it&rsquo;s our entire country. Our infrastructure is crumbling, our debt is astronomical, our universities increasingly resemble insane asylums, our largest inner cities are free-fire zones terrorized by a permanent criminal underclass. And what&rsquo;s the elite response? Oh, look, a squirrel&mdash;where the squirrel of the week is carbon emissions, or transgender rights, or railing at &ldquo;white privilege&rdquo;, or whatever other form of virtue signaling might serve to hide the fact that, oh, look, *they put remote-controlled locks on their rape dungeons*."&mdash;<a href="http://esr.ibiblio.org/?p=7767" rel="noopener" target="_blank">Eric Raymond</a>
+"Maybe Trump&rsquo;s voters aren&rsquo;t angry enough yet. It&rsquo;s not just a large number of women our elites have raped and victimized, it&rsquo;s our entire country. Our infrastructure is crumbling, our debt is astronomical, our universities increasingly resemble insane asylums, our largest inner cities are free-fire zones terrorized by a permanent criminal underclass. And what&rsquo;s the elite response? Oh, look, a squirrel&mdash;where the squirrel of the week is carbon emissions, or transgender rights, or railing at &ldquo;white privilege&rdquo;, or whatever other form of virtue signaling might serve to hide the fact that, oh, look, *they put remote-controlled locks on their rape dungeons*."&mdash;[Eric Raymond](http://esr.ibiblio.org/?p=7767)
 By all means, read the whole thing.
 
 ## Lossy Press
 Sat, 02 Dec 2017
 
-"The press is a lossy and biased compression of events in the actual world, and is singularly consumed with its own rituals, status games, and incentives. The news necessarily fails to capture almost everything which happened yesterday. What it says is important usually isn't."&mdash;from "Things Many People Find Too Obvious To Have Told You Already" by <a href="https://threadreaderapp.com/thread/936615043126370306" rel="noopener" target="_blank">Patrick McKenzie</a>
+"The press is a lossy and biased compression of events in the actual world, and is singularly consumed with its own rituals, status games, and incentives. The news necessarily fails to capture almost everything which happened yesterday. What it says is important usually isn't."&mdash;from "Things Many People Find Too Obvious To Have Told You Already" by [Patrick McKenzie](https://threadreaderapp.com/thread/936615043126370306)
 
 ## &ldquo;Senior&rdquo;
 Sat, 02 Dec 2017
 
-"The explosive growth of the tech sector keeps average age down and depresses average wages. Compared to industries which existed in materially the same form in 1970, we have a stupidly compressed experience spectrum: 5+ years rounds to "senior." This is not a joke."&mdash;from "Things Many People Find Too Obvious To Have Told You Already" by <a href="https://threadreaderapp.com/thread/936615043126370306" rel="noopener" target="_blank">Patrick McKenzie</a>
+"The explosive growth of the tech sector keeps average age down and depresses average wages. Compared to industries which existed in materially the same form in 1970, we have a stupidly compressed experience spectrum: 5+ years rounds to "senior." This is not a joke."&mdash;from "Things Many People Find Too Obvious To Have Told You Already" by [Patrick McKenzie](https://threadreaderapp.com/thread/936615043126370306)
 
 ## Not learning to Program
 Sat, 02 Dec 2017
 
-"CS programs have, in the main, not decided that the primary path to becoming a programmer should involve doing material actual programming. There are some exceptions: Waterloo, for example. This is the point where I joke "That's an exhaustive list" but not sure that a joke."&mdash;from "Things Many People Find Too Obvious To Have Told You Already" by <a href="https://threadreaderapp.com/thread/936615043126370306" rel="noopener" target="_blank">Patrick McKenzie</a>
+"CS programs have, in the main, not decided that the primary path to becoming a programmer should involve doing material actual programming. There are some exceptions: Waterloo, for example. This is the point where I joke "That's an exhaustive list" but not sure that a joke."&mdash;from "Things Many People Find Too Obvious To Have Told You Already" by [Patrick McKenzie](https://threadreaderapp.com/thread/936615043126370306)
 
 ## Secular Civilization
 Fri, 15 Dec 2017
@@ -797,7 +798,7 @@ Sun, 17 Dec 2017
 ## The Altar of Love
 Mon, 18 Dec 2017
 
-"Where there is no giving of one self, one can only love the physical attributes of the other. Poets and philosophers have filled many volumes musing about the fleeting beauty of youth. Those who can only love that surface shine will soon grow bored. That boredom will be followed by some sort of hate or indifference. Those who love the soul are different because for them, their youth is a sacrificial present, an oblation offered in the altar of love. The men and women of God conquer each other not by possession  but by surrendering and becoming part of the beloved."&mdash;<a href="https://casorosendi.wordpress.com/2017/12/18/the-days-of-wormwood/" rel="noopener" target="_blank">Carlos Caso_Rosendi</a>
+"Where there is no giving of one self, one can only love the physical attributes of the other. Poets and philosophers have filled many volumes musing about the fleeting beauty of youth. Those who can only love that surface shine will soon grow bored. That boredom will be followed by some sort of hate or indifference. Those who love the soul are different because for them, their youth is a sacrificial present, an oblation offered in the altar of love. The men and women of God conquer each other not by possession  but by surrendering and becoming part of the beloved."&mdash;[Carlos Caso-Rosendi](https://casorosendi.wordpress.com/2017/12/18/the-days-of-wormwood/)
 
 ## Extraordinary Decency
 Mon, 18 Dec 2017
@@ -807,7 +808,7 @@ Mon, 18 Dec 2017
 ## Sentimentality
 Tue, 19 Dec 2017
 
-"Call me a sentimentalist, but I liked the days when FBI agents went undercover as subversives better than today when subversives go undercover as FBI agents."&mdash;<a href="https://spectator.org/fbi-gate-deep-state-in-deep-spit/" rel="noopener" target="_blank">Daniel J. Flynn</a>
+"Call me a sentimentalist, but I liked the days when FBI agents went undercover as subversives better than today when subversives go undercover as FBI agents."&mdash;[Daniel J. Flynn](https://spectator.org/fbi-gate-deep-state-in-deep-spit/)
 
 ## Clay
 Sat, 23 Dec 2017
@@ -817,7 +818,7 @@ Sat, 23 Dec 2017
 ## Gender
 Tue, 26 Dec 2017
 
-"I want everyone to stop using the word &ldquo;gender&rdquo; for anything other than masculine and feminine nouns. I am male. I am of the male sex. I am not of the male gender.  You do not have choice in participating in your sexual  identity, contrary to all fashionable nonsense of the era. &ldquo;Gender&rdquo; is akin to the Marxist use of the word &ldquo;exploitation&rdquo;. It is ideologically loaded; it is nonsense on stilts. Biology is not a social construct."&mdash;Written by one of those bloggers who, for whatever reason, won't use a "real" name. Found <a href="http://www.barrelstrength.com/2017/12/20/deconstructing-jordan-peterson/" rel="noopener" target="_blank">here</a>.
+"I want everyone to stop using the word &ldquo;gender&rdquo; for anything other than masculine and feminine nouns. I am male. I am of the male sex. I am not of the male gender.  You do not have choice in participating in your sexual identity, contrary to all fashionable nonsense of the era. &ldquo;Gender&rdquo; is akin to the Marxist use of the word &ldquo;exploitation&rdquo;. It is ideologically loaded; it is nonsense on stilts. Biology is not a social construct."&mdash;Written by one of those bloggers who, for whatever reason, won't use a "real" name. Found [here.](http://www.barrelstrength.com/2017/12/20/deconstructing-jordan-peterson/)
 
 Oh, and by the way, I agree totally and unreservedly. I'm certainly open to the thought that we need to be willing for men and women to dress, walk and talk in ways other than how John Wayne or Rita Hayworth dressed, walked and talked, but let's be serious. Once a man, always a man. And vice versa.
 
