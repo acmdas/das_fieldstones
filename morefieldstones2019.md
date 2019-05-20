@@ -1,3 +1,4 @@
+
 # More Fieldstones 2019
 [Home](./index.html)
 
@@ -203,7 +204,7 @@ Mon, 11 Mar 2019
 ## Ressentiment
 Sun, 17 Mar 2019
 
-&ldquo;Ressentiment is a self-poisoning of the mind which has quite definite causes and consequences. It is a lasting mental attitude, caused by the systematic repression of certain emotions and affects which, as such, are normal components of human nature. Their repression leads to the constant tendency to indulge in certain kinds of value delusions and corresponding value judgments. The emotions and affects primarily concerned are revenge, hatred, malice, envy, the impulse to detract, and spite.&rdquo;&mdash;Max Scheler {*Ressentiment*](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Scheller/Ressentiment.pdf)
+&ldquo;Ressentiment is a self-poisoning of the mind which has quite definite causes and consequences. It is a lasting mental attitude, caused by the systematic repression of certain emotions and affects which, as such, are normal components of human nature. Their repression leads to the constant tendency to indulge in certain kinds of value delusions and corresponding value judgments. The emotions and affects primarily concerned are revenge, hatred, malice, envy, the impulse to detract, and spite.&rdquo;&mdash;Max Scheler [*Ressentiment*](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Scheller/Ressentiment.pdf)
 
 H/T [Francis Berger](https://www.francisberger.com/bergers-blog/resentment-the-hate-fueling-contemporary-conceptions-of-love)
 

@@ -15,7 +15,7 @@ So, to wrap this one up, I just might be putting stuff of interest, and even the
 ## Twitter and Me and Very Strange Business Decisions
 Sat, 21 Jan 2017
 
-I had a Twitter account very early on. It's deleted now, and all the related emails that I've gotten from Twitter, so I'm not sure exactly when, but sometime in 2008. I "tweeted" maybe twice or three times before this summer, then I discovered <a href="http://thestrobist.com" target="_blank">The Strobist</a> site and got excited about moving beyond "available light" photography. The Strobist has an amazing amount of information, including detailed tutorials, on using off-camera flash. Great resource, strongly recommended, but this is about Twitter. Sort of.
+I had a Twitter account very early on. It's deleted now, and all the related emails that I've gotten from Twitter, so I'm not sure exactly when, but sometime in 2008. I "tweeted" maybe twice or three times before this summer, then I discovered [The Strobist](http://thestrobist.com) site and got excited about moving beyond "available light" photography. The Strobist has an amazing amount of information, including detailed tutorials, on using off-camera flash. Great resource, strongly recommended, but this is about Twitter. Sort of.
 
 David Hobby, aka "The Strobist", decided some time ago to disable comments and move all communications with his viewers to Twitter, so I got on board to thank him for his generosity, and to ask a few questions. He responded generously and quickly every time, and all was right with the world. Since I'm not an habitual Tweeter (twitterer?) that was it until last week, when I got Yet Another weekly email from Twitter telling me how much I was missing by not logging in and tweeting. It was a slow day (they almost all are now) and David and Joe McNally and some other folks whose names I didn't recognize were bemoaning the demise of everything good an bright in the world as we know it, or as we knew it, or something like that. And scrolling back, it had been like that pretty much since the election (yes, That election). Like on Facebook. Except I don't get any pictures of my Great Grandsons on Twitter. So I shit-canned it. Nuked from orbit. Over after all these years.
 
@@ -40,7 +40,7 @@ Mon, 13 Feb 2017
 
 &ldquo;A new species of philosopher is appearing; I venture to baptize these philosophers with a name not without danger in it. As I divine them, as they let themselves be divined&mdash;for it pertains to their nature to want to remain a riddle in some respects&mdash;these philosophers of the future, in many respects, might rightly, but perhaps also wrongly, be described as attempters. This name itself is in the end only an attempt, and, if you will, a temptation.&rdquo;&mdash;Nietzsche, Beyond Good and Evil, ## 42.
 
-Seen at <a href="http://www.catholicworldreport.com/Item/5415/divine_revelation_and_the_standards_of_the_future.aspx" target="_blank">The Catholic World Report</a> linked from David Warren's <a href="http://www.davidwarrenonline.com/2017/02/12/septuagesima/?owa_medium=feed&amp;owa_sid=" target="_blank">Essays in Idleness</a>.
+Seen at [*The Catholic World Repor*](http://www.catholicworldreport.com/Item/5415/divine_revelation_and_the_standards_of_the_future.aspx) linked from David Warren's [Essays in Idleness](http://www.davidwarrenonline.com/2017/02/12/septuagesima/)
 
 ## The Head Comes Loose...
 Mon, 13 Feb 2017
@@ -49,25 +49,27 @@ One character I think of&mdash;having known a long time&mdash;provides an especi
 
 The head comes loose, when the heart is not screwed in.
 
-Again from David Warren's <a href="http://www.davidwarrenonline.com/2017/02/13/brain-disease/" target="_blank">Essays in Idleness</a>.
+Again from David Warren's [Essays in Idleness](http://www.davidwarrenonline.com/2017/02/13/brain-disease/)
 
 ## Truth to Power?
 Tue, 14 Feb 2017
 
 When you tell people what they want to hear, you don't have to be too careful about premises, facts, and conclusions.&mdash;Angelo M. Codevilla
+
 What do we call those people in a society who are licensed or allowed to use violence? 
 
 No hints this time. *We call these the people in charge*.&mdash;William M. Briggs
 
-I found the Codevilla quote at Mike Flynn's <a href="http://tofspot.blogspot.com/2017/02/rule-of-law.html" target="_blank">The TOF Spot</a>, and the Briggs quote at this <a href="https://stream.org/really-climate-violence-campuses/" target="_blank">Stream page</a>.
+I found the Codevilla quote at Mike Flynn's [The TOF Spot](http://tofspot.blogspot.com/2017/02/rule-of-law.html), and the Briggs quote at this [Stream page](https://stream.org/really-climate-violence-campuses/)
 
 ## When I Was A Kid...
 Tue, 14 Feb 2017
 
 <a href="http://www.consultingsmiths.com/wp-content/uploads/2017/02/tumblr_mg4aen5f3a1r53nlzo1_500.jpg"><img src="http://www.consultingsmiths.com/wp-content/uploads/2017/02/tumblr_mg4aen5f3a1r53nlzo1_500-245x300.jpg" alt="" width="490" height="600" class="alignnone size-medium wp-image-545" /></a>
+
 Dan Gurney, Nurburgring 1000Km, 1959.
 
-Ferrari 250 Testa Rosa 58, Scuderia Ferrari, ## 5, 5th place.
+Ferrari 250 Testa Rosa 58, Scuderia Ferrari, # 5, 5th place.
 
 Won by the Moss/Fairman David Brown Aston Martin DBR1.
 
