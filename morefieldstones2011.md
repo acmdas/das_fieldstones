@@ -1,50 +1,51 @@
-
-# More Fieldstones
+# More Fieldstones 2011
+[Home](./index.html)
 
 ## Real Science
-Fri, 21 Jan 2011 22:32:40
+Fri, 21 Jan 2011
 
 Real science looks at data, makes falsifiable predictions, and attempts to falsify or confirm those predictions. The rest is &ldquo;other forces at work.&rdquo; <a href="http://www.jerrypournelle.com/mail/2011/Q1/mail658.html## climate">Jerry Pournelle</a>
 
 ## Good or Better?
-Tue, 25 Jan 2011 17:08:47
+Tue, 25 Jan 2011
 
-When everything is good enough, it takes work to discover what&rsquo;s better, and better is often a matter of whim and preference anyway. -- <a href="http://www.chaosmanorreviews.com//oa/2011/20110124_col.php">Jerry Pournelle</a>
+When everything is good enough, it takes work to discover what&rsquo;s better, and better is often a matter of whim and preference anyway.&mdash;<a href="http://www.chaosmanorreviews.com//oa/2011/20110124_col.php">Jerry Pournelle</a>
 
 ## Scientific Religion
-Tue, 01 Feb 2011 02:33:29
+Tue, 01 Feb 2011
 
 So far neither Dark Energy nor the Multiverse seem to generate falsifiable hypotheses, removing them from science and relegating them to religion. I cheerfully admit that in the absence of evidence I prefer the religion I grew up with to these new ones, but perhaps I am insufficiently flexible in my views.&mdash;<a href="http://www.jerrypournelle.com/mail/2011/Q1/mail660.html## Monday">Jerry Pournelle</a>
 
 ## Discriminating
-Tue, 22 Feb 2011 20:31:19
+Tue, 22 Feb 2011
 
-The way to stop discrimination on the basis of race is to stop discriminating on the basis of race. -- Chief Justice John Roberts (<a href="http://www.law.cornell.edu/supct/html/05-908.ZO.html">Parents Involved In Community Schools v. Seattle School Dist. No. 1</a> [June 28, 2007])
+The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.&mdash;Chief Justice John Roberts (<a href="http://www.law.cornell.edu/supct/html/05-908.ZO.html">Parents Involved In Community Schools v. Seattle School Dist. No. 1</a> [June 28, 2007])
 
 ## Normal
-Mon, 28 Feb 2011 22:33:00
+Mon, 28 Feb 2011
 
 Anything that is in the world when you&rsquo;re born is normal and ordinary and is just a natural part of the way the world works. Anything that&rsquo;s invented between when you&rdquo;re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you&rdquo;re thirty-five is against the natural order of things.&mdash;Douglas Adams, &ldquo;The Salmon of Doubt&rdquo;
 
 ## Relief
-Fri, 15 Apr 2011 21:17:31
+Fri, 15 Apr 2011
 
 In life I know, there is lots of grief,<br>
-But your love is my relief. -- Bob Marley
+But your love is my relief.&mdash;Bob Marley
 
 ## Marvels
-Wed, 01 Jun 2011 16:26:32
+Wed, 01 Jun 2011
 
-The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments. -- George Washington
+The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments.&mdash;George Washington
 
 ## Despair as Pride
-Wed, 25 May 2011 17:33:42
+Wed, 25 May 2011
 
 Despair is the absolute extreme of self-love.
-Despair is the ultimate development of a pride so great and so stiff-necked that it selects the absolute misery of damnation rather than accept happiness from the hands of God and thereby acknowledge that [God] is above us. -- Thomas Merton (1961)
+
+Despair is the ultimate development of a pride so great and so stiff-necked that it selects the absolute misery of damnation rather than accept happiness from the hands of God and thereby acknowledge that /[God/] is above us.&mdash;Thomas Merton (1961)
 
 ## Portable Devices and PHI
-Thu, 07 Jul 2011 17:15:55
+Thu, 07 Jul 2011
 
 I recently sent the following to a behavioral health researcher who was planning to develop a mobile application for clinicians that would include client information&mdash;I believe that it may be of interest to others who are considering the use of smart phones and laptops in their clinical practice:
 
@@ -55,7 +56,9 @@ I recently sent the following to a behavioral health researcher who was planning
 "In our particular application, then, we must look at two concerns:
 
 - Will we be putting PHI at an unusual risk; and
+
 - Will we be able to readily convince the reviewers at SAMHSA that our product is adequately secure.
+
 "We all have heard about high-profile security breaches caused by sensitive data being stored on a portable device (typically a laptop) which is then either left in a public place or is stolen from a car or home. Credit card companies, hospitals and nuclear weapons laboratories have all found themselves on the front pages in recent years in this way, and they are never able to explain the breach away&mdash;because it is indefensible that the data in question were ever stored on a portable device in the first place.
 
 "Portable devices are by their nature insecure. When we designed [a recent online assessment system], like any system designed to protect sensitive data, we designed "rings" of protection. The data were encrypted. Access to the servers both from the Internet and from within the data center was carefully restricted. And finally, physical access to the server devices was controlled in the most rigorous manner. This is, obviously, not possible with a laptop in the back seat of a car, in a hotel room or a living room table. This is even less possible with a cell phone, which will tend to be on its user's person most of their waking hours and can be dropped or stolen as easily as a wallet or a pair of glasses.
@@ -68,9 +71,10 @@ I recently sent the following to a behavioral health researcher who was planning
 
 
 ## It&#039;s Not Your Computer Anymore
-Wed, 31 Aug 2011 18:44:33
+Wed, 31 Aug 2011
 
-Over at Microsoft's Technet site, the folks at their Security Response Center have posted the "<a href="http://technet.microsoft.com/en-us/library/cc722487.aspx" target="_blank">10 Immutable Laws of Security</a>."
+Over at Microsoft's Technet site, the folks at their Security Response Center have posted the [10 Immutable Laws of Security](http://technet.microsoft.com/en-us/library/cc722487.aspx)
+
 Admittedly, it only covers security for computers (and remember, that means your cell phone and tablet) and websites, but it's still very worth reviewing. There's nothing new, nothing arcane there, but they are the cold, hard facts that we all have to remember if we make any pretense of caring about our clients' privacy. Simple things, like "If a bad guy can persuade you to run his program on your computer, it's not your computer anymore."
 Do you have client phone numbers on your iPhone? Have you installed any apps?
 Think about it. Seriously.
