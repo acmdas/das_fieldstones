@@ -532,3 +532,14 @@ Mon, 20 May 2019
 “I have an idea that some men are born out of their due place. Accident has cast them amid strangers in their birthplace, and the leafy lanes they have known from childhood or the populous streets in which they have played, remain but a place of passage. they may spend their whole lives aliens among their kindred and remain aloof among the only scenes they have ever known. Perhaps it is this sense of strangeness that sends men far and wide in the search for something permanent, to which they may attach themselves. Perhaps some deep-rooted atavism urges the wanderer back to lands which his ancestors left in the dim beginnings of history. Sometimes a man hits upon a place to which he mysteriously feels that he belongs. Here is the home he sought, and he will settle amid scenes that he has never seen before, among men he has never known, as though they were familiar to him from his birth. Here at last he finds rest.”&mdash; W. Somerset Maugham, *The Moon and Sixpence* 1919
 
 h/t to [Sarah Hoyt](https://accordingtohoyt.com/2019/05/20/above-our-own-dignity/)
+
+## Observations
+Mon, 20 May 2019
+
+&ldquo;The Church is not in crisis, as Cardinal Sarah was saying the other day. We are in crisis. The Devil wants us to think that God has abandoned His Church. He hasn’t. In fact, He can’t, if I may add my theological understanding of the matter. I like to quote Joan of Arc: “About Jesus Christ and the Church, I simply know they’re just one thing, and we shouldn’t complicate the matter.” It is only when we redefine the Church, to be something it is not, that complications arise.&rdquo;&mdash;[David Warren](https://www.davidwarrenonline.com/2019/05/20/depends-what-you-mean-by-is/)
+
+## Going Through the Motions
+Mon, 20 May 2019
+
+&ldquo;Even going through the motions has value, when the motions are in service to a cause that is divine. Inspiration is anyway for special occasions. The Mass is valid, when we go through the motions; it was actually designed to be hard to invalidate. We needn’t bother our little heads with whether the priest is worthy. That is his business. We need only ask if we are in any way adequate to receive the Host, for the consequences of my not being worthy do not fall upon anyone else, except tangentially; and neither can my guilt be transferred to my neighbour.&rdquo;&mdash;[David Warren](https://www.davidwarrenonline.com/2019/05/20/depends-what-you-mean-by-is/)
+
