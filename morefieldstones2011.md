@@ -24,7 +24,7 @@ The way to stop discrimination on the basis of race is to stop discriminating on
 ## Normal
 Mon, 28 Feb 2011
 
-Anything that is in the world when you&rsquo;re born is normal and ordinary and is just a natural part of the way the world works. Anything that&rsquo;s invented between when you&rdquo;re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you&rdquo;re thirty-five is against the natural order of things.&mdash;Douglas Adams, &ldquo;The Salmon of Doubt&rdquo;
+Anything that is in the world when you&rsquo;re born is normal and ordinary and is just a natural part of the way the world works. Anything that&rsquo;s invented between when you&rdquo;re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you&rsquo;re thirty-five is against the natural order of things.&mdash;Douglas Adams, *The Salmon of Doubt*
 
 ## Relief
 Fri, 15 Apr 2011
@@ -42,7 +42,7 @@ Wed, 25 May 2011
 
 Despair is the absolute extreme of self-love.
 
-Despair is the ultimate development of a pride so great and so stiff-necked that it selects the absolute misery of damnation rather than accept happiness from the hands of God and thereby acknowledge that /[God/] is above us.&mdash;Thomas Merton (1961)
+Despair is the ultimate development of a pride so great and so stiff-necked that it selects the absolute misery of damnation rather than accept happiness from the hands of God and thereby acknowledge that God is above us.&mdash;Thomas Merton (1961)
 
 ## Portable Devices and PHI
 Thu, 07 Jul 2011
