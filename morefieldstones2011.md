@@ -30,7 +30,7 @@ Anything that is in the world when you&rsquo;re born is normal and ordinary and 
 Fri, 15 Apr 2011
 
 In life I know, there is lots of grief,<br>
-But your love is my relief.&mdash;Bob Marley
+But your love is my relief.&mdash;Bob Marley *Wait In Vain*
 
 ## Marvels
 Wed, 01 Jun 2011
