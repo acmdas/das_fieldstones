@@ -4,22 +4,22 @@
 ## Real Science
 Fri, 21 Jan 2011
 
-Real science looks at data, makes falsifiable predictions, and attempts to falsify or confirm those predictions. The rest is &ldquo;other forces at work.&rdquo; <a href="http://www.jerrypournelle.com/mail/2011/Q1/mail658.html## climate">Jerry Pournelle</a>
+Real science looks at data, makes falsifiable predictions, and attempts to falsify or confirm those predictions. The rest is &ldquo;other forces at work.&rdquo;[Jerry Pournelle](http://www.jerrypournelle.com/mail/2011/Q1/mail658.html)
 
 ## Good or Better?
 Tue, 25 Jan 2011
 
-When everything is good enough, it takes work to discover what&rsquo;s better, and better is often a matter of whim and preference anyway.&mdash;<a href="http://www.chaosmanorreviews.com//oa/2011/20110124_col.php">Jerry Pournelle</a>
+When everything is good enough, it takes work to discover what&rsquo;s better, and better is often a matter of whim and preference anyway.&mdash;[Jerry Pournelle](https://chaosmanorreviews.org/oa/2011/20110124_col.php)
 
 ## Scientific Religion
 Tue, 01 Feb 2011
 
-So far neither Dark Energy nor the Multiverse seem to generate falsifiable hypotheses, removing them from science and relegating them to religion. I cheerfully admit that in the absence of evidence I prefer the religion I grew up with to these new ones, but perhaps I am insufficiently flexible in my views.&mdash;<a href="http://www.jerrypournelle.com/mail/2011/Q1/mail660.html## Monday">Jerry Pournelle</a>
+So far neither Dark Energy nor the Multiverse seem to generate falsifiable hypotheses, removing them from science and relegating them to religion. I cheerfully admit that in the absence of evidence I prefer the religion I grew up with to these new ones, but perhaps I am insufficiently flexible in my views.&mdash;[Jerry Pournelle](http://www.jerrypournelle.com/mail/2011/Q1/mail660.html##)
 
 ## Discriminating
 Tue, 22 Feb 2011
 
-The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.&mdash;Chief Justice John Roberts (<a href="http://www.law.cornell.edu/supct/html/05-908.ZO.html">Parents Involved In Community Schools v. Seattle School Dist. No. 1</a> [June 28, 2007])
+The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.&mdash;Chief Justice John Roberts [Parents Involved In Community Schools v. Seattle School Dist. No. 1](http://www.law.cornell.edu/supct/html/05-908.ZO.html) June 28, 2007
 
 ## Normal
 Mon, 28 Feb 2011
