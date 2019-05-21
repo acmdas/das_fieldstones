@@ -5,35 +5,35 @@ Sun, 11 Sep 2016 00:58:53
 
 It's a stretch to remember what concerned me fifteen years ago, on September 10, 2001.
 
-William Butler Yeats wrote <em>Easter, 1916</em> in part describing Easter Sunday, April 23, 1916, the day before the Easter Rising, and how after Easter Monday:
+William Butler Yeats wrote *Easter, 1916* in part describing Easter Sunday, April 23, 1916, the day before the Easter Rising, and how after Easter Monday:
 
-	He, too, has resigned his part
+He, too, has resigned his part
 
-	In the casual comedy;
+In the casual comedy;
 
-	He, too, has been changed in his turn,
+He, too, has been changed in his turn,
 
-	nbsp;Transformed utterly:
+Transformed utterly:
 
-	nbsp;A terrible beauty is born.
+A terrible beauty is born.
 
-And W. H. Auden, in <em>September 1, 1939</em> covered the same ground as Germany poised to invade Poland:
+And W. H. Auden, in *September 1, 1939* covered the same ground as Germany poised to invade Poland:
 
-	Uncertain and afraid
+Uncertain and afraid
 
-	As the clever hopes expire
+As the clever hopes expire
 
-	Of a low dishonest decade:
+Of a low dishonest decade:
 
-	Waves of anger and fear
+Waves of anger and fear
 
-	Circulate over the bright
+Circulate over the bright
 
-	And darkened lands of the earth,
+And darkened lands of the earth,
 
-	Obsessing our private lives;
+Obsessing our private lives;
 
-	The unmentionable odour of death.
+The unmentionable odour of death.
 
 I can't help noticing a significant difference that we face today, however.
 

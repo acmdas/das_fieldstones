@@ -1,4 +1,3 @@
-
 # More Fieldstones 2019
 [Home](./index.html)
 
