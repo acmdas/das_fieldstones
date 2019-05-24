@@ -35,7 +35,7 @@ I had no idea. Did you?
 
 Have you found the poem describing September 10, 2001? Is it too soon?
 
-h/t to Gerard Van der Leun
+h/t to Gerard Vanderleun
 
 ## Why Add to a Blog in 2016?
 Thu, 22 Sep 2016 20:46:41
