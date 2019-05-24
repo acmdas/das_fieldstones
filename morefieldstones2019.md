@@ -29,6 +29,7 @@ Reminds me of the AA saying, &ldquo;Good thing that God&rsquo;s love is greater 
 Sun, 13 Jan 2019
 
 &ldquo;The intelligentsia was driven to create literary modernism by a profound loathing of ordinary common readers. The intellectuals feared the masses not because they were illiterate but because, by the early twentieth century, they were becoming more literate, thanks to public education, adult education, scholarships, and cheap editions of the great books.
+
 &ldquo;If more and more working people were reading the classics, if they were closing the cultural gap between themselves and the middle classes, how could intellectuals preserve their elite status as arbiters of taste and custodians of rare knowledge? They had to create a new body of modernist literature which was deliberately made so difficult and obscure that the average reader did not understand it.&rdquo;&mdash;[Jonathan Rose](https://daily.jstor.org/was-modernism-meant-to-keep-the-working-classes-out/)
 
 This explains Virginia Woolf, Stein and Pound. And a lot of Joyce, Kafka, Eliot. Not to mention a lot of newer stuff. Or is it just me?
