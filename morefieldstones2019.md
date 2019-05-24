@@ -543,3 +543,12 @@ Mon, 20 May 2019
 
 &ldquo;Even going through the motions has value, when the motions are in service to a cause that is divine. Inspiration is anyway for special occasions. The Mass is valid, when we go through the motions; it was actually designed to be hard to invalidate. We needn’t bother our little heads with whether the priest is worthy. That is his business. We need only ask if we are in any way adequate to receive the Host, for the consequences of my not being worthy do not fall upon anyone else, except tangentially; and neither can my guilt be transferred to my neighbour.&rdquo;&mdash;[David Warren](https://www.davidwarrenonline.com/2019/05/20/depends-what-you-mean-by-is/)
 
+## Still Hated After All These Years
+Thu, 23 May 2019
+
+&ldquo;What greater proof of his divinity could there be than the fact that he is still resisted, even hated, after 2,000 years? Nobody hates Julius Caesar anymore; it’s pretty hard even to hate Attila the Hun, who left a lot of hard feelings in his day. But the world still hates Christ and his Church.&rdquo;&mdash;Joseph Sobran, *Subtracting Christianity: Essays on American Culture and Society*
+
+## So Few, So Many
+Thu, 23 May 2019
+
+&ldquo;When we jumped into Sicily, the units became separated, and I couldn’t find anyone. Eventually I stumbled across two colonels, a major, three captains, two lieutenants, and one rifleman, and we secured the bridge. Never in the history of war have so few been led by so many.&rdquo;&mdash;—General James Gavin, quoted in Jerry Pournelle and Larry Niven *Oath of Fealty8
