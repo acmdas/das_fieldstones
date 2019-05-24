@@ -551,9 +551,14 @@ Thu, 23 May 2019
 ## So Few, So Many
 Thu, 23 May 2019
 
-&ldquo;When we jumped into Sicily, the units became separated, and I couldn’t find anyone. Eventually I stumbled across two colonels, a major, three captains, two lieutenants, and one rifleman, and we secured the bridge. Never in the history of war have so few been led by so many.&rdquo;&mdash;General James Gavin, quoted in Jerry Pournelle and Larry Niven *Oath of Fealty8
+&ldquo;When we jumped into Sicily, the units became separated, and I couldn’t find anyone. Eventually I stumbled across two colonels, a major, three captains, two lieutenants, and one rifleman, and we secured the bridge. Never in the history of war have so few been led by so many.&rdquo;&mdash;General James Gavin, quoted in Jerry Pournelle and Larry Niven *Oath of Fealty*
 
 ## Rebirth
 Thu, 23 May 2019
 
 &ldquo;In his book The Everlasting Man, G. K. Chesterton describes the power of orthodoxy to renew itself, in a chapter titled “Five Deaths of the Faith.” Christianity, he tells us, was never really reborn, because it never really died. The cultures it lived in died, so Christianity was rediscovered five times in the history of the West, as one cultural epoch was superseded by another. This happened after the fall of Rome, then in the twelfth century at the end of the feudal era, again when the medieval synthesis gave way to the secular energies of the Renaissance, again when the Renaissance fell to the new rationalism of the Enlightenment, and yet again as Enlightenment values have begun to dissolve with the arrival of our postindustrial age.&rdquo;&mdash;G. K. Chesterton, *The Everlasting Man*, 250 quoted in Robert Inchausti, *Subversive Orthodoxy*, 16
+
+## Eckhart
+Thu, 23 May 2019
+
+&ldquo;Eckhart had neither the desire to take aught away from the content of Christianity, nor the wish to add anything to it; but he desired to bring forward this content anew in his own way. It forms no part of the spiritual needs of a personality such as he was to set up new truths of this or the other kind in the place of old ones. Such a personality has grown completely intertwined with the content which it has received from tradition; but it craves to give to this content a new form, a new life.&rdquo;&mdash;Rudolf Steiner, *Mystics of the Renaissance*
