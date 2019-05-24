@@ -27,7 +27,7 @@ And W. H. Auden, in *September 1, 1939* covered the same ground as Germany poise
 
 I can't help noticing a significant difference that we face today, however.
 
-The Irish Republic was established three years after the Rising, and WWII had come to an end in just under six years after the invasion of Poland, long, terrible years that they were in both cases, but the still the denouement was achieved.
+The Irish Republic was established three years after the Rising, and WWII had come to an end in just under six years after the invasion of Poland, long, terrible years that they were in both cases, but still the denouement was achieved.
 
 And here we are, fifteen years later.
 
