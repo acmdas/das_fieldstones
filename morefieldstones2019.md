@@ -551,4 +551,9 @@ Thu, 23 May 2019
 ## So Few, So Many
 Thu, 23 May 2019
 
-&ldquo;When we jumped into Sicily, the units became separated, and I couldn’t find anyone. Eventually I stumbled across two colonels, a major, three captains, two lieutenants, and one rifleman, and we secured the bridge. Never in the history of war have so few been led by so many.&rdquo;&mdash;—General James Gavin, quoted in Jerry Pournelle and Larry Niven *Oath of Fealty8
+&ldquo;When we jumped into Sicily, the units became separated, and I couldn’t find anyone. Eventually I stumbled across two colonels, a major, three captains, two lieutenants, and one rifleman, and we secured the bridge. Never in the history of war have so few been led by so many.&rdquo;&mdash;General James Gavin, quoted in Jerry Pournelle and Larry Niven *Oath of Fealty8
+
+## Rebirth
+Thu, 23 May 2019
+
+&ldquo;In his book The Everlasting Man, G. K. Chesterton describes the power of orthodoxy to renew itself, in a chapter titled “Five Deaths of the Faith.” Christianity, he tells us, was never really reborn, because it never really died. The cultures it lived in died, so Christianity was rediscovered five times in the history of the West, as one cultural epoch was superseded by another. This happened after the fall of Rome, then in the twelfth century at the end of the feudal era, again when the medieval synthesis gave way to the secular energies of the Renaissance, again when the Renaissance fell to the new rationalism of the Enlightenment, and yet again as Enlightenment values have begun to dissolve with the arrival of our postindustrial age.&rdquo;&mdash;G. K. Chesterton, *The Everlasting Man*, 250 quoted in Robert Inchausti, *Subversive Orthodoxy*, 16
