@@ -9,21 +9,21 @@ It's a stretch to remember what concerned me fifteen years ago, on September 10,
 William Butler Yeats wrote *Easter, 1916* in part describing Easter Sunday, April 23, 1916, the day before the Easter Rising, and how after Easter Monday:
 
 &nbsp;&nbsp;He, too, has resigned his part</br>
-In the casual comedy;</br>
-He, too, has been changed in his turn,</br>
-Transformed utterly:</br>
-A terrible beauty is born.</br>
+&nbsp;&nbsp;In the casual comedy;</br>
+&nbsp;&nbsp;He, too, has been changed in his turn,</br>
+&nbsp;&nbsp;Transformed utterly:</br>
+&nbsp;&nbsp;A terrible beauty is born.</br>
 
 And W. H. Auden, in *September 1, 1939* covered the same ground as Germany poised to invade Poland:
 
 &nbsp;&nbsp;Uncertain and afraid</br>
-As the clever hopes expire</br>
-Of a low dishonest decade:</br>
-Waves of anger and fear</br>
-Circulate over the bright</br>
-And darkened lands of the earth,</br>
-Obsessing our private lives;</br>
-The unmentionable odour of death.</br>
+&nbsp;&nbsp;As the clever hopes expire</br>
+&nbsp;&nbsp;Of a low dishonest decade:</br>
+&nbsp;&nbsp;Waves of anger and fear</br>
+&nbsp;&nbsp;Circulate over the bright</br>
+&nbsp;&nbsp;And darkened lands of the earth,</br>
+&nbsp;&nbsp;Obsessing our private lives;</br>
+&nbsp;&nbsp;The unmentionable odour of death.</br>
 
 I can't help noticing a significant difference that we face today, however.
 
