@@ -564,3 +564,8 @@ Thu, 23 May 2019
 Thu, 23 May 2019
 
 &ldquo;Eckhart had neither the desire to take aught away from the content of Christianity, nor the wish to add anything to it; but he desired to bring forward this content anew in his own way. It forms no part of the spiritual needs of a personality such as he was to set up new truths of this or the other kind in the place of old ones. Such a personality has grown completely intertwined with the content which it has received from tradition; but it craves to give to this content a new form, a new life.&rdquo;&mdash;Rudolf Steiner, *Mystics of the Renaissance*
+
+## No Matter
+Sat, 25 May 2019
+
+&ldquo;But there is one thing that is infinitely more absurd and unpractical than burning a man for his philosophy. This is the habit of saying that his philosophy does not matter, and this is done universally in the twentieth century, in the decadence of the great revolutionary period.&rdquo;&mdash;G.K. Chesterton, *Heretics*
