@@ -569,3 +569,13 @@ Thu, 23 May 2019
 Sat, 25 May 2019
 
 &ldquo;But there is one thing that is infinitely more absurd and unpractical than burning a man for his philosophy. This is the habit of saying that his philosophy does not matter, and this is done universally in the twentieth century, in the decadence of the great revolutionary period.&rdquo;&mdash;G.K. Chesterton, *Heretics*
+
+## Smart Dogs
+Sat, 25 May 2019
+
+&ldquo;It&rsquo;s like this: It takes a smart dog to hunt birds, but it takes a hunter behind him to keep him from wasting time chasing rabbits. And the hunter needs to know nearly as much as the dog.&rdquo;&mdash;Robert A. Heinlein, *Solution Unsatisfactory*
+
+## Two Ways
+Sat, 25 May 2019
+
+&ldquo;There are but two ways of forming an opinion in science. One is the scientific method; the other, the scholastic. One can judge from experiement, or one can blindly accept authority. To the scientific mind, experimental proof is all-important, and theory is merely a convenience in description, to be junked when it no lo0nger fits. To the academic mind, authority is everything, and facts are junked when they do not fit theory laid down by authority.&rdquo;&mdash;Robert A. Heinlein, *Life-Line*
