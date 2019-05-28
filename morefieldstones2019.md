@@ -579,3 +579,8 @@ Sat, 25 May 2019
 Sat, 25 May 2019
 
 &ldquo;There are but two ways of forming an opinion in science. One is the scientific method; the other, the scholastic. One can judge from experiement, or one can blindly accept authority. To the scientific mind, experimental proof is all-important, and theory is merely a convenience in description, to be junked when it no lo0nger fits. To the academic mind, authority is everything, and facts are junked when they do not fit theory laid down by authority.&rdquo;&mdash;Robert A. Heinlein, *Life-Line*
+
+## Facts
+Tue, 28 May 2019
+
+Facts don't care about your theories,&mdash; [Ben Hunt](https://www.epsilontheory.com/a-song-of-ice-and-fire/)
