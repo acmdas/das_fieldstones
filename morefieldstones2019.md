@@ -584,3 +584,12 @@ Sat, 25 May 2019
 Tue, 28 May 2019
 
 Facts don't care about your theories,&mdash; [Ben Hunt](https://www.epsilontheory.com/a-song-of-ice-and-fire/)
+
+## Over and Next
+Thu, 30 May 2019
+
+The two most important words are &lsquo;over&rsquo; and &lsquo;next&rsquo;.
+
+When something&rsquo;s over, move on to what&rsquo;s next.
+
+If there was a hammock between over and next, that would be what living in the now would mean.&mdash;Norman Lear (age 93)
