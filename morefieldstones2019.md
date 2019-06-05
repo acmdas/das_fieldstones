@@ -593,3 +593,10 @@ The two most important words are &lsquo;over&rsquo; and &lsquo;next&rsquo;.
 When something&rsquo;s over, move on to what&rsquo;s next.
 
 If there was a hammock between over and next, that would be what living in the now would mean.&mdash;Norman Lear (age 93)
+
+## Hard Truths
+Tue, 04 Jun 2019
+
+&ldquo;The soul … has grown aware of her obligations and observed that life is short (Job 14:5), the path leading to eternal life constricted (Mt. 7:14), the just one scarcely saved (1 Pet. 4:18), the things of the world vain and deceitful (Eccles. 1:2), that all comes to an end and fails like falling water (2 Sam. 14:14), and that the time is uncertain, the accounting strict, perdition very easy, and salvation very difficult.&rdquo;&mdash;St. John of the Cross, *Spiritual Canticle*
+
+h/t [Msgr. Charles Pope](http://blog.adw.org/2017/10/38628/)
