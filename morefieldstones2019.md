@@ -600,3 +600,8 @@ Tue, 04 Jun 2019
 &ldquo;The soul … has grown aware of her obligations and observed that life is short (Job 14:5), the path leading to eternal life constricted (Mt. 7:14), the just one scarcely saved (1 Pet. 4:18), the things of the world vain and deceitful (Eccles. 1:2), that all comes to an end and fails like falling water (2 Sam. 14:14), and that the time is uncertain, the accounting strict, perdition very easy, and salvation very difficult.&rdquo;&mdash;St. John of the Cross, *Spiritual Canticle*
 
 h/t [Msgr. Charles Pope](http://blog.adw.org/2017/10/38628/)
+
+## Hospitality
+Thu, 06 Jun 2019
+
+&ldquo;Learned and leisurely hospitality is the only antidote to the stance of deadly cleverness that is acquired in the professional pursuit of objectively secured knowledge. I remain certain that the quest for truth cannot thrive outside the nourishment of mutual trust flowering into a commitment to friendship.&rdquo;&mdash;Ivan Illich, *The Cultivation of Conspiracy*
