@@ -605,3 +605,8 @@ h/t [Msgr. Charles Pope](http://blog.adw.org/2017/10/38628/)
 Thu, 06 Jun 2019
 
 &ldquo;Learned and leisurely hospitality is the only antidote to the stance of deadly cleverness that is acquired in the professional pursuit of objectively secured knowledge. I remain certain that the quest for truth cannot thrive outside the nourishment of mutual trust flowering into a commitment to friendship.&rdquo;&mdash;Ivan Illich, *The Cultivation of Conspiracy*
+
+## Literature
+Fri, 07 Jun 2019
+
+&ldquo;The first use of good literature is that it prevents a man from being merely modern.&rdquo;&mdash;G.K.Chesterton, *On Reading*
