@@ -616,3 +616,4 @@ Fri, 07 Jun 2019
 Sat, 08 Jun 2019
 
 “At the same time that we were studying the Greek Tragic Poets, he (Bowyer, Head Master of the Grammar School, Christ’s Hospital) made us read Shakespeare and Milton as lessons: and they were the lessons, too, which required most time and trouble to bring up so as to escape his censure. I learnt from him, that Poetry, even that of the loftiest and, seemingly, that of the wildest odes, had a logic of its own, as severe as that of science; and more difficult, because more subtle, more complex, and dependent upon more, and more fugitive, causes.”&mdash;S. T. Coleridge, *Biographia Literaria*
+
