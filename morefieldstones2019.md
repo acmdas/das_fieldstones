@@ -617,4 +617,8 @@ Sat, 08 Jun 2019
 
 “At the same time that we were studying the Greek Tragic Poets, he (Bowyer, Head Master of the Grammar School, Christ’s Hospital) made us read Shakespeare and Milton as lessons: and they were the lessons, too, which required most time and trouble to bring up so as to escape his censure. I learnt from him, that Poetry, even that of the loftiest and, seemingly, that of the wildest odes, had a logic of its own, as severe as that of science; and more difficult, because more subtle, more complex, and dependent upon more, and more fugitive, causes.”&mdash;S. T. Coleridge, *Biographia Literaria*
 
-## End
+## Spritual, Not Religious
+Tue, 11 Jun 2019
+
+&#147;A familiar A.A. clich&#233; describes the fellowship&#146;s program as &#147;spiritual rather than religious,&#148; and members of Alcoholics Anonymous tend to enforce this distinction vigorously upon both those who comment on their program and themselves at A.A. meetings. This deep and real concern over its image as &#147'spiritual&#148; bears vivid witness to A.A.&#146;s authentic modernity, especially as a religious phenomenon. The mistrust of religious claims that matured in the Enlightenment has so deepened and spread that, in the twentieth centure, secularization has become the hallmark of modernity. Over those same two centuries between the Enlightenment and the present, however, the reaction of Romanticism against Enlightenment rationalism has also become culturally internalized and effectively stylized. Thus, in yet another paradox, moderns readily accept &#147;feeling&#148; even as they resolutely reject &#147;belief&#148; as a wellspring of personal action, at least so long as it does not intrude upon the autonomy of others.&#148;&#151;Ernie Kurtz, *Not God*
+
