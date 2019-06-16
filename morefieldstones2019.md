@@ -631,3 +631,12 @@ Sun, 16 Jun 2019
 Sun, 16 Jun 2019
 
 &ldquo;The greatest tyrannies are always perpetuated in the name of the noblest causes.&rdquo;&mdash;Thomas Paine (1737-1809) American pamphleteer
+
+## Scribbles
+Sun, 16 Jun 2019
+
+“Both the wise and the witless scribble”&mdaqsh;Horace, *Epistles of Horace*
+
+Or, as he is actually quoted:
+*Scribimus indocti, doctique*
+
