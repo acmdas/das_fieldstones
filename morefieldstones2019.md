@@ -622,3 +622,7 @@ Tue, 11 Jun 2019
 
 &ldquo;A familiar A.A. clich&#233; describes the fellowship&rsquo;s program as &ldquo;spiritual rather than religious,&rdquo; and members of Alcoholics Anonymous tend to enforce this distinction vigorously upon both those who comment on their program and themselves at A.A. meetings. This deep and real concern over its image as &ldquo;spiritual&rdquo; bears vivid witness to A.A.&rsquo;s authentic modernity, especially as a religious phenomenon. The mistrust of religious claims that matured in the Enlightenment has so deepened and spread that, in the twentieth centure, secularization has become the hallmark of modernity. Over those same two centuries between the Enlightenment and the present, however, the reaction of Romanticism against Enlightenment rationalism has also become culturally internalized and effectively stylized. Thus, in yet another paradox, moderns readily accept &ldquo;feeling&rdquo; even as they resolutely reject &ldquo;belief&rdquo; as a wellspring of personal action, at least so long as it does not intrude upon the autonomy of others.&rdquo;&mdash;Ernie Kurtz, *Not God*
 
+## Crisis
+Sun, 16 Jun 2019
+
+&ldquo;Crisis is the rallying cry of the tyrant.&rdquo;&mdash;James Madison (1751-1836) *American statesman, Founding Father, Slave owner and Dead White Man*
