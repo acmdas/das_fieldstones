@@ -626,3 +626,8 @@ Tue, 11 Jun 2019
 Sun, 16 Jun 2019
 
 &ldquo;Crisis is the rallying cry of the tyrant.&rdquo;&mdash;James Madison (1751-1836) *American statesman, Founding Father, Slave owner and Dead White Man*
+
+## Noble Causes
+Sun, 16 Jun 2019
+
+&ldquo;The greatest tyrannies are always perpetuated in the name of the noblest causes.&rdquo;&mdash;Thomas Paine (1737-1809) American pamphleteer
