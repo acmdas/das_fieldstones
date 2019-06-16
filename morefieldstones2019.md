@@ -640,3 +640,9 @@ Sun, 16 Jun 2019
 Or, as he is actually quoted:
 *Scribimus indocti, doctique*
 
+## Lower Bodies, Higher Bodies
+Sun, 16 Jun 2019
+
+&ldquo;Now, just as there is a difference between higher and lower intellectual substances, so also is there such a difference between corporeal substances. But intellectual substances are ruled by the higher ones, since the disposition of divine providence descends proportionally to the lowest, as we have said already. Therefore, on a like basis, the lower bodies are ordered through the higher ones.&rdquo;&mdash;St. Thomas Aquinas, *Summa Contra Gentiles* Book 3
+
+
