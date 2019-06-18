@@ -646,3 +646,9 @@ Sun, 16 Jun 2019
 &ldquo;Now, just as there is a difference between higher and lower intellectual substances, so also is there such a difference between corporeal substances. But intellectual substances are ruled by the higher ones, since the disposition of divine providence descends proportionally to the lowest, as we have said already. Therefore, on a like basis, the lower bodies are ordered through the higher ones.&rdquo;&mdash;St. Thomas Aquinas, *Summa Contra Gentiles* Book 3
 
 See also Thomas Troward, Rudolf Steiner, and who knows how many others.
+
+## Parmenides
+Tue, 18 Jun 2019
+
+&ldquo;What I am saying is this: There is internal evidence in at least one of my novels that another reality, an unchanging one, exactly as Parmenides and Plato suspected, underlies the visible phenomenal world of change, and somehow, in some way, perhaps to our surprise, we can cut through to it. Or rather, a mysterious Spirit can put us in touch with it, if it wishes us to see this permanent other landscape. Time passes, thousands of years pass, but at the same instant that we see this contemporary world, the ancient world, the world of the Bible, is concealed beneath it, still there and still real. Eternally so.&rdquo;&mdash;Philip K. Dick [How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
+
