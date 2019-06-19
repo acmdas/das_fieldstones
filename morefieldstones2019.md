@@ -652,3 +652,7 @@ Tue, 18 Jun 2019
 
 &ldquo;What I am saying is this: There is internal evidence in at least one of my novels that another reality, an unchanging one, exactly as Parmenides and Plato suspected, underlies the visible phenomenal world of change, and somehow, in some way, perhaps to our surprise, we can cut through to it. Or rather, a mysterious Spirit can put us in touch with it, if it wishes us to see this permanent other landscape. Time passes, thousands of years pass, but at the same instant that we see this contemporary world, the ancient world, the world of the Bible, is concealed beneath it, still there and still real. Eternally so.&rdquo;&mdash;Philip K. Dick [How to Build a Universe That Doesn’t Fall Apart Two Days Later](https://urbigenous.net/library/how_to_build.html)
 
+## The Resolution of Grief
+Tue, 18 Jun 2019
+
+&ldquo;A very deep form of grief is grieving over our own intuitive knowledge of our own value which we have not paid proper attention to, and we have not properly learned to use in the world for our own sake, or for the sake of others. It&rsquo;s as though the grief is about a beautiful treasure that was within our reach all the time and yet we didn&rsquo;t stretch out and use this treasure and enjoy it in the way it should be used and enjoyed.&rdquo;&mdash;William Arkle *The Great Gift8
