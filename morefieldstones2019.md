@@ -656,3 +656,8 @@ Tue, 18 Jun 2019
 Tue, 18 Jun 2019
 
 &ldquo;A very deep form of grief is grieving over our own intuitive knowledge of our own value which we have not paid proper attention to, and we have not properly learned to use in the world for our own sake, or for the sake of others. It&rsquo;s as though the grief is about a beautiful treasure that was within our reach all the time and yet we didn&rsquo;t stretch out and use this treasure and enjoy it in the way it should be used and enjoyed.&rdquo;&mdash;William Arkle *The Great Gift8
+
+## An Exception
+Fri, 21 Jun 2019
+
+"Man is an exception, whatever else he is. If he is not the image of God, then he is a disease of the dust. If it is not true that a divine being fell, then we can only say that one of the animals went entirely off his head."&mdash;G.K. Chesterton: *All Things Considered*
