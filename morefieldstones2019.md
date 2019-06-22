@@ -655,7 +655,7 @@ Tue, 18 Jun 2019
 ## The Resolution of Grief
 Tue, 18 Jun 2019
 
-&ldquo;A very deep form of grief is grieving over our own intuitive knowledge of our own value which we have not paid proper attention to, and we have not properly learned to use in the world for our own sake, or for the sake of others. It&rsquo;s as though the grief is about a beautiful treasure that was within our reach all the time and yet we didn&rsquo;t stretch out and use this treasure and enjoy it in the way it should be used and enjoyed.&rdquo;&mdash;William Arkle *The Great Gift8
+&ldquo;A very deep form of grief is grieving over our own intuitive knowledge of our own value which we have not paid proper attention to, and we have not properly learned to use in the world for our own sake, or for the sake of others. It&rsquo;s as though the grief is about a beautiful treasure that was within our reach all the time and yet we didn&rsquo;t stretch out and use this treasure and enjoy it in the way it should be used and enjoyed.&rdquo;&mdash;William Arkle *The Great Gift*
 
 ## An Exception
 Fri, 21 Jun 2019
