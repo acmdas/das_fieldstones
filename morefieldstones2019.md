@@ -661,3 +661,81 @@ Tue, 18 Jun 2019
 Fri, 21 Jun 2019
 
 "Man is an exception, whatever else he is. If he is not the image of God, then he is a disease of the dust. If it is not true that a divine being fell, then we can only say that one of the animals went entirely off his head."&mdash;G.K. Chesterton: *All Things Considered*
+
+## Saving Humanity
+Sat, 29 Jun 2019
+
+&ldquo;The urge to save humanity is almost always only a false-face for the urge to rule it. Power is what all messiahs really seek: not the chance to serve. This is true even of the pious brethren who carry the gospel to foreign parts.&rdquo;&mdash;H.L. Mencken
+
+## Respect
+Sat, 29 Jun 2019
+
+&ldquo;Respect, I note, was once conferred upon the dutiful. It was not until recently that a “theory” was hatched — a bastardization of ancient Christian teaching — that compelled us to show respect to all, and civility even to the uncivil. This was an important abridgement of our freedom: to decide, for ourselves, whom to love, admire, ignore, fear, detest, &c. It interferes with our duty to make sound judgements, thus dehumanizing us.&rdquo;&mdash;[David Warren](https://www.davidwarrenonline.com/2019/06/26/aside-on-law-order/)
+
+## Barlow&rsquo;s 25
+Mon, 1 Jul 2019
+
+John Perry Barlow's 25 Principles of Adult Behavior:
+
+1. Be patient. No matter what.
+
+2. Don’t badmouth: Assign responsibility, not blame. Say nothing of another you wouldn’t say to him.
+
+3. Never assume the motives of others are, to them, less noble than yours are to you.
+
+4. Expand your sense of the possible.
+
+5. Don’t trouble yourself with matters you truly cannot change.
+
+6. Expect no more of anyone than you can deliver yourself.
+
+7. Tolerate ambiguity.
+
+8. Laugh at yourself frequently.
+
+9. Concern yourself with what is right rather than who is right.
+
+10. Never forget that, no matter how certain, you might be wrong.
+
+11. Give up blood sports.
+
+12. Remember that your life belongs to others as well. Don’t risk it frivolously.
+
+13. Never lie to anyone for any reason. (Lies of omission are sometimes exempt.)
+
+14. Learn the needs of those around you and respect them.
+
+15. Avoid the pursuit of happiness. Seek to define your mission and pursue that.
+
+16. Reduce your use of the first personal pronoun.
+
+17. Praise at least as often as you disparage.
+
+18. Admit your errors freely and soon.
+
+19. Become less suspicious of joy.
+
+20. Understand humility.
+
+21. Remember that love forgives everything.
+
+22. Foster dignity.
+
+23. Live memorably.
+
+24. Love yourself.
+
+25. Endure.
+
+## Analog Future
+Mon, 1 Jul 2019
+
+&ldquo;Nature uses digital coding for the storage, replication, recombination, and error correction of sequences of nucleotides, but relies on analog coding and analog computing for intelligence and control. No programming, no code. To those seeking true intelligence, autonomy, and control among machines, the domain of analog computing, not digital computing, is the place to look.&rdquo;&mdash;[George Dyson](https://www.edge.org/conversation/george_dyson-childhoods-end)
+
+## Potatoes
+Tue, 2 Jul 2019
+
+&ldquo;What is this mind of ours; what are these atoms with consciousness? Last week&rsquo;s potatoes!&rdquo;&mdash;Richard Feynman
+
+Assuming, of course that there is a one-to-one exclusive relationship between mind/consciousness and brain, which seems to me to be extremely complex. There's clearly a relationship, but is it exclusive? Without a brain&mdash;divorced from living matter&mdash;is there some element of mind or even consciousness? Soul? Spirit? Arr, that's the question! Or perhaps a step on the way to the question...
+
