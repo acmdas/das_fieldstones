@@ -739,3 +739,8 @@ Tue, 2 Jul 2019
 
 Assuming, of course that there is a one-to-one exclusive relationship between mind/consciousness and brain, which seems to me to be extremely complex. There's clearly a relationship, but is it exclusive? Without a brain&mdash;divorced from living matter&mdash;is there some element of mind or even consciousness? Soul? Spirit? Arr, that's the question! Or perhaps a step on the way to the question...
 
+## True to its telling
+Sat, 6 Jul 2019
+
+&ldquo;History is a fairy tale true to its telling...&rdquo;&mdash;[Andrei Codrescu](https://www.theparisreview.org/blog/2019/07/02/the-many-lives-of-lafcadio-hearn/)
+
