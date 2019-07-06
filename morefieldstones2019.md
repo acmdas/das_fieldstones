@@ -744,3 +744,8 @@ Sat, 6 Jul 2019
 
 &ldquo;History is a fairy tale true to its telling...&rdquo;&mdash;[Andrei Codrescu](https://www.theparisreview.org/blog/2019/07/02/the-many-lives-of-lafcadio-hearn/)
 
+## No Problem
+Sat, 6 Jul 2019
+
+"I cannot define the real problem, therefore I suspect there's no real problem, but I'm not sure there's no real problem."&mdash;Richard Feynman
+
