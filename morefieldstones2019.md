@@ -749,3 +749,9 @@ Sat, 6 Jul 2019
 
 "I cannot define the real problem, therefore I suspect there's no real problem, but I'm not sure there's no real problem."&mdash;Richard Feynman
 
+## The Problem
+Sat, 6 Jul 2019
+
+&ldquo;Of course there was more. If you ask the right questions, there always is.
+
+That&rsquo;s the problem.&rdquo;&mdash;Robert Caro
