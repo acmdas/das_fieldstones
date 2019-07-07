@@ -36,7 +36,7 @@ Just a thought.
 ## Septuagesima
 Mon, 13 Feb 2017
 
-&ldquo;It will be one of the confusions of the damned to see that they are condemned by their own reason, by which they claimed to condemn the Christian religion.&rdquo;&mdash;Pascal, PensÃ©e ## 562. 
+&ldquo;It will be one of the confusions of the damned to see that they are condemned by their own reason, by which they claimed to condemn the Christian religion.&rdquo;&mdash;Pascal, Pens&#233;e ## 562. 
 
 &ldquo;A new species of philosopher is appearing; I venture to baptize these philosophers with a name not without danger in it. As I divine them, as they let themselves be divined&mdash;for it pertains to their nature to want to remain a riddle in some respects&mdash;these philosophers of the future, in many respects, might rightly, but perhaps also wrongly, be described as attempters. This name itself is in the end only an attempt, and, if you will, a temptation.&rdquo;&mdash;Nietzsche, Beyond Good and Evil, ## 42.
 
