@@ -46,7 +46,7 @@ Tue, 23 Jan 2018
 ## Democracy of the Dead
 Thu, 25 Jan 2018
 
-&ldquo;Tradition means giving votes to most obscure of all classes, our ancestors. It is the democracy of the dead. Tradition refuses to submit to the small and arrogant oligarchy of those who merely happen to be walking about.&rdquo;&mdash;G. K. Chesterton, *Orthodoxy*, Chapter 4.
+&ldquo;Tradition means giving votes to the most obscure of all classes, our ancestors. It is the democracy of the dead. Tradition refuses to submit to the small and arrogant oligarchy of those who merely happen to be walking about.&rdquo;&mdash;G. K. Chesterton, *Orthodoxy*, Chapter 4.
 
 ## A Short Story
 Thu, 25 Jan 2018
