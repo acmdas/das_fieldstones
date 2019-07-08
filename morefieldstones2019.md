@@ -754,7 +754,7 @@ Sat, 6 Jul 2019
 
 &ldquo;Of course there was more. If you ask the right questions, there always is.
 
-That&rsquo;s the problem.&rdquo;&mdash;Robert Caro *Working*
+That&rsquo;s the problem.&rdquo;&mdash;Robert Caro, *Working*
 
 ## The Relation of Christians to the World
 Sat, 6 Jul 2019
@@ -766,7 +766,7 @@ Mon, 8 Jul 2019
 
 The aim of the chapter is to draw attention to a fundamental right that is neglected in the law but that is highly relevant for neuroethics: cognitive liberty or freedom of thought. Although an internationally accepted human right, it has not gained practical legal importance. However, any regulation of neurotechnologies has to be evaluated in its light. As the right is unfamiliar to policy makers and even to many lawyers and legal scholars, its historical development and the main arguments for its recognition are sketched. Furthermore, some suggestions for its interpretation, scope, and contours are forwarded and remaining open questions identified. According to international human rights law, the right is of absolute nature so that interferences cannot be justified for interests of the common good or paternalistic reasons. Whether this strict prohibition of intervening into other persons’ minds can and should be sustained even in light of putative pressing public interests and various neuroethical considerations is one of the novel questions neuroscience poses for the law.&mdash;Christoph Bublitz, Faculty of Law, University of Hamburg, Hamburg, Germany *[Cognitive Liberty or the International Human Right to Freedom of Thought](https://link.springer.com/referenceworkentry/10.1007/978-94-007-4707-4_166)*
 
-## Cognitive Liberty Again
+## Cognitive Liberty Redux
 Mon, 8 Jul 2019
 
 “Thou canst not touch the freedom of my mind.” (Milton, *Comus*)
