@@ -765,3 +765,15 @@ Sat, 6 Jul 2019
 Mon, 8 Jul 2019
 
 The aim of the chapter is to draw attention to a fundamental right that is neglected in the law but that is highly relevant for neuroethics: cognitive liberty or freedom of thought. Although an internationally accepted human right, it has not gained practical legal importance. However, any regulation of neurotechnologies has to be evaluated in its light. As the right is unfamiliar to policy makers and even to many lawyers and legal scholars, its historical development and the main arguments for its recognition are sketched. Furthermore, some suggestions for its interpretation, scope, and contours are forwarded and remaining open questions identified. According to international human rights law, the right is of absolute nature so that interferences cannot be justified for interests of the common good or paternalistic reasons. Whether this strict prohibition of intervening into other persons’ minds can and should be sustained even in light of putative pressing public interests and various neuroethical considerations is one of the novel questions neuroscience poses for the law.&mdash;Christoph Bublitz, Faculty of Law, University of Hamburg, Hamburg, Germany *[Cognitive Liberty or the International Human Right to Freedom of Thought](https://link.springer.com/referenceworkentry/10.1007/978-94-007-4707-4_166)*
+
+## Cognitive Liberty Again
+Mon, 8 Jul 2019
+
+“Thou canst not touch the freedom of my mind.” (Milton, *Comus*)
+
+“Everyone has the right to freedom to hold opinions without interference.” (United Nations Universal Declaration of Human Rights)
+
+“Men fear thought as they fear nothing else on earth &mdash more than ruin &mdash; more even than death.... Thought is subversive and revolutionary, destructive and terrible, thought is merciless to privilege, established institutions, and comfortable habit. Thought looks into the pit of hell and is not afraid. Thought is great and swift and free, the light of the world, and the chief glory of man.” (Bertrand Russell)
+
+Found in Bonnie Burstow, PhD. *[On Cognitive Liberty: A Principle to Rally Behind](https://www.madinamerica.com/2019/07/cognitive-liberty-principle-rally-behind/)*
+
