@@ -777,3 +777,16 @@ Mon, 8 Jul 2019
 
 Found in Bonnie Burstow, PhD. *[On Cognitive Liberty: A Principle to Rally Behind](https://www.madinamerica.com/2019/07/cognitive-liberty-principle-rally-behind/)*
 
+## Reading with a Pencil
+Mon, 8 Jul 2019
+
+&ldquo;The intellectual is, quite simply, a human being who has a pencil in his or her hand when reading a book.&rdquo;—George Steiner
+
+&ldquo;There’s a way of reading that is like writing. You feel in collaboration… You have a pen in your hand, you’re going along in a way that’s, like, half creating it as you go. And you’re also strip-mining it for anything you can use… you’re sifting for what could be gold.&rdquo;—Patricia Lockwood
+
+“Every piece of art I’ve ever made was because I saw bad and could do better, or saw great and needed to catch up.”&mdash;John T. Unger
+
+“Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it. Why is marking a book indispensable to reading it? First, it keeps you awake — not merely conscious, but wide awake. Second, reading, if it is active, is thinking, and thinking tends to express itself in words, spoken or written. The person who says he knows what he thinks but cannot express it usually does not know what he thinks. Third, writing your reactions down helps you to remember the thoughts of the author. Reading a book should be a conversation between you and the author….Marking a book is literally an expression of your differences or your agreements…It is the highest respect you can pay him..”&mdash;Mortimer J. Adler and Charles Van Doren , *How To Read A Book*
+
+h/t [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/)
+
