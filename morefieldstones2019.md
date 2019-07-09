@@ -790,3 +790,8 @@ Mon, 8 Jul 2019
 
 h/t [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/)
 
+## Indifferent
+Tue, 9 Jul 2019
+
+&ldquo;I don't know of any teaching more self-centered and further from the facts than Marxism. Ordinarily, people are anxious to test their theories in practice, to learn from experience. But those who wield power are so anxious to establish the myth of their own infallibility that they turn their backs on truth as  squarely as they can. Politics mean nothing to me. I don't like people who are indifferent to the truth.&rdquo;&mdash;Boris Pasternak, *Doctor Zhivago*
+
