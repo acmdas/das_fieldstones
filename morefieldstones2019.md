@@ -795,3 +795,8 @@ Tue, 9 Jul 2019
 
 &ldquo;I don't know of any teaching more self-centered and further from the facts than Marxism. Ordinarily, people are anxious to test their theories in practice, to learn from experience. But those who wield power are so anxious to establish the myth of their own infallibility that they turn their backs on truth as  squarely as they can. Politics mean nothing to me. I don't like people who are indifferent to the truth.&rdquo;&mdash;Boris Pasternak, *Doctor Zhivago*
 
+## Printing
+Wed, 10 Jul 2019
+
+"Printing diffused true knowledge, but it also diffused (and on a far greater scale) false knowledge and unproved irrational affirmation."&mdash;Hilaire Belloc: The Crisis of Our Civilization
+
