@@ -860,7 +860,7 @@ h/t [Francis W. Porretto](http://bastionofliberty.blogspot.com/2019/07/cashing-i
 ## Names
 Fri, 12 Jul 2019
 
-“The sage Confucius was once asked what he would do if he was a governor. He said he would “rectify the names” to make words correspond to reality. He understood what General Semantics teaches; if your linguistic map is sufficiently confused, you will misunderstand the territory. And be readily outmaneuvered by those who are less confused.”&mdash;[Eric S. Raymond}(http://esr.ibiblio.org/?p=8415)
+“The sage Confucius was once asked what he would do if he was a governor. He said he would “rectify the names” to make words correspond to reality. He understood what General Semantics teaches; if your linguistic map is sufficiently confused, you will misunderstand the territory. And be readily outmaneuvered by those who are less confused.”&mdash;[Eric S. Raymond](http://esr.ibiblio.org/?p=8415)
 
 esr goes on to make interesting and important comments about the currently hot Richard Epstein scandal and its larger context, seriously worth reading and thinking about.
 
