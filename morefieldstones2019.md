@@ -853,7 +853,18 @@ Wed, 10 Jul 2019
 
 Van Tromp looked thoughtful. “I’ll keep my mortgaged house, Jubal.”
 
-“Amen. I want to live my own life, sleep in my own bed—and not be bothered!”—Robert A. Heinlein, *Stranger in a Strange Land*
+“Amen. I want to live my own life, sleep in my own bed—and not be bothered!”&mdash;Robert A. Heinlein, *Stranger in a Strange Land*
 
 h/t [Francis W. Porretto](http://bastionofliberty.blogspot.com/2019/07/cashing-in-offhand-reflection.html)
+
+## Names
+Fri, 12 Jul 2019
+
+“The sage Confucius was once asked what he would do if he was a governor. He said he would “rectify the names” to make words correspond to reality. He understood what General Semantics teaches; if your linguistic map is sufficiently confused, you will misunderstand the territory. And be readily outmaneuvered by those who are less confused.”&mdash;[Eric S. Raymond}(http://esr.ibiblio.org/?p=8415)
+
+esr goes on to make interesting and important comments about the currently hot Richard Epstein scandal and its larger context, seriously worth reading and thinking about.
+
+I'm posting it here, however, to note the map/territory statement, which Gregory Bateson speaks about at length in *Steps to an Ecology of Mind* (1972) and/or *Mind and Nature* (1979), Bateson being an “English anthropologist, social scientist, linguist, visual anthropologist, semiotician, and cyberneticist” per [Wikipedia](https://en.wikipedia.org/wiki/Gregory_Bateson) and a founding participant, with his wife Margaret Mead, in the Macy Conferences. Stewart Brand introduced me to his work via the WEC, and it's been at least somewhat influential in my muddled thinking.
+
+And now, the question is how does this form of General Semantics fit in with (or survive?) Barfield's philological analysis of how consciousness evolved and relates to the “unrepresented” as well as the “appearances”.
 
