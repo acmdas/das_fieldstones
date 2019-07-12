@@ -855,5 +855,5 @@ Van Tromp looked thoughtful. “I’ll keep my mortgaged house, Jubal.”
 
 “Amen. I want to live my own life, sleep in my own bed—and not be bothered!”—Robert A. Heinlein, *Stranger in a Strange Land*
 
-h/t [Francis W. Porretto}(http://bastionofliberty.blogspot.com/2019/07/cashing-in-offhand-reflection.html)
+h/t [Francis W. Porretto](http://bastionofliberty.blogspot.com/2019/07/cashing-in-offhand-reflection.html)
 
