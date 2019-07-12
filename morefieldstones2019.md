@@ -834,7 +834,7 @@ Wed, 10 Jul 2019
 
 “Free-floating, petty gripes are a result of Miserabilism as a world view, the idea that viewing Western Civ as a hellish, gruesome burden destined to collapse of its sins and conceits is the only possible worldview for a Serious Person. Hence the more fault you find, the deeper you are. It comes from being grounded in nothing but the shallow soil of the present, with no sense of history except for a series of pre-approved narratives intended to culminate in an argument against the recent past, which was bad because it prevented the wonderful possible Tomorrow from happening Today. It’s a recipe for life-long alienation.”&mdash;[James Lileks](http://lileks.com/bleats/archive/19/0719/070919.html)
 
-## Making Money vs Spending Money
+##  Making Money vs Spending Money
 Wed, 10 Jul 2019
 
 “Big money isn’t hard to come by. All it costs is a lifetime of devotion. But no ballerina ever works harder. Captain, that’s not your style; you don’t want to make money, you simply want to spend money.”
@@ -853,6 +853,7 @@ Wed, 10 Jul 2019
 
 Van Tromp looked thoughtful. “I’ll keep my mortgaged house, Jubal.”
 
-“Amen. I want to live my own life, sleep in my own bed—and not be bothered!”—Robert A. Heinlein, Stranger in a Strange Land
+“Amen. I want to live my own life, sleep in my own bed—and not be bothered!”—Robert A. Heinlein, *Stranger in a Strange Land*
 
 h/t [Francis W. Porretto}(http://bastionofliberty.blogspot.com/2019/07/cashing-in-offhand-reflection.html)
+
