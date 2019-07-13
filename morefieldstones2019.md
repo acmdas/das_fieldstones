@@ -868,3 +868,20 @@ I'm posting it here, however, to note the map/territory statement, which Gregory
 
 And now, the question is how does this form of General Semantics fit in with (or survive?) Barfield's philological analysis of how consciousness evolved and relates to the “unrepresented” as well as the “appearances”.
 
+## Principles and Edge Cases
+Sat, 13 Jul 2019
+
+Principles that we suspend during difficult times aren’t really principles. Principles really count when they’re difficult to maintain.
+
+That’s not the same thing, though, as refusing to consider the edge cases.
+
+“Free speech,” is a fine principle, one to live by. But shouting “fire” in a crowded movie theater isn’t allowed, for good reason.
+
+The edge cases are always subject to endless debate. There are no easy bright lines. It’s tempting, then, to never consider the edge cases. A rule’s a rule.
+
+But principles without judgment aren’t the easy path they seem to be. Because without our judgment on the edge cases, we’ve given up responsibility. It’s no longer our decision if we’re not making a decision.
+
+The hard work involves willingly being on the hook for making a tough call.
+
+[Seth Goden](https://seths.blog/2019/07/principles-and-being-let-off-the-hook/)
+
