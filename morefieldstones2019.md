@@ -888,16 +888,11 @@ The hard work involves willingly being on the hook for making a tough call.
 ## Clowns
 Sun, 14 Jul 2019
 
-Isn't it rich?
-
-Are we a pair?
-
-Me here at last on the ground,
-
-You in mid-air.
-
+Isn't it rich?<br/>
+Are we a pair?<br/>
+Me here at last on the ground,</br>
+You in mid-air.<br/>
 Where are the clowns?
-
 
 Isn't it bliss?
 
