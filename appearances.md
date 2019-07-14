@@ -22,6 +22,13 @@ Finally, the consequences which flow from abandoning the assumption are found to
 
 # I<br/>THE RAINBOW
 
+Look at a rainbow. While it lasts, it is, or appears to be, a great arc of many colorsoccupying a position out there in space. It touches the horizon between that chimney and that tree; a line drawn from the sun behind you and passing through your head would pierce the center of the circle of which it is part. And now, before it fades,recollect all you have ever been told about the rainbow and its causes, and ask yourself the question *Is it really there?*
+
+You know, from memory, that if there were a hillside three or four miles nearer than the present horizon, The rainbow would come to earth in front of and not behind it; That, if you walk to the place where the rainbow ends, or seems to end, it would certainly not be &lsquo;there&rsquo;. In a word, reflection will assure you that the rainbow is the outcome of the sun, the raindrops and your own vision.
+
+When I ask of an intelligible appearance or representation, Is it really there? I usually mean, Is it there independently of my vision? Would it still be there for instance, If I shut my eyes&mdash;if I moved towards or away from it. If this is what you also mean by &ldquo;really there&rdquo;, you will be tempted to add that the raindrops and the sun are really there, but the rainbow is not.
+
+Does it follow that, as soon as anybody sees a rainbow, there &lsquo;is&rsquo; one, or, in other words, that there is no difference between an hallucination or a madman&rsquo;s dream of a rainbow (perhaps on a clear day) and an actual rainbow? Certainly not. You were not the only one to see that rainbow. You had a friend with you. (I forbear asking if you both saw &lsquo;the same&rsquo; rainbow, because this is a book about history rather than metaphysics, and these introductory chapters are merely intended to clear away certain misconceptions.) Moreover, through the medium of language, you are well aware that thousands of others have seen rainbows in showery weather; but you have never heard of any sane person claiming to ahve seen one on a sunless or a cloudless day. Therefore, if a man tells you he sees a rainbow on a cloudless day, then, even if you are convinced that he means what ye says, and is not simply lying, you will confidently affirm that the rainbow he sees is &lsquo;not there&rsquo;.
 
 
 
