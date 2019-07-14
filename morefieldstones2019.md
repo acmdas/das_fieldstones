@@ -894,55 +894,32 @@ Me here at last on the ground,</br>
 You in mid-air.<br/>
 Where are the clowns?
 
-Isn't it bliss?
-
-Don't you approve?
-
-One who keeps tearing around,
-
-One who can't move...
-
-Where are the clowns?
-
+Isn't it bliss?</br>
+Don't you approve?</br>
+One who keeps tearing around,</br>
+One who can't move...</br>
+Where are the clowns?</br>
 There ought to be clowns.
 
-
-Just when I'd stopped opening doors,
-
-Finally knowing the one that I wanted was yours.
-
-Making my entrance again with my usual flair
-
-Sure of my lines...
-
+Just when I'd stopped opening doors,</br>
+Finally knowing the one that I wanted was yours.</br>
+Making my entrance again with my usual flair</br>
+Sure of my lines...</br>
 No one is there.
 
-
-Don't you love farce?
-
-My fault, I fear.
-
-I thought that you'd want what I want...
-
-Sorry, my dear!
-
-But where are the clowns
-
-Send in the clowns
-
+Don't you love farce?<</br>
+My fault, I fear.</br>
+I thought that you'd want what I want...</br>
+Sorry, my dear!</br>
+But where are the clowns</br>
+Send in the clowns</br>
 Don't bother, they're here.
 
-
-Isn't it rich?
-
-Isn't it queer?
-
-Losing my timing this late in my career.
-
-But where are the clowns?
-
-There ought to be clowns...
-
+Isn't it rich?</br>
+Isn't it queer?</br>
+Losing my timing this late in my career.</br>
+But where are the clowns?</br>
+There ought to be clowns...</br>
 Well, maybe next year.
 
 Stephen Sondheim, *A Little Night Music* 1973
