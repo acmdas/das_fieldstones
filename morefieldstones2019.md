@@ -885,3 +885,70 @@ The hard work involves willingly being on the hook for making a tough call.
 
 [Seth Goden](https://seths.blog/2019/07/principles-and-being-let-off-the-hook/)
 
+## Clowns
+Sun, 14 Jul 2019
+
+Isn't it rich?
+
+Are we a pair?
+
+Me here at last on the ground,
+
+You in mid-air.
+
+Where are the clowns?
+
+
+Isn't it bliss?
+
+Don't you approve?
+
+One who keeps tearing around,
+
+One who can't move...
+
+Where are the clowns?
+
+There ought to be clowns.
+
+
+Just when I'd stopped opening doors,
+
+Finally knowing the one that I wanted was yours.
+
+Making my entrance again with my usual flair
+
+Sure of my lines...
+
+No one is there.
+
+
+Don't you love farce?
+
+My fault, I fear.
+
+I thought that you'd want what I want...
+
+Sorry, my dear!
+
+But where are the clowns
+
+Send in the clowns
+
+Don't bother, they're here.
+
+
+Isn't it rich?
+
+Isn't it queer?
+
+Losing my timing this late in my career.
+
+But where are the clowns?
+
+There ought to be clowns...
+
+Well, maybe next year.
+
+Stephen Sondheim, *A Little Night Music* 1973
+
