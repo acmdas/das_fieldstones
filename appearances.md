@@ -22,7 +22,7 @@ Finally, the consequences which flow from abandoning the assumption are found to
 
 # I<br/>THE RAINBOW
 
-Look at a rainbow. While it lasts, it is, or appears to be, a great arc of many colorsoccupying a position out there in space. It touches the horizon between that chimney and that tree; a line drawn from the sun behind you and passing through your head would pierce the center of the circle of which it is part. And now, before it fades,recollect all you have ever been told about the rainbow and its causes, and ask yourself the question *Is it really there?*
+Look at a rainbow. While it lasts, it is, or appears to be, a great arc of many colors occupying a position out there in space. It touches the horizon between that chimney and that tree; a line drawn from the sun behind you and passing through your head would pierce the center of the circle of which it is part. And now, before it fades, recollect all you have ever been told about the rainbow and its causes, and ask yourself the question *Is it really there?*
 
 You know, from memory, that if there were a hillside three or four miles nearer than the present horizon, The rainbow would come to earth in front of and not behind it; That, if you walk to the place where the rainbow ends, or seems to end, it would certainly not be &lsquo;there&rsquo;. In a word, reflection will assure you that the rainbow is the outcome of the sun, the raindrops and your own vision.
 
