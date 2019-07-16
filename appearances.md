@@ -42,4 +42,14 @@ A better term than &lsquo;particles&rsquo; would possibly be &lsquo;the unrepres
 
 # II<br/>COLLECTIVE REPRESENTATIONS
 
-A representation is something I percieve to be there.
+A representation is something I percieve to be there. By premising that the everyday world is a system of collective representations, it may be thought that we blur the distinction between the fancied and the actual or, following the everyday use of language, between the apparently there and the really there. But this is not so. It only seems to be so because of the very great emphasis which—especially in the last three or four hundred years—the Western Mind has come to lay on the ingredient of spatial depth in the total complex of its perception. I shall return to this later.
+
+As to what is meant by ‘collective’—any discrepancy between my representations and those of my fellow men raises a presumption of unreality and calls for explanation. If, however, the explanation is satisfactory; if, for instance, it turns out that the discrepancy was due, not to my hallucination, but to the myopia or their dullness, it is likely to be accepted; and then my representation may itself end by becoming collective.
+
+It is, however, not necessary to maintain that collectivity is the *only* test for distinguishing between a representation and a collective representation (though, to creatures for whom insanity is round the corner, it is often likely to be the crucial one).
+
+I am hit violently on the head and, in the same moment, perceive a bright light to be there. Later on I reflect that the light was ‘not really there’, even if I had lived all my life on a desert island where there was no-one to compare notes with, I might do as much. No doubt I should learn by experience to distinguish the first kind of light from the more practicable light of day or the thunderbolt, and should soon give up hitting myself on the head at sunset when I needed light to go on working by. In both cases I perceive light, but the various criteria of difference between them—duration, for instance, and a sharp physical pain, which the one involves and the other does not, are not difficult to apprehend.
+
+What is required, is not to go on stressing the resemblance between collective representations and private representations, but to remember, when we leave the world of everyday for the discipline of any strict inquiry, that, *if* the particles, or the unrepresented, are in face all that is *independently* there, then the world we all accept as real is in fact a system of collective representations.
+
+
