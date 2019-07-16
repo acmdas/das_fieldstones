@@ -52,4 +52,4 @@ I am hit violently on the head and, in the same moment, perceive a bright light 
 
 What is required, is not to go on stressing the resemblance between collective representations and private representations, but to remember, when we leave the world of everyday for the discipline of any strict inquiry, that, *if* the particles, or the unrepresented, are in face all that is *independently* there, then the world we all accept as real is in fact a system of collective representations.
 
-
+Perception takes place by means of sense-organs, through the ingredient in it of sensation, experienced as such, varies greatly as between the different senses.
