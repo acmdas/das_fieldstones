@@ -79,3 +79,8 @@ The three operations—*figuration*, *alpha-thinking* and *beta-thinking*—are 
 That the former of these affects, and largely determines, the latter hardly needs saying; since the primary product of figuration is the actual subject-matter of most alpha-thinking. That the converse may sometimes also be true,k and further, that the borderline between the one and the other is sometimes quite impossible to determine—this is less obvious. Yet a little serious reflection (that is, a little beta-thinking) makes it apparent enough.
 
 Recall for a moment the familiar jingle from *Sylvie and Bruno*, with its persistent refrain of ‘he thought he saw’ followed by ‘he found it was’:
+
+<div text-align=’center>
+*He thought he saw a Banker’s C;erk<br/>Descending from the bus,<br/>He looked again and found it was<br/>A hippopotamux.<br/>etc., etc.*</div>
+
+This is of course only a very improbable instance
