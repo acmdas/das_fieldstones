@@ -80,6 +80,6 @@ That the former of these affects, and largely determines, the latter hardly need
 
 Recall for a moment the familiar jingle from *Sylvie and Bruno*, with its persistent refrain of ‘he thought he saw’ followed by ‘he found it was’:
 
-*He thought he saw a Banker’s Clerk<br/>Descending from the bus,<br/>He looked again and found it was<br/>A hippopotamus.<br/>etc., etc.*
+>*He thought he saw a Banker’s Clerk<br/>Descending from the bus,<br/>He looked again and found it was<br/>A hippopotamus.<br/>etc., etc.*
 
 This is of course only a very improbable instance of
