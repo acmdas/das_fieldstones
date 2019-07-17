@@ -924,3 +924,8 @@ Well, maybe next year.
 
 Stephen Sondheim, *A Little Night Music* 1973
 
+## Depths
+Wed, 17 Jul 2019
+
+“In the depths of every heart, there is a tomb and a dungeon, though the lights, the music, and revelry above may cause us to forget their existence.”—Nathaniel Hawthorne, *The Haunted Mind*
+
