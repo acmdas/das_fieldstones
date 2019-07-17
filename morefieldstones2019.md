@@ -929,3 +929,5 @@ Wed, 17 Jul 2019
 
 “In the depths of every heart, there is a tomb and a dungeon, though the lights, the music, and revelry above may cause us to forget their existence.”—Nathaniel Hawthorne, *The Haunted Mind*
 
+h/t [J.M. Smith](https://orthosphere.wordpress.com/2019/07/17/lay-down-your-pitchfork/)
+
