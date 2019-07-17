@@ -82,4 +82,12 @@ Recall for a moment the familiar jingle from *Sylvie and Bruno*, with its persis
 
 >*He thought he saw a Banker’s Clerk<br/>Descending from the bus,<br/>He looked again and found it was<br/>A hippopotamus.<br/>etc., etc.*
 
-This is of course only a very improbable instance of
+This is of course only a very improbable instance of an experience which, in itself, is quite common, especially with those among our representation (and they form the overwhelming majority) which reach us through the sense of sight alone. When we mistake one representation, that is to say one thing, for another, so that there is a transition from an ‘I thought I saw’ to an ‘I found it was’, it is often very difficult indeed to say whether there is first a figuration (based, let us say, on incomplete sensation) and then another and different figuration, producing a different representation; or whether there is one and the same representation veiled from us at first by some incorrect afpha-thinking which is subsequently discarded as inapplicable. In the particular case of a puzzled man trying to descry an object spotted far off at sea, it feels more like the latter. Often it feels much more like the former. We have made the mistake before we are aware of having done any thinking at all.
+
+Anyone who wishes to investigate this further should attend carefully to the sort of mistakes we are apt to make on awaking abruptly from deep sleep in a darkened room; expecially if it happens to be a strange room. Either way we must conclude that figuration, whether or no it is a kind of thinking, is something which easily and imperceptibly passes over into thinking, and into which thinking easily and imperceptibly passes over. For in both cases there was a representation; otherwise I should not have been deceived. And if the first representation was the result of incorrect thinking, then thinking can do something very much like what figuration does. Alternatively, if it was the result of figuration alone, then the very fact of that figuration can ‘make a mistake’ suggests that it has a good deal in common with thinking.
+
+¹’The thermometer is below freezing point, the pipe is cracked, and no water comes out of the tap. I know nothing about physics or chemistry; but surely I can say that there is solid ice in the pipe!’ Certainly you can; and if there was salt in the water, you can say that there is solid, *white* ice in the pipe. I am only pointing out that the solidity you are talking about involves your fancied touch, just as the whiteness involves your fancied glance. Only it is harder to remember.
+
+# IV<br/>PARTICIPATION
+
+In the last few decades this whole
