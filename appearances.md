@@ -90,4 +90,6 @@ Anyone who wishes to investigate this further should attend carefully to the sor
 
 # IV<br/>PARTICIPATION
 
-In the last few decades this whole
+In the last few decades this whole question of the figurative make-up of collective representations and theoretical confusion between what I have called figuration and what I have called alpha-thinking has been implicitly raised by certain anthropologists. Putting it in a nutshell, they have suggested, by the whole manner of their approach to the workings of the ‘primitive’ mind, the question: Can there be such a thing as, ‘*They* thought *they* saw?’
+
+

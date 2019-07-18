@@ -931,3 +931,8 @@ Wed, 17 Jul 2019
 
 h/t [J.M. Smith](https://orthosphere.wordpress.com/2019/07/17/lay-down-your-pitchfork/)
 
+## Folly of Fools
+Thu, 18 Jul 2019
+
+“Lying can be cognitively demanding. You must suppress the truth and construct a falsehood that is plausible on its face and does not contradict anything known by the listener, nor likely to be known. You must tell it in a convincing way and you must remember the story. This usually takes time and concentration, both of which may give off secondary cues and reduce performance on simultaneous tasks.”—Robert Trivers, *The Folly of Fools*
+
