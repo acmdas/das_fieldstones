@@ -108,4 +108,12 @@ This is also found to be a more satisfactory and convincing approach to the phen
 
 This leads L&#233;vy-Bruhl to the conclusion that ‘Primatives see with eyes like ours, but they do not perceive with the same minds’. And he adds:
 
->It is not correct to maintain, as is frequently done,
+>It is not correct to maintain, as is frequently done, that primitives associate occult powers, magic properties, a kind of soul or vital principle with all the objects which affect their senses or strike the imagination, and that their perceptions are surcharged with animistic beliefs. It is not a question of *association*. The mustic properties with which things are imbued form an integral part of the idea to the primitive who views it as a synthetic whole. It is at a later stage of social evolution that what we call a natural phenomenon tends to become the sole content of perceptions to the exclusion of other elements which then assume the aspect of beliefs, and finally appear superstitions. But as long as this ‘dissociation’ does not take place, perception remains an undifferentiated whole.
+
+It may be questioned whether the epithet ‘mystic’, as it is used here, and in the expression ‘participation mystique’ which is especially associated with the name of L&#233;vy-Bruhl, adds effectively to his meaning. Elsewhere he has defined the precise significance which he intends by it, and I shall revert to this shortly. What is important is the concept of participation. The principal reason which L&#233;vy-Bruhl, Durkheim and others assign for the fact that primitives ‘do not perceive with the same minds’ as ours, is, that in the act of perception, they are not detached, as we are, from the representations. For us the only connection *of which we are conscious* is the external one through the senses. Not so for them. Thus, for L&#233;vy-Bruhl:
+
+>The collective representations and interconnections which constitute such a (primitive) mentality are governed by the law of participation and in so far they take but little account of the law of contradiction.
+
+He speaks of ‘a veritable symbiosis . . . between the totemic group and its totem’ and tells us that, if we seek to penetrate their mental processes, ‘We must understand “the same” by virtue, not of the law of identity, but of the law of participation’.
+
+
