@@ -163,5 +163,9 @@ It is, however, not only these purely theoretical or academic idols with which t
 
 # VI<br/>ORIGINAL PARTICIPATION
 
-It is characteristic of our phenomena—indeed it is this, above all, which
+It is characteristic of our phenomena—indeed it is this, above all, which distinguishes them from those of the past—that our participation in them, and therefore also their representational nature, is excluded from our immediate awareness.  It is consequently always ignored by our ‘common sense’ and sometimes denied even in theory. For this reason it will be best to begin the brief series of observations which I want to make upon the history of phenomena—that is, the history of the familiar world—from the present day, and to work backwards from there to the remoter past. Our first step, then, is to trace the last stage of this development, which has led up to the collective representation with which we are familiar to-day.
+
+Participation is the extra-sensory relation between man and the phenomena. It was shown in Chapter III that the existence of phenomena depends on it. Actual participation is therefore as much a fact in our case as in that of primitive man. But we have also seen that we are unaware, whereas the primitive mind is aware of it. This primitive awareness, however, is obviously not the theoretical kind which *we* can still arrive at by beta-thinking. For that presupposes some acquaintance with the findings of modern physics and physiology and can only be applied to the kind of collective representations that go with this. The primitive kind of participation is indeed not theoretical at all, inasmuch as it is given in immediate experience. Let us distinguish it from ours by calling it ‘original’ participation. It would however be cumbersome to add the epithet every time the word is used and I propose very often to omit it, having first made it plain here and now that by ‘participation’ I shall mean *original participation*, unless the context otherwise requires.
+
+There is another
 
