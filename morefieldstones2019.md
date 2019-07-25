@@ -907,7 +907,7 @@ Making my entrance again with my usual flair</br>
 Sure of my lines...</br>
 No one is there.
 
-Don't you love farce?<</br>
+Don't you love farce?</br>
 My fault, I fear.</br>
 I thought that you'd want what I want...</br>
 Sorry, my dear!</br>
