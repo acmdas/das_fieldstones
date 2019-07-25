@@ -936,3 +936,7 @@ Thu, 18 Jul 2019
 
 “Lying can be cognitively demanding. You must suppress the truth and construct a falsehood that is plausible on its face and does not contradict anything known by the listener, nor likely to be known. You must tell it in a convincing way and you must remember the story. This usually takes time and concentration, both of which may give off secondary cues and reduce performance on simultaneous tasks.”—Robert Trivers, *The Folly of Fools*
 
+## Three Rules to Live By
+Thu, 25 Jul 2019
+
+“Three rules [Lou Reed] and I came up with – rules to live by. The first one is don’t be afraid of anyone. Imagine living your life so that you are afraid of no one. Second is get a really good bullshit detector and learn how to use it.  And third is be really, really tender.”—Laurie Anderson
