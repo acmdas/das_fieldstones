@@ -173,7 +173,9 @@ We have seen that a very large part of the collective representations is found b
 
 I have here assumed that what L&#233;vy-Bruhl and Durkheim and their followers say about contemporary primitive man is substantially correct; and it seems to me likely to be so.¹ But whether or not it is correct for contemporary primitive man, it is certainly true of historically early man. All the evidence from etymology and elsewhere goes to show that the further back we penetrate into the past of human consciousness, the more mythical in their nature do the representations become. Moreover there is no evidence to the contrary. I shall say something later on of the testimony borne by etymology. Here it must suffice to affirm categorically that, for the nineteenth-century fantasy of early man first gazing, with his mind *tabula rasa*, at natural phenomena like ours, then seeking to explain them with thoughts like ours, and then by a process of inference ‘peopling’ them with the ‘aery phantoms’ of mythology, there just is not any single shred of evidence whatever.
 
-I do not mean, by using the word ‘fantasy’,
+I do not mean, by using the word ‘fantasy’, to imply  contempt. If great scholars like Max M&#168;ller and Sir James Frazer, in seeking for the historical origins of myth, made the same mistake as the early anthropologists, it will, I hope, become apparent in the course of this and the ensuing chapters how inevitable it was that they should do so. To-day, on the other hand, partly thanks to their work, any little man, provided he is not hopelessly prejudiced, can convince himself of the contrary. The point is, not to find someone to turn up our noses at, but to grasp that fact that alpha-thinking, when men first began to exercise it, had to be directed upon *that* kind of collective representation (namely the participated kind) and not on collective representations resembling ours, which (as we shall see) are a later product of that very alpha-thinking.
+
+For alpha-thinking, as I have defined it, 
 
 
 
