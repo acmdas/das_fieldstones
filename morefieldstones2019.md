@@ -939,4 +939,4 @@ Thu, 18 Jul 2019
 ## Three Rules to Live By
 Thu, 25 Jul 2019
 
-“Three rules [Lou Reed] and I came up with – rules to live by. The first one is don’t be afraid of anyone. Imagine living your life so that you are afraid of no one. Second is get a really good bullshit detector and learn how to use it.  And third is be really, really tender.”—Laurie Anderson
+“Three rules [Lou Reed] and I came up with – rules to live by. The first one is don’t be afraid of anyone. Imagine living your life so that you are afraid of no one. Second is get a really good bullshit detector and learn how to use it. And third is be really, really tender.”—Laurie Anderson
