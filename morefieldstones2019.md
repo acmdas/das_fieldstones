@@ -940,3 +940,32 @@ Thu, 18 Jul 2019
 Thu, 25 Jul 2019
 
 “Three rules [Lou Reed] and I came up with – rules to live by. The first one is don’t be afraid of anyone. Imagine living your life so that you are afraid of no one. Second is get a really good bullshit detector and learn how to use it. And third is be really, really tender.”—Laurie Anderson
+
+## Stranger Things
+Fri, 26 Jul 2019
+
+W -I went outside and it was worse.
+
+Dr - How was it worse.
+
+W - There was this storm.
+
+Dr - so, how did you feel when you saw the storm?
+
+W - I felt frozen.
+
+Dr - Heartbreaking?
+
+W - Frozen.
+
+Dr - Frozen, cold frozen? Frozen to the touch?
+
+W - No, like how you feel when you are scared and can't breath or talk or do anything. I felt like this evil, like it was looking at me.
+
+Dr - This evil. Well, what do you think this evil wanted?
+
+W - You.
+
+Dr - You?
+
+W - Not me, everyone.
