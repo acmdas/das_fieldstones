@@ -231,6 +231,16 @@ them the last traces of original participation. In doing so he has produced the 
 
 >²Cr. Aquinas, *Summa*, 12. Qu. 32. 3. 1 ad 2. The other view was assumed by Ptolemy himself (*Almagest*, Bk. III, chaps. ii and iv; Bk. XIII, chap. ii). In the time of Copernicus it was still the official view, though not undisputed. See also Note at the end of this Chapter.
 
-# VIII,<br/>TECHNOLOGY AND TRUTH
+# VIII<br/>TECHNOLOGY AND TRUTH
 
-We have just distinguished between the actual doctrines of modern science and the collective representation to which the growth of science has contributed.
+We have just distinguished between the actual doctrines of modern science and the collective representation to which the growth of science has contributed. Thus, on the one hand attention may be directed to the history of alpha-thinking itself—what is ordinarily called the history of thought or the history of ideas. On the other hand it may be turned to the *effects* of an alpha-thinking which has continued long and widely enough to pass over into figuration, and be, as it were, smitten into the representations themselves; that is part of the history of *consciousness*, and of the collective representations which are its correlative. Now although my subject is not the doctrines of science, but rather the collective representations, which have been so deeply affected by the doctrines of science, it may be well to pause here for a moment and consider the relation of scientific theories to truth and knowledge.
+
+What is the view taken by scientists themselves of that relation? The answer is not very clear. And it is a good deal less clear to-day than it was a generation ago. The limited scope of all scientific inquiry is to-day often emphasized rather strongly by those engaged in it. So much so, that when we have heard them on the subject, we are sometimes left with the feeling that we ought to look on all scientific theories as mere ‘hypotheses’ in the sense of the Platonic and medieval astronomers, and that it is wrong to take any of them with the ‘liberalness’ that embroiled Galileo with the Church. They are at best, we are assured, the mathematical formulae which up to the time of writing have been found the simplest and most convenient for—well, for saving the appearances. In physics in particular there is a marked tendency to treat almost as an *enfant terrible* anyone who takes the models literally enough to refer to them in any context outside that of physical inquiry itself.¹ It would seem to follow from this that, as plato and the astronomers believed, scientific hypotheses have no direct relation to the real nature of things.
+
+On the other hand
+
+
+
+¹Anyone, it has been said, may ask questions concerning wave-mechanics; but only cads talk about ‘ether’!
+
+# IX<br/>AN EVOLUTION OF IDOLS
