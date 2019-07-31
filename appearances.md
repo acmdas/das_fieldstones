@@ -245,7 +245,11 @@ Take a clever boy, who knows nothing about the principle of internal combustion 
 
 Francis Bacon, whose startlingly original mind was so influential in bringing about the scientific revolution, was very frank about this. Not only did he maintain that knowledge was to be valued for the *power* it gives man over nature; but he practically made success in this aim a part of his definition of knowledge. The key words he uses to distinguish the knowledge he exalts from the knowledge pursued by the Schoomen are ‘fruit’ and ‘operation’. In other words, not only ‘science’ but knowledge itself, that is, the only knowledge that is not mere trifling, is, for him—technology. Knowledge (for which Bacon, when he wrote in Latin, of course used the word *scientia*) is that which enables us to make nature do our bidding.
 
-I think it must be acknowledged that the ‘idea’ which stands behind the particular kind of knowledge which we have come to call ‘science’ is ‘dashboard-knowledge’.
+I think it must be acknowledged that the ‘idea’ which stands behind the particular kind of knowledge which we have come to call ‘science’ is ‘dashboard-knowledge’. I mean only that that is its *mode* of ‘knowing’. I do not of course mean that the motive by which the great scientists have been inspired has been the desire for power. The analogy is admittedly a crude one. For, while the dashboard of even the most expensive and up-to-date car is a comparatively simple affair, nature’s ‘dashboard’—that is, her exterior, accessible to the senses and the reason—is of such a marvellous and intricate complexity that many a man has counted his life well spent in mastering a tiny corner of it.
+
+If however it *is* acknowledged, what follows? If science is merely technology, if the theories of physics in particular are mere hypotheses to save the appearances, with no necessary relation to ultimate truth, then—well, in the first place, one hopes that the car will not break down. But, in the second place, it might be argued that they should be consistently treated as such. It might be said that the theories of physics should be reserved for the purposes of physics and left out of sight altogether, when we are thinking about anything else—about the nature of perception, for instance. This would remove the foundation from under the first part of this book. But it would also have so many other, and such startling consequences, that I am not seriously alarmed.
+
+For, in the first place, we
 
 
 
