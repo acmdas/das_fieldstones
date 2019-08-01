@@ -259,4 +259,17 @@ Apart from all this, there is one conclusive reason why, in spite of the technol
 
 It is the common opinion that, whereas we see nature pretty much as she really is, primitive man sees and archaic or early man saw her all awry through the veil of a complicated system of fancies and beliefs. If, however, the general conclusions of Chapter IV are accepted, it is clear that, whether or no archaic man saw nature awry, what he saw was not primarily determined by *beliefs*. On the other hand it was suggested in Chapter VII that what *we* see *is* so determined. If I am right therefore, there is indeed a contrast between primitive and modern consciousness and that contrast *is* connected with beliefs, but in exactly the opposite way to what is generally supposed. Precisely what beliefs about phenomena have been widely and confidently and long enough held to become actually part of a representation, is, as I have said, a matter on which opinions may well differ in any particular case. But, whether they are part of our collective representations or not, it is a fact that there are certain beliefs not only about the structure, but also about the history, of the phenomena surrounding them, which are widely, indeed almost universally, shared by civilized men in this second half of the twentieth century. There are also beliefs, only a little less confidently and a little less universally held, about the history of consciousness. As both these sets of beliefs run sharply counter to a good deal of what I have said and intend to say on the same subject, it will be well to give some indication of how and why these (in my view) mistaken beliefs arose.
 
-But first of all,
+But first of all, one more brief digression on the subject of science. Most of what I have said about it has connoted the experimental and practical category. Whether the theories of physics and astronomy, for instance, are truths or approximate truths, or whether they are mere hypotheses to save the appearances, the impressibe thing about them is that they work. We predict the result of an experiment, we make the experiment, with all adequate safeguards, and the prediction is verified. In the case of astronomy, although we cannot experiment, we can still predict and, in doing so, test the efficiency of our hypotheses.
+
+>They predict many years ahead eclipses of the sun and moon; they specify the day, the hour and the extent; and their reckoning is correct—the events follow their predictions; they have discovered and recorded rules, by which it can be foretold in what year, in what month of the year, on what day of the month, at what hour of the day, in what part of their light the sun and moon are to be eclipsed; and what is foretold occurs.
+
+These words are of course not less, but much more true of the Copernican and Newtonian hypotheses of to-day than they were of the Ptolemaic and contemporary hypotheses to which St. Augustine was referring when he wrote them in his *Confessions*¹ at about the end of the fourth century A.D. By their ‘fruits’, as Bacon would have said, we know them.
+
+But there are to-day, alongside the practical and experimental sciences, a number of others which are, it seems to me, in a much less happy position. I suppose a large part of astrophysics, for example, to be unverifiable by any prediction or experiment; but I am concerned here more with sciences such as paleontology and a good part of geology and zoology, whose subjec-matter is the past, which naturally cannot be predicted and is not either susceptible of experiment.
+
+
+
+¹Bk. V, ch. iii.
+
+# X<br/>THE EVOLUTION OF PHENOMENA
+
