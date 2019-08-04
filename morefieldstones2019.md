@@ -974,3 +974,8 @@ W - Not me, everyone.
 Sat, 27 Jul 2019
 
 “In a society caught up in the race for the better, limits on change are experienced as a threat. The commitments to the better at any cost makes the good impossible at all costs. Failure to renew the bill of goods frustrates the expectation of what is possible, while renewal of the bill of goods intensifies the expectations of unattainable progress. What people have and what they are about to get are equally exasperating to them. Accelerating change has become both addictive and intolerable. At this point the balance among stability, change and tradition has been upset; society has lost both its roots in shared memories and its bearings for innovation. Judgement on precedents has lost its value.”— Ivan Illich, *Tools for Conviviality*
+
+## Compassion
+Sun, 04 Aug 2019
+
+"‘Need’ now means wanting someone else’s money. ‘Greed’ means wanting to keep your own. 'Compassion’ is when a politician arranges the transfer."—Joseph Sobran
