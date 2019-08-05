@@ -979,3 +979,8 @@ Sat, 27 Jul 2019
 Sun, 04 Aug 2019
 
 "‘Need’ now means wanting someone else’s money. ‘Greed’ means wanting to keep your own. 'Compassion’ is when a politician arranges the transfer."—Joseph Sobran
+
+## Science
+Mon, 05 Aug 2019
+
+“Our modern conception of science is a bureaucratic mechanism called ‘scientific method’ which denies the existence of human intuition, and thus our humanity. It is never actually followed—no scientist ever discovered anything in a time-serving, methodical way; especially not on billion-dollar machines. But still we praise and believe in this method, or such derivatives as Popper’s ‘falsifiability,’ because we are easily pleased, profligate, and hopelessly glib.”—[David Warren](https://www.davidwarrenonline.com/2019/08/05/a-call-to-revolt/)
