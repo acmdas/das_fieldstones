@@ -991,3 +991,8 @@ See [Saving the Appearances](https://acmdas.github.io/appearances.html) Chapter 
 Tue, 06 Aug 2019
 
 “A scientific discovery is very convincing, but at the same time scientific knowledge is never definitive and is always open to revision. This is a central point. Science establishes its credibility and its reliability through its refusal to be definitive and certain.”—Carlo Rovelli 
+
+## Silence
+Tue, 06 Aug 2019
+
+“Silence must be excluded at all cost, since it awakens you to the emptiness that looms on the edge of modern life, threatening to confront you with the dreadful truth, that you have nothing whatever to say.”—Roger Scruton
