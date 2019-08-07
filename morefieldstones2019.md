@@ -1022,6 +1022,6 @@ Wed, 07 Aug 2019
 ## Reality
 Wed, 07 Aug 2019
 
->Is this the real life?<br/>Is this just fantasy?<br/>Caught in a landslide<br/>No escape from reality<br/>Open your eyes<br/>Look up to the skies and see—Freddie Mercury, *Bohemian Rhapsody*
+>Is this the real life?<br/>Is this just fantasy?<br/>Caught in a landslide<br/>No escape from reality<br/>Open your eyes<br/>Look up to the skies and see<br/>—Freddie Mercury, *Bohemian Rhapsody*
 
 A fitting introduction to Owen Barfield’s *Saving the Appearances*?
