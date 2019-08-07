@@ -996,3 +996,6 @@ Tue, 06 Aug 2019
 Tue, 06 Aug 2019
 
 “Silence must be excluded at all cost, since it awakens you to the emptiness that looms on the edge of modern life, threatening to confront you with the dreadful truth, that you have nothing whatever to say.”—Roger Scruton
+
+“After silence, that which comes nearest to expressing the inexpressible is music.”—Aldous Huxley
+
