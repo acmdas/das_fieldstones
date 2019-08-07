@@ -1018,3 +1018,10 @@ Wed, 07 Aug 2019
 ‘Stephen, I do assure you. I was brought up rough when I was a little chap, after my mother’s death, sometimes at the village school, sometimes running wild; and I knew these men intimately as boys, and now to see them at the mercy of landlords, farmers, and God help us parish officers for poor relief, hurts me so that I can scarcely bring myself to go there again. And I am determined the same thing shall not happen to Simmon’s Lea, if ever I can prevent it. The old ways had disadvantages, of course, but here — and I speak only of what I know — it was a human life, and the people knew its ways and customs through and through.
 
 —Patrick O’Brian, *The Yellow Admiral*
+
+## Reality
+Wed, 07 Aug 2019
+
+>Is this the real life?<br/>Is this just fantasy?<br/>Caught in a landslide<br/>No escape from reality<br/>Open your eyes<br/>Look up to the skies and see—Freddie Mercury, *Bohemian Rhapsody*
+
+A fitting introduction to Owen Barfield’s *Saving the Appearances*?
