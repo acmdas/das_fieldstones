@@ -999,3 +999,7 @@ Tue, 06 Aug 2019
 
 “After silence, that which comes nearest to expressing the inexpressible is music.”—Aldous Huxley
 
+## Genius
+Tue, 06 Aug 2019
+
+“A genius is the one most like himself.”—Thelonius Monk
