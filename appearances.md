@@ -335,9 +335,9 @@ To begin with, we will look at the sky. We do not see it as empty space, for we 
 
 We turn our eyes to the sea—and at once we are aware that we are looking at one of the four elements, of which all things on earth are composed, including our own bodies. We take it for granted that these elements have invisible constituents, for, as to that part of them which is incorporated in our own bodies, we experience them inwardly as the four ‘humours’ which go to make up our temperament. (To-day we still catch the lingering echo of this participation, when Shakespeare makes Mark Antony say of Brutus:
 
->*. . . The elements<br/>So mixed in him, that Nature might stand up<br/>And say to all the world, This was a man.)
+>*. . . The elements<br/>So mixed in him, that Nature might stand up<br/>And say to all the world, This was a man.*)
 
-Earth, Water, Air and Fire are part of ourselves, and we of them. And through them also the stars are linked with our inner being, for each constellated Sign of the Zodiac is specially related to one of the four elements, and each element therefore to three Sign.
+Earth, Water, Air and Fire are part of ourselves, and we of them. And through them also the stars are linked with our inner being, for each constellated Sign of the Zodiac is specially related to one of the four elements, and each element therefore to three Signs.
 
 A stone falls to the ground—we see it seeking the centre of the earth, moved by something much more like desire than what we to-day call gravity. We prick our finger and a drop of red blood appears. We look at the blood . . . but for the moment I will not pursue this any further. The reader who is at all acquainted with the productions of the medieval mind, its alchemy, its medicine, its herb-lore, its bestiaries, and so forth, can do it better for himself. For the reader who is not so acquainted there are the libraries—better still, there are those inexhaustible encyclopedias in stone, the cathedral carvings.
 
