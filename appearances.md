@@ -325,7 +325,13 @@ It is very important to realize that, when it is said that the man of medieval a
 
 When the ‘things’ of the physical world have become idols, then indeed the literal interpretation excludes the symbolical, and *vice versa*. But where every thing is a representation, at least half-consciously experienced as such, there is as yet no such contradiction. For a representation experienced as such is neither literal nor symbolical; or, alternatively, it is both at the same time. Nothing is easier for us, than to grasp a purely literal meaning; and if we are capable at all of grasping, in addition, a symbolical or ‘fancy’ meaning, as we do in poetry, we are in no danger of confusing the one with the other.² Before the scientific revolution, on the other hand, it was the concept of the ‘merely literal’ that was difficult. And therefore the writer who is referred to as Dionysius the Areopagite, and Thomas Aquinas and others after him, emphasized the importance of using the humblest and most banal images, as symbols for purely spiritual truths or beings. For only in this way could a representation be safely polarized into symbol and symbolized, into literal and metaphorical.
 
-We have seen
+We have seen that phenomena are experienced collectively *as* representations, and not as idols, where there is a survival of participation. In attempting to show that, right down to the period which ended with the scientific revolution, there was such a survival, I can do no more than give a few selected indications. The reader must go elsewhere for a full and detailed account of the medieval outlook.
+
+Since participation is a *way* of experiencing the world in immediacy, and not a system of ideas about experience, or about the world, we obviously shall not find any contemporary *description* of it. When we come to contemporary philosophy and theories of knowledge, we shall indeed find explicit *references* to participation, but for the moment we are concerned with the ordinary man’s experience and not with what philosophers thought about that experience. Contemporary books were written, and contemporary science was expounded, for people assumed to share the collective representations of the writer, and accordingly our evidence must be sought more often in what is implied or assumed than in what is actually affirmed. We can only reconstruct the collective representations of another age obliquely.
+
+Let us make the attempt for a moment. Let us try to place ourselves inside the skin of a medieval ‘man in the street’, and imagine ourselves looking out at the world through his eyes and thinking about it—not speculating, but thinking ordinary habitual thoughts—with his mind. We are not concerned with what he believed as an obligation of faith or a point of doctrine remote from experience. We are concerned with the sort of thing he took for granted.
+
+To begin with,
 
 
 
