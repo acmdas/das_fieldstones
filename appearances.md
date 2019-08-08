@@ -1,9 +1,9 @@
 
 # INTRODUCTION
 
-There may be times when what is most needed is, not so much a new discovery or a new idea as a different ‘slant’; I mean a comparatively slight readjustment in our way of looking at the things and ideas on which attention is already fixed.
+There may be times when what is most needed is, not so much a new discovery or a new idea as a different ‘slant’; I mean a comparatively slight readjustment in our *way* of looking at the things and ideas on which attention is already fixed.
 
-Draw a rectangular glass box in perspective—not too precise perspective (for the receding lines must be kept parallel, instead of converging)—and look at it. It has a front and a back, a top and a bottom. But slide your hand across it in the required direction and look again: you may find that what you thought was the inside of the top has become its outside, while th outside of the front wall has changed to the inside of the back wall, and vice versa. The visual readjustment was slight, for the box has not only turned inside out but is also lying at quite a different angle.
+Draw a rectangular glass box in perspective—not too precise perspective (for the receding lines must be kept parallel, instead of converging)—and look at it. It has a front and a back, a top and a bottom. But slide your hand across it in the required direction and look again: you may find that what you thought was the inside of the top has become its outside, while the outside of the front wall has changed to the inside of the back wall, and vice versa. The visual readjustment was slight, for the box has not only turned inside out but is also lying at quite a different angle.
 
 The book which follows has been written in the belief that it might be possible to slide a sort of hand across a good many of the things and ideas upon which the attention of western humanity has been concerned for the last two or three hundred years, and upon which the attention of the East is rapidly becoming fixed in the same way. The helping ‘hand’ which it has been sought to apply in this way is, simply, a *sustained* acceptance by the reader of the relation assumed by physical science to subsist between human consciousness on the one hand and, on the other, the familiar world of which that consciousness is aware.
 
@@ -11,7 +11,7 @@ Physical science has for a long time stressed the enormous difference between wh
 
 About this conception of the relation between man and nature, which is wholly undisputed outside academic philosophy and largely undisputed within it, two things are noticeable; though they do not appear as yet to have been very widely noticed. One is an omission and the other an assumption.
 
-In the first place, undisputed though it remains, it is (if we except a certain school of genetic psychology, now very much out of fashion) always left out of account is our spproach to any subject outside the sphere of physics—such subjects, for example, as the history of the earth, the history of language, the history of thought. In the second place, it is invariably assumed that, whatever the truth may be about the psychological nexus between man and nature, it is an unchanging one and is the same now as it was when men first appeared on earth.
+In the first place, undisputed though it remains, it is (if we except a certain school of genetic psychology, now very much out of fashion) always left out of account is our approach to any subject outside the sphere of physics—such subjects, for example, as the history of the earth, the history of language, the history of thought. In the second place, it is invariably assumed that, whatever the truth may be about the psychological nexus between man and nature, it is an unchanging one and is the same now as it was when men first appeared on earth.
 
 In this book it is suggested that the assumption arose in the first place through clearly traceable historical causes; that the evidence is in favour of regarding it as illusory; and that its persistence in spite of that evidence is largely due to the omission.
 
@@ -331,7 +331,7 @@ Since participation is a *way* of experiencing the world in immediacy, and not a
 
 Let us make the attempt for a moment. Let us try to place ourselves inside the skin of a medieval ‘man in the street’, and imagine ourselves looking out at the world through his eyes and thinking about it—not speculating, but thinking ordinary habitual thoughts—with his mind. We are not concerned with what he believed as an obligation of faith or a point of doctrine remote from experience. We are concerned with the sort of thing he took for granted.
 
-To begin with, we will look at the sky. We do not see it as empty space, for we know very well that a vacuum is something that nature does not allow, any more than she allows bodies to fall upwards. If it is daytime, we see the air filled with light proceeding from a living sun, rather as our own flesh is filled with blood proceeding from a living heart.
+To begin with, we will look at the sky. We do not see it as empty space, for we know very well that a vacuum is something that nature does not allow, any more than she allows bodies to fall upwards. If it is daytime, we see the air filled with light proceeding from a living sun, rather as our own flesh is filled with blood proceeding from a living heart. Page 76
 
 
 
