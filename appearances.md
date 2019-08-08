@@ -337,7 +337,7 @@ To begin with,
 
 >¹*Myth, Magic and Morals*.
 
->2The meaning, for instance, of the word *garden* in the line: *There is a garden in her face*, is unlikely to be mistaken for the literal meaning.
+>²The meaning, for instance, of the word *garden* in the line: *There is a garden in her face*, is unlikely to be mistaken for the literal meaning.
 
 # XII<br/>SOME CHANGES
 
