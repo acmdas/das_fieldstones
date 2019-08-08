@@ -331,7 +331,7 @@ Since participation is a *way* of experiencing the world in immediacy, and not a
 
 Let us make the attempt for a moment. Let us try to place ourselves inside the skin of a medieval ‘man in the street’, and imagine ourselves looking out at the world through his eyes and thinking about it—not speculating, but thinking ordinary habitual thoughts—with his mind. We are not concerned with what he believed as an obligation of faith or a point of doctrine remote from experience. We are concerned with the sort of thing he took for granted.
 
-To begin with,
+To begin with, we will look at the sky. We do not see it as empty space, for we know very well that a vacuum is something that nature does not allow, any more than she allows bodies to fall upwards. If it is daytime, we see the air filled with light proceeding from a living sun, rather as our own flesh is filled with blood proceeding from a living heart.
 
 
 
