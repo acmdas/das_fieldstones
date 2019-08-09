@@ -1025,3 +1025,19 @@ Wed, 07 Aug 2019
 >Is this the real life?<br/>Is this just fantasy?<br/>Caught in a landslide<br/>No escape from reality<br/>Open your eyes<br/>Look up to the skies and see<br/>—Freddie Mercury, *Bohemian Rhapsody*
 
 A fitting introduction to Owen Barfield’s *Saving the Appearances*?
+
+## Memory
+Fri, 09 Aug 2019
+
+"Memory is a snare, pure and simple; it alters, it subtly rearranges the past to fit the present."—Mario Vargas Llosa
+
+## Manners
+Fri, 09 Aug 2019
+
+"Politeness is the chief sign of culture."—Baltasar  Gracian (1601-1658) Spanish writer.
+
+## Authority
+Fri, 09 Aug 2019
+
+"It is always easier to quote an authority than to carry on a chain of reasoning."—William Hazlitt, *A Reply To The Essay On Population*
+
