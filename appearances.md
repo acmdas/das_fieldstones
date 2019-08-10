@@ -365,4 +365,4 @@ The word *blood* is a particularly striking example of such a shift of meaning, 
 
 ## XIII<br/>THE TEXTURE OF MEDIEVAL THOUGHT
 
-Once the fact
+Once the fact of participation is granted, the connection between words and things must, we have seen, be admitted to be at any time a very much closer one than the last two or three centuries have assumed. Conscious participation, moreover, will be aware of that connection; and original participation was conscious.
