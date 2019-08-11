@@ -369,5 +369,8 @@ Once the fact of participation is granted, the connection between words and thin
 
 In the last two chapters I have said a little of the world as it was for the common man and a little of the world as it was for science immediately before the scientific revolution. Now I am to say a little of the world as it was shown forth in philosophy. In all cases the plan of this book as well as the time at my disposal both for study and for writing, have determined that that little must be a very little indeed. I am only too well aware that a whole book, instead of a chapter, would not be too much to give to the philosophy alone of that lost world. Once again, it *is* a lost world—although the whole purpose of this book is to show that its spiritual wealth can be, and indeed, if incalculable disaster is to be avoided, *must* be regained. No good can come of any attempt to hark back to the original participation from which it sprang.
 
-That lost world, then, was a world
+That lost world, then, was a world in which both phenomenon and name were felt as representations. On the one hand ‘the world conceived in the mind is representative of the whole of that which is realized in thought’ (*Verbum igitur in mente conceptum est repraesentativum omnis ejus quod acta intelligitur*).¹ But on the other hand the phenomenon itself only achieves full reality (*actus*) in the moment of being ‘named’ by man;
 
+
+
+>¹ *Summa Theologica*, 12, Qu. 34. a. 3.
