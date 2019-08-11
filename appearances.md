@@ -376,9 +376,13 @@ It is against a background of thoughts like these,
 
 
 >¹ *Summa Theologica*, 12, Qu. 34. a. 3.
+
 >² *De Differentia Divini Verbi et Humani; De Natura Verbi Intellectus*, etc.
+
 >³ *Summa*, 12, Qu. 3, a. 8, ad 2.
+
 >⁴ Ibid. 12, Qu. 12, a. 2. 3.
+
 >⁵ Ibid, 12. Qu. 14. 2. I.
 
 # XIV<br/>BEFORE AND AFTER THE SCIENTIFIC REVOLUTION
