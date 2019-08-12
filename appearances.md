@@ -1,3 +1,8 @@
+# Saving the Appearances
+
+## *A Study in Idolatry*
+
+### Owen Barfield
 
 # INTRODUCTION
 
@@ -375,7 +380,7 @@ It is against a background of thoughts like these, and of the collective represe
 
 For this very reason we are in some danger of confusing their allegory with the ‘symbolism’ in which we ourselves are again beginning to be interested, or at least judging them by the same standards. This is an error. Symbolism often expresses itself in language, as so much else does, though it can also express itself through other media. Yet the essence of symbolism is, not that words or names, as such, but that things or events themselves, are apprehended as representations. But this, as we have seen, is the normal way of apprehension for a participating consciousness. *Our* ‘symbolical’ therefore is an approximation to, or a variant of, *their* ‘literal’. Even when they got down to the bedrock of literal, they still experienced that rock as a representation. And so Aquinas, in dealing with the use of language in Holy Scripture, first divides its meaning into *literal* and *spiritual* and then subsumes the *allegorical* (and certain other) interpretations under the heading of *spiritual*. But when he comes to the *sensus parabolicus* (which is our ‘symbolical’) he includes it in the literal (*sub literali continetur*). When, for example, in the Bible, ‘the right arm of God’ is spoken of, ‘It is not the figure, but the figured which is the literal meaning’.⁶ All this will bear some meditation.
 
-Indeed, to understand how the word ‘literal’ has changed its meaning is to understand the heart of the matter.
+Indeed, to understand how the word ‘literal’ has changed its meaning is to understand the heart of the matter. For our problem is, precisely, to transport ourselves into the interior of minds, for which the *ordinary* way of looking at, and of thinking about, phenomena, was to look at and to think about them as appearances—representations. For which, therefore, knowledge was defined, not as the devising of hypotheses, but as an act of union with the represented behind the representation. And it is only by reconstructing in imagination, and not just in theory, the nature of the representations they confronted that we can hope really to understand the mode of their thinking. If we approach it from this end, instead of, as is usual, by way of our own representations and our own consequent distortions of the then meanings of their terms, then the Scholastic terminology does indeed spring into life for us—form and matter, *actus* and *potentia*, species, essence, existence, the active and the passive intelligence, and the rest. We must forget all about our ‘laws of nature’, those interposed, spectral hypotheses, before we can understand the ‘forms’ of medieval scholasticism. For the forms determined the appearances, not as laws do, but rather as a soul determines a body; and indeed the animal and human soul was defined as the ‘form’ of the body.
 
 
 
