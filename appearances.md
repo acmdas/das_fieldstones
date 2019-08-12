@@ -373,7 +373,9 @@ That lost world, then, was a world in which both phenomenon and name were felt a
 
 It is against a background of thoughts like these, and of the collective representations on which they were based, that we must see the medieval conception of the Seven Liberal Arts, with Grammar at their head, followed immediately by Rhetoric and Dialectic. To learn about the true nature of words was at the same time to learn about the true nature of things. And it was the only way. We may reflect how the meaning of the word *grammar* itself has been polarized, since the scientific revolution, into the study of ‘mere’ words, on the one hand, and., on the other, into the half-magical *gramarye*, which altered its form to *glamour* and was useful for a season to the poets, before it was debased. One may reflect also on the frequent appearances made by Grammar and the other liberal arts, as persons, in medieval allegory, and how easily and naturally they mingle there with the strange figure of the Goddess Natura—at once so like and so unlike the Persephone of Greek mythology. This might easily lead us into a consideration of allegory itself—a literary form which is so little to our taste, and yet was so popular and all-pervasive in the Middle Ages. Is it not clear that *we* find allegory desiccated precisely because, for us, mere words are themselves desiccated—or rather because, for us, words are ‘mere’? For us, the characters in an allegory are ‘personified abstractions’. but for a man of the Middle Ages Grammar or Rhetoric, Mercy or ‘Daunger’, were real to begin with, simply *because* they were ‘names’. And names could be representations, in much the same solid-feeling way as things were.
 
-For this very reason
+For this very reason we are in some danger of confusing their allegory with the ‘symbolism’ in which we ourselves are again beginning to be interested, or at least judging them by the same standards. This is an error. Symbolism often expresses itself in language, as so much else does, though it can also express itself through other media. Yet the essence of symbolism is, not that words or names, as such, but that things or events themselves, are apprehended as representations. But this, as we have seen, is the normal way of apprehension for a participating consciousness. *Our* ‘symbolical’ therefore is an approximation to, or a variant of, *their* ‘literal’. Even when they got down to the bedrock of literal, they still experienced that rock as a representation. And so Aquinas, in dealing with the use of language in Holy Scripture, first divides its meaning into *literal* and *spiritual* and then subsumes the *allegorical* (and certain other) interpretations under the heading of *spiritual*. But when he comes to the *sensus parabolicus* (which is our ‘symbolical’) he includes it in the literal (*sub literali continetur*). When, for example, in the Bible, ‘the right arm of God’ is spoken of, ‘It is not the figure, but the figured which is the literal meaning’.⁶ All this will bear some meditation.
+
+Indeed, to understand how the word ‘literal’ has changed its meaning is to understand the heart of the matter.
 
 
 
@@ -386,6 +388,8 @@ For this very reason
 >⁴ Ibid. 12, Qu. 12, a. 2. 3.
 
 >⁵ Ibid, 12. Qu. 14. 2. I.
+
+>⁶ *Summa*, 1a, Qu. 1, a. 10, ad 3. And cf. “p.75 above”
 
 # XIV<br/>BEFORE AND AFTER THE SCIENTIFIC REVOLUTION
 
