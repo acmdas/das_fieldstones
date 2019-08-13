@@ -420,4 +420,4 @@ For medieval man, then, the universe was a kind of theophany, in which he partic
 
 However this may be, and whatever chronological limits we choose to assign to it, a change there certainly was. Professor Butterfield has commented well on it:
 
->through changes in the habitual use of words, certain things in the natural philosophy of Aristotle had now acquired a coarsened meaning or were actually misunderstood.
+>through changes in the habitual use of words, certain things in the natural philosophy of Aristotle had now acquired a coarsened meaning or were actually misunderstood. It may not be easy
