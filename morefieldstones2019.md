@@ -1041,3 +1041,7 @@ Fri, 09 Aug 2019
 
 "It is always easier to quote an authority than to carry on a chain of reasoning."—William Hazlitt, *A Reply To The Essay On Population*
 
+## Seekers
+Mon, 12 Aug 2019
+
+“Those who seek the truth run the risk of finding it.”—Isabel Allende
