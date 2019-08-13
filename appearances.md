@@ -422,10 +422,18 @@ However this may be, and whatever chronological limits we choose to assign to it
 
 >through changes in the habitual use of words, certain things in the natural philosophy of Aristotle had now acquired a coarsened meaning or were actually misunderstood. It may not be easy to say why such a thing should have happened, but man unconsciously betray the fact that a certain Aristotelian thesis simply has no meaning for them any longer—they just cannot think of the stars and heavenly bodies as things without weight even when the books tell them to do so. Francis Bacon seems unable to say anything except that it is obvious that these heavenly bodies have weight, like any other kind of matter which we meet in our experience. Bacon says, furthermore, that he is unable to imagine the planets as nailed to crystalline spheres; and the whole idea only seems more absurd to him if the spheres in quetstion are supposed to be made of that liquid, aetherial kind of substance which Aristotle had in mind. Between the idea of a stone aspiring to reach its natural place at the centre of the universe—and rushing more fervently at it came nearer home—and the idea of a stone accelerating its descent under the constant force of gravity, there is an intellectual transition which involves a change in men’s feeling for matter.¹
 
-We have seen that this change in men’s feeling for matter is merely one aspect of a much deeper and more fundamental change. And the change in men’s feeling for the nature of words and of thought was no whit less marked.
+We have seen that this change in men’s feeling for matter is merely one aspect of a much deeper and more fundamental change. And the change in men’s feeling for the nature of words and of thought was no whit less marked. Thus, the polarity of *actus* and *potentia* had carried perhaps half the weight of the philosophical thought of the Western mind through all the centuries that elapsed between Aristotle and Aquinas. A medieval philosopher would not have put the argument as I was obliged to do, when I said in Chapter III that there is ‘no such thing’ as unfelt solidity, just as there is no such thing as an unseen rainbow. He would have said that both the unsesn rainbow and the unfelt matter are *in potentia*. Yet this polarity, taken for granted for more than a thousand years by some of the acutest intellects the world has ever known—this polarity has become, for Bacon, a ‘frigida distinctio’—mere words! Again, in the *Novum Organum* he tells men bluntly that they ought not to think of ‘forms’ any more. They are really more like ‘laws’.
+
+>It may be that nothing really exists except individual bodies, which produce real motion according to law; in science it is just that law, and the inquiry, discovery and explanation of it, which are the fundamental requisite both for the knowledge and for the control of Nature. And it is that law and its ‘clauses’, which *I* mean when I use (chiefly because of its current prevalence and familiarity) the word ‘forms’.²
+
+*Causa exemplaris* is gone, in other words, and mechanical causality and the idols are already in sight.
+
+If, with the help
 
 
 
 >¹ *Origins of Modern Science*, p. 104.
+
+>² *Novum Organum, II, 2. Author’s translation.
 
 # XV<br/>GRAECO-ROMAN AGE (MIND AND MOTION)
