@@ -428,12 +428,12 @@ We have seen that this change in men’s feeling for matter is merely one aspect
 
 *Causa exemplaris* is gone, in other words, and mechanical causality and the idols are already in sight.
 
-If, with the help
+If, with the help of some time-machine working in reverse, a man of the Middle Ages could be suddenly transported into the skin of a man of the twentieth century, seeing through our eyes and with our ‘figuration’ the objects we see, I think he would feel like a child who look for the first time at a photograph through the ingenious magic of a stereoscope. ‘Oh!”, he would say, ‘look how they *stend out!*’ We must not forget that in his time perspective had not yet been discovered, nor underrate the significance of this. True, it is no more than a device for pictorially representing depth, and separateness, in space. But how come it that the device had never been discovered before—or, if discovered, never adopted?
 
 
 
 >¹ *Origins of Modern Science*, p. 104.
 
->² *Novum Organum, II, 2. Author’s translation.
+>² *Novum Organum*, II, 2. Author’s translation.
 
 # XV<br/>GRAECO-ROMAN AGE (MIND AND MOTION)
