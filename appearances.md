@@ -420,4 +420,12 @@ For medieval man, then, the universe was a kind of theophany, in which he partic
 
 However this may be, and whatever chronological limits we choose to assign to it, a change there certainly was. Professor Butterfield has commented well on it:
 
->through changes in the habitual use of words, certain things in the natural philosophy of Aristotle had now acquired a coarsened meaning or were actually misunderstood. It may not be easy
+>through changes in the habitual use of words, certain things in the natural philosophy of Aristotle had now acquired a coarsened meaning or were actually misunderstood. It may not be easy to say why such a thing should have happened, but man unconsciously betray the fact that a certain Aristotelian thesis simply has no meaning for them any longer—they just cannot think of the stars and heavenly bodies as things without weight even when the books tell them to do so. Francis Bacon seems unable to say anything except that it is obvious that these heavenly bodies have weight, like any other kind of matter which we meet in our experience. Bacon says, furthermore, that he is unable to imagine the planets as nailed to crystalline spheres; and the whole idea only seems more absurd to him if the spheres in quetstion are supposed to be made of that liquid, aetherial kind of substance which Aristotle had in mind. Between the idea of a stone aspiring to reach its natural place at the centre of the universe—and rushing more fervently at it came nearer home—and the idea of a stone accelerating its descent under the constant force of gravity, there is an intellectual transition which involves a change in men’s feeling for matter.¹
+
+We have seen
+
+
+
+>¹ *Origins of Modern Science*, p. 104.
+
+#XV<br/>GRAECO-ROMAN AGE (MIND AND MOTION)
