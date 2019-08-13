@@ -416,4 +416,8 @@ It will be well to point out here that, if I have concentrated on one particular
 
 # XIV<br/>BEFORE AND AFTER THE SCIENTIFIC REVOLUTION
 
-For medieval man, then, the universe was a kind of theophany, in which he participated at different levels, in being, in thinking, in speaking or naming, and in knowing. And then—the evolutionary change began.
+For medieval man, then, the universe was a kind of theophany, in which he participated at different levels, in being, in thinking, in speaking or naming, and in knowing. And then—the evolutionary change began. Not, of course, at any given moment, but with anticipations, localized delays, individual differences. But no beginning is instantaneous—otherwise the very word ‘begin’ would be unnecessary and indeed meaningless. We need not pay too much attention to those historians who cautiously refuse to detect any process in history, because it is difficult to divide into periods, or because the periods are difficult to date precisely. The same objections apply to the process of growth from child to man. We should rather remind them that, if there is no process, there is in fact no such thing as history at all, so that they themselves must be regarded as mere chroniclers and antiquarians—a limitation which I cannot fancy they would relish. Moreover, the mental image, which they transfer to history, of a formless process determined by the chance impact of events, is itself, as we saw in Chapter IX, a product of the idolatry of the age of literalness.
+
+However this may be, and whatever chronological limits we choose to assign to it, a change there certainly was. Professor Butterfield has commented well on it:
+
+>through changes in the habitual use of words, certain things in the natural philosophy of Aristotle had now acquired a coarsened meaning or were actually misunderstood.
