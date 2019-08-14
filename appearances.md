@@ -444,7 +444,7 @@ It happened that, at a time when I was studying the *De Natura Verbi Intellectus
 
 >³ *De Natura Verbi Intellectus*.
 
->⁴ George Rostrevor jHamilton. *The Carved Stone*. Heinemann. 1952.
+>⁴ George Rostrevor Hamilton. *The Carved Stone*. Heinemann. 1952.
 
 # XV<br/>GRAECO-ROMAN AGE (MIND AND MOTION)
 
