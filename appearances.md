@@ -448,4 +448,6 @@ It happened that, at a time when I was studying the *De Natura Verbi Intellectus
 
 # XV<br/>GRAECO-ROMAN AGE (MIND AND MOTION)
 
-Earlier in this book, and particularly in Chapter X, attention was drawn to the difference between a history of thought or of ideas, on the one hand, and a history of consciousness on the other.
+Earlier in this book, and particularly in Chapter X, attention was drawn to the difference between a history of thought or of ideas, on the one hand, and a history of consciousness on the other. I am of course aware that the various expressions of medieval thought which I have discussed in the last two chapters are usually explained in quite a different way. Where I have treated them as arising out of, and betokening, a slightly different relation between the mind of man and his phenomena—and that itself as implying slightly different phenomena—the ordinary view regards them purely and simply as a different ideology superimposed on phenomena which were in all respects the same as our own. By tracing this ideology through a chain of individual thinkers—Plato, Aristotle, the Neo-Platonists, Galen, Isidore of Seville, Vincent de Beauvais, Martanus Capella and others—the medieval outlook is presented as a stage in the history of (largely erroneous) ideas.
+
+Now one outstanding thinker does, of course, pass on his ideas to others, and especially so in an age when books are few and hard to come by.
