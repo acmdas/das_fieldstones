@@ -802,7 +802,7 @@ Wed, 10 Jul 2019
 ## Persecution
 Wed, 10 Jul 2019
 
-"But if I be asked what sign we may look for to show that the advance of the Faith is at hand, I would answer by a word the modern world has forgotten: Persecution. When that shall be at work it will be morning."&ndash;Hilaire Belloc, *Survivals and New Arrivals*
+"But if I be asked what sign we may look for to show that the advance of the Faith is at hand, I would answer by a word the modern world has forgotten: Persecution. When that shall be at work it will be morning."—Hilaire Belloc, *Survivals and New Arrivals*
 
 ## Petty Alienation
 Wed, 10 Jul 2019
