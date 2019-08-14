@@ -804,31 +804,6 @@ Wed, 10 Jul 2019
 
 "But if I be asked what sign we may look for to show that the advance of the Faith is at hand, I would answer by a word the modern world has forgotten: Persecution. When that shall be at work it will be morning."&ndash;Hilaire Belloc, *Survivals and New Arrivals*
 
-
-## Making Money vs Spending Money
-Wed, 10 Jul 2019
-
-“Big money isn’t hard to come by. All it costs is a lifetime of devotion. But no ballerina ever works harder. Captain, that’s not your style; you don’t want to make money, you simply want to spend money.”
-
-“Correct, sir! So I can’t see why you would want to take Mike’s wealth away from him.”
-“Because great wealth is a curse—unless you enjoy money-making for its own sake. Even then it has serious drawbacks.”
-
-“Oh, piffle! Jubal, you talk like a harem guard trying to sell a whole man on the advantages of being a eunuch.”
-
-“Possibly,” agreed Jubal. “The mind’s ability to rationalize its own shortcomings is unlimited; I am no exception. Since I, like yourself, sir, have no interest in money other than to spend it, it is impossible for me to get rich. Conversely, there has never been any danger that I would fail to scrounge the modest amount needed to feed my vices, since anyone with the savvy not to draw to a small pair can do that. But great wealth?....Captain, you don’t know what an Old Man of the Sea great wealth is. Its owner is beset on every side, like beggars in Bombay, each demanding that he invest or give away part of his wealth. He becomes suspicious—honest friendship is rarely offered him; those who could have been friends are too fastidious to be jostled by beggars, too proud to risk being mistaken for one.
-
-“Worse yet, his family is always in danger. Captain, have your daughters ever been threatened with kidnapping?”
-
-“What? Good Lord, no!”
-
-“If you possessed the wealth Mike had thrust on him, you would have those girls guarded night and day—still you would not rest, because you would never be sure of the guards. Look at the last hundred or so kidnappings and note how many involved a trusted employee . . . and how few victims escaped alive. Is there anything money can buy which is worth having your daughters’ necks in a noose?”
-
-Van Tromp looked thoughtful. “I’ll keep my mortgaged house, Jubal.”
-
-“Amen. I want to live my own life, sleep in my own bed—and not be bothered!”&mdash;Robert A. Heinlein, *Stranger in a Strange Land*
-
-h/t [Francis W. Porretto}(http://bastionofliberty.blogspot.com/2019/07/cashing-in-offhand-reflection.html)
-
 ## Petty Alienation
 Wed, 10 Jul 2019
 
