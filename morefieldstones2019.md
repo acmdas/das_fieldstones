@@ -1020,3 +1020,15 @@ Fri, 09 Aug 2019
 Mon, 12 Aug 2019
 
 “Those who seek the truth run the risk of finding it.”—Isabel Allende
+
+## Choice
+Fri, 16 Aug 2019
+
+“We don't live our lives by choice, but by default. We play the roles we are born to. We don't live our lives, we dispose of them. We throw them away because we don't know any better. And the reason we don't know any better is because we never asked. We never questioned or doubted. Never stood up. Never drew a line. We never walked up to our parents or our spiritual advisers or our teachers or any of the other formative presences in our early lives and asked one simple. honest, straightforward question. The one question that must be answered before any other question can be asked:
+“What the hell is going on here?”—Jed McKenna, *Spiritual Warfare*
+
+## Cogito
+Fri, 16 Aug 2019
+
+“What do we know for sure? That's the real question. That's what the cogito is. That's what solipsism is. This isn't theory. This isn't belief or faith. This is the basic fact of existence. It's all about figuring out exactly what we know for certain as opposed to everything else. It's truly amazing that something so glaringly obvious and irrefutable is so universally ignored by science and philosophy and religion.”—Jed McKenna
+
