@@ -1032,3 +1032,17 @@ Fri, 16 Aug 2019
 
 “What do we know for sure? That's the real question. That's what the cogito is. That's what solipsism is. This isn't theory. This isn't belief or faith. This is the basic fact of existence. It's all about figuring out exactly what we know for certain as opposed to everything else. It's truly amazing that something so glaringly obvious and irrefutable is so universally ignored by science and philosophy and religion.”—Jed McKenna
 
+## Words
+Fri, 16 Aug 2019
+
+“I am still at the mercy of words, though sometimes now, knowing a little of their behavior very well, I think I can influence them slightly and have even learned to beat them now and then, which they appear to enjoy.”—Dylan Thomas
+
+## Uncomfortable
+Fri, 16 Aug 2019
+
+“Have an uncomfortable mind; be strange. Be disturbed: by what is happening on the planet, and to it; by the cruelty, and stupidity humanity is capable of; by the unbearable beauty of certain music, and the mysteries and failures of love, and the brief, confusing, exhilarating hour of your own life.”—Kim Addonizio, *Bukowski in a Sundress*
+
+## Writing it Down
+Fri, 16 Aug 2019
+
+“The reason for writing it down on paper or on a computer where you can see it is because the brain, unlikely as it may sound, is no place for serious thinking. Any time you have serious thinking to do, the first step is to get the whole shootin' match out of your head and set it up someplace where you can walk around it and see it from all sides. Attack, switch sides and counter-attack. You can't do that while it's still in your head. Writing it out allows you to act as your own teacher, your own critic, your own opponent. By externalizing your thoughts, you can become your own guru; judging yourself, giving feedback, providing a more objective and elevated perspective.”—Jed McKenna, *Spiritual Enlightenment: The Damnedest Thing*
