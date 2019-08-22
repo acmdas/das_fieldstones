@@ -16,7 +16,7 @@ Physical science has for a long time stressed the enormous difference between wh
 
 About this conception of the relation between man and nature, which is wholly undisputed outside academic philosophy and largely undisputed within it, two things are noticeable; though they do not appear as yet to have been very widely noticed. One is an omission and the other an assumption.
 
-In the first place, undisputed though it remains, it is (if we except a certain school of genetic psychology, now very much out of fashion) always left out of account is our approach to any subject outside the sphere of physics—such subjects, for example, as the history of the earth, the history of language, the history of thought. In the second place, it is invariably assumed that, whatever the truth may be about the psychological nexus between man and nature, it is an unchanging one and is the same now as it was when men first appeared on earth.
+In the first place, undisputed though it remains, it is (if we except a certain school of genetic psychology, now very much out of fashion) always left out of account in our approach to any subject outside the sphere of physics—such subjects, for example, as the history of the earth, the history of language, the history of thought. In the second place, it is invariably assumed that, whatever the truth may be about the psychological nexus between man and nature, it is an unchanging one and is the same now as it was when men first appeared on earth.
 
 In this book it is suggested that the assumption arose in the first place through clearly traceable historical causes; that the evidence is in favour of regarding it as illusory; and that its persistence in spite of that evidence is largely due to the omission.
 
