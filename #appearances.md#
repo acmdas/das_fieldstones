@@ -470,7 +470,7 @@ As to the relation p 102
 
 
 
->¹ Very shortly, the difficulty about predication out of which logical positivism etc. arose is the following: If I sday *a horse is an animal*, then (*a*) if by the word *animal* I mean something more, or less, or other than *horse*, I have told a lie; but (*b*) if I do *not* mean by the word *animal* something more, or less, or other than *horse*, I have said almost nothing. Fir I might as well have said *a horse is a horse*. Hence the attempts we are now witnessing to replace the traditional logic based on predication by a new logic, in which symbols of algebraic precision refer to ‘atomic’ facts and events having no vestige of connection with the symbols and no hierarchical relation to each other.
+>¹ Very shortly, the difficulty about predication out of which logical positivism etc. arose is the following: If I say *a horse is an animal*, then (*a*) if by the word *animal* I mean something more, or less, or other than *horse*, I have told a lie; but (*b*) if I do *not* mean by the word *animal* something more, or less, or other than *horse*, I have said almost nothing. For I might as well have said *a horse is a horse*. Hence the attempts we are now witnessing to replace the traditional logic based on predication by a new logic, in which symbols of algebraic precision refer to ‘atomic’ facts and events having no vestige of connection with the symbols and no hierarchical relation to each other.
 
 >² Aristotle, *De Anima*, Bk. III, Ch. iv.
 
