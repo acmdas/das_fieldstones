@@ -468,7 +468,13 @@ If we would gain some idea, not only of what ‘movement’ meant before the sci
 
 As to the relation between thought and space, it is almost sufficient to read the *Timaeus*—which, incidentally, was the principal channel through which the thinking of Plato and his predecessors was known to the Middle Ages. In this dialogue, Plato describes the world as a ‘moving image of eternity’. It is however hot simply a matter of a few revealing uses of key-words, though of those there are enough and to spare: as when he tells us that of the sevan different kinds of movement, movement in a circle is *η  περι νουν καυ φρονησιν μαλιοτα ονσα*—’the one that has most to do with mind and understanding’, or again, that by contemplating the undisturbed revolutions (*περιοδοι*) of mind in the heavens we may make use of them for the revolutions of our own intellect, which, though disturbed, are nevertheless akin to the former. It is rather that the whole development and structure of thought in the dialogue is such that celestial astronomy and metaphysics are inextricably one. In the metaphysical discussion of the problem of the one and the many, of identity and difference (which Plato here names *same* and *other*), the abstract notion of sameness is indistinguishable from ‘the Circle of the Same’ (namely the celestial equator), and the abstract notion of difference is indistinguishable from ‘the Circle of the Other’ (namely the Ecliptic, where the planets wander and change).
 
-We have already
+We have already seen that even in the Middle Ages man’s experience of space was clearly different from our own, and the old tendency to experience as one what we now distinguish absolutely as ‘mind’, on the one hand, and ‘space’ on the other, still finds an echo in the *Divine Comedy*, especially when in the 10th Canto of the *Paradisio* Dante refers to the celestial revolutions as:
+
+>Quanto per mente o per loco si gira.⁴
+
+The impression we get, however, is that it was by then already a good deal nearer to our own than the Greek experience. It is interesting in this connection to observe how Aristotle selects for criticism precisely that astronomical metaphysics to which I have just referred, maintaining that the oneness, or self-identity of *nous* ought not to be conceived spatially (*κατα το μεγεθοξ*) but only numerically, and that accordingly the Circles of which Plato speaks in the *Timaeus* must be ruled out when we are treating of psychology. The proper movement of a circle is revolution; but the proper movement of mind, he insists, is—thinking. This detachment of the idea of thought, first from the idea of movement in space, and then from the idea of movement of any sort, must have been no small feat. It was the beginning of true beta-thinking.
+
+Here we may well pause for a moment to refer back to Harvey’s discovery of the circulation of the blood. It will be remembered from Chapter XII that this was based on the perfection of circular motion and on the formal relation between microcosm and macrocosm.
 
 
 
@@ -477,6 +483,8 @@ We have already
 >² Aristotle, *De Anima*, Bk. III, Ch. iv.
 
 >³ Ibid., Bk. III, Ch. vii.
+
+>⁴ Whatsoever revolves through mind or space.
 
 # XVI<br/>ISRAEL
 
