@@ -1066,3 +1066,8 @@ Sun, 18 Aug 2019
 Sun, 25 Aug 2019
 
 “Tolerance is creditable in our liberal ethos, and liberal sentimentality therefore guarantees a surfeit of false, affected and exaggerated tolerance. You can, in fact, be tolerant only under two very rigid conditions. You must disapprove of the behavior you tolerate, and you must have the power to stop it. If you do not disapprove of the behavior, you are indifferent, not tolerant. If you cannot stop it, you are merely resigned. Most of what passes for tolerance is actually indifference or resignation.”—[J. M. Smith](https://orthosphere.wordpress.com/2019/08/25/bloody-thoughts/)
+
+## Indoctrinated
+Tue, 27 Aug 2019
+
+“Ideally, what should be said to every child, repeatedly, throughout his or her school life is something like this: ‘You are in the process of being indoctrinated.... What you are being taught here is an amalgam of current prejudice and the choices of this particular culture. The slightest look at history will show how impermanent these must be. You are being taught by people who have been able to accommodate themselves to a regime of thought laid down by their predecessors. It is a self-perpetuating system.’”—Doris Lessing
