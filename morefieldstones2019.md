@@ -1076,3 +1076,24 @@ Tue, 27 Aug 2019
 Wed, 28 Aug 2019
 
 “And, in the end, the love you take is equal to the love you make.”—Paul McCartney
+
+## Politics or Governance?
+Thu, 29 Aug 2019
+
+“’It’s just politics.’
+
+“No one ever says, ‘it’s just governance.’
+
+“Politics is organized sparring about power, without much regard for efficacy or right or wrong.
+
+“Governance is the serious business of taking responsibility for leadership.
+
+“Over the last twenty years, the mass media has shifted, from “here’s the news,” to, “hey, it’s just media.” As a result, a system has been built in which situations, emergencies and bad news have been packaged and promoted twenty-four hours a day.
+
+“In the face of that maelstrom of noise, it’s easy to come to the conclusion that the world is more dangerous and unstable than it has ever been.
+
+“When we have a chance to speak up for governance, we can strike a blow against politics.
+
+“Because even though it doesn’t make compelling TV, the long-term challenges ahead of us aren’t going to respond to politics.
+
+“Dedication, resilience and concerted effort have saved us before and they can save us again. Except once again, it’s on us to speak up and do something about it.”—[Seth Godin}(https://seths.blog/2019/08/politics-vs-governance/)
