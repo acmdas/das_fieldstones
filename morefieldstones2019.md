@@ -194,12 +194,12 @@ Fri, 01 Mar 2019
 ## Boring and Dangerous
 Wed, 06 Mar 2019
 
-“Life is intrinsically, well, boring and dangerous at the same time. At any given moment the floor may open up. Of course, it almost never does; that’s what makes it so boring.”—\\Edward J. Gorey
+“Life is intrinsically, well, boring and dangerous at the same time. At any given moment the floor may open up. Of course, it almost never does; that’s what makes it so boring.”—Edward J. Gorey
 
 ## Magic
 Mon, 11 Mar 2019
 
-&ldquo;You could say that &ldquo;magic&rdquo; is a recognition that you have been underestimating the world, assuming that it is boring and limited when it is your own mind that is bored and limited. And this is important, for it brings the great fundamental insight, the insight that has come to all mystics and poets : that a large part of man&rsquo;s misery and pain is his own fault. For nearly three thousand years, cynical philosophers have been declaring that human life is disappointing and brief and miserable, and that the wise man has no objection to dying. But moments of &ldquo;magic&rdquo; bring a clear recognition that the world &ldquo;out there&rdquo; is infinitely interesting&mdash;so interesting that if we could &ldquo;turn on&rdquo; the magic at will, we would probably live for ever&mdash;or at least, want to. The magic doesn&rsquo;t get in past our senses, which have thick filters on them. Blake recognised that it is as if man lived in a cold, damp cave, when outside there is warm sunlight and fresh air. &ldquo;Five windows light the caverned man, through one he breathes the air . . .&rdquo;&rdquo;&mdash;William Arkle <em>A Geography of Consciousness</em>
+“You could say that ‘magic’ is a recognition that you have been underestimating the world, assuming that it is boring and limited when it is your own mind that is bored and limited. And this is important, for it brings the great fundamental insight, the insight that has come to all mystics and poets : that a large part of man&rsquo;s misery and pain is his own fault. For nearly three thousand years, cynical philosophers have been declaring that human life is disappointing and brief and miserable, and that the wise man has no objection to dying. But moments of &ldquo;magic&rdquo; bring a clear recognition that the world ‘out there’ is infinitely interesting—so interesting that if we could ‘turn on’ the magic at will, we would probably live for ever—or at least, want to. The magic doesn’t get in past our senses, which have thick filters on them. Blake recognised that it is as if man lived in a cold, damp cave, when outside there is warm sunlight and fresh air. ‘Five windows light the caverned man, through one he breathes the air . . .’”—William Arkle *A Geography of Consciousness*
 
 ## Ressentiment
 Sun, 17 Mar 2019
