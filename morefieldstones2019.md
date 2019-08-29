@@ -189,7 +189,7 @@ David's comment -- well, some of it seemed important—it was for work, after al
 ## Fathers and Sons
 Fri, 01 Mar 2019
 
-&ldquo;And in that moment Sherman made the terrible discovery that men make about their fathers sooner or later. For the first time he realized that the man before him was not an aging father but a boy, a boy much like himself, a boy who grew up and had a child of his own and, as best he could, out of a sense of duty and, perhaps, love, adopted a role called Being a Father so that his child would have something mythical and infinitely important: a Protector, who would keep a lid on all the chaotic and catastrophic possibilities of life. And now that boy, that good actor, had grown old and fragile and tired, wearier than ever at the thought of trying to hoist the Protector&rsquo;s armor back onto his shoulders again, now, so far down the line.&rdquo;&mdash;Tom Wolfe *Bonfire of the Vanities*
+“And in that moment Sherman made the terrible discovery that men make about their fathers sooner or later. For the first time he realized that the man before him was not an aging father but a boy, a boy much like himself, a boy who grew up and had a child of his own and, as best he could, out of a sense of duty and, perhaps, love, adopted a role called Being a Father so that his child would have something mythical and infinitely important: a Protector, who would keep a lid on all the chaotic and catastrophic possibilities of life. And now that boy, that good actor, had grown old and fragile and tired, wearier than ever at the thought of trying to hoist the Protector&rsquo;s armor back onto his shoulders again, now, so far down the line.”—Tom Wolfe *Bonfire of the Vanities*
 
 ## Boring and Dangerous
 Wed, 06 Mar 2019
