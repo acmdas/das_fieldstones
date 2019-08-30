@@ -1102,3 +1102,8 @@ Thu, 29 Aug 2019
 Thu, 29 Aug 2019
 
 “Contemporary man ... attempts to create the world in his image, to build a totally man-made environment, and then discovers that he can do so only on the condition of constantly remaking himself to fit it.”—Ivan Illich, *Tools for Conviviality*
+
+## Truth
+Fri, 30 Aug 2019
+
+“A writer who says that there are no truths, or that all truth is ‘merely relative,’ is asking you not to believe him. So don’t.”—Roger Scruton
