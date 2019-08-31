@@ -526,11 +526,23 @@ There is, accordingly, the deepest imaginable contrast between the non-participa
 
 The third difference cannot be displayed in quite such a summary fashion. According to the Old Testament, shortly before the Israelites took their departure from Egypt, the name of the God of Israel was for the first time revealed to them through their representative Moses. And about this Name two things are to be particularly noted. It was regarded as, for the most part, too holy to be communicable. Thus, although in the Psalms, for instance, it will be found *written*, where the word ‘Lord’ or ‘God’ is written in the Authorized Version, yet, when it was read aloud, other names such as ‘Adonai’ (*Lord*) or ‘Elohim’ were (at all events by the third century B.C.) vocally substituted. The Name itself was pronounced only by the priests in the Temple when blessing the people or by the High Priest on the Day of Atonement. Other precautions and uses emphasized and preserved its ineffable quality.
 
-Typographically, the Name
+Typographically, the Name is represented by four Hebrew consonants. Etymologically, it represents a slight modification of the Hebrew verb ‘to be’, which also suggested ‘to breathe’. In Exodus iii, 14—the first revelation—the first person singular of this verb (YHYH) occurs twice, as a verb (‘I AM THAT I AM’) and once as a noun (“Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.’). In the following verse the third person YHWH (perhaps the nearest equivalent in English sounds of the so-called ‘Tetragrammaton’),² is substituted:
+
+>And God said moreover unto Moses, Thus shalt thou say unto the children of Israel: יהוה God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name forever, and this is my memorial unto all generations.
+
+The Hebrew word for ‘Jew’ may similarly be rendered YHWDI; the texture of the language hints that a devout Jew could hardly name his race without tending to utter the Tetragrammaton. Written, as all Hebrew words were, without vowels, when any true child of Israel perused the unspokin Name, יהוה may have seemed to come whispering up, as it were, from the depths of his own being!
+
+That this, or something like it, was increasingly the case is at least suggested by the ‘progress’ we note between the account in Exodus iii of the experience of Moses and that given in I Kings xix of the experience of Elijah on the occasion of their encounters with God. The Angel of the Lord appeared to Moses in a flame of fire and out of the midst of a bush, and then the Lord Himself called to Moses out of the midst of the same bush. But by the time of Elijah the withdrawal of Israel from participation was already far advanced, and we are given, instead, in the well-known verses, a crescendo of appearances, in each of which God was *not*.
+
+
 
 p 113
 
 >¹ Ps. cxv.
+
+>² ‘Y’ is here consonantal. The vowels in the traditional English form *Jehovah* arise from the custom of inserting between the consonants of the Tetragrammaton the vowels appropriate to the words *Elohim* and *Adonai*.
+
+
 
 # XVII<br/>THE DEVELOPMENT OF MEANING
 
