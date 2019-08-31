@@ -534,15 +534,19 @@ The Hebrew word for ‘Jew’ may similarly be rendered YHWDI; the texture of th
 
 That this, or something like it, was increasingly the case is at least suggested by the ‘progress’ we note between the account in Exodus iii of the experience of Moses and that given in I Kings xix of the experience of Elijah on the occasion of their encounters with God. The Angel of the Lord appeared to Moses in a flame of fire and out of the midst of a bush, and then the Lord Himself called to Moses out of the midst of the same bush. But by the time of Elijah the withdrawal of Israel from participation was already far advanced, and we are given, instead, in the well-known verses, a crescendo of appearances, in each of which God was *not*.
 
+>And, behold, יהוה passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before יהוה, but יהוה was not in the wind: and after the wind an earthquake; but יהוה was not in the earthquake:<br/>And after the earthquake a fire, but יהוה was not in the fire: and after the fire a still small voice...
 
+This ingathering withdrawal from participation, to which the Old Testament points, was clearly, then, a very different matter from that ousting or suppression of participation which alpha-thinking has subsequently accomplished in the Western world. Indeed, it might with equal truth be described as a concentration or centripetal *deepening* of participation. As to the glories displayed in the 104th Psalm, God was no longer in them; they were no longer his representations or ‘names’. For He had now only one name—I AM—and that was participated by every being who had eyes and saw and ears that heard and who spoke through his throat. But it was incommunicable, because its participation by the particular self which is at this moment uttering it was an inseparable part of its meaning. Everyone can call his idol ‘God’, and many do; but no being who speaks through his throat can call a wholly other and outer Being ‘I’.
 
-p 113
+Herein lay the mystery of the Divine Name. It was ‘that name in which there is no participation between the Creator and any *thing* else’. So wrote the renowned Jewish Rabbi Maimonides in about the year 1190. And again:
+
+>All the names of the Creator which are found in books are taken from his works, except the name, the Tetragrammaton, which is proper to him, and therefore called ‘the name apart’ (*nomen separatum*); because it signifies the substance of the creator by pure signification, in which there is no participation. His other glorious names do indeed signify by participation, because they are taken from his works.³
 
 >¹ Ps. cxv.
 
 >² ‘Y’ is here consonantal. The vowels in the traditional English form *Jehovah* arise from the custom of inserting between the consonants of the Tetragrammaton the vowels appropriate to the words *Elohim* and *Adonai*.
 
-
+>³ Rabbi Moses ben Maimon. *Moreh Nebuhim*, (quoted by J. Drusius, a sixteenth-century scholar, in an essay on the *Tetragrammaton*).
 
 # XVII<br/>THE DEVELOPMENT OF MEANING
 
