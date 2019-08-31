@@ -1107,3 +1107,9 @@ Thu, 29 Aug 2019
 Fri, 30 Aug 2019
 
 “A writer who says that there are no truths, or that all truth is ‘merely relative,’ is asking you not to believe him. So don’t.”—Roger Scruton
+
+## Undeservedly
+Fri, 30 Aug 2019
+
+“Some books are undeservedly forgotten; none is undeservedly remembered”—W.H. Auden
+
