@@ -1096,7 +1096,7 @@ Thu, 29 Aug 2019
 
 “Because even though it doesn’t make compelling TV, the long-term challenges ahead of us aren’t going to respond to politics.
 
-“Dedication, resilience and concerted effort have saved us before and they can save us again. Except once again, it’s on us to speak up and do something about it.”—[Seth Godin}(https://seths.blog/2019/08/politics-vs-governance/)
+“Dedication, resilience and concerted effort have saved us before and they can save us again. Except once again, it’s on us to speak up and do something about it.”—[Seth Godin](https://seths.blog/2019/08/politics-vs-governance/)
 
 ## In His Image
 Thu, 29 Aug 2019
