@@ -520,4 +520,14 @@ Striking, as the Jews did, not only at the practice of idolatry, but at the whol
 
 And, as to their representing anything of the same nature as man, he added ominously:
 
+>*They that make them are like unto them: and so are all such as put their trust in them.*¹
+
+There is, accordingly, the deepest
+
 p 112
+
+>¹ Ps. cxv.
+
+# XVII<br/>THE DEVELOPMENT OF MEANING
+
+In the course of this book
