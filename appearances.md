@@ -550,4 +550,8 @@ Herein lay the mystery of the Divine Name. It was ‘that name in which there is
 
 # XVII<br/>THE DEVELOPMENT OF MEANING
 
-In the course of this book
+In the course of this book many scattered references have been made to words and language. It is desirable that some attempt should now be made to draw the threads together.
+
+When we are disputing about the proper meaning to be attached to a particular word in a sentence, etymology is of little use. Only children run to the dictionary to settle an argument. But if we would consider the *nature* of meaning, and the relation between thought and things, we cannot profitably dispense with etymology. It is long since men gave up the notion that the variety of natural species and the secrets of their relation to each other can be understood apart from their history; but many thinkers still seek to confine the science of language, as the Linnaeans once confined botany, within a sort of network of timeless abstractions. Method, for them, is another name for classification; but that is a blind alley.
+
+p. 116
