@@ -1122,3 +1122,9 @@ Sat, 31 Aug 2019
 Sun, 01 Sep 2019
 
 “By necessity, by proclivity and by delight, we all quote.”—Ralph Waldo Emerson
+
+## Seeing
+Sun, 01 Sep 2019
+“Things are because we see them, and what we see, and how we see it, depends on the arts that have influenced us.
+
+“To look at a thing is very different from seeing a thing. One does not see anything until one sees its beauty.”—Oscan Wilde, *from his commonplace book*
