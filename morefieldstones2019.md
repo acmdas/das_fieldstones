@@ -1128,3 +1128,12 @@ Sun, 01 Sep 2019
 “Things are because we see them, and what we see, and how we see it, depends on the arts that have influenced us.
 
 “To look at a thing is very different from seeing a thing. One does not see anything until one sees its beauty.”—Oscan Wilde, *from his commonplace book*
+
+## Wait
+Mon, 02 Sep 2019
+
+>*Do not give me up to the will of my adversaries,<br/>for false witnesses have risen against me,<br/>and they are breathing out violence.*<br/>
+
+>*I believe that I shall see the goodness of the Lord<br/>in the land of the living.<br/>Wait for the Lord;<br/>be strong, and let your heart take courage;<br/>wait for the Lord!*<br/>
+
+—Psalm 27
