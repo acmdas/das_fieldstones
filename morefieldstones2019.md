@@ -1137,3 +1137,8 @@ Mon, 02 Sep 2019
 >*I believe that I shall see the goodness of the Lord<br/>in the land of the living.<br/>Wait for the Lord;<br/>be strong, and let your heart take courage;<br/>wait for the Lord!*<br/>
 
 —Psalm 27
+
+## Failure
+Tue, 03 2019
+
+“If at first you don’t succeed, failure may be your style.”—Quentin Crisp
