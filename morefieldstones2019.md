@@ -1152,3 +1152,8 @@ Tue, 03 Sep 2019
 Wed, 04 Sep 2019
 
 “Everyone has their own reality in which, if one is not too cautious, timid, or frightened, one swims. This is the only reality there is. If you can get it down on paper, in words, notes, or color, so much the better. The great artists don't even bother to put it down on paper: they live with it silently, they become it.”—Henry Miller, *Stand Still Like The Hummingbird*
+
+## Possibilities
+Wed, 04 Sep 2019
+
+“It’s like everything in life right now; it has to do with being in the right place at the right time. The universe will bring you an abundance of opportunities and possibilities. It’s really all about trusting that before you got there, when you were sleeping, the universe was conspiring to give you something to blow your mind. Would you be open to receive it?”—Carlos Santana, *interview, AARP Magazine August/September issue*
