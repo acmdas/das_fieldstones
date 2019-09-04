@@ -558,6 +558,10 @@ Now etymology depicts the process of language in time. And it is a commonplace o
 
 In much more recent times we can observe the evolution of a great deal of the emotional and psychological meaning in contemporary words out of an astrological, chemical, or physiological past. Many people are aware, without turning to a dictionary, of what *disposition, influence, melancholy*, etc. used to mean, and I have already referred in Chapter XII to the fact that similar changes are *still going on* in the case of such words as *heart* and *blood*. It would be in line with the general process of etymological change if, in future, the meaning of *heart* should become purely emotional, some other word such as *cardium* being appropriated to the physical organ.
 
-Here and there, it is true, we may
+Here and there, it is true, we may observe a change in the opposite direction; and it is certainly striking that the most abstract of all abstract terms—*relation*—should have become capable of signifying a solid, three-dimensional aunt or cousin. But these are the rare exceptions. Throughout the recorded history of language the movement of meaning has been from concrete to abstract.
 
-p. 116
+I am here using the word ‘abstract; in its broadest, and admittedly vague, sense, to cover everything in the familiar world we talk about, which is not, actually or theoretically, accessible to the senses; everything which a nineteenth-century logician would have termed an ‘attribute’; and which some twentieth-century philosophers classify as a mere part of speech. In this sense *melancholy* and *a kind heart* may be as much abstractions as *concept* and *hypothesis*—it depends how we think of them. How we ought to think of them may be disputed, and indeed I am engaged in disputing it. But it is enough for my present purpose that nearly everybody today thinks of them as divorced from the ‘appearances’ of nature which are accessible to the senses—in a way which nearly everybody before the scientific revolution did not.
+
+Systematic reflection on the *history* of language
+
+p. 117
