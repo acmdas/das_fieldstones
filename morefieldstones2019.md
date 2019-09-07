@@ -1162,3 +1162,10 @@ Wed, 04 Sep 2019
 Sat, 07 Sep 2019
 
 “If there’s one word that sums up everything that’s gone wrong since the war, it’s Workshop.”—Kingsley Amis
+
+## Obituary
+Sat, 07 Sep 2019
+
+“I have never wished a man dead, but I have read some obituaries with great pleasure.”—Mark Twain.
+
+Robert Mugabe is reported to have died yesterday.
