@@ -1157,3 +1157,8 @@ Wed, 04 Sep 2019
 Wed, 04 Sep 2019
 
 “It’s like everything in life right now; it has to do with being in the right place at the right time. The universe will bring you an abundance of opportunities and possibilities. It’s really all about trusting that before you got there, when you were sleeping, the universe was conspiring to give you something to blow your mind. Would you be open to receive it?”—Carlos Santana, *interview, AARP Magazine August/September issue*
+
+## One Word
+Sat, 07 Sep 2019
+
+“If there’s one word that sums up everything that’s gone wrong since the war, it’s Workshop.”—Kingsley Amis
