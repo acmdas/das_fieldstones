@@ -8,6 +8,12 @@ One of the points I tried to make, at some length, in the first lecture, which c
 
 There is however another pair, the clear distinction between which can be lost sight of even by the intelligent. In this case they both lie *within* the realm of inner experience, or consciousness, and they are called respectively “perceiving” and “thinking.” The distinction between the two is primary and fundamental—axiomatic, if you like—because at any moment we choose we can make it a matter of immediate experience. It is nevertheless a distinction which it is rather easy to lose sight of, once we begin to reflect or philosophize, for this reason: that the single experience we call “consciousness”—our inwardness at any moment—is not composed either of perceiving alone or of thinking alone, but of an immemorial and inextricable combination of the two. Indeed it is better to call it an interpenetration rather than a combination. We soon learn, once we begin to reflect, that what we have been accustomed to refer to in everyday speech as “perceiving”—as for instance when we speak of perceiving a chair or a blackboard, or for that matter a neuron or a chromosome—is in fact perception heavily laced with thinking, with habitual thought, with mental habit. It is impossible to separate the one from the other. And I was concerned to emphasize, in that lecture, that the fact of our being unable to separate them (as for instance, we can actually separate the salt in the sea from the water in the sea) is no good reason for ceasing to distinguish clearly between them. On the contrary, for it is just when we maintain the distinction, while realizing the interpenetration, that we are forced to the conclusion, which I will quote from the same lecture, that “Consciousness is not a tiny bit of the world stuck on the the rest of it. It is the inside of the whole world; or, if we are using the term in its stricter sense—excluding therefore the subconscious mind—then it is *part* of the inside of the whole world.”
 
-I must apologize
+I must apologize for this hurried run-through of the groundwork. If you are interested but not convinced, you can easily pursue it yourselves at leisure—and without going into phenomenology and all that—by reading, for instance, a little book called *The Sciences and the Humanities* by W. T. Jones,¹ or even the opening chapters of my own book, *Saving the Appearances*. It was put a little differently by the writer of an article in the *Harvard Review*: “We can see that there really is no outside world and no inside world. There is just one world.’ The title of the article, to which I will return, is “Our ‘Polar Partnership’ with the World around Us.”²
 
-p. 68
+Now if you are, or if you become
+
+p. 69
+
+>¹ Berkeley: Universtiy of California Press, 1967
+
+>² January-February 1978
