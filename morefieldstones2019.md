@@ -1169,3 +1169,8 @@ Sat, 07 Sep 2019
 “I have never wished a man dead, but I have read some obituaries with great pleasure.”—Mark Twain.
 
 Robert Mugabe is reported to have died yesterday.
+
+## Three Things
+Mon, 09 Sep 2019
+
+“To this day he (Carlos Santana) still sends me texts to remind me that the only three things I can control are my motive, intention and purpose. And to always remember to do what I do with gratitude. I’m not the vessel; I’m the passenger. But sometimes I can be the engine.”—Rob Thomas
