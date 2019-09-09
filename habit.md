@@ -10,7 +10,9 @@ There is however another pair, the clear distinction between which can be lost s
 
 I must apologize for this hurried run-through of the groundwork. If you are interested but not convinced, you can easily pursue it yourselves at leisure—and without going into phenomenology and all that—by reading, for instance, a little book called *The Sciences and the Humanities* by W. T. Jones,¹ or even the opening chapters of my own book, *Saving the Appearances*. It was put a little differently by the writer of an article in the *Harvard Review*: “We can see that there really is no outside world and no inside world. There is just one world.’ The title of the article, to which I will return, is “Our ‘Polar Partnership’ with the World around Us.”²
 
-Now if you are, or if you become
+Now if you are, or if you become convinced, that what we perceive is inseparable from how we think, which is the same as saying that the world around us is inseparable from the way we think—though it is certainly not *indistinguishable* from it—then a lot of things follow. One of them is the privilege of discovering how very differently mankind as a whole used to think in the remote past. By that I do not mean simply that they did not for the most part think analytically, logically, causally. Many anthropologists and others have discovered that, without however making the discovery I am referring to. I mean that the thoughts themselves were images rather than concepts. And this entails that the world they lived in was different from the world we live in today. It would be as true, perhaps truer, to say that they *perceived* images as to say that they thought them. What we perveive as things they perceived as images, and it is this discovery which enables us to grasp the distinction between the history of ideas and the history of consciousness.
+
+The difference between an image and a thing lies in 
 
 p. 69
 
