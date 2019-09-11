@@ -590,6 +590,6 @@ I do not believe, then, that there is any such thing as a ‘radical metaphor’
 
 # XVIII<br/>THE ORIGIN OF LANGUAGE
 
-We have seen that, in the older doctrine of invented and applied ‘roots of speech’, as
+We have seen that, in the older doctrine of invented and applied ‘roots of speech’, as pointing to the origin of language, and in the more recent one of ‘metaphor’ as the principal instrument of the growth of meaning, we are saddled with two notions, which are both of them inconsistent with the testimony of language itself.
 
-p. 120
+p. 122
