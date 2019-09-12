@@ -1191,3 +1191,10 @@ And that’s now been dissolved out from under us, and we don’t have a mechani
 Thu, 12 Sep 2019
 
 “Words tend to last a bit longer than things, but eventually they fade too, along with the pictures they once evoked. Entire categories of objects disappear - flowerpots, for example, or cigarette filters, or rubber bands - and for a time you will be able to recognize those words, even if you cannot recall what they mean. But then, little by little, the words become only sounds, a random collection of glottals and fricatives, a storm of whirling phonemes, and finally the whole thing just collapses into gibberish.”—Paul Auster, *Country of Last Things*
+
+## The Myth of Modernity
+Thu, 12 Sep 2019
+
+“The new world picture, as it turned out, consciously and unconsciously drew on the machine as an organizing principle. The answer to the cultural upheavals, then, was to build institutions that would generate consensus not through the arduous work of contesting and resolving differences, but by automating the public realm and cultivating subjects qua citizens that would be willing to buy into the validity of "objective facts," neutral institutions, etc. 
+
+“In short, modernity was built upon a myth:  the myth of neutrality or objectivity—neutral facts, neutral procedures, neutral institutions, neutral technology. It was this myth, wielded as a weapon against all manner of superstitions, that sustained the ideals of “Reason,” “Progress,” the “Rational Actor,” etc. Reader: It, too, was a superstition.“—[L. M. Sacasas](https://tinyletter.com/lmsacasas/letters/the-convivial-society-no-22)
