@@ -1203,3 +1203,8 @@ Thu, 12 Sep 2019
 Thu, 12 Sep 2019
 
 “There is absolutely no inevitability as long as there is a willingness to contemplate what is happening.”—Marshall McLuhan
+
+## Forgiveness
+Thu, 12 Sep 2019
+
+“People cannot forgive what they cannot punish.”—Hannah Arendt
