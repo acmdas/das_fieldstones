@@ -1186,3 +1186,8 @@ Wed, 11 Sep 2019
 “Our civil institutions were founded upon an assumption that people would be able to agree on what reality is, agree on facts, and that they would then make rational, good-faith decisions based on that. They might disagree as to how to interpret those facts or what their political philosophy was, but it was all founded on a shared understanding of reality.
 
 And that’s now been dissolved out from under us, and we don’t have a mechanism to address that problem.”—Neil Stephenson, in a [”podcast” with Tyler Cowen](https://cowenconvos.libsyn.com/neal-stephenson)
+
+## Words
+Thu, 12 Sep 2019
+
+“Words tend to last a bit longer than things, but eventually they fade too, along with the pictures they once evoked. Entire categories of objects disappear - flowerpots, for example, or cigarette filters, or rubber bands - and for a time you will be able to recognize those words, even if you cannot recall what they mean. But then, little by little, the words become only sounds, a random collection of glottals and fricatives, a storm of whirling phonemes, and finally the whole thing just collapses into gibberish.”—Paul Auster, *Country of Last Things*
