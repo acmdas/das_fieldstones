@@ -1208,3 +1208,8 @@ Thu, 12 Sep 2019
 Thu, 12 Sep 2019
 
 “People cannot forgive what they cannot punish.”—Hannah Arendt
+
+## A Prayer
+Fri, 13 Sep 2019
+
+“O GOD, the protector of all that trust in thee, without whom nothing is strong, nothing is holy: Increase and multiply upon us thy mercy; that, thou being our ruler and guide, we may so pass through things temporal, that we finally lose not the things eternal: Grant this, O heavenly Father, for Jesus Christ’s sake our Lord. Amen.”—*Book of Common Prayer*, quoted by C.S. Lewis in his essay, “A Slip of the Tongue”, 1956 in *The Weight of Glory*
