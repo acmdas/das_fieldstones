@@ -610,6 +610,8 @@ All things came into being through the Word. This teaching of the creative Word,
 
 # XIX<br/>SYMPTOMS OF ICONOCLASM
 
-We have seen that the theory of metaphor, as the means
+We have seen that the theory of metaphor, as the means by which language originally acquired its ‘inner’meanings, is incorrect. But it is important to remember how it arose. It arose because there *is* a close relation between language as it is used by a participating consciousness and language as it is used, at a later stage, metaphorically or symbolically. When we use language metaphorically, we bring it about of our own free will that an appearance means something other than itself, and, usually, that a manifest ‘means’ an unmanifest. We start with an idol, and we ourselves turn the idol into a representation. We use the phenomenon as a ‘name’ for what is not phenomenal. And this, it will be remembered, is just what is characteristic of participation. Symbolism, as we saw in Chapter XI, is made possible by the elimination of participation. But at the end of Chapter XVI it was observed that in certain circumstances this may give rise to a new kind of participation—one which could no longer be described as ‘original’.
+
+What then has occurred?
 
 p. 126
