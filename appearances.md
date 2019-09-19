@@ -616,6 +616,6 @@ What then has occurred? If we rapidly review the whole historical development of
 
 This granted, we can see how language, in the course of its history, has indeed mediated the transformation of phenomena into idols. But we can also see how, by reason of this very fact, *within* man the phenomena have gradually ceased to operate as compulsive natural processes and have become, instead, mere memory-images available for his own creative ‘speech’—using ‘speech’ now in the wide sense of Aquinas’s ‘word’.
 
-We should expect, 
+We should expect, accordingly, that, with the progressive decrease of participation throughout the Graeco-Roman, or Aristotelian age, we should find a growing awareness—however faint—of this capacity of man for creative speech.
 
 p. 127
