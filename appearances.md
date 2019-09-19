@@ -616,6 +616,20 @@ What then has occurred? If we rapidly review the whole historical development of
 
 This granted, we can see how language, in the course of its history, has indeed mediated the transformation of phenomena into idols. But we can also see how, by reason of this very fact, *within* man the phenomena have gradually ceased to operate as compulsive natural processes and have become, instead, mere memory-images available for his own creative ‘speech’—using ‘speech’ now in the wide sense of Aquinas’s ‘word’.
 
-We should expect, accordingly, that, with the progressive decrease of participation throughout the Graeco-Roman, or Aristotelian age, we should find a growing awareness—however faint—of this capacity of man for creative speech.
+We should expect, accordingly, that, with the progressive decrease of participation throughout the Graeco-Roman, or Aristotelian age, we should find a growing awareness—however faint—of this capacity of man for creative speech. And we should expect to find a marked increase in that awareness after the scientific revolution. It is what we do find. Let us take, for example, the Romantic theory of the ‘creative imagination’ and glance briefly at its previous history. Premonitory hints of an attribution of ‘creative’ power to man as artist or poet, appear as early as the first Christian century, with Dio Chrysostom. A century later Philostratus maintained of the works of Pheidias and Praxiteles, that:
 
-p. 127
+>Imagination made them, and she is a better artist than imitation; for where the one carves only what she has seen, the other carves what she has not seen.
+
+By the third century Plotinus is maintaining that:
+
+>If anyone disparages the arts on the ground that they imitate nature, we must remind him that natural objects are themselves only imitations, and that the arts do not simply imitate what they see but reascend to those principles (λογοι) from which Nature herself is derived.
+
+For Scaliger in the sixteenth century (who was closely followed by Sidney in his *Apologie for Poesie*) the poet is one who ‘maketh a new Nature and so maketh himself as it were a new God’.¹
+
+Choleridge’s doctrine of the primary and secondary imagination, when it came, and the whole Romantic stress in England and Germany on the ‘creative’ function of art and poetry was, then, by no means a wholly new adventure in thought. It was rather that the whole attitude to nature, which it implied, had been rendered acceptable to a much wider circle by the rapidly increasing idolatry of the seventeenth and eighteenth centuries. Something very much like it had already been thought by a few. It became almost a popular movement in a world beginning at last to hunger for iconoclasm.
+
+We have already had occasion to note
+
+>¹ This important little piece of history will be found most effectively summarized at the beginning of Bk. III of Professor C. S. Lewis’s *English Literature in the Sixteenth Century*. Clarendon Press 1954.
+
+p. 128
