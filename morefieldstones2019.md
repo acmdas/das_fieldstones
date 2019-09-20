@@ -1225,3 +1225,16 @@ Mon, 16 Sep 2019
 Wed, 18 Sep 2019
 
 “Why is it so easy for people to reject Christianity? When by contrast the same people will be prepared to put immense time and effort into (for example) trying to rehabilitate some version of Leftist politics as a possible answer; or paganism, Hinduism or Buddhism as a possible answer?”—[Bruce Charlton](https://charltonteaching.blogspot.com/2019/09/why-have-so-many-people-over-past-two.html)
+
+## Mindful Quotes
+Fri, 20 Sep 2019
+
+”The only interesting ideas are heresies”—Susan Sontag
+
+“Technology is the reason we get old enough to complain about technology.”—Gary Kasparov
+
+“Plans are worthless, but planning is everything.”—Dwight Eisenhower
+
+“If my work is accepted, I must move on to the point where it is not.”—John Cage
+
+“Remember, you can’t be stuck in traffic; you are the traffic.”—Kevin Slavin
