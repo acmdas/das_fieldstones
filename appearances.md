@@ -628,8 +628,14 @@ For Scaliger in the sixteenth century (who was closely followed by Sidney in his
 
 Choleridge’s doctrine of the primary and secondary imagination, when it came, and the whole Romantic stress in England and Germany on the ‘creative’ function of art and poetry was, then, by no means a wholly new adventure in thought. It was rather that the whole attitude to nature, which it implied, had been rendered acceptable to a much wider circle by the rapidly increasing idolatry of the seventeenth and eighteenth centuries. Something very much like it had already been thought by a few. It became almost a popular movement in a world beginning at last to hunger for iconoclasm.
 
-We have already had occasion to note
+We have already had occasion to note the close relation between the apprehension of images and the making of them. As long as nature herself continued to be apprehended as image, it sufficed for the artist to imitate Nature. Inevitably, the life or spirit in the object lived on in his imitation, if it was a faithful one. For at the same time it could not help being more than an imitation, inasmuch as the artist himself participated the being of the object. But the imitation of an *idol* is a purely technical process; which (as was quickly discovered) is better done by photography. To-day an artist cannot rely on the life inherent in the object he imitates, any more than a poet can rely on the life inherent in the words he uses. He has to draw the life forth from within himself.
+
+It is for the same reason
 
 >¹ This important little piece of history will be found most effectively summarized at the beginning of Bk. III of Professor C. S. Lewis’s *English Literature in the Sixteenth Century*. Clarendon Press 1954.
 
-p. 128
+p. 129
+
+#XX<br/>FINAL PARTICIPATION
+
+I referred in Chapter XIII
