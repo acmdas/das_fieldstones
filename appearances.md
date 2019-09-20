@@ -636,6 +636,6 @@ It is for the same reason
 
 p. 129
 
-#XX<br/>FINAL PARTICIPATION
+# XX<br/>FINAL PARTICIPATION
 
 I referred in Chapter XIII
