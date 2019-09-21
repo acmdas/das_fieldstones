@@ -644,7 +644,11 @@ It is again beyond the scope of this book to trace in detail the way in which th
 
 If nature is indeed ‘dis-godded’, and yet we again begin to experience her, as Wordsworth did—and as millions have done since his time—no longer is dead but as alive; if there is no ‘represented’ on the far side of the appearances, and yet we begin to experience them once more *as* appearances, as representations—the question arises, of *what* are they representations? It was no doubt the difficulty of answering this quesion which led Wordsworth to relapse occasionally into that nostalgic hankering after *original* participation, which is called pantheism—and from which Coleridge was rendered immune by his acquaintance with Kantian philosophy. We shall find somewhat the same contrast, in this respect, between Goethe and Schiller.
 
+It is because of its failure to answer this question that the true, one might say the tremendous, impulse underlying the Romantic movement has never grown to maturity; and, after adolescence, the alternative to maturity is puerility. There is only one answer to the question. Henceforth, if nature is to be experienced as representation, she will be experienced as representation of—Man. But what is Man? Herein lies the direst possibility inherent in idolatry. It can empty of spirit—it has very nearly succeeded in doing so—not only nature, but also Man himself. For among all the other idols is his own body. And it is part of the creed of idolatry that, when we speak of Man, we mean only the body of this or that man, or at most his finite personaltiy, which we are driven more and more ot think an attribute of his body.
 
+Thus it is, that the great change which the evolution of consciousness has brought about and the great lessons which men had begun to learn have all been wrenched awry. We had come at last to the point of realizing that art can no longer be content with imitating the collective representations, now that these are themselves turning into idols. But, instead of setting out to smash the idols, we have tamely concluded that nothing can now be art which in any way reminds us of nature—and even that practically anything may be art, which does not. We have learned that art can represent nothing but Man himself, and we have interpreted that as meaning that art exists for the purpose of enabling Mr. Smith to ‘express his personality’. And all because we have not learnt—though our very physics shouts it at us—that nature herself is the representation of Man.
+
+Hence the riot of private
 
 
 
@@ -654,7 +658,7 @@ If nature is indeed ‘dis-godded’, and yet we again begin to experience her, 
 
 >³*Ode to Dejection*.
 
-p. 130
+p. 131
 
 # XX<br/>FINAL PARTICIPATION
 
