@@ -632,7 +632,7 @@ We have already had occasion to note the close relation between the apprehension
 
 It is for the same reason that an ever-increasing importance came to be attached to the *invented* image an dmen became more and more dissatisfied with imitations of nature both in the practice and in the theory of art. It is easy to see how it came to be held that ‘the truest poetry is the most feigning’. For there is no boubt about where the life in an invented or fictitious image comes from. There can be no ‘pathetic fallacy’ there. What is peculiar to the Romantic Movement—as, indeed, its very name recalls—is the further reaction of this enthusiasm for fictitious and *fabulous* representations on the phenomena—on Nature herself. This is also what took the Romantic conception of art, properly understood, a step beyond the Neo-platonic theory referred to above. The Neo-platonic theory holds that man the artist is, in come measure, a creator. The Romantic conception agrees—but goes further and returns him, in this capactiy, to Nature herself.
 
-With what result? It is no longer simply that the arts ‘reascend to those principles from which nature herself is derived’. The ‘principles’ themsolves have changed their venue. For we are told by the Romantic theory that we must no longer look for the nature-spirits—for the Goddess Natura—on the farther side of the appearances; we must look for them *within ourselves*.
+With what result? It is no longer simply that the arts ‘reascend to those principles from which nature herself is derived’. The ‘principles’ themselves have changed their venue. For we are told by the Romantic theory that we must no longer look for the nature-spirits—for the Goddess Natura—on the farther side of the appearances; we must look for them *within ourselves*.
 
 >*Unbewusst der Freuden, die sie schenket,<br/>Nie entzückt von ihrer Herrlichkeit,<br/>Nie gewahr des Geistes, der sie lenket,<br/>Sel’ger nie durch meine Seligkeit,<br/>Fühllos selbst für ihres Künstlers Ehre,<br/>Gleich dem toten Schlag der Pendeluhr,<br/>Dient sie knechtisch dem Gesetz der Schwere,<br/>Die entgötterte Natur.*²
 
@@ -640,7 +640,11 @@ Pan has shut up shop.But he has not retired from business; he has merely gone in
 
 >*We receive but what we give<br/>And in our life alone does Nature live.*³
 
-It is again beyond the scope of this book
+It is again beyond the scope of this book to trace in detail the way in which the origin of the Romantic response to nature is exemplified in that association between Coleridge and Wordsworth which gave rise to the *Lyrical Ballads*.  It was the dejected author of the *Ancient Mariner* who grasped the theory; but it was Wordsworth who actually *wrote* the nature-poetry.
+
+If nature is indeed ‘dis-godded’, and yet we again begin to experience her, as Wordsworth did—and as millions have done since his time—no longer is dead but as alive; if there is no ‘represented’ on the far side of the appearances, and yet we begin to experience them once more *as* appearances, as representations—the question arises, of *what* are they representations? It was no doubt the difficulty of answering this quesion which led Wordsworth to relapse occasionally into that nostalgic hankering after *original* participation, which is called pantheism—and from which Coleridge was rendered immune by his acquaintance with Kantian philosophy. We shall find somewhat the same contrast, in this respect, between Goethe and Schiller.
+
+
 
 
 
@@ -650,7 +654,7 @@ It is again beyond the scope of this book
 
 >³*Ode to Dejection*.
 
-p. 129
+p. 130
 
 # XX<br/>FINAL PARTICIPATION
 
