@@ -632,9 +632,23 @@ We have already had occasion to note the close relation between the apprehension
 
 It is for the same reason that an ever-increasing importance came to be attached to the *invented* image an dmen became more and more dissatisfied with imitations of nature both in the practice and in the theory of art. It is easy to see how it came to be held that ‘the truest poetry is the most feigning’. For there is no boubt about where the life in an invented or fictitious image comes from. There can be no ‘pathetic fallacy’ there. What is peculiar to the Romantic Movement—as, indeed, its very name recalls—is the further reaction of this enthusiasm for fictitious and *fabulous* representations on the phenomena—on Nature herself. This is also what took the Romantic conception of art, properly understood, a step beyond the Neo-platonic theory referred to above. The Neo-platonic theory holds that man the artist is, in come measure, a creator. The Romantic conception agrees—but goes further and returns him, in this capactiy, to Nature herself.
 
-With what result?
+With what result? It is no longer simply that the arts ‘reascend to those principles from which nature herself is derived’. The ‘principles’ themsolves have changed their venue. For we are told by the Romantic theory that we must no longer look for the nature-spirits—for the Goddess Natura—on the farther side of the appearances; we must look for them *within ourselves*.
+
+>*Unbewusst der Freuden, die sie schenket,<br/>Nie entzückt von ihrer Herrlichkeit,<br/>Nie gewahr des Geistes, der sie lenket,<br/>Sel’ger nie durch meine Seligkeit,<br/>Fühllos selbst für ihres Künstlers Ehre,<br/>Gleich dem toten Schlag der Pendeluhr,<br/>Dient sie knechtisch dem Gesetz der Schwere,<br/>Die entgötterte Natur.*²
+
+Pan has shut up shop.But he has not retired from business; he has merely gone indoors. Or, in the well-known words of Coleridge:
+
+>*We receive but what we give<br/>And in our life alone does Nature live.*³
+
+It is again beyond the scope of this book
+
+
 
 >¹ This important little piece of history will be found most effectively summarized at the beginning of Bk. III of Professor C. S. Lewis’s *English Literature in the Sixteenth Century*. Clarendon Press 1954.
+
+>²From Schiller’s *Die Götter Griechenlands*: ‘Unconscious of the joy she bestows, never transported by her own glory, never aware of the spirit that directs her, never blest through my blessedness, without feeling even for the honour of her artist—as with the dead stroke of a clock’s pendulum she—disgodded Nature—slavishly obeys the law of gravity.’
+
+>³*Ode to Dejection*.
 
 p. 129
 
