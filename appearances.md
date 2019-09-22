@@ -636,7 +636,7 @@ With what result? It is no longer simply that the arts ‘reascend to those prin
 
 >*Unbewusst der Freuden, die sie schenket,<br/>Nie entzückt von ihrer Herrlichkeit,<br/>Nie gewahr des Geistes, der sie lenket,<br/>Sel’ger nie durch meine Seligkeit,<br/>Fühllos selbst für ihres Künstlers Ehre,<br/>Gleich dem toten Schlag der Pendeluhr,<br/>Dient sie knechtisch dem Gesetz der Schwere,<br/>Die entgötterte Natur.*²
 
-Pan has shut up shop.But he has not retired from business; he has merely gone indoors. Or, in the well-known words of Coleridge:
+Pan has shut up shop. But he has not retired from business; he has merely gone indoors. Or, in the well-known words of Coleridge:
 
 >*We receive but what we give<br/>And in our life alone does Nature live.*³
 
@@ -660,4 +660,4 @@ After all, there is warrant for it. At the beginning of the first chapter I poin
 
 # XX<br/>FINAL PARTICIPATION
 
-I referred in Chapter XIII to symbolism as something in which we to-day are again becoming interested.
+I referred in Chapter XIII to symbolism as something in which we to-day are again becoming interested. There is no respect in which the imaginative literature and drama of to-day differs more strikingly from that of even fifty years ago. In those days there was an Ibsen, there was a Maeterlinck, but nobody really understood what they were up to and everyone was dubious and uncomfortable.
