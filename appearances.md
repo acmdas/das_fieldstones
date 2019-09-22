@@ -648,7 +648,7 @@ It is because of its failure to answer this question that the true, one might sa
 
 Thus it is, that the great change which the evolution of consciousness has brought about and the great lessons which men had begun to learn have all been wrenched awry. We had come at last to the point of realizing that art can no longer be content with imitating the collective representations, now that these are themselves turning into idols. But, instead of setting out to smash the idols, we have tamely concluded that nothing can now be art which in any way reminds us of nature—and even that practically anything may be art, which does not. We have learned that art can represent nothing but Man himself, and we have interpreted that as meaning that art exists for the purpose of enabling Mr. Smith to ‘express his personality’. And all because we have not learnt—though our very physics shouts it at us—that nature herself is the representation of Man.
 
-Hence the riot of private
+Hence the riot of private and personal symbolisms into which both art and poetry have degenerated. If I know that nature herself is the system of my representations, I cannot do otherwise than adopt a humbler and more responsible attitude to the representations of art and the metaphors of poetry. For in the case of nature there is no danger of my fancying that she exists to express my personality. I know in that case that what is meant, when I say she is my representation, is, that I stand, whether I like it or not, in—(I do not love the expression, but I can find no defter one in English) a ‘directionally creator’ relation to her.
 
 
 
