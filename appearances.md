@@ -660,4 +660,6 @@ After all, there is warrant for it. At the beginning of the first chapter I poin
 
 # XX<br/>FINAL PARTICIPATION
 
-I referred in Chapter XIII to symbolism as something in which we to-day are again becoming interested. There is no respect in which the imaginative literature and drama of to-day differs more strikingly from that of even fifty years ago. In those days there was an Ibsen, there was a Maeterlinck, but nobody really understood what they were up to and everyone was dubious and uncomfortable.
+I referred in Chapter XIII to symbolism as something in which we to-day are again becoming interested. There is no respect in which the imaginative literature and drama of to-day differs more strikingly from that of even fifty years ago. In those days there was an Ibsen, there was a Maeterlinck, but nobody really understood what they were up to and everyone was dubious and uncomfortable. Whereas to-day every other writer strives to imply some sort of symbolized content and, even if he does not, it is obligingly done for him by confident critics who have read their Freud and their Jung. It would be an interesting experiment to resuscitate a habitual reader of, say, the *Times Literary Supplement* in the ‘nineties, to set him down before the second half of the *New Statesman* in the 1950’s, and to see what he made of it.
+
+In mentioning Freud and Jung I have, of course, touched on the most startling phenomenon of all.
