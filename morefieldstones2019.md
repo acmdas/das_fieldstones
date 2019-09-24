@@ -1238,3 +1238,10 @@ Fri, 20 Sep 2019
 “If my work is accepted, I must move on to the point where it is not.”—John Cage
 
 “Remember, you can’t be stuck in traffic; you are the traffic.”—Kevin Slavin
+
+## The Cure for Consumerism
+Tue, 24 Sep 2019
+
+“One of the consumer’s little-known rights is, not to buy stuff. This is easier than may appear. He (or even she) may be, in some sense, suffering from an addiction. But I’ve been told by the experts, this can be overcome. Take up reading, instead. Whenever the urge to shop afflicts you, open a book. Make a pot of tea, and relax somewhere. Think about things.
+
+In Canada, today, you are even allowed to think officially disapproved thoughts, so long as you don’t tell anyone what they were.”—[David Warren](https://www.davidwarrenonline.com/2019/09/24/the-cure-for-consumerism/)
