@@ -1250,3 +1250,9 @@ In Canada, today, you are even allowed to think officially disapproved thoughts,
 Tue, 24 Sep 2019
 
 “There is a road, no simple highway<br/>Between the dawn and the dark of night<br/>And if you go no one may follow<br/>That path is for your steps alone.”—Robert Hunter, June 23, 1941—September 23, 2019
+
+## Smoke
+Wed, 25 Sep 2019
+
+“In Washington, where there’s smoke, there’s mirrors.”—[Don Surber](https://donsurber.blogspot.com/2019/09/dowager-dowd-cries-impeachment-again.html)
+
