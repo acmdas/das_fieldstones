@@ -1259,4 +1259,4 @@ Wed, 25 Sep 2019
 ## Theory and Facts
 Fri, 27 Sep 2019
 
-“A theory should not attempt to explain all the facts, because some of the facts are wrong””—Francis Crick
+“A theory should not attempt to explain all the facts, because some of the facts are wrong”—Francis Crick
