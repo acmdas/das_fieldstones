@@ -1256,3 +1256,7 @@ Wed, 25 Sep 2019
 
 “In Washington, where there’s smoke, there’s mirrors.”—[Don Surber](https://donsurber.blogspot.com/2019/09/dowager-dowd-cries-impeachment-again.html)
 
+## Theory and Facts
+Fri, 27 Sep 2019
+
+“A theory should not attempt to explain all the facts, because some of the facts are wrong””—Francis Crick
