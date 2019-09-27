@@ -668,4 +668,4 @@ Yet here again, as far as any extra-clinical value is concerned, the historian o
 
 The psychological interpretation of mythology is, it is true, a long way nearer to an understanding of participation than the old ‘personified causes’ of Tylor and Frazer and Lemprière’s Classical Dictionary. But it is still a long way off. In the last resort, when it actually comes up against the nature-content of the myths, it still relies on the old anthropological assumption of ‘projection’. I believe it will seem very strange to the historian of the future, that a liter-minded generation began to accept the actuality of a ‘collective unconscious’ before it could even admit the possibility of a ‘collective conscious’—in the shape of the phenomenal world.
 
-I do not, however,
+I do not, however, think it can be very long now before this, too, is accepted; since it not only opens up possibilities of new knowledge of which the need is being increasingly felt, but also removes many inconsistencies in the contemporary picture of the world, which cannot fail to be noticed more and more as time passes.
