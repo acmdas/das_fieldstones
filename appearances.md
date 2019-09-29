@@ -680,4 +680,6 @@ Even so, merely grasping the concept will not take mankind very far. Beta-thinki
 
 Are there any signs of such a development taking place? We have seen, in the Romantic movement, and elsewhere, symptoms of a kind of instinctive impulse towards iconoclasm. Are there any signs up to now of a *systematic* approach to final participation? And what does such an approach involve?
 
-It was pointed out in Chapter XIII that participation as an actual experience is only to be won to-day by special exertion; that it is a matter, not of theorizing, but of imagination in the genial or creative sense. 
+It was pointed out in Chapter XIII that participation as an actual experience is only to be won to-day by special exertion; that it is a matter, not of theorizing, but of imagination in the genial or creative sense. A systematic approach towards final participation may therefore be expected to be an attempt to use imagination systematically. This was the foundation of Goethe’s scientific work. In his book on the *Metamorphosis of Plants* and the associated writings descriptive of his method, as well as in the rest of his scientific work, there is the germ of a systematic investigation of phenomena by way of participation. For his *Urpflanze* and *Urphänomen* are nothing more or less than potential phenomena perceived and studied as such. They are processes grasped directly and not, as hitherto since the scientific revolution, hypotheses *inferred from* actual phenomena.
+
+I have here used both the word ‘scientific’ and the word ‘perceived’ advisedly.
