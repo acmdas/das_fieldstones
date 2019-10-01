@@ -696,7 +696,7 @@ The significance of Goethe in the history of science will be appreciated, as tim
 
 If a single example is sought, let it be the research now going on in the domain of cancer. Cancer is a process of generation, and once we admit the concept of the potentially phenomenal, we must see that generation is not a transition from not-being to being, but a transition from potential to phenomenal existence. Steiner’s method, based on perception of the potentially phenomenal, was to diagnose a pre-cancerous condition of the blood, a condition not yet detectable by physical symptoms, and thus to take the disease at a stage where it answers better to treatment. This is another way of saying that the method involves investigation of a part of the field of the whole phenomenon named *blood* which, for a non-participating consciousness, is excluded from it, not by empirical proof but rather (as we saw in Chapter XII) by definition. He sought to apply the same method to the discovery of remedies, and The Society for Cancer Research founded by his followers is patiently continuing this difficult work at Arlesheim in Switzerland. At the moment in which I am writing, however, more people are probably acquainted with the ‘Biodynamic’ method in Agriculture than with the particular example I have chosen.
 
-
+The mond of Rudolf Steiner was of course not only applied to the scientific sphere, and it was perhaps not even the most important part of his work. He is, for instance, far more illuminating and, I would say, reliable on the subject of language and its origin than Fabre d’Oliver and the others I mentioned in Chapter XVIII. To say that he advocated, and practised, ‘the systematic use of imagination’ is to place so much emphasis on the mere beginning of what he taught and did, that it is rather like saying that Dante wrote a poem about a greyhound. Steiner showed that imagination, and the final participation it leads to, involve, unlike hypothetical thinking, the whole man—thought, feeling, will, and character—and his own revelations were clearly drawn from those further stages of participation—Inspiration and Intuition—to which the systematic use of imagination may lead. Although the object with which this book was originally conceived was none other than to try to remove one of the principal obstacles to contemporary appreciation of precisely this man’s teaching—the study and use of which I believe to be crucial for the future of mankind—I shall here say no more of it. This is a study in idolatry, not a study of Rudolf Steiner.⁴
 
 >¹ “I have managed things cleverly, my boy: I have never thought about thinking.’ *Zahme Xenien*, vi.
 
@@ -704,6 +704,8 @@ If a single example is sought, let it be the research now going on in the domain
 
 >³ ‘What is to live immortal in song must go under in life.’
 
+>⁴ All the published works of Rudolf Steiner are obtainable in London, either in English translation or in the original German, from:<br/>Rudolf Steiner Book Shop, 35 Park Road, N.W.I. or Rudolf Steiner Book Centre, 54 Bloomsbury St., W.C.I.
+
 # XXI<br/>SAVING THE APPEARANCES
 
-It may be well, before
+It may be well, before proceeding further, to restate very briefly what this book has so far endeavoured to establish. It has been sought to show firstly, that the evolution of nature is correlative to the evolution of consciousness; and, secondly, that the evolution of consciousness hitherto can best be understood as a more or less continuous progress from a vague but immediate awareness of the ‘meaning’ of phenomena towards an increasing preoccupation with the phenomena themselves.
