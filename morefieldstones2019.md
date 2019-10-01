@@ -1269,3 +1269,11 @@ Sun, 29 Sep 2019
 “For it is most impossible that we should beseech mercy and grace and not have it. For all things that our good Lord maketh us to beseech, Himself hath ordained them to us from without beginning. Here may we see that our beseeching is not the cause of God’s goodness; and that showed He soothfastly in all these sweet words which He saith: ‘I am the ground.’ And our good Lord willeth that this be known of His lovers in earth; and the more that we know it the more should we beseech, if it be wisely taken; and so is our Lord's meaning. Merry and joyous is our Lord of our prayer, and He looketh for it; and He willeth to have it; because with His grace He would have us like to Himself in condition as we are in kind. Therefore saith He to us ‘Pray inwardly, although thou think it has no savour to thee: for it is profitable, though thou feel not, though thou see not, yea, though thou think thou canst not.’”—Julian of Norwich
 
 From a note that I wrote to myself, 12 March, 2012.
+
+## Aidos
+Tue, 01 Oct 2019
+
+“Aidos (Greek: Αἰδώς, pronounced [ai̯dɔ̌ːs]) was the Greek goddess of shame, modesty, respect, and humility. Aidos, as a quality, was that feeling of reverence or shame which restrains men from wrong. It also encompassed the emotion that a rich person might feel in the presence of the impoverished, that their disparity of wealth, whether a matter of luck or merit, was ultimately undeserved. Ancient and Christian humility have some common points, they are both the rejection of egotism and self-centeredness, arrogance and excessive pride, and is an recognition of human limitations. Aristotle defined it as a middle ground between vanity and cowardice.”–Wikipedia entry
+
+From a note in my notepad from sometime in March, 2019—”Greek ‘Aidos’ “Walk humbly to appease the Fates.”
+
