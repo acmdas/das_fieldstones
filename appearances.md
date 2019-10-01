@@ -684,4 +684,13 @@ It was pointed out in Chapter XIII that participation as an actual experience is
 
 I have here used both the word ‘scientific’ and the word ‘perceived’ advisedly, though in such a context both of them run counter to all the assumptions of the received idolatry. It is a common objection that Goethe’s method ought not to be called ‘scientific’, because it was not purely empirical; but that objection obviously cannot be raised here without begging the whole argument of this book. As to ‘perceived’—we have seen that the major part of any perceived phenomenon consists of our own ‘figuration’. Therefore, as imagination reaches the point of enhancing figuration itself, hitherto unperceived parts of the whole field of the phenomenon necessarily become perceptible. Moreover, this conscious participation enhances perception not only of present phenomena but also of the memory-images derived from them. All this Goethe could not prevail on his contemporaries to admit. Idolatry was too all-powerful and there were then no premonitory signs, as there are to-day, of its collapse. No one, for instance, had heard of ‘the unconscious’.
 
-For a student of the evolution of consciousness, it is particularly interesting that a man with the precise make-up of Goethe shoulc have appeared at that precise moment in the history of the West. By the middle of the eighteenth century, when he was born, original participation had virtually faded out, and Goethe himself was a thoroughly modern man.
+For a student of the evolution of consciousness, it is particularly interesting that a man with the precise make-up of Goethe shoulc have appeared at that precise moment in the history of the West. By the middle of the eighteenth century, when he was born, original participation had virtually faded out, and Goethe himself was a thoroughly modern man. Yet he showed from his earliest childhood and retained all through his life an almost atavistically strong remainder of it. It breathes through his poetry as the peculiar Goethean attitude to Nature, who is felt as a living being, almost as a personality, certainly as a ‘thou’ rather than as an ‘it’ or as an ‘I’. It is almost as if the Gods had purposely retained this sense in Goethe as a sort of seed-corn out of which the beginnings of final participation could peep, for the first time, on the world of science. Perhaps it was an instinctive understanding fo this which made him so determined to keep clear of beta-thinking.
+
+>*Mein Kind, ich hab’es klug gemacht,<br/>Ich hab’ nie über das Denken gedacht.*¹
+
+For beta-thinking leads to final, by way of the inexorable elimination of all original, participation. Consequently
+
+
+
+>¹ “I have managed things cleverly, my boy: I have never thought about thinking.’ *Zahme Xenien*, vi.
+
