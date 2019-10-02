@@ -1277,3 +1277,13 @@ Tue, 01 Oct 2019
 
 From a note in my notepad from sometime in March, 2019—”Greek ‘Aidos’ “Walk humbly to appease the Fates.”
 
+## The Sin Is
+Wed, 02 Oct 2019
+
+“The sin is the lie, or intent to mislead - unaffected by the justification that it was just about a small matter...
+
+“The sin is the spite: the wanting to harm another for one's own gratification - not in the magnitude of that which is wished upon them.
+
+“The sin is in the resentment - it does not matter whether criticism is 'deserved'.
+
+“Evil is in the believed and argued inversion of virtue - not in whatever harmful consequences of this inversion.”—Bruce Charlton
