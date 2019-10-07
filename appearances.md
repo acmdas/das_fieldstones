@@ -722,4 +722,4 @@ The plain fact is, that all the unity and coherence of nature depends on partici
 
 The second danger arises from final participation itself.
 
-p 144
+p 145
