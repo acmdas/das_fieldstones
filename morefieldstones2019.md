@@ -1306,3 +1306,10 @@ Monday, 07 Oct 2019
 “As many have noted, facial recognition in some circles amounts to data-driven phrenology. I'm sometimes inclined to think that we are doomed to repeat the worst errors of the past but in a digitally augmented fashion. Often this is connected with a characteristically modern desire or urge to achieve a God's-eye-view of things without, you know, God. Much of what we might now think of as traditional postmodernism—thirty years ago I suspect no one would have imagined speaking of traditional postmodernism, but there it is and I think it works—was basically an acknowledgement that the modern quest for certain, objective, universal Truth had exhausted itself. Digital technology has re-animated the corpse, which is why we now see zombie versions of phrenology, eugenics, and the like floating around.”—[L.M. Sacases](https://tinyletter.com/lmsacasas/letters/the-convivial-society-no-23)
 
 Read the whole thing...
+
+## After an Age has Ended
+Monday, 07 Oct 2019
+
+"What does a man do when he finds himself living after an age has ended and he can no longer understand himself because the theories of man of the former age no longer work and the theories of the new age are not yet known, for not even the name of the new age is known, and so everything is upside down, people feeling bad when they should feel good, good when they should feel bad? … What is he then? He has not the faintest idea. Entered as he is into a new age, he is like a child who sees everything in his new world, names everything, knows everything except himself.”—Walker Percy, “The Delta Factor” in *The Message in the Bottle*
+
+Seen on the “Convivial Society” letter, link above.
