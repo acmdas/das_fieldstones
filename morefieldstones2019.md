@@ -1298,7 +1298,11 @@ Monday, 07 Oct 2019
 
 “Those who read the press of their group and listen to the radio of their group are constantly reinforced in their allegiance. They learn more and more that their group is right, that its actions are justified; thus their beliefs are strengthened. At the same time, such propaganda contains elements of criticism and refutation of other groups, which will never be read or heard by a member of another group...Thus we see before our eyes how a world of closed minds establishes itself, a world in which everybody talks to himself, everybody constantly views his own certainty about himself and the wrongs done him by the Others—a world in which nobody listens to anybody else.”—Jacques Ellul, *Propaganda* (1973)
 
+Seen on the “Convivial Society” letter, link below.
+
 ## Phrenology
 Monday, 07 Oct 2019
 
 “As many have noted, facial recognition in some circles amounts to data-driven phrenology. I'm sometimes inclined to think that we are doomed to repeat the worst errors of the past but in a digitally augmented fashion. Often this is connected with a characteristically modern desire or urge to achieve a God's-eye-view of things without, you know, God. Much of what we might now think of as traditional postmodernism—thirty years ago I suspect no one would have imagined speaking of traditional postmodernism, but there it is and I think it works—was basically an acknowledgement that the modern quest for certain, objective, universal Truth had exhausted itself. Digital technology has re-animated the corpse, which is why we now see zombie versions of phrenology, eugenics, and the like floating around.”—[L.M. Sacases](https://tinyletter.com/lmsacasas/letters/the-convivial-society-no-23)
+
+Read the whole thing...
