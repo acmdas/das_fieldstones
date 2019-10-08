@@ -1180,6 +1180,8 @@ Wed, 11 Sep 2019
 
 “I believe that this crisis is rooted in a major twofold experiment which has failed, and I claim that the resolution of the crisis begins with a recognition of the failure. For a hundred years we have tried to make machines work for men and to school men for life in their service. Now it turns out that machines do not 'work' and that people cannot be schooled for a life at the service of machines. The hypothesis on which the experiment was built must now be discarded. The hypothesis was that machines can replace slaves. The evidence shows that, used for this purpose, machines enslave men.”—Ivan Illich, *Tools for Conviviality*
 
+Seen on the “[Convivial Society](https://tinyletter.com/lmsacasas/letters/the-convivial-society-no-22)” letter,
+
 ## Facts
 Wed, 11 Sep 2019
 
