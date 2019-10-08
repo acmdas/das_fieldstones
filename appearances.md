@@ -726,6 +726,12 @@ It may be objected that this is a very small matter, and that it will be a long 
 
 We should remember this, when approaching the aberrations of the formally representational arts. Of course, in so far as these are due to affectation, they are of no importance. But in so far as they are genuine, they are genuine because the artist has in some way or other experienced the world he represents. And is so far as they are appreciated, they are appreciated by those who are themselves willing to make a move towards seeing the world in that way, and, ultimately therefore, seeing that kind of world. We should remember this, when we see pictures of a dog with six legs emerging from a vegetable marrow or a woman with a motor-bicycle substituted for her left breast.
 
-The systematic use of imagination
+The systematic use of imagination, then, will be requisite in the future, not only for the increase of knowledge, but also for saving the appearances from chaos and inanity. Nor need it involve any relinquishment of the ability which we have won to experience and love nature as objective and independent of ourselves. Indeed, it cannot involve that. For any such relinquishment would mean that what was taking place was not an approach towards final participation (which is the proper goal of imagination) but an attempt to revert to original participation (which is the goal of pantheism, of mediumism and much so-called occultism). To be *able* to experience the representations as idols, and then to be able also to perform the act of figuration consciously, so as to experience them as participated; that is imagination.
 
-p 145
+The extremity of idolatry towards which we are moving renders the attainment of this dual relation to nature a necessity for both art and science. The attempt to unite the voluntary creativity demanded by the one with the passive receptivity demanded by the other is the significance of Goethe’s contribution to the Western mind, as the achievement of it is the significance of Rudolf Steiner’s. It is perhaps still not too late to attend to these portents. The appearances will be ‘saved’ only if, as men approach nearer and nearer to conscious figuration and realize that it is something which may be affected by their choices, the final participation which may be affected by their choices, the final participation which is thus being thrust upon them is exercised with the profoundest sense of responsibility, with the deepest thankfulness and piety towards the world as it was originally given to them in original participation, and with a full understanding of the momentous process of history, as it brings about the emergence of the one from the other.
+
+>¹ Cf. p. 132 
+
+# XXII<br/>SPACE, TIME AND WISDOM
+
+The Western type of consciousness may be said
