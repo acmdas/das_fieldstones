@@ -734,4 +734,6 @@ The extremity of idolatry towards which we are moving renders the attainment of 
 
 # XXII<br/>SPACE, TIME AND WISDOM
 
-The Western type of consciousness may be said
+The Western type of consciousness may be said to have begun, as we saw at the end of Chapter XV, with the emergence of Greek thought from the Orient. For the Western outlook is based essentially on that turning of man’s *attention* to the phenomena, which in this book has been called alpha-thinking. This is sharply contrasted with the oriental impulse (still heard echoing in Plato) to *refrain* from the phenomena, to remain, as it were, in the bosom of the Eternal, to disregard as irrelevant to man’s true being, all *that*, in his experience, which is based on ‘the contacts of the senses’. Oriental philosophy, hardly distinguishable from oriental theology, is based, above all, on a determination to regard the sense-world as *Maya*, or illusion. It was for this reason that, on its rediscovery in the nineteenth century, it made such a strong appeal to the few who were by then becoming dimly aware that the enlightenment of the West is based on idolatry. It is clear, however, that the way of the West lies, not back but forward; not in withdrawal from the contacts of the senses, but in their transformation and redemption.
+
+We have also
