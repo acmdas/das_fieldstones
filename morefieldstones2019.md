@@ -1321,3 +1321,13 @@ Monday, 07 Oct 2019
 
 “Recollection is a discarded garment that does not fit, however beautiful it is, for one has outgrown it. Repetition is an indestructible garment that fits closely and tenderly, neither binds nor sags… recollection is a beautiful old woman with whom one is never satisfied at the moment; repetition is a beloved wife of whom one never wearies, for one becomes weary only of what is new.”–Søren Kierkegaard, *Repetition*
 
+## Taboos
+Saturday, 12 2019
+
+“I suspect the biggest source of moral taboos will turn out to be power struggles in which one side only barely has the upper hand. That's where you'll find a group powerful enough to enforce taboos, but weak enough to need them.
+
+“Most struggles, whatever they're really about, will be cast as struggles between competing ideas. The English Reformation was at bottom a struggle for wealth and power, but it ended up being cast as a struggle to preserve the souls of Englishmen from the corrupting influence of Rome. It's easier to get people to fight for an idea. And whichever side wins, their ideas will also be considered to have triumphed, as if God wanted to signal his agreement by selecting that side as the victor.
+
+“We often like to think of World War II as a triumph of freedom over totalitarianism. We conveniently forget that the Soviet Union was also one of the winners.”—[Paul Graham](http://www.paulgraham.com/say.html)
+
+From Graham’s 2004 essay, “What You Can’t Say”. Only more pertinent fifteen years later. RTWT.
