@@ -746,4 +746,6 @@ It has often been pointed out that we find reflected in the early literature of 
 
 Once again we notice a sharp contract with what had gone before. The oriental conception of time was essentially cyclic. The picture was one of eternal repetition rather than of beginning, progress and end, and the path of the individual soul to the bosom of eternity was a backward path of extracation from the wheels of desire in which it had allowed itself to become involved. To reach, or to resume, the Supreme Identity with Brama, with the Eternal, was the object and its achievement was a matter which lay directly between the individual and the Eternal. The Semitic way, on the other hand, was a way forward through history and it was a way, shared indeed by the individual, but trodden by the nation as a whole.
 
-In a study such as this,
+In a study such as this, which necessarily attempts to cover a great deal of ground in a very short space, one should beware of overstressing a resemblance to make a neat parallel. But I think it is true to say that, just as by looking back through the Greek mind, we bring to life the apprehension of form in space as an image or representation, so, by looking back through the Jewish mind, we bring to life the apprehension of form in time—that is, of events themselves, as images, whether of the past or future, or of a state of mind.
+
+The second is a far more difficult
