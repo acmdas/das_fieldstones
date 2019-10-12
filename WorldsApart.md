@@ -48,8 +48,7 @@ BURROWS : A psychiatrist.
 
 ## First Day
 
-It began with a remark I made to Hunter, when I was visiting him at St. Peter's, where he occupies a Chair in Historical Theology and Ethics. On the way down to Camford I had been reading one of the weeklies—I think it was *The Times Literary Supplement* and it had left me depressed. What struck me so forcibly, and not for the first time, was that a new book on any subject—history, philosophy, science, religion, or what have you—is always dealt with by a specialist in that subject. This may be fairest from the author’s point of view, but it conveys a disagreeable impression of watertight compartments. There were of course plenty of reviews of purely literary productions. Someone had done a definitive edition of Edmund Waller, somebody else had a new angle on Byron and Shelley and their mistresses, and there was the usual crop of dreary-sounding novels. But I found these interested me less than the reviews of books on extra-literary topics, though it was the latter that depressed me so much. The trouble was this, Behind each review there lay a whole network of unspoken assumptions about the nature of life and the universe which were completely incompatible with the corresponding network behind the review
-on the next page. It was obvious for instance that for both the reviewer and the author of the book on *Psycho-Social History and the Unconscious* everything that both the reviewer and the author (with whom incidentally the reviewer violently disagreed) of the book on *Demythologizing and the Synoptic Gospels* took for granted was a tissue of exploded fantasy. Again, for the Linguistic Analyst (*Falsification as a Class of Meaning*) and his reviewer all four of these gentlemen must be deemed to be spouting meaningless twaddle. It wasn't that people can think at once confidently and oppositely about almost everything that matters though that, too, can sometimes be a sobering reflection. It wasn't that they disagreed. I wished they did. What was biting me was the fact that *these minds never met at alL*.
+It began with a remark I made to Hunter, when I was visiting him at St. Peter's, where he occupies a Chair in Historical Theology and Ethics. On the way down to Camford I had been reading one of the weeklies—I think it was *The Times Literary Supplement* and it had left me depressed. What struck me so forcibly, and not for the first time, was that a new book on any subject—history, philosophy, science, religion, or what have you—is always dealt with by a specialist in that subject. This may be fairest from the author’s point of view, but it conveys a disagreeable impression of watertight compartments. There were of course plenty of reviews of purely literary productions. Someone had done a definitive edition of Edmund Waller, somebody else had a new angle on Byron and Shelley and their mistresses, and there was the usual crop of dreary-sounding novels. But I found these interested me less than the reviews of books on extra-literary topics, though it was the latter that depressed me so much. The trouble was this, Behind each review there lay a whole network of unspoken assumptions about the nature of life and the universe which were completely incompatible with the corresponding network behind the review on the next page. It was obvious for instance that for both the reviewer and the author of the book on *Psycho-Social History and the Unconscious* everything that both the reviewer and the author (with whom incidentally the reviewer violently disagreed) of the book on *Demythologizing and the Synoptic Gospels* took for granted was a tissue of exploded fantasy. Again, for the Linguistic Analyst (*Falsification as a Class of Meaning*) and his reviewer all four of these gentlemen must be deemed to be spouting meaningless twaddle. It wasn't that people can think at once confidently and oppositely about almost everything that matters though that, too, can sometimes be a sobering reflection. It wasn't that they disagreed. I wished they did. What was biting me was the fact that *these minds never met at alL*.
 
 ‘What a lucky chap you are!’ I said to Hunter.
 
@@ -80,36 +79,22 @@ my son referring to his friends as “types”. Perhaps that’s what you do at 
 
 ‘I am suggesting that you mentally classify one another as “types” and leave it at that; so as to avoid how shall I put it? so as to avoid meeting one another. Except of course for social or administrative purposes.’
 
- 'Perhaps there is something in what you say.'
- 'But then what on earth do you talk about at meals for
-instance?'
- 'The news university appointments the foibles of our col-
-leagues. Don't worry, Burgeon. Conversation is usually quite
-brisk.'
- Well of course I ought to have felt even more depressed by this
-reply. But somehow I didn't. Partly because I had been released
-from envy. I was not, after all, it seemed, shut out from a large
-freemasonry of discourse where acute minds really met and got
-down to first principles. Except perhaps for a few undergraduates
-here and there (who are at the disadvantage of not really know-
-ing anything about anything) , there was probably no
- such world.
-Spiritually we were all hermits sitting in our caves, reading The
-Times Literary Supplement, the Sunday papers and so forth
-peering through the printed wftrd into one watertight
- com-
-partment after another and never seeing a single sluice
+'Perhaps there is something in what you say.'
 
-opened.
- Partly, also, because it was then that I had my rash idea.
- I shan't easily forget the trouble I had in arranging it. The
+'But then what on earth *do* you talk about at meals for instance?'
+
+'The news university appointments the foibles of our colleagues. Don't worry, Burgeon. Conversation is usually quite
+brisk.'
+
+Well of course I ought to have felt even more depressed by this reply. But somehow I didn't. Partly because I had been released from envy. I was not, after all, it seemed, shut out from a large freemasonry of discourse where acute minds really met and got down to first principles. Except perhaps for a few undergraduates here and there (who are at the disadvantage of not really knowing anything about anything) , there was probably no such world. Spiritually we were all hermits sitting in our caves, reading The Times Literary Supplement, the Sunday papers and so forth peering through the printed word into one watertight compartment after another and never seeing a single sluice opened.
+
+Partly, also, because it was then that I had my rash idea.
+
+I shan't easily forget the trouble I had in arranging it. The
 letters that passed to and fro before I got them all interested
 and the innumerable further letters and postcards that were
 exchanged before I found a week-end when they were all free!
-I have no large and well-staffed country house which I can
-throw open to my friends as the delightful venue for a sym-
- n
-posium. Nor, by an odd coincidence, have they. In the end I
+I have no large and well-staffed country house which I can throw open to my friends as the delightful venue for a symposium. Nor, by an odd coincidence, have they. In the end I
 secured the use of a cottage in Dorsetshire with a large sitting-
 room and a garden and enough room for four of us to sleep. And
 I managed to find hotel beds in the nearest town for the rest. We
@@ -122,6 +107,7 @@ otherwise be rather lacking. He said he would love to come,
 though he didn't quite see what it was in aid of. He would come
 straight over from the Rocket Research Station where he
 worked, but would probably be a bit late.
+
  So it came about that, on a wet Friday night in July, after
 a good dinner at the largest of the hotels to start us off, we were
 all sittingtogether in the sitting-room of the cottage, as I tried
@@ -11015,19 +11001,4 @@ bols in human thought, the reliability of
 the senses, and the ultimate nature and
 destiny of man and the universe.
  This is, if you will, a book of philo-
- it is in no way a
-sophical speculation; but
-doctrinaire presentation of a single point
-
-of view. In the opinions here expressed,
-
-there are areas of consensus and of irrec-
-
-oncilable difference; there is no "winner."
-At the end, you may share Hunter's belief
-that, in the universe under God, there are
-
-mysteries beyond man's understanding.
-You may stand with Upwater on a solidly
-
-evolutionary ground. You may follow Sanderson in his acceptance of a Steiner-esque mysticism. Or you may feel with Ranger, the practical man, that meta-physical theories are meaningless games, that what matters is what works. Whether you agree with any of these positions or with none of them, you will find that Worlds Apart has opened revealing windows on the horizons of modern thought.
+ it is in no way a sophical speculation; but doctrinaire presentation of a single point of view. In the opinions here expressed, there are areas of consensus and of irreconcilable difference; there is no "winner." At the end, you may share Hunter's belief that, in the universe under God, there are mysteries beyond man's understanding. You may stand with Upwater on a solidly evolutionary ground. You may follow Sanderson in his acceptance of a Steiner-esque mysticism. Or you may feel with Ranger, the practical man, that meta-physical theories are meaningless games, that what matters is what works. Whether you agree with any of these positions or with none of them, you will find that Worlds Apart has opened revealing windows on the horizons of modern thought.
