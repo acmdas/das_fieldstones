@@ -748,4 +748,6 @@ Once again we notice a sharp contract with what had gone before. The oriental co
 
 In a study such as this, which necessarily attempts to cover a great deal of ground in a very short space, one should beware of overstressing a resemblance to make a neat parallel. But I think it is true to say that, just as by looking back through the Greek mind, we bring to life the apprehension of form in space as an image or representation, so, by looking back through the Jewish mind, we bring to life the apprehension of form in time—that is, of events themselves, as images, whether of the past or future, or of a state of mind.
 
-The second is a far more difficult
+The second is a far more difficult achievement for us than the first. But I believe that anyone who would well consider the way of experiencing Old Testament history, which is implied in the Psalms and in the Jewish liturgy, and then again in Christian are before the Reformation, would understand what I mean. To immerse oneself in the medieval Mystery plays and in those sequences and parallels between Old and New Testament, which are the very backbone, the essential formal principle of the Cathedral sculptures, is to feel that, in one most real sense, the Old Testament was lost with the Reformation.
+
+For non-participating consciousness it is either, or.
