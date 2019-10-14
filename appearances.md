@@ -28,7 +28,7 @@ Finally, the consequences which flow from abandoning the assumption are found to
 
 # I<br/>THE RAINBOW
 
-Look at a rainbow. While it lasts, it is, or appears to be, a great arc of many colors occupying a position out there in space. It touches the horizon between that chimney and that tree; a line drawn from the sun behind you and passing through your head would pierce the center of the circle of which it is part. And now, before it fades, recollect all you have ever been told about the rainbow and its causes, and ask yourself the question *Is it really there?*
+Look at a rainbow. While it lasts, it is, or appears to be, a great arc of many colors occupying a position out there in space. It touches the horizon between that chimney and that tree; a line drawn from the sun behind you and passing through your head would pierce the centre of the circle of which it is part. And now, before it fades, recollect all you have ever been told about the rainbow and its causes, and ask yourself the question *Is it really there?*
 
 You know, from memory, that if there were a hillside three or four miles nearer than the present horizon, The rainbow would come to earth in front of and not behind it; that, if you walk to the place where the rainbow ends, or seems to end, it would certainly not be ‘there’. In a word, reflection will assure you that the rainbow is the outcome of the sun, the raindrops and your own vision.
 
@@ -48,7 +48,7 @@ A better term than ‘particles’ would possibly be ‘the unrepresented’, si
 
 # II<br/>COLLECTIVE REPRESENTATIONS
 
-A representation is something I percieve to be there. By premising that the everyday world is a system of collective representations, it may be thought that we blur the distinction between the fancied and the actual or, following the everyday use of language, between the apparently there and the really there. But this is not so. It only seems to be so because of the very great emphasis which—especially in the last three or four hundred years—the Western Mind has come to lay on the ingredient of spatial depth in the total complex of its perception. I shall return to this later.
+A representation is something I perceive to be there. By premising that the everyday world is a system of collective representations, it may be thought that we blur the distinction between the fancied and the actual or, following the everyday use of language, between the apparently there and the really there. But this is not so. It only seems to be so because of the very great emphasis which—especially in the last three or four hundred years—the Western Mind has come to lay on the ingredient of spatial depth in the total complex of its perception. I shall return to this later.
 
 As to what is meant by ‘collective’—any discrepancy between my representations and those of my fellow men raises a presumption of unreality and calls for explanation. If, however, the explanation is satisfactory; if, for instance, it turns out that the discrepancy was due, not to my hallucination, but to their myopia or their dullness, it is likely to be accepted; and then my representation may itself end by becoming collective.
 
@@ -754,7 +754,11 @@ For non-participating consciousness it is either, or. A narrative is *either* a 
 
 All things considered, before we reject out of hand the possibility of any imaginal principle in time and the events of history, we should do well to consider how we are getting on with our own conception both of time and of space.
 
-The conception of space
+The conception of space as an unlimited or three-dimensional void—a kind of extrapolated ‘perspective’—which came in with the disappearance of participation, is still of course the ordinary man’s concept. It held good for science, too, until the end of the nineteenth century. The indications that it is now proving inadequate are so numerous that I do not need to stress them. When, for instance, we are told that space must be conceived as spherical, or asked to think in terms of a ‘space-time continuum’, we can hardly avoid the conclusion that the old, or rather the still young, ‘idol’ of infinity as a ‘going on for ever’, whether in space or time, is showing unmistakable signs of strain. There seems to be a strong tendency, both in dealing with the periphery and in dealing with the centre of the physical universe, to substitute what are in effect thought-patterns for plausible and seriously supposed spatial apparatus. Is not the rather hectic picture of a universe expending in all directions with almost infinite rapidity, in essence a geometrical rather than a physical notion? I am told at all eventts that it bears a marked resemblance to projective geometry. ‘It appears,’ said Lord Russell, broadcasting in April 1955 on the death of Einstein,
+
+>that the universe is of finite size, although unbounded. (Do not attempt to understand this unless you have studied non-Euclidean geometry.) It appears also that the universe is continually getting bigger.
+
+We turn from the periphery to the infinitesimal centre of our ‘perspectivized’ space, and we hear the same voice in the same broadcast assuring us that:
 
 p. 152
 
