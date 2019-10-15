@@ -762,7 +762,9 @@ We turn from the periphery to the infinitesimal centre of our ‘perspectivized�
 
 >Nobody before quantum theory doubted that at any given moment a particle is at some definite place and moving with some definite velocity. This is no longer the case. The more accurately you determine the place of a particle, the less accurate will be its velocity; and the more accurately you determine the velocity, the less accurate will be its position. And the particle itself has become something quite vague, not a nice little billiard ball as it used to be. When you think you have caught it, it produces a convincing alibi as a wave and not a particle. In face, you know only certain equations of which the interpretation is obscure.
 
-The reader will be 
+The reader will be aware that in this book I have called that ‘something quite vague’ by the name either of ‘the particles’ or of ‘the unrepresented’ and have then, for reasons given, largely dismissed it from consideration. This is perhaps the place to say a final word about it. Physical science postulates an unrepresented, as a something which is independent of our consciousness in a way, or to an extent to which the phenomena are not. Our consciousness is, however, not independent of *it*; for it is in response to its stimulus that our senses and our figuration and thinking together construct the phenomenal world. It has however lately been growing apparent that all attempts to conceive the unrepresented in terms of idol-matter in idol-space and idol-time break down. Approaching it this way, we learn only that by taking it up into mathematical equations we can produce startling technological results.
+
+Two consequences seem to follow.
 
 p. 153
 
