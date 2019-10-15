@@ -764,8 +764,12 @@ We turn from the periphery to the infinitesimal centre of our ‘perspectivized�
 
 The reader will be aware that in this book I have called that ‘something quite vague’ by the name either of ‘the particles’ or of ‘the unrepresented’ and have then, for reasons given, largely dismissed it from consideration. This is perhaps the place to say a final word about it. Physical science postulates an unrepresented, as a something which is independent of our consciousness in a way, or to an extent to which the phenomena are not. Our consciousness is, however, not independent of *it*; for it is in response to its stimulus that our senses and our figuration and thinking together construct the phenomenal world. It has however lately been growing apparent that all attempts to conceive the unrepresented in terms of idol-matter in idol-space and idol-time break down. Approaching it this way, we learn only that by taking it up into mathematical equations we can produce startling technological results.
 
-Two consequences seem to follow.
+Two consequences seem to follow. Firstly, it would be rash to assume that there is no other approach than the mathematical one. Who can affirm, and on what evidence, that we may not also learn to approach the unrepresented by way of enhancine our figuration,¹ so as to make it a conscious process, as well as by the path of mathematical hypothesis? For sensation and figuration are the—at present unconscious—moment in which we actually meet the unrepresented (or, at least, encounter its resistance) in experience, as distinct from applying alpha-thinking to it afterwards. In this way we should gradually eliminate the unrepresented by rendering it phenomenal. It, too, would take its place among the collective representations. We should then at least find out whether what I have said about the phenomena can, or cannot, in the last resort be applied to the (as yet) unrepresented also; that is to say, whether or no they are representations of the collective unconscious. Certainly, the ‘something quite vague’ which can be coaxed into producing an atomic explosion does not look much like a collective unconscious—but then neither did the *represented*, which underlies the ordinary appearances, look like one—until we started thinking seriously about them.
 
-p. 153
+Secondly, it would be rash to 
+
+p. 154
+
+>¹ As Goethe did (cf. p. 138)
 
 # XXIII<br/>RELIGION
