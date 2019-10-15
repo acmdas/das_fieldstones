@@ -760,6 +760,10 @@ The conception of space as an unlimited or three-dimensional void—a kind of ex
 
 We turn from the periphery to the infinitesimal centre of our ‘perspectivized’ space, and we hear the same voice in the same broadcast assuring us that:
 
-p. 152
+>Nobody before quantum theory doubted that at any given moment a particle is at some definite place and moving with some definite velocity. This is no longer the case. The more accurately you determine the place of a particle, the less accurate will be its velocity; and the more accurately you determine the velocity, the less accurate will be its position. And the particle itself has become something quite vague, not a nice little billiard ball as it used to be. When you think you have caught it, it produces a convincing alibi as a wave and not a particle. In face, you know only certain equations of which the interpretation is obscure.
+
+The reader will be 
+
+p. 153
 
 # XXIII<br/>RELIGION
