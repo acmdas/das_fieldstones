@@ -148,7 +148,6 @@ To sum up what has been said in this chapter: Anthropology began by assuming as 
 
 >²Anyone who finds it difficult to form any conception of participation, that is, of self and not-self identified in the same moment of experience, should reflect on that whole peculiar realm of semi-subjectivity which still leads a precarious existence under the name of ‘instinct’—or on those ‘irresistable’ impulses, on which psychiatrists are inclined to dwell. Many of us know what panic feels like, and ordinary men are proud of their sexual vigour or ashamed of the lack of it, although the act is readily acknowledged in retrospect to be at least as much something that is done to, or with, them by an invisible force of nature, as something they themselves veritably *do*.
 
-
 # V<br/>PRE-HISTORY
 
 A history of the ‘world’, as distinct from a history of the unrepresented, must clearly be a history of phenomena; that is, of collective representation. But before this part of the subject is approached, it will be well to consider briefly the bearing of this truth on what is sometimes called pre-history. I mean, in particular, the history of the earth before the appearance on it of human beings.
@@ -783,3 +782,4 @@ When one ventures to speak, as I did in Chapter XIX, of man standing ‘in a dir
 Unfortunately, it is just on the interpretation and application of this all-important truth that our modern idolatry has fastened its claws. For idolatry has coarsened the very meaning of ‘otherness’—the very way in which ‘other’ and ‘same’ can be thought. We have seen, in Chapter XIII, how distinctions not determined by the senses were once concrete experiences, before they faded away into the ‘frigidity’ of subjective ideas with the coming of the scientific revolution. We have seen, for instance, how Schiller was unable to conceive that Goethe’s *Urphänomen* could be anything at all, unless it was *either* a phenomenon perceivable by the passive senses, *or* an abstract idea. So to the typical modern mind, fixed firm in its idolatry, unless God is thought of as not merely other than itself, but other *in the phenomenal mode* and after the manner in which the idols ore other, God must be merely an idea.
 
 Yet this can be no more than a passing blindness.
+
