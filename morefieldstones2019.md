@@ -1352,3 +1352,7 @@ Saturday, 19 Oct 2019
 
 “You never knew exactly how much space you occupied in people’s lives.”—F. Scott Fitzgerald, *Tender Is the Night*
 
+## Always the Women
+Saturday, 19 Oct 2019
+
+“It was always the women, and above all the young ones, who were the most bigoted adherents of the Party, the swallowers of slogans, the amateur spies and nosers-out of unorthodoxy.”—George Orwell, *1984*
