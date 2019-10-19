@@ -1347,3 +1347,8 @@ Wednesday, 16 Oct 2019
 
 “My theory is that the purpose of art is to transmit universal truths of a sort, but of a particular sort, that in art, whether it’s poetry, fiction or painting, you are telling the reader or listener or viewer something he already knows but which he doesn’t quite know that he knows, so that in the action of communication he experiences a recognition, a feeling that he has been there before, a shock of recognition. And so, what the artist does, or tries to do, is simply to validate the human experience and to tell people the deep human truths which they already unconsciously know.”—Walker Percy
 
+## Space
+Saturday, 19 Oct 2019
+
+“You never knew exactly how much space you occupied in people’s lives.”—F. Scott Fitzgerald, *Tender Is the Night*
+
