@@ -1356,3 +1356,5 @@ Saturday, 19 Oct 2019
 Saturday, 19 Oct 2019
 
 “It was always the women, and above all the young ones, who were the most bigoted adherents of the Party, the swallowers of slogans, the amateur spies and nosers-out of unorthodoxy.”—George Orwell, *1984*
+
+“If he is a person naturally orthodox (in Newspeak a Goodthinker), he will in all circumstances know, without taking thought, what is the true belief or the desirable emotion.”—George Orwell, *1984*
