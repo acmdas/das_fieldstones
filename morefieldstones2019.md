@@ -1366,10 +1366,3 @@ Sunday, 20 Oct 2019
 
 “And all that pity you are made your prey.”—Thomas Otway, *The Orphan* (1680)
 
-## The Limits of Technique
-Monday, 21 Oct 2019
-
-“It’s possible that you no longer need to get better at your craft. That your craft is just fine.
-
-It’s possible that you need to be braver instead.”—[Seth Godin](https://seths.blog/2019/10/the-limits-of-technique/)
-
