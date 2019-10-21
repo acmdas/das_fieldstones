@@ -1365,3 +1365,10 @@ Sunday, 20 Oct 2019
 “The friendship of a blockhead shun,<br/>Said Israel’s monarch, David’s son.”—Samuel Low, *The Fool’s Friendship* (c. 1800)
 
 “And all that pity you are made your prey.”—Thomas Otway, *The Orphan* (1680)
+
+## The Limits of Technique
+Monday, 21 Oct 2019
+
+“It’s possible that you no longer need to get better at your craft. That your craft is just fine.
+
+It’s possible that you need to be braver instead.”—Seth Godin
