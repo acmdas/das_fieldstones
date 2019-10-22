@@ -789,7 +789,9 @@ The fixing of such a gulf between God and man was not fatal to religion so long 
 
 This dilemma I believe to be the ultimate and innermost significance of Protestantism, the development of which has been roughly contemporary with that of the scientific revolution. For the idolatry of which I have just written is, of course, not the whole story. In many corners, in many movements, both within and without the established churches, a new impulse towards final participation has gathered strength, as men have attempted to make the Pauline maxim: ‘Not I, but Christ in me’ a living experience. ‘Though God be everywhere present,’ wrote William Law (author of the ‘Serious Call’);
 
->yet He is only present
+>yet He is only present to thee in the deepest and most central part of thy soul. Thy natural senses cannot possess God, or unite thee to Him; nay, thy inward faculties of Understanding, Will and Memory can only reach after God, but cannot be the place of His habitation in thee. But there is a root or depth in thee, from whence all these faculties come forth, as lines from a centre, or as branches from the body of the tree. This depth is called the Centre, the Fund or Bottom of the soul. This depth is the Unity, the Eternity, I had almost said the Infinity of thy soul; for it is so infinite that nothing can satisfy it, or give it any rest but the infinity of God.²
+
+This, on the one side, and oh the other that valiant attempt,
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
