@@ -785,4 +785,12 @@ Yet this can be no more than a passing blindness. Once it was remembered, and so
 
 We saw, in Chapter XVI, how the willed ousting of participation, which was the paramount impulse, or obedience, of the Jews, could contribute to the same result as did the alpha-thinking of the Greeks and their successors. But we saw also how a waxing experience of the *inwardness* of the Divine Name was the proper counter-pole to their loss of original participation. We stopped short, however, of the point where this experience was lost. By the time Jesus was born the Divine Name had ceased to be spoken by man in the Temple or elsewhere. The pharisees had made it the name of a Being essentially objective, remote, inaccessible, infinitely superior to, yet imagined as existentially parallel with man. Thus, the Jews had barely glimpsed, before they again lost sight of, that which is the opposite pole to man’s otherness from the I AM, namely his supreme identity with it.
 
-The fixing of such a gulf between God and man was not fatal to religion so long as some measure of original participation remained. To a participating consciousness, apprehending the world and the word as image, many nouns are the names of the Creator (‘non proprie sed per similitudinem’) and the noun *God* is merely one of them. To a non-participating consciousness, apprehending the world as object, most nouns are the names of idols and the noun *God* can be no exception.¹ If the noun *God* were indeed the Divine Name, it would not frequently 
+The fixing of such a gulf between God and man was not fatal to religion so long as some measure of original participation remained. To a participating consciousness, apprehending the world and the word as image, many nouns are the names of the Creator (‘non proprie sed per similitudinem’) and the noun *God* is merely one of them. To a non-participating consciousness, apprehending the world as object, most nouns are the names of idols and the noun *God* can be no exception.¹ If the noun *God* were indeed the Divine Name, it would not frequently appear in discourse as the subject of easy and familiar sentences. Whereas, in fact, it is long now since this liberty became almost the recognized mark by which we distinguish the sermon from other forms of utterance. The progressive loss of original participation necessarily involves one of two alternatives, *either* an ever-increasing experience of the inwardness of the Divine Name and the Divine Presence—which is the religious aspect of what I have called ‘final participation’—o*or*an ever-increasing idolatry, in religion as elsewhere.
+
+This dilemma I believe
+
+>¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
+
+>²*The Spirit of Prayer*, Part I, ch. 2.
+
+# XXIV<br/>THE INCARNATION OF THE WORD
