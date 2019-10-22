@@ -787,7 +787,9 @@ We saw, in Chapter XVI, how the willed ousting of participation, which was the p
 
 The fixing of such a gulf between God and man was not fatal to religion so long as some measure of original participation remained. To a participating consciousness, apprehending the world and the word as image, many nouns are the names of the Creator (‘non proprie sed per similitudinem’) and the noun *God* is merely one of them. To a non-participating consciousness, apprehending the world as object, most nouns are the names of idols and the noun *God* can be no exception.¹ If the noun *God* were indeed the Divine Name, it would not frequently appear in discourse as the subject of easy and familiar sentences. Whereas, in fact, it is long now since this liberty became almost the recognized mark by which we distinguish the sermon from other forms of utterance. The progressive loss of original participation necessarily involves one of two alternatives, *either* an ever-increasing experience of the inwardness of the Divine Name and the Divine Presence—which is the religious aspect of what I have called ‘final participation’—o*or*an ever-increasing idolatry, in religion as elsewhere.
 
-This dilemma I believe
+This dilemma I believe to be the ultimate and innermost significance of Protestantism, the development of which has been roughly contemporary with that of the scientific revolution. For the idolatry of which I have just written is, of course, not the whole story. In many corners, in many movements, both within and without the established churches, a new impulse towards final participation has gathered strength, as men have attempted to make the Pauline maxim: ‘Not I, but Christ in me’ a living experience. ‘Though God be everywhere present,’ wrote William Law (author of the ‘Serious Call’);
+
+>yet He is only present
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
