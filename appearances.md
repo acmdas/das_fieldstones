@@ -801,10 +801,18 @@ If this book has succeeded in showing anything, it has shown that the only possi
 
 Do I echo these words less warmly, when I recollect that יהוה is creating the rainbow through my eyes? When I know that to think otherwise is an illusion or a pretence? Does piety depend on original participation? If so, one thing is certain; there is no future for it. But fortunately it does not. I did not create my eyes. And if an understanding of the manner of my participation in the appearance of a rainbow does not diminish my awe before its Creator, why should that be the case with the other more palpable phenomena? What but idolatry could ever make me suppose it *was* the case? ‘Let not your heart be troubled: you believe in God, believe also in me.’
 
-I did not create my eyes. 
+I did not create my eyes. But we saw at the beginning of this book how, in order that the world of appearances may arise, it is not enough for the senses alone to be added to the unrepresented. That world depends no less on man’s figuration; and, with that, also on his imagination. It is because imagination participates the creative activity in this way that it has itself been dimly felt to be, and described as, ‘creative’. We saw in Chapter XXI how this means that the future of the phenomenal world can no longer be regarded as entirely independent of man’s volition. This is the difference between original and final participation.
+
+This is also a conclusion from which piety may shrink. We must then ask ourselves (apart altogether from our obligation to accept the truth because it is true) whether we *ought* to shrink from the notion that we are to share the responsibility of maintaining an earth which it has already, it seems, been given into our hands to destroy. Moreover, has history any real significance unless, in the course o fit, the relation between creature and Creator is being changed?
+
+>God’s view is the view of mind as such, for it correstonds to the real structure of existence. The tendency of any mind, in proportion as it overcomes its creaturely limitations, must be to gravitate towards the divine centre, and share the divine view of things. That is the goal; it cannot be the starting-point.³
+
+Has history
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
 >²*The Spirit of Prayer*, Part I, ch. 2.
+
+>³Austin Farrar, *A rebirth of Images*, Dacre Press. 1949
 
 # XXIV<br/>THE INCARNATION OF THE WORD
