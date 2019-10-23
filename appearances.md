@@ -791,7 +791,15 @@ This dilemma I believe to be the ultimate and innermost significance of Protesta
 
 >yet He is only present to thee in the deepest and most central part of thy soul. Thy natural senses cannot possess God, or unite thee to Him; nay, thy inward faculties of Understanding, Will and Memory can only reach after God, but cannot be the place of His habitation in thee. But there is a root or depth in thee, from whence all these faculties come forth, as lines from a centre, or as branches from the body of the tree. This depth is called the Centre, the Fund or Bottom of the soul. This depth is the Unity, the Eternity, I had almost said the Infinity of thy soul; for it is so infinite that nothing can satisfy it, or give it any rest but the infinity of God.²
 
-This, on the one side, and oh the other that valiant attempt,
+This, on the one side, and oh the other that valiant attempt, which began with the Reformation and ended in Fundamentalism, to understand and accept literally—*and only literally*—the words of the Bible, precisely while their meanings were being subtly drained away by idolatry—these are the opposite and complimentary poles between which Protestantism has hitherto revolved.
+
+If this book has succeeded in showing anything, it has shown that the only possible answer to the idolatry with which all our thinking is to-day infected, is the acceptance and conscious ensuing of that directionally creator relation to the phenomenal world, which we know to be a fact, whether we like it or not. Is God’s creation less awe-inspiring because I know that the light, for instance, out of which its visual substance is woven, streams forth from my own eyes? ‘Look upon the rainbow,’ wrote the author of *Ecclesiasticus*:
+
+>Look upon the rainbow, and praise him who made it:<br/>Very beautiful it is in the brightness thereof.
+
+>It compasseth the heavens about with a glorious circle<br/>and the hands of the most High have bended it.
+
+Di I echo these words less warmly, when
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
