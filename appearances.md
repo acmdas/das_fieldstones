@@ -799,7 +799,9 @@ If this book has succeeded in showing anything, it has shown that the only possi
 
 >It compasseth the heavens about with a glorious circle<br/>and the hands of the most High have bended it.
 
-Di I echo these words less warmly, when
+Do I echo these words less warmly, when I recollect that יהוה is creating the rainbow through my eyes? When I know that to think otherwise is an illusion or a pretence? Does piety depend on original participation? If so, one thing is certain; there is no future for it. But fortunately it does not. I did not create my eyes. And if an understanding of the manner of my participation in the appearance of a rainbow does not diminish my awe before its Creator, why should that be the case with the other more palpable phenomena? What but idolatry could ever make me suppose it *was* the case? ‘Let not your heart be troubled: you believe in God, believe also in me.’
+
+I did not create my eyes. 
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
