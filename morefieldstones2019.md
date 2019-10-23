@@ -1371,3 +1371,7 @@ Tuesday, 22 Oct 2019
 
 “Every reform, however necessary, will by weak minds be carried to an excess, that itself will need reforming,”—Samuel Taylor Coleridge, *Biographia Literaria*
 
+## Presentation
+Wednesday, 23 Oct 2019
+
+“A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.”—Akin's Laws of Spacecraft Design
