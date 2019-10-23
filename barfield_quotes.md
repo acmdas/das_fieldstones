@@ -53,3 +53,9 @@ We should remember this, when appraising the aberrations of the formally represe
 
 “As we see it, the whole outlook brought about by the scientific revolution should have been--must be--a phase, only, of the evolution of consciousness. An absolutely indispensable phase, but a passing one. What is riveting it on to us and preventing us from superseding it, because it prevents us from even imaging any other kind of consciousness, is precisely this error of projecting it back into the past.” 
 ― Owen Barfield, *Worlds Apart*
+
+“If I find it depressing when a distinguished literary critic complains that ‘Coleridge has little insight into the incompatibility of different trends of thought,’ it is because this seems to me to betray a deplorable inability to distinguish between philosophy and talking about philosophy.”
+—Owen Barfield, *How Coleridge Thought* p. 7
+
+“The intensities must be at once opposite and equal. As the liberty, so must be the reverence for law. As the independence, so must be the service and submission to the Supreme Will.”
+—Samuel Taylor Coleridge, *The Nature of Life* found in Owen Barfield, *How Coleridge Thought* p. 9
