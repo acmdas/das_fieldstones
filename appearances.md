@@ -807,7 +807,9 @@ This is also a conclusion from which piety may shrink. We must then ask ourselve
 
 >God’s view is the view of mind as such, for it correstonds to the real structure of existence. The tendency of any mind, in proportion as it overcomes its creaturely limitations, must be to gravitate towards the divine centre, and share the divine view of things. That is the goal; it cannot be the starting-point.³
 
-Has history any significance, unless we can apply these words to the whole development of the mind of man?
+Has history any significance, unless we can apply these words to the whole development of the mind of man? Would it not be wiser, instead of shrinking, to recall the words of St. Paul: *For the earnest expectation of the creature waiteth for the manifestation of the sons of God*—and the German poet, Novalis’s gloss: *Man is the Messiah of nature?*
+
+On the other hand, it may be objected that all this talk of the relation of man to the phenomenal world is cold stuff, having little or nothing to do with religion, whose field is the soul and its salvation.
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
