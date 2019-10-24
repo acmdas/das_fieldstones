@@ -807,7 +807,7 @@ This is also a conclusion from which piety may shrink. We must then ask ourselve
 
 >God’s view is the view of mind as such, for it correstonds to the real structure of existence. The tendency of any mind, in proportion as it overcomes its creaturely limitations, must be to gravitate towards the divine centre, and share the divine view of things. That is the goal; it cannot be the starting-point.³
 
-Has history
+Has history any significance, unless we can apply these words to the whole development of the mind of man?
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
