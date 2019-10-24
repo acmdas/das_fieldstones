@@ -813,6 +813,6 @@ Has history any significance, unless we can apply these words to the whole devel
 
 >²*The Spirit of Prayer*, Part I, ch. 2.
 
->³Austin Farrar, *A rebirth of Images*, Dacre Press. 1949
+>³Austin Farrer, *A rebirth of Images*, Dacre Press. 1949
 
 # XXIV<br/>THE INCARNATION OF THE WORD
