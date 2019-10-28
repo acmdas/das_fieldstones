@@ -809,7 +809,9 @@ This is also a conclusion from which piety may shrink. We must then ask ourselve
 
 Has history any significance, unless we can apply these words to the whole development of the mind of man? Would it not be wiser, instead of shrinking, to recall the words of St. Paul: *For the earnest expectation of the creature waiteth for the manifestation of the sons of God*—and the German poet, Novalis’s gloss: *Man is the Messiah of nature?*
 
-On the other hand, it may be objected that all this talk of the relation of man to the phenomenal world is cold stuff, having little or nothing to do with religion, whose field is the soul and its salvation. But this ‘watertight’ attitude is itself a product of idolatry.
+On the other hand, it may be objected that all this talk of the relation of man to the phenomenal world is cold stuff, having little or nothing to do with religion, whose field is the soul and its salvation. But this ‘watertight’ attitude is itself a product of idolatry. What the Psalmist wrote of the old idols is true no less of the idols of the twentieth century. ‘They that make them are like unto them.’ The soul is in a manner all things, and the idols we create are built into the souls of our choldren; who learn more and more to think of themselves as objects among objects; who grow hollower and hollower. In the long run we shall not be able to save sould without saving the appearances, and it is an error fraught with the most terrible consequences to imagine that we shall.
+
+Let us not, nevertheless, be
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
