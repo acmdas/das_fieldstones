@@ -409,7 +409,7 @@ It will be well to point out here that, if I have concentrated on one particular
 
 >¹⁰ L.-B. Geiger, *La Participation dans la Philosophie de S. Thomas d’ Aquin.* Paris, 1942.
 
->¹¹ *De Hebdomadibus, cap. 2.
+>¹¹ *De Hebdomadibus*, cap. 2.
 
 >¹² Cf. p.31
 
@@ -601,7 +601,7 @@ The Hebrew language, through which (as we have seen) the inwardness of the Divin
 
 The objective of this book is, however, a limited one, namely, to demonstrate on general grounds the necessity of smashing the idols. It cannot, therefore, attempt to investigate in detail what sort of knowledge may result from doing so, and it would be quite beyond its scope to carry this difficult subject any further. Suffice it to say that the Semitic lnaguages seem to point us back to the old unity of man and nature, through the shapes of their sounds. We feel those shapes not only as sounds, but also, in a manner, as *gestures* of the speech-organs—and it is not so difficult to realize that these gestures were once gestures made with the whole body—once—when the body itself was not detached from the rest of nature after the solid manner of to-day, when the body itself was spoken even while it was speaking.
 
-In an Aryan language, such as Greek, on the other hand, where natural and mythological significances so easily meet and mingle, we can feel more easily the nature of *phenomenal—that is, imaginal—participation. The Aryan tongues point to the same ancient unity as the Semitic—but they do so through the quality of their *meaning*. Among the speakers of both types of language, a few centuries before the Christian era, a last faint echo of that unity appeared in the form of tradition and doctrine.
+In an Aryan language, such as Greek, on the other hand, where natural and mythological significances so easily meet and mingle, we can feel more easily the nature of *phenomenal*—that is, imaginal—participation. The Aryan tongues point to the same ancient unity as the Semitic—but they do so through the quality of their *meaning*. Among the speakers of both types of language, a few centuries before the Christian era, a last faint echo of that unity appeared in the form of tradition and doctrine.
 
 In the *Sefer Yezirah*, for instance, whose authorship was traditionally assigned to Abraham, and which was perhaps first committed to writing about B.C. 600, the account of creation given in the Book of Genesis is expanded, and related in considerable detail to the sounds and signs of a language at once divine and human. And the influence of the Jewish doctrine of the Word of God, which was at the same time the source of the phenomenal world and the incarnation of wisdom in man, is still clearly apparent in the Book of Proverbs and in the apocryphal *Ecclesiasticus* and *Wisdom of Solomon*. In the world of Greek thought the development in a similar direction, and particularly by the Stoic sect, of the *logos* of the Greek philosophers is better known; and it is an old story how the two streams met in Alexandria and united in the form which is probably best exemplified in the writings of Philo Judaeus.
 
@@ -813,7 +813,9 @@ On the other hand, it may be objected that all this talk of the relation of man 
 
 Let us not, nevertheless, be unduly oppressed by the fear of losing all we are accustomed to, whether it be that delight in a wholly independent world of nature of which I spoke in Chapter XXI, or of some special brand of piety that depends on it. but let us make no mistake as to the magnitude of the moral demand which is made on us. In that respect there is no need for the moralist to worry. It is not such cold stuff after all. The world of final participation will one day sparkle in the light of the eye as it never yet sparkled early one morning in the original light of the sun. But the coming of this light presupposes a goodness of heart and a steady furnace in the will, which have only not been emphasized in this book, because they are not the subject of it.
 
-The morality of imagination is subtle and deep and far-reaching—subtle above all, because imagination itself is still in its tender infancy.
+The morality of imagination is subtle and deep and far-reaching—subtle above all, because imagination itself is still in its tender infancy. I have already pointed out that imagination and goodness are *not* synonymous. But I believe that, if we are sensitive to it, we may divine in this age a very close and special relation between them. This relation was the guiding intuition of that great, confused spirit—the very St. George of iconoclasm—William Blake, who held that Imagination is the cardinal virtue, because the literalness which supports idolatry is the besetting sin, of the age which is upon us. But we must walk warily here.
+
+It is in the nature of the case that,
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
