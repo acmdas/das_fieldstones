@@ -1383,10 +1383,23 @@ Tuesday, 29 Oct 2019
 
 “They would say anything that was currently expedient, but it meant nothing. In particular promises, resolutions and commitments meant precisely nothing.
 
-“I began to adopt a veterinary attitude. The term comes from my training in medicine. When patients are unable to talk (e.g. children) or unreliable 'historians' of their symptoms (e.g psychosis or dementia) then we practiced veterinary medicine, like a vet, based purely on our own observations.
+“I began to adopt a veterinary attitude. The term comes from my training in medicine. When patients are unable to talk (e.g. children) or unreliable ‘historians’ of their symptoms (e.g psychosis or dementia) then we practiced veterinary medicine, like a vet, based purely on our own observations.
 
-“So it is a long time since I took notice of what chief executives, politicians, bishops or any kind of bureaucrat has to say. I don't believe what they claim they are doing or have done. I wait to see what I observe for myself.
+“So it is a long time since I took notice of what chief executives, politicians, bishops or any kind of bureaucrat has to say. I don’t believe what they claim they are doing or have done. I wait to see what I observe for myself.
 
-“Brexit has led to an unprecedented concentration and sustained output of empty speech, and this continues. I do not believe any of it. I will not believe it even if They say we have 'now' left the EU. I will wait to see if I can observe it myself in my own life or immediate circle of trusted and competent persons.
+“Brexit has led to an unprecedented concentration and sustained output of empty speech, and this continues. I do not believe any of it. I will not believe it even if They say we have ‘now’ left the EU. I will wait to see if I can observe it myself in my own life or immediate circle of trusted and competent persons.
 
 “Veterinary politics has advantages! It frees up a lot of time and energy for other and more fundamental activities, including the most important of all.”—Dr. Bruce Charlton
+
+## Necessity of Non-Education
+Tuesday, 29 Oct 2019
+
+“Because a knowledge of letters is entirely indispensable to a country, it is certain that they should not be indiscriminately taught to everyone. A body which had eyes all over it would be monstrous, and in like fashion so would a state if all its subjects were learned; one would find little obedience and an excess of pride and presumption.
+
+“The commerce of letters would drive out that of goods, from which the wealth of the state is derived. It would ruin agriculture, the true nourishment of the people, and in time would dry up the source of soldiery, whose ranks flow more from the crudities of ignorance than from refinements of knowledge.
+
+“It would, indeed, fill France with quibblers more suited to the ruination of good families and the upsetting of public order than to doing any good for the country.
+
+“If learning were profaned by extending it to all kinds of people one would see far more men capable of raising doubts than of resolving them, and many would be better able to oppose truth than to defend it.
+
+“It is for this reason that statesmen in a well-run country would wish to have as teachers more masters of mechanic arts than of liberal arts.”—*The Political Testament of Cardinal Richelieu*, chapter II (1642)
