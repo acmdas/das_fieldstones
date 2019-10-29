@@ -1375,3 +1375,18 @@ Tuesday, 22 Oct 2019
 Wednesday, 23 Oct 2019
 
 “A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.”—Akin's Laws of Spacecraft Design
+
+## Veterinary Politics
+Tuesday, 29 Oct 2019
+
+“About 25 years ago I was active in university politics, nationally and locally; and after several experiences I realised that we were in an era in which the leadership were not bound by words.
+
+“They would say anything that was currently expedient, but it meant nothing. In particular promises, resolutions and commitments meant precisely nothing.
+
+“I began to adopt a veterinary attitude. The term comes from my training in medicine. When patients are unable to talk (e.g. children) or unreliable 'historians' of their symptoms (e.g psychosis or dementia) then we practiced veterinary medicine, like a vet, based purely on our own observations.
+
+“So it is a long time since I took notice of what chief executives, politicians, bishops or any kind of bureaucrat has to say. I don't believe what they claim they are doing or have done. I wait to see what I observe for myself.
+
+“Brexit has led to an unprecedented concentration and sustained output of empty speech, and this continues. I do not believe any of it. I will not believe it even if They say we have 'now' left the EU. I will wait to see if I can observe it myself in my own life or immediate circle of trusted and competent persons.
+
+“Veterinary politics has advantages! It frees up a lot of time and energy for other and more fundamental activities, including the most important of all.”—Dr. Bruce Charlton
