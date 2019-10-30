@@ -835,7 +835,7 @@ In a letter to *The Times* last year, concerning the evangelical mission of Dr. 
 
 I am persuaded that in our time the battle between the powers of good and evil is pitched in man’s mind even more than in his heart, since it is known that the latter will ultimately follow the former. In the Christian doctrine of the Trinity the Logos, or Word, is one of the three Persons. The conception of a threefold nature in the Godhead is not, however, peculiar to Christianity. It is to be found also in oriental religions and is perhaps the formal principle underlying the whole complicated organism of Greek mythology. It is the *depth* of all theology. What is peculiar to Christianity is the nexus which that acknowledges between the Second Person of the Trinity and a certain historical *event in time*. For the Christian, accordingly, religion can never be simply the direct relation between his individual soul and the eternal Trinity. As long as we ourselves are occupying a standpoint in time, so long, interposed between the First and Third Persons, all history, in a manner, lies.
 
-Not to realize to the uttermost the otherness of God from ourselves is to deny the Father. But equally, not to strive to realize the sameness—to renege from the Supreme
+Not to realize to the uttermost the otherness of God from ourselves is to deny the Father. But equally, not to strive to realize the sameness—to renege from the Supreme Identity—is to deny the Holy Spirit. This, any deeply religious man may feel, whatever terminology he may have learnt to employ. To this a true Christian—or so it seems to me—must add: In no way to relate the former with the past, and the latter with the future of the world, is to seek to reprive history, and perhaps time itself, of all religious significance.
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
@@ -846,3 +846,5 @@ Not to realize to the uttermost the otherness of God from ourselves is to deny t
 >⁴It is at this point that I can most happily acknowledge the very real debt which my book owes to stimulus and enlightenment derived from the conversation and writings of my friend Mr. Roger Home. Indeed the recollection of his *saeva indignatio* on the subject of ‘literalness’ may well have been the catalyst, without which a rather wayward collection of notes and ideas would never have taken shape as a book at all.
 
 # XXIV<br/>THE INCARNATION OF THE WORD
+
+When we look back on past periods of history, we are often confronted with inconsistencies and blind spots in human thinking, which to us are so palpable that we are almost astonished out of belief.
