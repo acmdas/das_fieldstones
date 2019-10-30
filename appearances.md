@@ -833,7 +833,7 @@ In a letter to *The Times* last year, concerning the evangelical mission of Dr. 
 
 >. . . Our Lord constantly emphasized his healing ministry to the whole man; if he is not Lord of our minds, he is not the saviour whom this generation, which is our immediate concern, so sorely needs.
 
-I am persuaded that in our time
+I am persuaded that in our time the battle between the powers of good and evil is pitched in man’s mind even more than in his heart, since it is known that the latter
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
