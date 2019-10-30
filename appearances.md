@@ -833,7 +833,9 @@ In a letter to *The Times* last year, concerning the evangelical mission of Dr. 
 
 >. . . Our Lord constantly emphasized his healing ministry to the whole man; if he is not Lord of our minds, he is not the saviour whom this generation, which is our immediate concern, so sorely needs.
 
-I am persuaded that in our time the battle between the powers of good and evil is pitched in man’s mind even more than in his heart, since it is known that the latter
+I am persuaded that in our time the battle between the powers of good and evil is pitched in man’s mind even more than in his heart, since it is known that the latter will ultimately follow the former. In the Christian doctrine of the Trinity the Logos, or Word, is one of the three Persons. The conception of a threefold nature in the Godhead is not, however, peculiar to Christianity. It is to be found also in oriental religions and is perhaps the formal principle underlying the whole complicated organism of Greek mythology. It is the *depth* of all theology. What is peculiar to Christianity is the nexus which that acknowledges between the Second Person of the Trinity and a certain historical *event in time*. For the Christian, accordingly, religion can never be simply the direct relation between his individual soul and the eternal Trinity. As long as we ourselves are occupying a standpoint in time, so long, interposed between the First and Third Persons, all history, in a manner, lies.
+
+Not to realize to the uttermost the otherness of God from ourselves is to deny the Father. But equally, not to strive to realize the sameness—to renege from the Supreme
 
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
