@@ -831,6 +831,10 @@ I have tried to show in this book that it is in fact very far from irrelevant; i
 
 In a letter to *The Times* last year, concerning the evangelical mission of Dr. Graham, the Bishop of Plymouth wrote:
 
+>. . . Our Lord constantly emphasized his healing ministry to the whole man; if he is not Lord of our minds, he is not the saviour whom this generation, which is our immediate concern, so sorely needs.
+
+I am persuaded
+
 >¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
 >²*The Spirit of Prayer*, Part I, ch. 2.
