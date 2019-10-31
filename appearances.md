@@ -847,4 +847,6 @@ Not to realize to the uttermost the otherness of God from ourselves is to deny t
 
 # XXIV<br/>THE INCARNATION OF THE WORD
 
-When we look back on past periods of history, we are often confronted with inconsistencies and blind spots in human thinking, which to us are so palpable that we are almost astonished out of belief.
+When we look back on past periods of history, we are often confronted with inconsistencies and blind spots in human thinking, which to us are so palpable that we are almost astonished out of belief. We find it hard to credit the inescapable fact that they remained, for decades or for centuries, completely invisible not only to the generality of men but also to the choicest and wisest spirits of the age. Such are the Athenian emphasis on liberty—with the system of slavery accepted as a matter of course; the notion that the truth could be ascertained and justice done with the help of trial by battle; the Calvinist doctrine of pre-election to eternal damnation; the co-existence of a Christian ethic with an economic doctrine of ruthless *laissez-faire*; and no doubt there are other and better examples.
+
+I believe that the blind-spot
