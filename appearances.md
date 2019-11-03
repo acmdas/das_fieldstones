@@ -863,7 +863,9 @@ Between these two phases—if we meditated deeply enough on the nature and devel
 
 What in fact happened according to the record? In the heart of that nation, whose whole impulse it had been to eliminate original participation, a man was born who simultaneously identified himself with, and carefully distinguished himself from, the Creator of the world—whom he called the Father. On the one hand: ‘I am not alone, but I and the Father that sent me,’ etc. On the other: ‘I and the Father are one,’ etc. In one man the inwardness of the Divine Name had been fully realized; the final participation, whereby man’s Creator speaks from within man himself, had been accomplished. The Word had been made flesh.
 
-In other man—though
+In other men—though we have pointed to certain (mainly trivial) premonitory symptoms—that conscious realization has still barely begun to show itself. Except that the tender shoot of final participation has from the first been acknowledged and protected by the Church in the institution of the Eucharist. For all who partake of the Eucharist first acknowledge that the man who was born in Bethlehem was ‘of one substance with the Father’, and that ‘all things were made’ by hom; and then they take that substance into themselves, together with its representations named bread and wine. This is after all the heart of the matter. There was no difficulty in understanding it, as long as enough of the old participating consciousness survived. It was only as this faded, it was only as a ‘substance’ behind the appearances gradually ceased to be an experience and dimmed to a hypothesis or a credo, that the difficulties and doctrinal disputes concerning trans-substantiation began to grow.
+
+But, by the physical act of communion as such, men can only take the Divine substance, the ‘Name apart’ directly into the unconscious
 
 
 >¹*Retractationes, I, xiii, 3.
