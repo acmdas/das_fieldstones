@@ -855,9 +855,21 @@ I have offered my own explanation of this curiosity by pointing, as I did in Cha
 
 Whatever the explanation, the fact is very strange. When the horizon of time expanded suddenly in the nineteenth century, one would have expected those who accepted evolution and remained Christian, to see the incarnation of their Saviour as the culminating point of the history of the earth—a turning-point of time to which all at first led down and from which all thereafter was to lead upward. Moreover, having regard to the antiquity now attributed to the earth and man, one would have expected them to feel that we are still very very near to that turning-point, indeed hardly past it; that we hardly know as yet what the Incarnation means; for what is two thousand years in comparison with the ages which preceded it?
 
-This is not in fact what is thought and felt by the relatively small number of people who still believe in the Incarnation. I have found that, when they are pressed to ‘make sense’, as it were, of the ages which preceded the birth of Christ—in which men also lived and died—the practice is to achieve it by postulating a retrospective effect of the Incarnation.
+This is not in fact what is thought and felt by the relatively small number of people who still believe in the Incarnation. I have found that, when they are pressed to ‘make sense’, as it were, of the ages which preceded the birth of Christ—in which men also lived and died—the practice is to achieve it by postulating a retrospective effect of the Incarnation. This is indeed to abandon an idol-notion and to accept a participating or imaginal notion of time. But surely it also involves a sudden and uneasy jump in thought from time to eternity!² Such a leap cuts itself off, by refraining, from an understanding of the phenomenal world and is thus more appropriate to oriental and pre-Christian religion than to the time-embracing religion of the West.
+
+Look here upon this picture and on this! The stumbling-blocks will only disappear when we substitute for the false picture, in our minds, of an evolution of idols, that other true picture of the evolution of phenomena. We have seen how original participation, which began as the unconscious identity of man with his Creator, shrank, as his self-consciousness increased, and how this was associated with the origin and development of language. We have seen how, in the last few centuries B.C. it had contracted to a faint awareness of creative activity alike in nature and in man, to which was given the name of the logos or Word. And then, we have seen (in Chapter XIX) the first faint premonitory symptoms of final participation appearing already in the first centuries of our era.
+
+Between these two phases—if we meditated deeply enough on the nature and development of meaning in language—we could, if nexessary, infrer without other help, that the turning-point of time must have occurred. We could infer that the incarnation of the Word must have culminated.
+
+What in fact happened according to the record? In the heart of that nation, whose whole impulse it had been to eliminate original participation, a man was born who simultaneously identified himself with, and carefully distinguished himself from, the Creator of the world—whom he called the Father. On the one hand: ‘I am not alone, but I and the Father that sent me,’ etc. On the other: ‘I and the Father are one,’ etc. In one man the inwardness of the Divine Name had been fully realized; the final participation, whereby man’s Creator speaks from within man himself, had been accomplished. The Word had been made flesh.
+
+In other man—though
 
 
 >¹*Retractationes, I, xiii, 3.
 
+>²Deeply as I admire it, this would be my criticism of the theology of the late Charles Williams.
+
 # XXV<br/>THE MYSTERY OF THE KINGDOM
+
+It was pointed out in Chapter XXIII that the attainment by humanity of a new moral standpoint may mean doing violence to moral judgments. 
