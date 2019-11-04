@@ -867,12 +867,16 @@ In other men—though we have pointed to certain (mainly trivial) premonitory sy
 
 But, by the physical act of communion as such, men can only take the Divine substance, the ‘Name apart’ directly into the unconscious part of themselves; by way of their blood. AQnd in this, as we saw in Chapter XII, we participate in two ways—both outwardly as a mere appearance (and, at present, therefore an idol) and inwardly by original participation. Thus, the relation between original and final participation in the Eucharistic act is, as we should expect, in the utmost degree complex and mysterious. If we accept at all the claims made by Christ Jesus concerning his own mission, we must accept that he came to make possible in the course of time the transition of all men from original to final participation; and we shall regard the institution of the Eucharist as a preparation—a preparation (we shall not forget) which has so far only been operant for the sidereally paltry period of nineteen hundred years or so.
 
-To speculate
+To speculate, in a theological or cosmological context, on what might have been if things had gone otherwise, is from one point of view absurd. It is certainly foolish, if not blasphemous, to do so for the sake of doing so. But as a *means* to a better understanding of what has been and is, such speculation may be illuminating. The whole depth and poignacy of Augustine’s *fexil peccatum Adae!*³ would be lost on anyone who was not prepared to suppose, even for an instant, that Adam might not have fallen.
+
+With this end in view, then, we may permit
 
 
 >¹*Retractationes, I, xiii, 3.
 
 >²Deeply as I admire it, this would be my criticism of the theology of the late Charles Williams.
+
+<³’Fortunate sin of Adam!’
 
 # XXV<br/>THE MYSTERY OF THE KINGDOM
 
