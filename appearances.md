@@ -877,8 +877,13 @@ Yet—so we may speculate—this *need* not have happened. On the contrary, prec
 
 That rebirth, however, did not take place. The crucifixion did.
 
-Original participation fires the heart
+Original participation fires the heart from a source outside itself; the images enliven the heart. But in final participation—since the death and resurrection—the heart is fired from within by the Christ; and it is for the heart to enliven the images.
 
+Once again, later—once perhaps, towards the close of the Graeco-Roman, Aristotelian age—we can speculate on a similar possibility which was never realized. Once more, we are made to feel, ‘there was a chance’ that the requesite transition should be accomplished with relative smoothness and without the loss being first experienced to the full. For by that time there had appeared many Christened minds, which were capable of holding together, as it were in tension, the non-representational religious consciousness characteristic of the Jews and the representational consciousness derived from Greece and Rome. Dionysius the Areopagite taught that God was at once ‘anonymous’ and ‘polyonomous’—nameless and many-named. And his treatise on the *Divine Names*, to which I have already referred, took deep hold of medieval thought. Aquinas’s philosophy, and in particular perhaps the two kinds of participation which we find referred to in it (see Chapter XIII), seemed on the threshold of effecting the transition gently. For, while his participation by composition (subject and predicate, form and matter) is specifically Aristotelian and looks backward to original participation, his hierarchical participation *per similitudinem*, derived in part from Dionysius, looks rather forward to the ‘final’ variety. And already, before Aquinas’s time, the startlingly sudden rise and spread throughout Europe of a rich crop of legends of the Holy Grail suggests an attempted uprush of the Eucharistic mystery from a substantially unconscious to a substantially conscious—and extry-sacerdotal—status.
+
+To do more than mention such things here would be to go too far. It is enough that the possibility, if such it was, was not realized. Instead, before final participation could be said to have well begun, the collective representations, ‘the images’, were swept clean of the last vestige of original participation by that intellectual pharisaism, begotten (but again not *necessarily* so) of the scientific revolution.
+
+It is time to return from the abstractions of what might have been to the concrete reality of what has been and is.
 
 >¹*Retractationes, I, xiii, 3.
 
