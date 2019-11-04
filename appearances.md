@@ -876,7 +876,7 @@ With this end in view, then, we may permit
 
 >²Deeply as I admire it, this would be my criticism of the theology of the late Charles Williams.
 
-<³’Fortunate sin of Adam!’
+>³’Fortunate sin of Adam!’
 
 # XXV<br/>THE MYSTERY OF THE KINGDOM
 
