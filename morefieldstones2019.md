@@ -1441,4 +1441,6 @@ Sunday, 03 Nov 2019
 
 <li>Do not feel envious of the happiness of those who live in a fool’s paradise, for only a fool will think that it is happiness.”</li>
 
+</ol>
+
 —Bertrand Russell, *The Autobiography of Bertrand Russell*
