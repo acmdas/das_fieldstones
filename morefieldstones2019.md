@@ -1366,6 +1366,8 @@ Sunday, 20 Oct 2019
 
 “And all that pity you are made your prey.”—Thomas Otway, *The Orphan* (1680)
 
+“Unlike Nietzsche, I accept pity (compassion) as a virtue, but unlike many modern Christians, I see pity as a secondary virtue that degenerates into pathological altruism when it is not regulated by the primary virtues of justice, prudence and courage.  A man without compassion is certainly a bad man, but a man who is guided by nothing but compassion is a King Midas of misery.  Everything he touches turns to mold.”—[J.M. Smith](https://orthosphere.wordpress.com/2019/10/13/morbid-pity-and-the-apotheosis-of-blockheads/)
+
 ## Reform
 Tuesday, 22 Oct 2019
 
@@ -1444,3 +1446,17 @@ Sunday, 03 Nov 2019
 </ol>
 
 —Bertrand Russell, *The Autobiography of Bertrand Russell*
+
+## What You Can’t Say
+Sunday, 03 Nov 2019
+
+“Have you ever seen an old photo of yourself and been embarrassed at the way you looked? Did we actually dress like that? We did. And we had no idea how silly we looked. It’s the nature of fashion to be invisible, in the same way the movement of the earth is invisible to all of us riding on it.
+
+“What scares me is that there are moral fashions too. They’re just as arbitrary, and just as invisible to most people. But they’re much more dangerous. Fashion is mistaken for good design; moral fashion is mistaken for good. Dressing oddly gets you laughed at. Violating moral fashions can get you fired, ostracized, imprisoned, or even killed.
+
+“If you could travel back in a time machine, one thing would be true no matter where you went: you’d have to watch what you said. Opinions we consider harmless could have gotten you in big trouble. I’ve already said at least one thing that would have gotten me in big trouble in most of Europe in the seventeenth century, and did get Galileo in big trouble when he said it—that the earth moves.”[Paul Graham](http://www.paulgraham.com/say.html) *January, 2004*
+
+## Unique
+Monday, 04 Nov 2019
+
+“There is a vitality, a life force, an energy, a quickening that is translated through you into action, and because there is only one of you in all of time, this expression is unique. And if you block it, it will never exist through any other medium and it will be lost. The world will not have it. It is not your business to determine how good it is nor how valuable nor how it compares with other expressions. It is your business to keep it yours clearly and directly, to keep the channel open.”—Martha Graham
