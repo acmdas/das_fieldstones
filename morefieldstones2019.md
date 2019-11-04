@@ -1439,6 +1439,6 @@ Sunday, 03 Nov 2019
 
 <li>Be scrupulously truthful, even if the truth is inconvenient, for it is more inconvenient when you try to conceal it.</li>
 
-<li>Do not feel envious of the happiness of those who live in a fool's paradise, for only a fool will think that it is happiness.”</li>
+<li>Do not feel envious of the happiness of those who live in a fool’s paradise, for only a fool will think that it is happiness.”</li>
 
 —Bertrand Russell, *The Autobiography of Bertrand Russell*
