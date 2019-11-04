@@ -1431,7 +1431,7 @@ Sunday, 03 Nov 2019
 
 <li>Have no respect for the authority of others, for there are always contrary authorities to be found.</li>
 
-6. Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</li>
+<li>Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</li>
 
 <li>Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.</li>
 
