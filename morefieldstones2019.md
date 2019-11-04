@@ -1407,7 +1407,7 @@ Tuesday, 29 Oct 2019
 ## Current News
 Sunday, 03 Nov, 2019
 
-“To the extent that propaganda is based on current news, it cannot permit time for thought or reflection. A man caught up in the news must remain on the surface of the events; he is carried along in the current, and can at no time take a respite to judge and appreciate; he can never stop to reflect ... One thought drives away another; old facts are chased by new ones. Under these conditions there can be no thought. And, in fact modern man does not think about current problems; he feels them. He reacts, but he does not understand them any more than he takes responsibility for them. He is even less capable of spotting any inconsistency between successive facts; man's capacity to forget is unlimited ... This situation makes the 'current-events man' a ready target for propaganda.”—Jacques Ellul, *Propaganda* (1973)
+“To the extent that propaganda is based on current news, it cannot permit time for thought or reflection. A man caught up in the news must remain on the surface of the events; he is carried along in the current, and can at no time take a respite to judge and appreciate; he can never stop to reflect ... One thought drives away another; old facts are chased by new ones. Under these conditions there can be no thought. And, in fact modern man does not think about current problems; he feels them. He reacts, but he does not understand them any more than he takes responsibility for them. He is even less capable of spotting any inconsistency between successive facts; man’s capacity to forget is unlimited ... This situation makes the ‘current-events man’ a ready target for propaganda.”—Jacques Ellul, *Propaganda* (1973)
 
 ## Owning
 Sunday, 03 Nov, 2019
