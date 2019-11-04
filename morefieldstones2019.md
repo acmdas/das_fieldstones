@@ -1413,3 +1413,32 @@ Sunday, 03 Nov, 2019
 Sunday, 03 Nov, 2019
 
 “Anyone claiming to know the future is really just trying to own it.”—[Margaret Heffernan](https://www.bbc.co.uk/programmes/m0009522)
+
+## The Liberal Outlook
+Sunday, 03 Nov 2019
+
+“Perhaps the essence of the Liberal outlook could be summed up in a new decalogue, not intended to replace the old one but only to supplement it. The Ten Commandments that, as a teacher, I should wish to promulgate, might be set forth as follows:
+
+<ol>
+
+<li>Do not feel absolutely certain of anything.</li>
+
+<li>Do not think it worth while to proceed by concealing evidence, for the evidence is sure to come to light.</li>
+
+<li>Never try to discourage thinking for you are sure to succeed.</li>
+
+<li>When you meet with opposition, even if it should be from your husband or your children, endeavor to overcome it by argument and not by authority, for a victory dependent upon authority is unreal and illusory.</li>
+
+<li>Have no respect for the authority of others, for there are always contrary authorities to be found.</li>
+
+6. Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</li>
+
+<li>Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.</li>
+
+<li>Find more pleasure in intelligent dissent than in passive agreement, for, if you value intelligence as you should, the former implies a deeper agreement than the latter.</li>
+
+<li>Be scrupulously truthful, even if the truth is inconvenient, for it is more inconvenient when you try to conceal it.</li>
+
+<li>Do not feel envious of the happiness of those who live in a fool's paradise, for only a fool will think that it is happiness.”</li>
+
+—Bertrand Russell, *The Autobiography of Bertrand Russell*
