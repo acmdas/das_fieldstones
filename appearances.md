@@ -885,7 +885,7 @@ To do more than mention such things here would be to go too far. It is enough th
 
 It is time to return from the abstractions of what might have been to the concrete reality of what has been and is.
 
->¹*Retractationes, I, xiii, 3.
+>¹*Retractationes*, I, xiii, 3.
 
 >²Deeply as I admire it, this would be my criticism of the theology of the late Charles Williams.
 
