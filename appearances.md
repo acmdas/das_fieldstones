@@ -895,4 +895,4 @@ It is time to return from the abstractions of what might have been to the concre
 
 # XXV<br/>THE MYSTERY OF THE KINGDOM
 
-It was pointed out in Chapter XXIII that the attainment by humanity of a new moral standpoint may mean doing violence to moral judgments. 
+It was pointed out in Chapter XXIII that the attainment by humanity of a new moral standpoint may mean doing violence to moral judgments. Some violence is inevitable when men are called on, in any sphere, not to *correct* their previous ideas by removing some error, but actually to move forward to a new plane that includes, rather than replaces, the old. In the moral sphere, what was until now simply ‘good’, is seen for the first time no longer as an absolute, but also as the enemy of a better—and yet it has still also to be grasped as good.
