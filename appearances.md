@@ -923,9 +923,9 @@ To trace the reverberation to its source, it is not enough simply to turn to the
 
 >*The idols of the heathen are silver and gold, the work of men’s hands.<br/>They have mouths, but they speak not; eyes have they, but they see not;<br/>They have ears, but they hear not; neither is there any breath in their mouths. They that make them are like unto them; so is every one that trusteth in them.*
 
-Turn again to the book of *Isaiah and read the 44th Chapter, which is concerned mostly with idolatry:
+Turn again to the book of *Isaiah* and read the 44th Chapter, which is concerned mostly with idolatry:
 
->They that make a graven image are all of them vanity; and their delectable things shall not profit . . . he makether a god, even his graven image; he falleth down unto it, and worshippeth it, and prayeth unto it, and saith, Deliver me; for thou art my god.
+>They that make a graven image are all of them vanity; and their delectable things shall not profit . . . he maketh a god, even his graven image; he falleth down unto it, and worshippeth it, and prayeth unto it, and saith, Deliver me; for thou art my god.
 
 >They have not known nor understood; for he hath shut their eyes that they cannot see; and their hearts that they cannot understand.
 
