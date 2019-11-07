@@ -1460,3 +1460,11 @@ Sunday, 03 Nov 2019
 Monday, 04 Nov 2019
 
 “There is a vitality, a life force, an energy, a quickening that is translated through you into action, and because there is only one of you in all of time, this expression is unique. And if you block it, it will never exist through any other medium and it will be lost. The world will not have it. It is not your business to determine how good it is nor how valuable nor how it compares with other expressions. It is your business to keep it yours clearly and directly, to keep the channel open.”—Martha Graham
+
+## Policy
+Wednesday, 06 Nov 2019
+
+“I love the sound policy makes when I break it.”
+
+From a cartoon about kids being allowed to read “above their grade level.” I’ll find a link to it someday, maybe.
+
