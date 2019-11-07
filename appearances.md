@@ -899,7 +899,7 @@ It was pointed out in Chapter XXIII that the attainment by humanity of a new mor
 
 Now there are no harder sayings to be found in The Gospels than the group which deal with the use and purpose of parabolic utterance. Take for instance the verses which follow immediately after the parable of the sower in the 13th Chapter of St. Matthew (vv, 9-13):
 
->Who hath ears to hear, let him hear
+>Who hath ears to hear, let him hear.
 
 >And the disciples came, and said unto him, Why speakest thou unto them in parables?
 
@@ -909,4 +909,15 @@ Now there are no harder sayings to be found in The Gospels than the group which 
 
 >Therefore speak I to them in parables; because they seeing, see not; and hearing, they hear not, neither do they understand.
 
-Passing there a moment, it must be admitted that if we try to accept all this just as it stands,¹ and without any context or key to its meaning, then, to say that it ‘does violence’ to moral judgments is an understatement.
+Passing there a moment, it must be admitted that if we try to accept all this just as it stands,¹ and without any context or key to its meaning, then, to say that it ‘does violence’ to moral judgments is an understatement. The surface-meaning is not just severe, it is brutal. Nor is there any substantial difference in that respect between the passage quoted and the parallel passages in  St. Mark iv, 9-12 and St. Luke viii, 9-10. If we want to understand what was really in the mind of the Speaker, we have to go deeper. And first of all, we notice how it all leads up to a phrase which contains a marked echo of certain passages in the Old Testament:
+
+>Because they seeing, see not; and hearing, they hear not, neither do they understand.
+
+Such echoes are frequent in the reported sayings of Jesus and attention is often drawn to them in the margins of annotated Bibles. Clearly his whole diction was saturated with recollections of this nature, even when no precise allusion can be fixed. The New Testament is, in a sense, latent in the language of the Old. In this case, however, in St. Matthew’s version of the discourse, the allusion to the Old Testament *is* both precise and explicit. For Our Lord continues immediatesl:
+
+>And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see and shall not perceive;
+
+>For this people’s heart is waxed gross,
+
+
+>¹ I take the Gospels as they stand, treating them (whenever they may have been written) as valid records left by wise and deeply responsible men. A good many of the arguments which have been advanced in favor of dissecting them will, I believe, disappear with the idolatry (as I have here ventured to call it) which now obstructs our penetration of their deeper meaning. Meanwhile, those who may still prefer to follow Jülicher, C. H. Dodd, Jeremias and others, in writing off matthew 13, 9-13 and the parallels in Mark and Luke as later interpretations added by the primative church, may also care to ponder whether the primitive church is likely to have understood rather more, or rather less, than the twentieth-century commentator of the actual content of this and other parables.
