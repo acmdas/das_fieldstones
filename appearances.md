@@ -896,3 +896,17 @@ It is time to return from the abstractions of what might have been to the concre
 # XXV<br/>THE MYSTERY OF THE KINGDOM
 
 It was pointed out in Chapter XXIII that the attainment by humanity of a new moral standpoint may mean doing violence to moral judgments. Some violence is inevitable when men are called on, in any sphere, not to *correct* their previous ideas by removing some error, but actually to move forward to a new plane that includes, rather than replaces, the old. In the moral sphere, what was until now simply ‘good’, is seen for the first time no longer as an absolute, but also as the enemy of a better—and yet it has still also to be grasped as good. This ‘tragedy of progress’, as I called it, is the source of most of the ‘hard sayings’ in the Gospels. Consider for instance the parables of the labourers in the vinyard, and of the prodigal son. Our deep-rooted feeling for the goodness of justice and equity has to be outraged, because we are being beckoned towards a position directionally opposite to the usual one; because we are invited to see the earth, for a moment at all events, rather as it must look from the sun; to experience the world of man as the object of a huge, positive outpouring of love, in the flood of whose radiance such trifles as merit and recompense are mere irrelevancies.
+
+Now there are no harder sayings to be found in The Gospels than the group which deal with the use and purpose of parabolic utterance. Take for instance the verses which follow immediately after the parable of the sower in the 13th Chapter of St. Matthew (vv, 9-13):
+
+>Who hath ears to hear, let him hear
+
+>And the disciples came, and said unto him, Why speakest thou unto them in parables?
+
+>He answered and said unto them, Because it is given unto you to know the mysteries of the Kingdom of Heaven, but to them it is not given.
+
+>For whosoever hath, to him shall be given, and he shall have more abundance; but whosoever hath not, from him shall be taken away, even that he hath.
+
+>Therefore speak I to them in parables; because they seeing, see not; and hearing, they hear not, neither do they understand.
+
+Passing there a moment, it must be admitted that if we try to accept all this just as it stands,¹ and without any context or key to its meaning, then, to say that it ‘does violence’ to moral judgments is an understatement.
