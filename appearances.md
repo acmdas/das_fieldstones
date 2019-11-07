@@ -917,7 +917,11 @@ Such echoes are frequent in the reported sayings of Jesus and attention is often
 
 >And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see and shall not perceive;
 
->For this people’s heart is waxed gross,
+>For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart and should be converted and I should heal them.
+
+To trace the reverberation to its source, it is not enough simply to turn to the 6th Chapter if *Isaiah*. Eyes that see not, and ears that hear not—where have we met with them before? In those verses from the 115th Psalm which I have already quoted twice, in Chapters X and XVI. This Psalm was very familiar to Jewish ears. It is one of the six *Hallel* psalms, obligatory at many feasts, and according to the *Jewish Encyclopedia* would have been part of the ‘hymn’ that was sung by the Thirteen after the Last Supper. Moreover, they are repeated almost verbatim in the 135th Psalm:
+
+>*The idols of the heathen are silver and gold, the work of men’s hands.</br>They have mouths, but they speak not; eyes have they, but they see not;</br>
 
 
 >¹ I take the Gospels as they stand, treating them (whenever they may have been written) as valid records left by wise and deeply responsible men. A good many of the arguments which have been advanced in favor of dissecting them will, I believe, disappear with the idolatry (as I have here ventured to call it) which now obstructs our penetration of their deeper meaning. Meanwhile, those who may still prefer to follow Jülicher, C. H. Dodd, Jeremias and others, in writing off matthew 13, 9-13 and the parallels in Mark and Luke as later interpretations added by the primative church, may also care to ponder whether the primitive church is likely to have understood rather more, or rather less, than the twentieth-century commentator of the actual content of this and other parables.
