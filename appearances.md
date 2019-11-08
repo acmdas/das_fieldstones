@@ -929,6 +929,12 @@ Turn again to the book of *Isaiah* and read the 44th Chapter, which is concerned
 
 >They have not known nor understood; for he hath shut their eyes that they cannot see; and their hearts that they cannot understand.
 
-It will be clear that, in order to understand
+It will be clear that, in order to understand the enigmatic words which, in the Synoptic Gospels, are interposed between the parable of the Sower and its interpretation, we must hear sounding through them as an overtone both the voice of the prophet Isaiah and the familiar voice of the Psalmist inveighing against graven images. We cannot do otherwise than read them as alluding to idolatry.
+
+But to what kind of idolatry? It is quite impossible to assume that the *primary* idolatry—that is, the worship of images as *numinous*—of which the Children of Israel had once been wuilty, was in the mind of Jesus. For how is it possible to fit any such allusion into the context? Moreover that kind of idolatry was no longer a besetting sin; it was one that had practically ceased to exist among the Jewish people. Thus, Conder in his *Outlines of the Life of Christ*, emphasizing the moral degereracy which prevailed among the Jews at the time of the Nativity, could write (my italics): ‘*Idolatry excepted*, the darkest pictures painted by the Old Testament prophets of ancient Israel were realized.’
+
+Something has already been said in Chapter XVI of two
+
+p 177
 
 >¹ I take the Gospels as they stand, treating them (whenever they may have been written) as valid records left by wise and deeply responsible men. A good many of the arguments which have been advanced in favor of dissecting them will, I believe, disappear with the idolatry (as I have here ventured to call it) which now obstructs our penetration of their deeper meaning. Meanwhile, those who may still prefer to follow Jülicher, C. H. Dodd, Jeremias and others, in writing off Matthew 13, 9-13 and the parallels in Mark and Luke as later interpretations added by the primative church, may also care to ponder whether the primitive church is likely to have understood rather more, or rather less, than the twentieth-century commentator of the actual content of this and other parables.
