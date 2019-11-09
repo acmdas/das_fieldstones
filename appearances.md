@@ -949,9 +949,11 @@ What is it then about this particular parable—of the Sower—which called for 
 
 That is not peculiar to this passage. It is even a phrase which was used by other Rabbis as well as Jesus. But if we take the trouble to examine all the occasions on which he used the words, we shall find them always in association with the teaching of ‘the Kingdom’ within, of the light, be it of candle or of sun, that shines now from within, of movement from within outward, as opposed to movement from without inward. And so here; the disciples are first told, ‘Unto you it is given to know the mysteries of the kingdom of heaven,’ or, according to St. Mark,³ ‘Unto you it is given to know the mystery of the Kingdom of God; but for them that are without all things happen⁴ in parables.’
 
+The parable, then, was about the sowing of the word, the Logos, in earthly soil. It was an attempt to awaken his hearers to the realization that this seed was within their own hearts and minds, and no longer in nature or anywhere without. We have seen something of the change in the nature of all imagery and representation, which takes place with the transition from original to final participation. But ‘transition’ is a misleading word for the violent change in the whole *direction* of human consciousness which, in the last resort, this must involve. Henceforth the life of the image is to be drawn from within. The life of the image is to be none other than the life of imagination. And it isof the very nature of imagination that it cannot be *inculcated*. There must be first of all the voluntary stirring from within. It must be, not indeed self-created, but certainly self-willed, or else—it is not imagination at all; and is therefore incapable of iconoclasm. Iconoclasm is made possible by the seed of the Word stirring within us, as imagination. From him that hath not this seed-of final participation—there shall be taken away, even that residue—of original participation—that he hath.
 
+Truly to grasp
 
-p 179
+p 180
 
 >¹ I take the Gospels as they stand, treating them (whenever they may have been written) as valid records left by wise and deeply responsible men. A good many of the arguments which have been advanced in favor of dissecting them will, I believe, disappear with the idolatry (as I have here ventured to call it) which now obstructs our penetration of their deeper meaning. Meanwhile, those who may still prefer to follow Jülicher, C. H. Dodd, Jeremias and others, in writing off Matthew 13, 9-13 and the parallels in Mark and Luke as later interpretations added by the primative church, may also care to ponder whether the primitive church is likely to have understood rather more, or rather less, than the twentieth-century commentator of the actual content of this and other parables.
 
@@ -959,4 +961,4 @@ p 179
 
 >³ Mark iv, 11.
 
->⁴ *γιγνεται*. A.V. and R.V. have: ‘Unto them that are without all things *are done* in parables.’ It could also, conceivably, have been translated ‘all things are made in parables’, on the analogy of the clause in the Nicene Creed referred to pn p. 170 9’by whom all things were made.’), where the same Greek verb is employed.
+>⁴ *γιγνεται*. A.V. and R.V. have: ‘Unto them that are without all things *are done* in parables.’ It could also, conceivably, have been translated ‘all things are made in parables’, on the analogy of the clause in the Nicene Creed referred to on p. 170 9’by whom all things were made.’), where the same Greek verb is employed.
