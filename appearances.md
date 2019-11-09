@@ -953,9 +953,19 @@ The parable, then, was about the sowing of the word, the Logos, in earthly soil.
 
 Truly to grasp, or (if I may use the expression) ‘twig’ what is meant by the word and its sowing, involves some elementary grasp of, or feeling for, the nature of final participation, and therefore also of the nature of parabolic utterance. It is only possible to those in whom the word, however feebly, has already taken root. Conversely: to have no inkling whatever of what happens in the moment of parabolic utterance is to be incapable of grasping, or ‘knowing’, *any* parable, any metaphor, any symbol, any sacrament.
 
-Therefore it is impossible
+Therefore it is impossible that the main object which it is sought to achieve by parable should be helped by explanations. Only those in whom the seed has already sprouted, in whom the stirring has taken place, can benefit by any explanation. For them indeed it may help to turn the little they have into abundance. But for those who have as yet made no voluntary inward motion in the direction of iconoclasm, for those who have not suffered that change of direction of the whole current of a man’s being—the *metanoia*, or turning about of the mind, for which the heart’s name in ‘repentance’—-explanations are of no avail. They will merely substitute one sort of idol for another. The interpretation itself will still need interpreting, and that interpretation also they will inevitably misconstrue in terms of their idolatry. This is in fact what has happened to the tremendous ruberic: ‘The sower soweth the word.’ And one can well imagine the reluctance with which Christ launched it on the ocean of idolatrous misunderstanding, where we still mostly find it to-day.
 
-p 180
+The sowing of the word is commonly assumed to be no more than a pictorial way of referring to preaching and missionary activity. But how can this possibly be so? If this simple parallel is *all* that was intended, why are we warned so solemnly that the power to grasp it pre-supposes access to ‘the mystery of the kingdom’? Certainly the writer of St. Matthewe’s Gospel hwimself leaves us in no doubt of his convictions, namely, that both the springing to life in man of ‘the Word of the Kingdom’ and its embodiment in parable were something to which Jewish history had always been leading up. For later, in the same chapter, at the close of a series of parables and similes intended to suggest the Kingdom, he adds (alluding to the long, historical 78th Psalm):
+
+>All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them;
+
+>That it might be fulfilled which was spoken by the prophet saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.⁵
+
+If on the other hand what is pointed to as the sowing of the word, is the coming of God himself into nature and man; if what is hidden in this and the other parables and metaphors concerning ‘the kingdom’ is the turning-point of time itself, is the change-over to that directionally creator relation which has already been referred to, then we should expect what we in fact find. We should expect these sayings to be the ‘hardest’ of all, and we should expect them to be connected with man’s overcoming of idolatry through the help of an invented or man-made imagery; for that is the first, wavering step on the road that leads to final participation.
+
+Nobody can truly ‘receive’ such sayings
+
+p 181
 
 >¹ I take the Gospels as they stand, treating them (whenever they may have been written) as valid records left by wise and deeply responsible men. A good many of the arguments which have been advanced in favor of dissecting them will, I believe, disappear with the idolatry (as I have here ventured to call it) which now obstructs our penetration of their deeper meaning. Meanwhile, those who may still prefer to follow Jülicher, C. H. Dodd, Jeremias and others, in writing off Matthew 13, 9-13 and the parallels in Mark and Luke as later interpretations added by the primative church, may also care to ponder whether the primitive church is likely to have understood rather more, or rather less, than the twentieth-century commentator of the actual content of this and other parables.
 
@@ -963,4 +973,6 @@ p 180
 
 >³ Mark iv, 11.
 
->⁴ *γιγνεται*. A.V. and R.V. have: ‘Unto them that are without all things *are done* in parables.’ It could also, conceivably, have been translated ‘all things are made in parables’, on the analogy of the clause in the Nicene Creed referred to on p. 170 9’by whom all things were made.’), where the same Greek verb is employed.
+>⁴ *γιγνεται*. A.V. and R.V. have: ‘Unto them that are without all things *are done* in parables.’ It could also, conceivably, have been translated ‘all things are made in parables’, on the analogy of the clause in the Nicene Creed referred to on p. 170 (’by whom all things were made.’), where the same Greek verb is employed.
+
+>⁵ Matthew xiii, 34 and 35.
