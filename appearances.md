@@ -959,4 +959,4 @@ p 179
 
 >³ Mark iv, 11.
 
->⁴ *γιγνεται*. A.V. and R.V. have: ‘Unto them that are without all things *are done* in parables.’ It could also 
+>⁴ *γιγνεται*. A.V. and R.V. have: ‘Unto them that are without all things *are done* in parables.’ It could also, conceivably, have been translated ‘all things are made in parables’, on the analogy of the clause in the Nicene Creed referred to pn p. 170 9’by whom all things were made.’), where the same Greek verb is employed.
