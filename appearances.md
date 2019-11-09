@@ -965,7 +965,7 @@ If on the other hand what is pointed to as the sowing of the word, is the coming
 
 Nobody can truly ‘receive’ such sayings who is without some inkling of all that the word and the Incarnation of the Word stand for in human evolution. This I have tried to describe in this book in the fuller and more precise perspective in which it can be seen to-day; but an understanding of the essence of it, in a different, older perspective—that is, in Greek and Hebrew versions of a ‘Logos’ teaching—had already become possible, as we have seen, before Christ cam to the earth. To this understanding he appealed in the hard sayings.
 
-Truly to imagine their effect on those of his followers
+Truly to imagine their effect on those of his followers who *had* the understanding, we must have ears to hear; to hear the Christ as the Representative of Humanity actually speaking to the handful in Palestine long ago. We shall recall, for instance, the great series of ‘I am—’ sayings in St. John’s Gospel: ‘I am the way, the truth, and the life. . . .’ ‘I am the light of the world. . . .’ ‘I and the Father are one . . .’ and we shall reflect how near was the Aramaic dialect he spoke to Hebrew—so that at each ‘I am’ the disciples must almost have heard the Divine Name itself, man’s Creator, speaking through the throat of man; till they can hardly have known whether he spoke to them or in them, whether it was his voice which they heard or their own.
 
 p 182
 
