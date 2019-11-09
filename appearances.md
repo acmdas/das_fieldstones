@@ -919,7 +919,7 @@ Such echoes are frequent in the reported sayings of Jesus and attention is often
 
 >For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart and should be converted and I should heal them.
 
-To trace the reverberation to its source, it is not enough simply to turn to the 6th Chapter if *Isaiah*. Eyes that see not, and ears that hear not—where have we met with them before? In those verses from the 115th Psalm which I have already quoted twice, in Chapters X and XVI. This Psalm was very familiar to Jewish ears. It is one of the six *Hallel* psalms, obligatory at many feasts, and according to the *Jewish Encyclopedia* would have been part of the ‘hymn’ that was sung by the Thirteen after the Last Supper. Moreover, they are repeated almost verbatim in the 135th Psalm:
+To trace the reverberation to its source, it is not enough simply to turn to the 6th Chapter of *Isaiah*. Eyes that see not, and ears that hear not—where have we met with them before? In those verses from the 115th Psalm which I have already quoted twice, in Chapters X and XVI. This Psalm was very familiar to Jewish ears. It is one of the six *Hallel* psalms, obligatory at many feasts, and according to the *Jewish Encyclopedia* would have been part of the ‘hymn’ that was sung by the Thirteen after the Last Supper. Moreover, they are repeated almost verbatim in the 135th Psalm:
 
 >*The idols of the heathen are silver and gold, the work of men’s hands.<br/>They have mouths, but they speak not; eyes have they, but they see not;<br/>They have ears, but they hear not; neither is there any breath in their mouths. They that make them are like unto them; so is every one that trusteth in them.*
 
@@ -931,7 +931,7 @@ Turn again to the book of *Isaiah* and read the 44th Chapter, which is concerned
 
 It will be clear that, in order to understand the enigmatic words which, in the Synoptic Gospels, are interposed between the parable of the Sower and its interpretation, we must hear sounding through them as an overtone both the voice of the prophet Isaiah and the familiar voice of the Psalmist inveighing against graven images. We cannot do otherwise than read them as alluding to idolatry.
 
-But to what kind of idolatry? It is quite impossible to assume that the *primary* idolatry—that is, the worship of images as *numinous*—of which the Children of Israel had once been wuilty, was in the mind of Jesus. For how is it possible to fit any such allusion into the context? Moreover that kind of idolatry was no longer a besetting sin; it was one that had practically ceased to exist among the Jewish people. Thus, Conder in his *Outlines of the Life of Christ*, emphasizing the moral degereracy which prevailed among the Jews at the time of the Nativity, could write (my italics): ‘*Idolatry excepted*, the darkest pictures painted by the Old Testament prophets of ancient Israel were realized.’
+But to what kind of idolatry? It is quite impossible to assume that the *primary* idolatry—that is, the worship of images as *numinous*—of which the Children of Israel had once been guilty, was in the mind of Jesus. For how is it possible to fit any such allusion into the context? Moreover that kind of idolatry was no longer a besetting sin; it was one that had practically ceased to exist among the Jewish people. Thus, Conder in his *Outlines of the Life of Christ*, emphasizing the moral degeneracy which prevailed among the Jews at the time of the Nativity, could write (my italics): ‘*Idolatry excepted*, the darkest pictures painted by the Old Testament prophets of ancient Israel were realized.’
 
 Something has already been said in Chapter XVI of two different kinds of idolatry. It was not only the first and obvious kind of which the Old Testament prophets were aware. There are some twenty different Hebrew words which have been rendered ‘idol’ or ‘image’ in the Authorized Version, and in addition to the presence of a false or filthy spirituality, it is clear that the Hebrew writers associated with images the almost opposite notion of *emptiness* or *nothingness*—the absence of any spirituality whatsoever. It is also clear from the passages already quoted that it was this secondary view of idols which was conceived as likely to be transferred to the subjective state of the idolator:
 
@@ -939,8 +939,24 @@ Something has already been said in Chapter XVI of two different kinds of idolatr
 
 This subjective emptiness—which was perhaps also the ‘wilderness’ or ‘lonely place’ in which the Baptist is described as calling for ‘repentance’—seems to be the psychic condition which is brought about when the elimination of participation has deprived the outer ‘kingdom’—the outer world of images, whether artificial or natural—of all spiritual substance, while the new kingdom within has not yet begun to be realized. It is, as it were, the null point between original and final participation.
 
-The particular parable which Jesus
+The particular parable which Jesus related in this way to idolatry was the parable of the Sower, but we are given to understand that what he said applied to all parables, and indeed that the ability to ‘know’ this parable was a sort of pre-condition for the understanding, or knowing, of any other.
 
-p 178
+>Know ye not this parable? And how then will ye know all parables?²
+
+What is it then about this particular parable—of the Sower—which called for this particular comment? Let us listen, first of all, to the ringing cry with which the parable concludes:
+
+>Who has ears to hear, let him hear!
+
+That is not peculiar to this passage. It is even a phrase which was used by other Rabbis as well as Jesus. But if we take the trouble to examine all the occasions on which he used the words, we shall find them always in association with the teaching of ‘the Kingdom’ within, of the light, be it of candle or of sun, that shines now from within, of movement from within outward, as opposed to movement from without inward. And so here; the disciples are first told, ‘Unto you it is given to know the mysteries of the kingdom of heaven,’ or, according to St. Mark,³ ‘Unto you it is given to know the mystery of the Kingdom of God; but for them that are without all things happen⁴ in parables.’
+
+
+
+p 179
 
 >¹ I take the Gospels as they stand, treating them (whenever they may have been written) as valid records left by wise and deeply responsible men. A good many of the arguments which have been advanced in favor of dissecting them will, I believe, disappear with the idolatry (as I have here ventured to call it) which now obstructs our penetration of their deeper meaning. Meanwhile, those who may still prefer to follow Jülicher, C. H. Dodd, Jeremias and others, in writing off Matthew 13, 9-13 and the parallels in Mark and Luke as later interpretations added by the primative church, may also care to ponder whether the primitive church is likely to have understood rather more, or rather less, than the twentieth-century commentator of the actual content of this and other parables.
+
+>² Mark iv, 13.
+
+>³ Mark iv, 11.
+
+>⁴ *γιγνεται*. A.V. and R.V. have: ‘Unto them that are without all things *are done* in parables.’ It could also 
