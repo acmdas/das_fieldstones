@@ -971,7 +971,9 @@ Now the Jews, as we have seen, were not interested in phenomena. They were inter
 
 The elimination of original participation involves a contraction of human consciousness from periphery to centre (cf. Chapter XI)—a contraction from the cosmos of wisdom to something like a purely brain activity—but by the same token it involves an *awakening*. For we awake, out of universal—into self—consciousness. Now a process of awakening can be retrospectively surveyed by the sleeper only after his awakening is complete; for only then is he free enough of his dreams to look back on and interpret them. Thus, the possibility to look back over the history of the world and achieve a full, waking picture of his own gradual emergence from original participation, really only arose for man with the culmination of idolatry in the nineteenth century. He has not yet learned to make use of it.
 
-As we do so, the story of that gradual emergence will lie outspread before us in a clearer and clearer light.
+As we do so, the story of that gradual emergence will lie outspread before us in a clearer and clearer light. And as the mystery of the kingdom more and more unfolds itself, the Church, nursing mother of the still barely nascent Christ-impulse in men, must inevitably be faced with grievous decisions. Nothing is easier than to criticize the Church out of a sort of smug enlightenment. But in truth the difficulty has been wellnigh insuperable of maintaining the indispensable firmness of continuity with past tradition, while at the same time the meanings of all her armoury of words were being quietly melted away from within by an idolatry which had grown up without reference to her. In the dry husks that remain problems and dilemmas have swollen and multiplied, which, as we have seen, simply did not exist for the old participating consciousness that gave birth to the liturgy and the creeds.
+
+For instance, a non-participating consciousness cannot avoid distinguishing abruptly between the concept of ‘man’, or ‘mankind’, or ‘men in general’ on the one hand and that of ‘*a* man’—an individual human spirit—on the other.
 
 p 183
 
