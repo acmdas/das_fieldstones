@@ -987,7 +987,7 @@ Man, said J. P. Sartre, is a being who is *condemned to freedom*. That is one wa
 
 >*Felix eidolon!*
 
-‘Peor and Baalim Forsake their temples dim ...” the other name for original participation, in all its long-hidden, in all its diluted forms, in science, in art and in religion, is, after all—paganism.
+‘Peor and Baalim Forsake their temples dim ...’ the other name for original participation, in all its long-hidden, in all its diluted forms, in science, in art and in religion, is, after all—paganism.
 
 >¹ I take the Gospels as they stand, treating them (whenever they may have been written) as valid records left by wise and deeply responsible men. A good many of the arguments which have been advanced in favor of dissecting them will, I believe, disappear with the idolatry (as I have here ventured to call it) which now obstructs our penetration of their deeper meaning. Meanwhile, those who may still prefer to follow Jülicher, C. H. Dodd, Jeremias and others, in writing off Matthew 13, 9-13 and the parallels in Mark and Luke as later interpretations added by the primative church, may also care to ponder whether the primitive church is likely to have understood rather more, or rather less, than the twentieth-century commentator of the actual content of this and other parables.
 
