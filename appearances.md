@@ -30,7 +30,7 @@ Finally, the consequences which flow from abandoning the assumption are found to
 
 Look at a rainbow. While it lasts, it is, or appears to be, a great arc of many colors occupying a position out there in space. It touches the horizon between that chimney and that tree; a line drawn from the sun behind you and passing through your head would pierce the centre of the circle of which it is part. And now, before it fades, recollect all you have ever been told about the rainbow and its causes, and ask yourself the question *Is it really there?*
 
-You know, from memory, that if there were a hillside three or four miles nearer than the present horizon, The rainbow would come to earth in front of and not behind it; that, if you walk to the place where the rainbow ends, or seems to end, it would certainly not be ‘there’. In a word, reflection will assure you that the rainbow is the outcome of the sun, the raindrops and your own vision.
+You know, from memory, that if there were a hillside three or four miles nearer than the present horizon, the rainbow would come to earth in front of and not behind it; that, if you walk to the place where the rainbow ends, or seems to end, it would certainly not be ‘there’. In a word, reflection will assure you that the rainbow is the outcome of the sun, the raindrops and your own vision.
 
 When I ask of an intelligible appearance or representation, Is it really there? I usually mean, Is it there independently of my vision? Would it still be there, for instance, if I shut my eyes—if I moved towards or away from it. If this is what you also mean by ‘really there’, you will be tempted to add that the raindrops and the sun are really there, but the rainbow is not.
 
@@ -977,7 +977,7 @@ For instance, a non-participating consciousness cannot avoid distinguishing abru
 
 With the doctrine of evolution
 
-p 183
+p 184
 
 >¹ I take the Gospels as they stand, treating them (whenever they may have been written) as valid records left by wise and deeply responsible men. A good many of the arguments which have been advanced in favor of dissecting them will, I believe, disappear with the idolatry (as I have here ventured to call it) which now obstructs our penetration of their deeper meaning. Meanwhile, those who may still prefer to follow Jülicher, C. H. Dodd, Jeremias and others, in writing off Matthew 13, 9-13 and the parallels in Mark and Luke as later interpretations added by the primative church, may also care to ponder whether the primitive church is likely to have understood rather more, or rather less, than the twentieth-century commentator of the actual content of this and other parables.
 
