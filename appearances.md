@@ -975,7 +975,11 @@ As we do so, the story of that gradual emergence will lie outspread before us in
 
 For instance, a non-participating consciousness cannot avoid distinguishing abruptly between the concept of ‘man’, or ‘mankind’, or ‘men in general’ on the one hand and that of ‘*a* man’—an individual human spirit—on the other. This difficulty did not arise to anything like the same extent as long as original participation survived. Therefore our predecessors were able, quite inwardly, to accept the sin of Adam as being *their* original sin also. And therefore we are not—because, for us, Adam (if he existed) was after all—somebody else! This has brought with it the loss of the whole concept of the ‘fallen’ as an essential element in the make-up of human beings; which in its turn is responsible for the devastating shallowness of so much contemporary ethics and contemporary psychology.
 
-With the doctrine of evolution
+With the doctrine of evolution the concept of ‘man’, as a thinkable entity, with a history behind h8im and a destiny in front of him, made a first confused reappearance. But, owing to the form which that doctrine took under the influence of the prevailing idolatry, this ‘man’ of evolution has no inner unity with the spirit of any particular individual man alive on earth at any particular moment. When the evolution of phenomena is substituted for our supposed evolution of idols,⁶ it will, I believe, be seen without much difficulty that the evolution of the individual human spirit has always proceeded step by step with the evolution of nature; and that both are indeed ‘fallen’. The biological evolution of the human race is, in fact, only one hals of the story; the other has still to be told.
+
+The awakened clarity of retrospect, to which I have recently referred, will, I am persuaded, be obliged to recognize that the gradual emergence of man from original participation amounts also to the gradual emergence of ‘men’ from ‘man’; that it is not just the cumulative history of the race, but the biography, also, of each individual spirit. Nor do I see how this can fail to involve the recognition of individual prenatal existence—or rather existences. Some understanding of this seems to have been common to most men before the West emerged from the East, and began the systematic ousting of original participation, about three thousand years ago. A renewal of that lost insight will almost certainly be one of the first steps to be taken by religion through the rebirth in her of that cosmic wisdom, which is the source not only of the world of appearances, but also of man’s changing relation to them.
+
+I suspect that, for the Church, it will not be easy. It will not be easy for the nursing mother to accept the possibility that her charge has grown to need additional nourishment; or that revelation of the mustery of the kingdom was not turned off at the tap when the New Testament canon was closed, but is the work of an earth-time.
 
 p 184
 
@@ -988,3 +992,5 @@ p 184
 >⁴ *γιγνεται*. A.V. and R.V. have: ‘Unto them that are without all things *are done* in parables.’ It could also, conceivably, have been translated ‘all things are made in parables’, on the analogy of the clause in the Nicene Creed referred to on p. 170 (’by whom all things were made.’), where the same Greek verb is employed.
 
 >⁵ Matthew xiii, 34 and 35.
+
+>⁶ Cr. Chapters ix and x.
