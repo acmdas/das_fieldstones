@@ -5,6 +5,7 @@
 Sun, 07 Jan 2018
 
 We do this in two ways:
+
 The first is refusing to be clear and precise about what the mission is. Avoiding specifics about what we hope to accomplish and for whom. Being vague about success and (thus about failure).
 
 After all, if no one knows exactly what the mission is, it's hard feel like a failure if it doesn't succeed.
@@ -18,19 +19,22 @@ It's possible to spend 7 hours and 52 minutes out of an eight-hour day in doing 
 ## He is Inescapable
 Wed, 10 Jan 2018
 
-&ldquo;Because God is not a finite object over against you as a subject, you cannot simply turn away towards &lsquo;something else.&rsquo;; He is the ground and end of all desire and knowledge as such, the Good in itself. You cannot choose or not choose God the way you would choose or not choose a cup of coffee. You desire anything because of your original desire for God as the transcendental Good and Beautiful; you know anything because of your original intellectual appetite for God as the transcendental Truth as such. Even in desiring to flee God, you are desiring God as the &lsquo;good end&rdquo; you seek in godlessness. He is inescapable because all being, goodness, unity, truth, and beauty simply are God in their transcendent truth, and because a rational nature is nothing but an infinite dynamic orientation towards that transcendent end. The natural will, as Maximus says, can will only God. Don&rsquo;t think of God as a candidate in a political race, whom you could simply reject and be done with; he is the original and final act of your every discrete act of desire. And, in the ages, since God is all and there is literally nothing beyond him, the natural will is always seeking its natural supernatural end. Simply said, God is not an object of desire; he is the end that makes desire.&rdquo;&mdash;[David Bentley Hart](https://afkimel.wordpress.com/essential-readings-on-universalism/)
+“Because God is not a finite object over against you as a subject, you cannot simply turn away towards &lsquo;something else.&rsquo;; He is the ground and end of all desire and knowledge as such, the Good in itself. You cannot choose or not choose God the way you would choose or not choose a cup of coffee. You desire anything because of your original desire for God as the transcendental Good and Beautiful; you know anything because of your original intellectual appetite for God as the transcendental Truth as such. Even in desiring to flee God, you are desiring God as the &lsquo;good end&rdquo; you seek in godlessness. He is inescapable because all being, goodness, unity, truth, and beauty simply are God in their transcendent truth, and because a rational nature is nothing but an infinite dynamic orientation towards that transcendent end. The natural will, as Maximus says, can will only God. Don&rsquo;t think of God as a candidate in a political race, whom you could simply reject and be done with; he is the original and final act of your every discrete act of desire. And, in the ages, since God is all and there is literally nothing beyond him, the natural will is always seeking its natural supernatural end. Simply said, God is not an object of desire; he is the end that makes desire.”—[David Bentley Hart](https://afkimel.wordpress.com/essential-readings-on-universalism/)
 
 ## Being Christian
 Wed, 10 Jan 2018
 
-"It is almost universally assumed today that becoming a Christian means in essence the adoption of a new set of beliefs or the initiation of a new mode of behaviour. A Christian would be defined as one who 'believes in Christ' or 'worships Christ' or 'tries to follow Christ's teaching.' Now it is far from my purpose to belittle either Christian dogma or Christian ethics. Nevertheless, it must be pointed out that to define the essence of Christianity in terms of belief or of practice involves the neglect of two principles that are fundamental to all sound theology. The former of these is that the act of God precedes and is presupposed by the acts of man: 'Herein is love, not that we loved God, but that he loved us'; 'Ye have come to know God, *or rather to be known of God*.' The second is that what a being *is* precedes what it *does*; our actions are a consequence of what we are *operari sequitur esse*. It will follow from this that the Christian should be defined not in terms of what he himself does, but of what God has made him to be. Being a Christian is an ontological fact, resulting from an act of God."&mdash;E. L. Mascall, *Christ, the Christian, and the Church* p.77
+“It is almost universally assumed today that becoming a Christian means in essence the adoption of a new set of beliefs or the initiation of a new mode of behaviour. A Christian would be defined as one who 'believes in Christ' or 'worships Christ' or 'tries to follow Christ's teaching.' Now it is far from my purpose to belittle either Christian dogma or Christian ethics. Nevertheless, it must be pointed out that to define the essence of Christianity in terms of belief or of practice involves the neglect of two principles that are fundamental to all sound theology. The former of these is that the act of God precedes and is presupposed by the acts of man: ‘Herein is love, not that we loved God, but that he loved us’; ‘Ye have come to know God, *or rather to be known of God*.’ The second is that what a being *is* precedes what it *does*; our actions are a consequence of what we are *operari sequitur esse*. It will follow from this that the Christian should be defined not in terms of what he himself does, but of what God has made him to be. Being a Christian is an ontological fact, resulting from an act of God.”—E. L. Mascall, *Christ, the Christian, and the Church* p.77
 
 ## Meditation for January 15
 Mon, 15 Jan 2018
 
-I will relax and not get tense. I will have no fear, because everything will work out in the end. I will learn soul-balance and poise in a vacillating, changing world. I will claim God's power and use it because if I do not use it, it will be withdrawn. As long as I get back to God and replenish my strength after each task, no work can be too much. 
+I will relax and not get tense. I will have no fear, because everything will work out in the end. I will learn soul-balance and poise in a vacillating, changing world. I will claim God's power and use it because if I do not use it, it will be withdrawn. As long as I get back to God and replenish my strength after each task, no work can be too much.
+
 Prayer for the Day
+
 I pray that I may relax and that God's strength will be given to me. I pray that I may subject my will to God's will and be free from all tenseness.
+
 From the original AA Meditation book, *Twenty-Four Hours a Day*, by Richmond Walker
 
 ## Okay?
@@ -41,24 +45,26 @@ Sun, 21 Jan 2018
 ## The Cost of Discipleship
 Tue, 23 Jan 2018
 
-"What did Jesus want to say to us? What does he want from us today? How does he help us to be faithful Christians today? It is not ultimately important to us what this or that church leader wants. Rather, we want to know what Jesus wants. When we go to hear a sermon, his own word is what we want to hear. This matters to us not only for our own sakes, but also for all those who have become estranged from the church and its message. It is also our opinion that if Jesus himself and Jesus alone with his word were among us in our preaching, then quite a different set of people would hear the word and quite a different set of people would again turn away from it."&mdash;Dietrich Bonhoeffer, *The Cost of Discipleship*
+“What did Jesus want to say to us? What does he want from us today? How does he help us to be faithful Christians today? It is not ultimately important to us what this or that church leader wants. Rather, we want to know what Jesus wants. When we go to hear a sermon, his own word is what we want to hear. This matters to us not only for our own sakes, but also for all those who have become estranged from the church and its message. It is also our opinion that if Jesus himself and Jesus alone with his word were among us in our preaching, then quite a different set of people would hear the word and quite a different set of people would again turn away from it.”—Dietrich Bonhoeffer, *The Cost of Discipleship*
 
 ## Democracy of the Dead
 Thu, 25 Jan 2018
 
-&ldquo;Tradition means giving votes to the most obscure of all classes, our ancestors. It is the democracy of the dead. Tradition refuses to submit to the small and arrogant oligarchy of those who merely happen to be walking about.&rdquo;&mdash;G. K. Chesterton, *Orthodoxy*, Chapter 4.
+“Tradition means giving votes to the most obscure of all classes, our ancestors. It is the democracy of the dead. Tradition refuses to submit to the small and arrogant oligarchy of those who merely happen to be walking about.”—G. K. Chesterton, *Orthodoxy*, Chapter 4.
 
 ## A Short Story
 Thu, 25 Jan 2018
 
-"A man, walking through the forest saw a fox that had lost its legs, and wondered how it lived. Then he saw a tiger come up with game in its mouth. The tiger ate its fill and left the rest of the meat for the fox. The next day God fed the fox by means of the same tiger.
-"The man began to wonder at God&rsquo;s greatness and said to himself, 'I too shall just rest in a corner with full trust in the Lord and He will provide me with all I need.'
-"He did this for many days, but nothing happened, and he was almost at death&rsquo;s door when he heard a voice say, 'O you who are in the path of error, open your eyes to the truth! Stop imitating the disabled fox and follow the example of the tiger'&rdquo;&mdash;Ernie Kurtz
+“A man, walking through the forest saw a fox that had lost its legs, and wondered how it lived. Then he saw a tiger come up with game in its mouth. The tiger ate its fill and left the rest of the meat for the fox. The next day God fed the fox by means of the same tiger.
+
+“The man began to wonder at God’s greatness and said to himself, ‘I too shall just rest in a corner with full trust in the Lord and He will provide me with all I need.’
+
+“He did this for many days, but nothing happened, and he was almost at death’s door when he heard a voice say, ‘O you who are in the path of error, open your eyes to the truth! Stop imitating the disabled fox and follow the example of the tiger’”—Ernie Kurtz
 
 ## Gospel Demands
 Sun, 28 Jan 2018
 
-&ldquo;If the gospel demands that we renounce this world . . . , then the simple thing to do is: do it&rdquo;&mdash;SÃ¸ren Kierkegaard, *Journals*
+“If the gospel demands that we renounce this world . . . , then the simple thing to do is: do it!”—Sören Kierkegaard, *Journals*
 
 ## Instructions For Wayfarers
 Tue, 30 Jan 2018
@@ -79,31 +85,36 @@ Tue, 30 Jan 2018
 
 *Fear not. You are the gate&mdash;you, the gatekeeper.*
 
-*And you shall go through and on . . .*&mdash;Alexandros Evangelou Xenopouloudakis
+*And you shall go through and on . . .*—Alexandros Evangelou Xenopouloudakis
+
 Courtesy of [Gerard VanDerleun](http://americandigest.org/wp/lets-review-36-instructions/)
 
 ## Politics
 Thu, 01 Feb 2018
 
-&ldquo;A state cannot be constituted from any chance body of persons, or in any chance period of time. Most of the states which have admitted persons of another stock, either at the time of their foundation or later, have been troubled by sedition.&rdquo;&mdash;Aristotle, *Politics*
+“A state cannot be constituted from any chance body of persons, or in any chance period of time. Most of the states which have admitted persons of another stock, either at the time of their foundation or later, have been troubled by sedition.”—Aristotle, *Politics*
 
 ## Falling Out
 Thu, 01 Feb 2018
 
-&ldquo;The hard part isn't coming up with a new idea.
+“The hard part isn’t coming up with a new idea.
 
 The hard part is falling out of love with the old idea.
 
-That's why editing work is so difficult. In order to make the new thing, to make the old thing better, you need to destroy it first.
+That’s why editing work is so difficult. In order to make the new thing, to make the old thing better, you need to destroy it first.
 
-Situation switching, acting as if, loving the idea enough to sketch it out and then caring enough to stop loving it... that's where the tension often lies.&rdquo;&mdash;[Seth Godin](http://sethgodin.typepad.com/seths_blog/2018/02/falling-out.html)
+Situation switching, acting as if, loving the idea enough to sketch it out and then caring enough to stop loving it... that’s where the tension often lies.”—[Seth Godin](http://sethgodin.typepad.com/seths_blog/2018/02/falling-out.html)
 
 ## The Exterminator
 Thu, 01 Feb 2018
 
-"If you've got an infestation of rats, you call the guy to come in," she says.
-"You don't care if his crack's showing. You don't care if he's swearing.
-"You don't care if he's got tobacco-stained teeth. You want the rats taken out."&mdash;from [BBC's take</a> on why Michigan flipped for Trump in 2016.](http://www.bbc.com/news/world-us-canada-42628577)
+“If you've got an infestation of rats, you call the guy to come in,” she says.
+
+“You don't care if his crack’s showing. You don't care if he’s swearing.
+
+“You don't care if he’s got tobacco-stained teeth. You want the rats taken out.”
+
+—from [BBC’s take</a> on why Michigan flipped for Trump in 2016.](http://www.bbc.com/news/world-us-canada-42628577)
 
 ## Little Things
 Thu, 08 Feb 2018
@@ -118,22 +129,22 @@ What is a little thing, is (just) a little thing,
 
 But to be faithful in a little thing,
 
-is a great thing.&mdash;St. Thomas Aquinas *De Doctrina Christiana*, IV,35
+is a great thing.—St. Thomas Aquinas *De Doctrina Christiana*, IV,35
 
 ## Incompatibility
 Mon, 12 Feb 2018
 
-"IF Americans can be divorced for 'incompatibility of temper,' I cannot conceive why they are not all divorced. I have known many happy marriages, but never a compatible one. The whole aim of marriage is to fight through and survive the instant when incompatibility becomes unquestionable. For a man and a woman, as such, are incompatible."&mdash;G.K. Chesterton: *What's Wrong with the World*.
+“IF Americans can be divorced for ‘incompatibility of temper,’ I cannot conceive why they are not all divorced. I have known many happy marriages, but never a compatible one. The whole aim of marriage is to fight through and survive the instant when incompatibility becomes unquestionable. For a man and a woman, as such, are incompatible.”—G.K. Chesterton: *What's Wrong with the World*.
 
 ## Critics
-Thu, 15 Feb 2018 14:33:23
+Thu, 15 Feb 2018
 
-A "critic" is a person who creates nothing and thereby feels qualified to judge the work of creative people. There is logic in this; he is unbiased&mdash;he hates all creative people equally.&mdash;Robert A. Heinlein
+A “critic” is a person who creates nothing and thereby feels qualified to judge the work of creative people. There is logic in this; he is unbiased—he hates all creative people equally.—Robert A. Heinlein
 
 ## Useful History
 Sat, 17 Feb 2018
 
-"A great deal of false history was written, by people who never strayed north of London, about working-class hardship in those parts. Yes, there was plenty, but what we get from the entrepreneurs of socialism is twisted to their agitprop needs. Rewriting the history, to make it more true, makes another nice hobby; and in the course of it we discover that the ugliest of the capitalists often did less damage than the philanthropists."&mdash;[David Warren](https://www.davidwarrenonline.com/2018/02/16/as-the-world-turns-2/)
+“A great deal of false history was written, by people who never strayed north of London, about working-class hardship in those parts. Yes, there was plenty, but what we get from the entrepreneurs of socialism is twisted to their agitprop needs. Rewriting the history, to make it more true, makes another nice hobby; and in the course of it we discover that the ugliest of the capitalists often did less damage than the philanthropists.”—[David Warren](https://www.davidwarrenonline.com/2018/02/16/as-the-world-turns-2/)
 
 ## Turning and Turning
 Sat, 17 Feb 2018
@@ -158,31 +169,31 @@ Surely some revelation is at hand;
 
 Surely the Second Coming is at hand.
 
-The Second Coming! Hardly are those words out   
+The Second Coming! Hardly are those words out
 
-When a vast image out of *Spiritus Mundi* 
+When a vast image out of *Spiritus Mundi*
 
-Troubles my sight: a waste of desert sand;   
+Troubles my sight: a waste of desert sand;
 
-A shape with lion body and the head of a man,   
+A shape with lion body and the head of a man,
 
-A gaze blank and pitiless as the sun,   
+A gaze blank and pitiless as the sun,
 
-Is moving its slow thighs, while all about it   
+Is moving its slow thighs, while all about it
 
-Wind shadows of the indignant desert birds.   
+Wind shadows of the indignant desert birds.
 
-The darkness drops again; but now I know   
+The darkness drops again; but now I know
 
-That twenty centuries of stony sleep 
+That twenty centuries of stony sleep
 
-Were vexed to nightmare by a rocking cradle,   
+Were vexed to nightmare by a rocking cradle,
 
-And what rough beast, its hour come round at last,   
+And what rough beast, its hour come round at last,
 
 Slouches towards Bethlehem to be born? 
 
-&mdash; William Butler Yeats, 1919
+—William Butler Yeats, 1919
 
 ## The Source of All Evil
 Sun, 18 Feb 2018
@@ -192,30 +203,27 @@ Sun, 18 Feb 2018
 ## What a Long, Strange Trip...
 Wed, 21 Feb 2018
 
-<blockquote>"Sometimes the light's all shining on me
- Other times I can barely see
- Lately it occurs to me
- What a long, strange trip it's been."&mdash;Hunter/Garcia</blockquote>
+>Sometimes the light’s all shining on me<br/>Other times I can barely see<br/>Lately it occurs to me<br/>What a long, strange trip it's been.—Hunter/Garcia
 
 Steven Pressfield [posted this](http://www.stevenpressfield.com/2018/02/untitled-book-installment-2/) today:
 
-<blockquote>I have a theory about the Hero&rsquo;s Journey. We all have one. We have many, in fact. But our primary hero&rsquo;s journey as artists is the passage we live out, in real life, before we find our calling.
+“I have a theory about the Hero’s Journey. We all have one. We have many, in fact. But our primary hero’s journey as artists is the passage we live out, in real life, before we find our calling.
 
-The hero&rsquo;s journey is *the search for that calling.*
+“The hero’s journey is *the search for that calling.*
 
-It&rsquo;s preparation.
+“It’s preparation.
 
-It&rsquo;s initiation (or more precisely, self-initiation).
+“It’s initiation (or more precisely, self-initiation).
 
-On the hero&rsquo;s journey, we see, we experience, we suffer. We learn.
+“On the hero’s journey, we see, we experience, we suffer. We learn.
 
-On our hero&rsquo;s journey, we acquire a history that is ours alone. It&rsquo;s a secret history, a private history, a personal history. No one has it but us. No one knows it but us. This secret history is the most valuable possession we hold, or ever will hold. We will draw upon it for the rest of our lives.
+“On our hero’s journey, we acquire a history that is ours alone. It’s a secret history, a private history, a personal history. No one has it but us. No one knows it but us. This secret history is the most valuable possession we hold, or ever will hold. We will draw upon it for the rest of our lives.
 
-The hero&rsquo;s journey ends when, like Odysseus, we return home to Ithaca, to the place from which we started. We wash up on shore. We have survived. We have come home.
+“The hero’s journey ends when, like Odysseus, we return home to Ithaca, to the place from which we started. We wash up on shore. We have survived. We have come home.
 
-Now what?</blockquote>
+Now what?”
 
-Well, what? There's a calling, that calling, the one that's mysteriously been whispering and talking and yelling and screaming obscenities at you/me all along. Only now, it's explicit. It's there, not "out there" but "right there" and there's some question but not much and not enough to put it off anymore.
+Well, what? There's a calling, that calling, the one that's mysteriously been whispering and talking and yelling and screaming obscenities at you/me all along. Only now, it's explicit. It’s there, not “out there” but “right there” and there’s some question but not much and not enough to put it off anymore.
 
 Now what?
 
@@ -226,14 +234,14 @@ Now what?
 ## Morally Homeless
 Thu, 22 Feb 2018
 
-"As we should be genuinely sorry for tramps and paupers who are materially homeless, so we should be sorry for those who are morally homeless, and who suffer a philosophical starvation as deadly as physical starvation."&mdash;G.K. Chesterton: *Illustrated London News, Nov. 24, 1934.*
+“As we should be genuinely sorry for tramps and paupers who are materially homeless, so we should be sorry for those who are morally homeless, and who suffer a philosophical starvation as deadly as physical starvation.”—G.K. Chesterton: *Illustrated London News, Nov. 24, 1934.*
 
 With a hat tip to the [GKCDaily](https://gkcdaily.blogspot.com/2018/02/for-those-who-are-morally-homeless.html) blog...
 
 ## Scorn Not
 Thu, 22 Feb 2018
 
-&ldquo;O MAN, scorn not that which is admirable in you! You are a poor thing in your own eyes, but I would teach you that in reality you are a great thing! . . . Realize what you are! Consider your royal dignity! The heavens have not been made in God&rsquo;s image as you have, nor the moon, nor the sun, nor anything to be seen in creation. . . . Behold, of all that exists there is nothing that can contain your greatness.&rdquo;&mdash;St. Gregory of Nyssa (c. 335&mdash;c. 395): *In Cantica, Homily 2.*
+“O MAN, scorn not that which is admirable in you! You are a poor thing in your own eyes, but I would teach you that in reality you are a great thing! . . . Realize what you are! Consider your royal dignity! The heavens have not been made in God’s image as you have, nor the moon, nor the sun, nor anything to be seen in creation. . . . Behold, of all that exists there is nothing that can contain your greatness.”—St. Gregory of Nyssa (c. 335&mdash;c. 395): *In Cantica, Homily 2.*
 
 ## Projection/Empathy
 Thu, 22 Feb 2018
@@ -244,7 +252,7 @@ All day, every day, that noise keeps going. It's the only voice that has seen ev
 
 Is it any wonder that projection is more powerful than empathy?
 
-When we meet people, we either celebrate when they agree with us or plot to change or ignore them when they don't. There's not a lot of room for, "they might have a different experience of this moment than I do."
+When we meet people, we either celebrate when they agree with us or plot to change or ignore them when they don’t. There's not a lot of room for, “they might have a different experience of this moment than I do.”
 
 That noise in our head is selfish, afraid and angry. That noise is self-satisfied, self-important and certain. That noise pushes intimacy away and will do anything it can to degrade those that might challenge us.
 
@@ -254,7 +262,7 @@ It's possible to amplify those too-quiet signals that others send us and to prac
 
 If we put in the effort and devote the time to practice this skill, we can get better at it. We merely have to begin.</blockquote>
 
-&mdash;[Seth Godin](https://seths.blog/2018/02/is-the-noise-in-my-head-bothering-you/)
+—[Seth Godin](https://seths.blog/2018/02/is-the-noise-in-my-head-bothering-you/)
 
 ## You cannot...
 Fri, 23 Feb 2018
@@ -279,12 +287,12 @@ You cannot build character and courage by taking away men's initiative and indep
 
 You cannot help men permanently by doing for them what they could and should do for themselves.</blockquote>
 
-&mdash; William Boetcker, 1873&mdash;1962
+—-William Boetcker, 1873-1962
 
 ## What You Believe
 Sat, 24 Feb 2018
 
-"I have found that the greatest help in meeting any problem with decency, self-respect, and whatever courage may be required, is to know where you, yourself, stand. That is, to have in words what you believe, and are acting from."&mdash;William Faulkner
+“I have found that the greatest help in meeting any problem with decency, self-respect, and whatever courage may be required, is to know where you, yourself, stand. That is, to have in words what you believe, and are acting from.”—William Faulkner
 
 ## That Within Me
 Sat, 24 Feb 2018
@@ -307,12 +315,12 @@ Shall on their softened spirits sink, and move
 
 In hearts all rocky now the late remorse of love.</blockquote>
 
-&mdash; Lord Byron; *Childe Harold's Pilgrimage* CXXXVII
+—Lord Byron; *Childe Harold's Pilgrimage* CXXXVII
 
 ## The Inquiry of Truth
 Mon, 26 Feb 2018
 
-"The inquiry of truth, which is the love-making or wooing of it; the knowledge of truth, which is the presence of it; and the belief in truth, which is the enjoying of it&mdash;is the sovereign good of human nature."&mdash;Sir Francis Bacon, 1st Viscount St. Alban
+“The inquiry of truth, which is the love-making or wooing of it; the knowledge of truth, which is the presence of it; and the belief in truth, which is the enjoying of it&mdash;is the sovereign good of human nature.”—Sir Francis Bacon, 1st Viscount St. Alban
 
 ## It Happened Again
 Sat, 03 Mar 2018
