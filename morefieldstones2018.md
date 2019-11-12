@@ -355,48 +355,51 @@ Over those sixty years between that first taste of Lao Tzu and today, those burs
 
 Whatever that is, I can’t help but feel/believe/think/whatever-verb/ that it’s It in some respect and it breaks through now and then. Maybe one more (extended) example:
 
-It’s 1990. I had my last drink a year ago and a friend suggested that I might like Emmet Fox’s Sermon on The Mount – that it had been a staple of AA since the earliest days. I got a copy, got most of his other books, and was greatly influenced by them for many years. It’s almost twenty years later – 2009. I describe Fox’s interpretation of the Garden of Eden story to Valerie, and she asks, “How did he know that?” I decide to research Fox’s backstory, and discover Thomas Troward. Fast forward another nine years to this February. I’ve looked at Troward’s “Bible Mystery, Bible Meaning” again and wonder whether anyone else is thinking about what he said about what Jesus taught. Googling “Troward Christianity” I discover a site devoted to a fifty-two-year-old book The Shining Stranger” and whoops! It’s happened again. Or I’m desperately trying to find meaning in an otherwise absurd world – am I right, or is Sartre?
+It’s 1990. I had my last drink a year ago and a friend suggested that I might like Emmet Fox’s *Sermon on The Mount* – that it had been a staple of AA since the earliest days. I got a copy, got most of his other books, and was greatly influenced by them for many years. It’s almost twenty years later – 2009. I describe Fox’s interpretation of the Garden of Eden story to Valerie, and she asks, “How did he know that?” I decide to research Fox’s backstory, and discover Thomas Troward. Fast forward another nine years to this February. I’ve looked at Troward’s “Bible Mystery, Bible Meaning” again and wonder whether anyone else is thinking about what he said about what Jesus taught. Googling “Troward Christianity” I discover a site devoted to a fifty-two-year-old book *The Shining Stranger* and whoops! It’s happened again. Or I’m desperately trying to find meaning in an otherwise absurd world – am I right, or is Sartre?
 
 ## Our Times
 Sat, 10 Mar 2018
 
-"War, by imposing hardships and controls on daily life, produces an aggressive mentality and degrades people's character according to their wretched conditions. The result in this case was a general state of public disorder in all countries. As time went on and the earlier atrocities became an accepted fact, the later ones were marked by refinements of technique and novel methods of retaliation. Even words lost their proper meanings and were changed to suit current propaganda . . . . family ties were broken for the sake of party loyalty. . . . Relations between people were governed not by the security of established customs but by the prospect of selfish gain in defiance of the law."
+“War, by imposing hardships and controls on daily life, produces an aggressive mentality and degrades people’s character according to their wretched conditions. The result in this case was a general state of public disorder in all countries. As time went on and the earlier atrocities became an accepted fact, the later ones were marked by refinements of technique and novel methods of retaliation. Even words lost their proper meanings and were changed to suit current propaganda . . . . family ties were broken for the sake of party loyalty. . . . Relations between people were governed not by the security of established customs but by the prospect of selfish gain in defiance of the law.”
 
 Does this sound familiar? Is this an apt description of our lifetime and that of our parents (or grandparents, that Greatest Generation)? These words were written by Thucydides to describe Athens as it warred with Sparta (ca. 400 B.C.).
 
 ## Trivial and Great Truths
 Mon, 12 Mar 2018
 
-"There are trivial truths and there are great truths. The opposite of a trivial truth is plainly false. The opposite of a great truth is also true."&mdash;Niels Bohr
+“There are trivial truths and there are great truths. The opposite of a trivial truth is plainly false. The opposite of a great truth is also true.”—Niels Bohr
 
 ## Authoritative
 Mon, 19 Mar 2018
 
-Christianity has projected Jesus as the long-suffering, meek, and gentle "lamb of God." The Gospels present another picture: Gentle and compassionate, yes, but the Jesus of these pages is predominantly strong, candid, and above all *authoritative*. As Harold points out:
+Christianity has projected Jesus as the long-suffering, meek, and gentle “lamb of God.” The Gospels present another picture: Gentle and compassionate, yes, but the Jesus of these pages is predominantly strong, candid, and above all *authoritative*. As Harold points out:
 
 <blockquote>At the time, people did not marvel so much at what Jesus said in the Sermon on the Mount as at the *authority* with which He spoke:
 
-<blockquote>"...the people were astonished at his doctrine; for he taught them as one having authority, and not as the scribes."</blockquote>
-Today, "scribes" have rewritten these words. In *The New English Bible*, read the translation thirteen scholars offer to men whose souls are starved, and scared, and scarred&mdash;it is a timid bit:
+<blockquote>“...the people were astonished at his doctrine; for he taught them as one having authority, and not as the scribes.”</blockquote>
+
+Today, “scribes” have rewritten these words. In *The New English Bible*, read the translation thirteen scholars offer to men whose souls are starved, and scared, and scarred—it is a timid bit:
 
 <blockquote>". . . he taught with a note of authority."</blockquote>
-The translators write in the tenor of their age&mdash;a "note" of faith in anything, a "note" of authority in anything, is all that is left. But because of this, the twentieth century is a time pregnant with the possibility of grasping truth, for now man must seek the authority within himself.</blockquote>
-&mdash;Winifred Babcock, *Jung-Hesse-Harold*, p. 35, quoting Preston Harold, *The Shining Stranger*, p. 256
+
+The translators write in the tenor of their age—a “note” of faith in anything, a “note” of authority in anything, is all that is left. But because of this, the twentieth century is a time pregnant with the possibility of grasping truth, for now man must seek the authority within himself.</blockquote>
+
+—-Winifred Babcock, *Jung-Hesse-Harold*, p. 35, quoting Preston Harold, *The Shining Stranger*, p. 256
 
 ## Pure, Simple Truth
 Mon, 19 Mar 2018
 
-"The truth is rarely pure, and never simple."&mdash;Oscar Wilde, *The Importance of Being Earnest*
+“The truth is rarely pure, and never simple.”—Oscar Wilde, *The Importance of Being Earnest*
 
 ## Five Stages
 Tue, 20 Mar 2018
 
-Every human being, if he lives his normal span, suffers five traumatic events that serve to expand his consciousness and increase his need to know the truth of himself in being: the trauma of birth, of puberty, of recognizing himself to be cast out in solitary being, of losing his sexual competency, of anticipating the loss of his life. Thus, built into his nature are the stresses that periodically &ldquo;flood the cellar&rdquo; of his subconscious mind and free him of much of the &ldquo;conditioned learning&rdquo; society and Babel Tower builders have imposed upon him. Therefore, before death overtakes him, he is free of much of his spurious &ldquo;conditioning.&rdquo;&mdash;Preston Harold, *The Shining Stranger*, p. 95
+“Every human being, if he lives his normal span, suffers five traumatic events that serve to expand his consciousness and increase his need to know the truth of himself in being: the trauma of birth, of puberty, of recognizing himself to be cast out in solitary being, of losing his sexual competency, of anticipating the loss of his life. Thus, built into his nature are the stresses that periodically ‘flood the cellar’ of his subconscious mind and free him of much of the ‘conditioned learning’ society and Babel Tower builders have imposed upon him. Therefore, before death overtakes him, he is free of much of his spurious ‘conditioning’.”—Preston Harold, *The Shining Stranger*, p. 95
 
 ## Empathy, not Conscience
 Fri, 23 Mar 2018
 
-In man, empathy, not conscience, is the resonator. But conscience has a vital role to play. Just as a satellite must have a continuous sensing of its motion and attitude in space, keeping itself horizontal in relation to the surface of the earth below if it is to perform its complicated maneuvers, so man must have a continuous sense of &ldquo;right or wrong,&rdquo; regardless of the compassion his empathy arouses within him as he views good or evil in this world. Conscience, which is of the closed world of the past, acts as an &ldquo;inertial reference package&rdquo; to balance the course empathy takes.&mdash;Preston Harold, *The Shining Stranger*, p. 161
+“In man, empathy, not conscience, is the resonator. But conscience has a vital role to play. Just as a satellite must have a continuous sensing of its motion and attitude in space, keeping itself horizontal in relation to the surface of the earth below if it is to perform its complicated maneuvers, so man must have a continuous sense of &ldquo;right or wrong,&rdquo; regardless of the compassion his empathy arouses within him as he views good or evil in this world. Conscience, which is of the closed world of the past, acts as an &ldquo;inertial reference package&rdquo; to balance the course empathy takes.”—Preston Harold, *The Shining Stranger*, p. 161
 
 ## What About Thomas Troward?
 Thu, 12 Apr 2018
@@ -413,13 +416,12 @@ IMHO, a reader who is comfortable reading British English of the period and will
 
 Which, I suppose, is a longish way of saying “I found Troward’s work interesting because it is a way to think about God, Creation and Jesus’ message and what we know about physics, astronomy, biology, anthropology, and psychology all at once.” Of course, Troward was using 1904 scientific metaphors, just as “Preston Howard” was using 1967 scientific metaphors, but that’s for another day/week. And I’ll get to why “Preston Howard” is in quotes later, too.
 
-
 ## Make politics as local as possible
 Fri, 13 Apr 2018
 
-"THE men whom the people ought to choose to represent them are too busy to take the jobs. But the politician is waiting for it. He&rsquo;s the pestilence of modern times. What we should try to do is make politics as local as possible. Keep the politicians near enough to kick them. The villagers who met under the village tree could also hang their politicians to the tree. It is terrible to contemplate how few politicians are hanged."
+“THE men whom the people ought to choose to represent them are too busy to take the jobs. But the politician is waiting for it. He&rsquo;s the pestilence of modern times. What we should try to do is make politics as local as possible. Keep the politicians near enough to kick them. The villagers who met under the village tree could also hang their politicians to the tree. It is terrible to contemplate how few politicians are hanged.”
 
-&mdash; G.K. Chesterton: *Cleveland Press* interview, March 1, 1921.
+—G.K. Chesterton: *Cleveland Press* interview, March 1, 1921.
 
 ## The Gospels
 Sat, 14 Apr 2018
