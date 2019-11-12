@@ -575,7 +575,7 @@ Also, science (intentionally uncapitalized) and engineering:
 
 "Education is what, when, and why to do things. Training is how to do it.
 
-"In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know what you are doing, you should not be doing it."&mdash;Richard Hamming, *The Art of Doing Science and Engineering (1997)*
+“In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know what you are doing, you should not be doing it.”—Richard Hamming, *The Art of Doing Science and Engineering (1997)*
 
 ## A Brief Note
 Thu, 31 May 2018
@@ -584,14 +584,14 @@ To my other reader, acknowledging my absence...
 
 Been trying to get into a single-story home, for the sake of our sadly abused knees, etc.
 
-Succeeded three weeks ago, been consumed with "next steps" since then.
+Succeeded three weeks ago, been consumed with “next steps” since then.
 
-Posting may or may not continue to be erratic, but then it's always been like that, hasn't it?
+Posting may or may not continue to be erratic, but then it’s always been like that, hasn’t it?
 
 ## Criticism and The Web
 Thu, 31 May 2018
 
-&ldquo;When I first prepared this particular talk... I realized that my usual approach is usually critical. That is, a lot of the things that I do, that most people do, are because they hate something somebody else has done, or they hate that something hasn't been done. And I realized that informed criticism has completely been done in by the web. Because the web has produced so much uninformed criticism. It&rsquo;s kind of a Gresham&rsquo;s Law&mdash;bad money drives the good money out of circulation. Bad criticism drives good criticism out of circulation. You just can&rsquo;t criticize anything.&rdquo;&mdash;[Alan Kay](https://vimeo.com/10260548) *How Simply and Understandably Could The &lsquo;Personal Computing Experience&rsquo; Be Programmed?*
+“When I first prepared this particular talk... I realized that my usual approach is usually critical. That is, a lot of the things that I do, that most people do, are because they hate something somebody else has done, or they hate that something hasn’t been done. And I realized that informed criticism has completely been done in by the web. Because the web has produced so much uninformed criticism. It’s kind of a Gresham’s Law—bad money drives the good money out of circulation. Bad criticism drives good criticism out of circulation. You just can’t criticize anything.”—[Alan Kay](https://vimeo.com/10260548) *How Simply and Understandably Could The ‘Personal Computing Experience’ Be Programmed?*
 
 ## The Language of Nature
 Thu, 31 May 2018

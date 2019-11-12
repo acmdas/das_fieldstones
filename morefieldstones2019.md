@@ -1468,3 +1468,12 @@ Wednesday, 06 Nov 2019
 
 From a cartoon about kids being allowed to read “above their grade level.” I’ll find a link to it someday, maybe.
 
+## The Essential Thing
+Tuesday, 12 November 2019
+
+“I must, before I die, find some way to say the essential thing that is in me, that I have never said yet—a thing that is not love or hate or pity or scorn, but the very breath of life, fierce and coming from far away, bringing into human life the vastness and the fearful passionless force of non-human things.”—Bertrand Russell
+
+## At the Bottom
+Tuesday, 12 November 2019
+
+“There is something at the bottom of every new human thought, every thought of genius, or even every earnest thought that springs up in any brain, which can never be communicated to others, even if one were to write volumes about it and were explaining one's idea for thirty-five years; there's something left which cannot be induced to emerge from your brain, and remains with you forever; and with it you will die, without communicating to anyone perhaps the most important of your ideas.”—Fyodor Dostoevsky, *The Idiot*
