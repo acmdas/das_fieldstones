@@ -591,36 +591,34 @@ Posting may or may not continue to be erratic, but then it’s always been like 
 ## Criticism and The Web
 Thu, 31 May 2018
 
-“When I first prepared this particular talk... I realized that my usual approach is usually critical. That is, a lot of the things that I do, that most people do, are because they hate something somebody else has done, or they hate that something hasn’t been done. And I realized that informed criticism has completely been done in by the web. Because the web has produced so much uninformed criticism. It’s kind of a Gresham’s Law—bad money drives the good money out of circulation. Bad criticism drives good criticism out of circulation. You just can’t criticize anything.”—[Alan Kay](https://vimeo.com/10260548) *How Simply and Understandably Could The ‘Personal Computing Experience’ Be Programmed?*
+“When I first prepared this particular talk... I realized that my usual approach is usually critical. That is, a lot of the things that I do, that most people do, are because they hate something somebody else has done, or they hate that something hasn’t been done. And I realized that informed criticism has completely been done in by the web. Because the web has produced so much uninformed criticism. It’s kind of a Gresham’s Law—bad money drives the good money out of circulation. Bad criticism drives good criticism out of circulation. You just can’t criticize anything.”—[Alan Kay](https://vimeo.com/10260548), *How Simply and Understandably Could The ‘Personal Computing Experience’ Be Programmed?*
 
 ## The Language of Nature
 Thu, 31 May 2018
 
-&ldquo;We must remember that Galileo merely said that the language of nature is written in mathematics. He did not say everything is. And even the truth about nature need not be expressed in mathematics. For most of human history, the language of nature has been the language of myth and ritual. These forms, one might add, had the virtues of leaving nature unthreatened and of encouraging the belief that human beings are part of it. It hardly befits a people who stand ready to blow up the planet to praise themselves too vigorously for having found the true way to talk about nature.&rdquo; &amp;mdash: Neil Postman *Amusing Ourselves to Death*
+“We must remember that Galileo merely said that the language of nature is written in mathematics. He did not say everything is. And even the truth about nature need not be expressed in mathematics. For most of human history, the language of nature has been the language of myth and ritual. These forms, one might add, had the virtues of leaving nature unthreatened and of encouraging the belief that human beings are part of it. It hardly befits a people who stand ready to blow up the planet to praise themselves too vigorously for having found the true way to talk about nature.”—Neil Postman, *Amusing Ourselves to Death*
 
 ## Power/Corruption
 Thu, 31 May 2018
 
-&ldquo;&lsquo;Power tends to corrupt, and absolute power corrupts absolutely.&rsquo; We&rsquo;ve all seen this quote of Lord Acton. Most people agree with it. I don&rsquo;t. Like many (if not most) great quotes, it is dead wrong. Why? Because it&rsquo;s exactly backwards, that&rsquo;s why...
+“‘Power tends to corrupt, and absolute power corrupts absolutely.’ We’ve all seen this quote of Lord Acton. Most people agree with it. I don’t. Like many (if not most) great quotes, it is dead wrong. Why? Because it’s exactly backwards, that’s why...
 
-&ldquo;Let&rsquo;s reconstruct Acton&rsquo;s sentence in a way that reflects the truth of the matter (and energy) of power. Put the word &lsquo;man&rsquo; in place of &lsquo;power&rsquo;, and then move the word &lsquo;power&rsquo; behind the word &lsquo;corrupt(s)&rsquo;. Now let&rsquo;s see what it should look like if we&rsquo;re truly seeking the truth: &lsquo;(Man) tends to corrupt power, and absolute (Man) corrupts power absolutely&rsquo;.&rdquo;&mdash;[Ianto Watt](http://wmbriggs.com/post/24549/) *Lord Acton&rsquo;s Apostasy*
+“Let’s reconstruct Acton’s sentence in a way that reflects the truth of the matter (and energy) of power. Put the word ‘man’ in place of ‘power’, and then move the word ‘power’ behind the word ‘corrupt(s)’. Now let’s see what it should look like if we’re truly seeking the truth: ‘(Man) tends to corrupt power, and absolute (Man) corrupts power absolutely’.”—[Ianto Watt](http://wmbriggs.com/post/24549/), *Lord Acton&rsquo;s Apostasy*
 
 ## The Problem
 Sat, 02 Jun 2018
 
-&ldquo;The problem is no longer getting people to express themselves, but providing little gaps of solitude and silence in which they might eventually find something to say. Repressive forces don&rsquo;t stop people from expressing themselves, but rather, force them to express themselves. What a relief to have nothing to say, the right to say nothing, because only then is there a chance of framing the rare, or ever rarer, the thing that might be worth saying.&rdquo;&mdash;Gilles Deleuze
+“The problem is no longer getting people to express themselves, but providing little gaps of solitude and silence in which they might eventually find something to say. Repressive forces don’t stop people from expressing themselves, but rather, force them to express themselves. What a relief to have nothing to say, the right to say nothing, because only then is there a chance of framing the rare, or ever rarer, the thing that might be worth saying.”—Gilles Deleuze
 
-## Joyce&#039;s Reality
+## Joyce’s Reality
 Mon, 18 Jun 2018
 
-"Beckett wrote that Joyce believed fervently in the significance of chance events and of random connections.
-
-&lsquo;To Joyce reality was a paradigm, an illustration of a possibly unstateable rule... According to this rule, reality, no matter how much we try to manipulate it, can only shift about in continual movement, yet movement limited in its possibilities...&rsquo; giving rise to &lsquo;the notion of the world where unexpected simultaneities are the rule.&rsquo; In other words, a coincidence such as sitting down to dinner with James Joyce is actually just part of a continually moving pattern, like a kaleidoscope. Or Joyce likes to put it, a &lsquo;collideorscape&rsquo;&rdquo;.&mdash;Gabrielle Carey [*Breaking Up With James Joyce*](https://sydneyreviewofbooks.com/breaking-james-joyce/)
+“Beckett wrote that Joyce believed fervently in the significance of chance events and of random connections. ‘To Joyce reality was a paradigm, an illustration of a possibly unstateable rule... According to this rule, reality, no matter how much we try to manipulate it, can only shift about in continual movement, yet movement limited in its possibilities...’ giving rise to ‘the notion of the world where unexpected simultaneities are the rule.’ In other words, a coincidence such as sitting down to dinner with James Joyce is actually just part of a continually moving pattern, like a kaleidoscope. Or Joyce likes to put it, a ‘collideorscape’”—Gabrielle Carey, [*Breaking Up With James Joyce*](https://sydneyreviewofbooks.com/breaking-james-joyce/)
 
 ## We Must Sin
 Mon, 18 Jun 2018
 
-"According to Ellman, Joyce&rsquo;s view of sin was influenced by Hermann Suderman&rsquo;s play Magda: &lsquo;Magda&rsquo;s philosophy of life may well have helped to shape Joyce&rsquo;s. As she says, &ldquo;And one thing more, my friend&mdash;sin! We must sin if we wish to grow. To become greater than our sins is worth more than all the purity you preach.&rdquo;&rdquo;"&mdash;Gabrielle Carey [*Breaking Up With James Joyce*](https://sydneyreviewofbooks.com/breaking-james-joyce/)
+"According to Ellman, Joyce&rsquo;s view of sin was influenced by Hermann Suderman&rsquo;s play Magda: &lsquo;Magda&rsquo;s philosophy of life may well have helped to shape Joyce&rsquo;s. As she says, &ldquo;And one thing more, my friend&mdash;sin! We must sin if we wish to grow. To become greater than our sins is worth more than all the purity you preach.&rdquo;&rdquo;"&mdash;Gabrielle Carey, [*Breaking Up With James Joyce*](https://sydneyreviewofbooks.com/breaking-james-joyce/)
 
 Is the nature of reality binary, dual? Is it in some way Gnostic, in that good deeds have those side effects of evil, and evil deeds have some atom of good? What does Preston Howard have to say about that?
 
@@ -628,19 +626,19 @@ Is the nature of reality binary, dual? Is it in some way Gnostic, in that good d
 ## Speaking of Wealth or Power
 Thu, 28 Jun 2018
 
-"The only man who should speak of wealth or power is one who did not extend his hand when they were within his reach"&mdash;Don Colacho (Nicolás Gómez Dávila)
+“The only man who should speak of wealth or power is one who did not extend his hand when they were within his reach”—Don Colacho (Nicolás Gómez Dávila)
 
-## The Artist&rsquo;s Role
+## The Artist’s Role
 Wed, 27 Jun 2018
 
 “The artist’s role is to complete the circle that started with Adam and Eve. Her charge is to lead us back to Eden, not in the state of unconsciousness and dependence in which we stood before the Fall, but in full awareness of ourselves and our station, our mortality, and of the greater world around and within us.
 
-“The artist’s role is to make the unconscious conscious.”&mdash;[Steven Pressfield](https://stevenpressfield.com/2018/06/the-artists-journey-20/)
+“The artist’s role is to make the unconscious conscious.”—[Steven Pressfield](https://stevenpressfield.com/2018/06/the-artists-journey-20/)
 
 ## Poetry
 Fri, 29 Jun 2018
 
-"<strong>John Keating</strong>:  We don&rsquo;t read and write poetry because it&rsquo;s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for. To quote from Whitman, &ldquo;O me! O life! &rdquo;¦ of the questions of these recurring; of the endless trains of the faithless &rdquo;¦ of cities filled with the foolish; what good amid these, O me, O life?&rdquo; Answer. That you are here&mdash;that life exists, and identity; that the powerful play goes on and you may contribute a verse. That the powerful play *goes on* and you may contribute a verse. What will your verse be?"&mdash;*Dead Poets Society (1989)* h/t [Epsilon Theory (Dr. Ben W. Hunt)](http://epsilontheory.com/clever-hans/)
+“&&John Keating&&:  We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for. To quote from Whitman, ’O me! O life! . . . of the questions of these recurring; of the endless trains of the faithless . . . of cities filled with the foolish; what good amid these, O me, O life?” Answer. That you are here—that life exists, and identity; that the powerful play goes on and you may contribute a verse. That the powerful play *goes on* and you may contribute a verse. What will your verse be?”—*Dead Poets Society (1989)* h/t [Epsilon Theory (Dr. Ben W. Hunt)](http://epsilontheory.com/clever-hans/)
 
 ## Bloody Noses
 Wed, 04 Jul 2018
