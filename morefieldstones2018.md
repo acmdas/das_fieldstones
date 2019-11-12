@@ -454,7 +454,7 @@ It occurred to me that I have "Spiritual ADD"&mdash;that I'll get an inspiration
 
 And, since they are real inspirations (at least, sometimes) they'll come back, somewhat evolved, perhaps decades later. "David, it's Me again. Remember this..."
 
-From a note that I left to myself 6 April, 2017
+From a note that I left to myself, 6 April, 2017
 
 ## Fate
 Mon, 23 Apr 2018
@@ -464,12 +464,12 @@ Mon, 23 Apr 2018
 ## Fate, Again
 Mon, 23 Apr 2018
 
-“THE point is not that if we go on as we are we shall collide with some frightful fate. The point is rather that unless we make a magnificent effort, our frightful fate will be-to go on as we are.” — G.K. Chesterton, *Daily News*, (Feb. 24, 1906)
+“THE point is not that if we go on as we are we shall collide with some frightful fate. The point is rather that unless we make a magnificent effort, our frightful fate will be to go on as we are.” — G.K. Chesterton, *Daily News*, (Feb. 24, 1906)
 
 ## Faith
 Mon, 23 Apr 2018
 
-Faith suppresses
+<blockquote>Faith suppresses
 
 No doubt.
 
@@ -529,9 +529,9 @@ That we may
 
 Have
 
-Faith.
+Faith.</blockquote>
 
-Found again today on a sheet torn from a steno pad – almost certainly written in the late 1980s or early 1990s. I have no memory of writing it, but but it’s in my scrawl with more than a few misspellings, and since there are many false starts and strike-outs, it’s almost certainly not transcribed from someone else’s work.
+Found again today on a sheet torn from a steno pad—almost certainly written in the late 1980s or early 1990s. I have no memory of writing it, but but it’s in my scrawl with more than a few misspellings, and since there are many false starts and strike-outs, it’s almost certainly not transcribed from someone else’s work.
 
 Not sure what to make of it, thirty years on, but I’ll stand by it.
 
