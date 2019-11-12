@@ -643,30 +643,31 @@ Fri, 29 Jun 2018
 ## Bloody Noses
 Wed, 04 Jul 2018
 
-"If there were more bloody noses, there'd be fewer wars."&mdash;*Hagbard Celene* in *The Illumninatus!* by [R. Shea and R. A. Wilson](https://www.goodreads.com/author/quotes/5752454.Robert_Shea?page=2)
+“If there were more bloody noses, there’d be fewer wars.”—*Hagbard Celene* in *The Illumninatus!* by [R. Shea and R. A. Wilson](https://www.goodreads.com/author/quotes/5752454.Robert_Shea?page=2)
 
 ## Absurdum
 Wed, 04 Jul 2018
 
-"For the first time in history, we have reached a stage of absurdity in which a *reductio ad absurdum* is no longer viable as a rhetorical maneuver, for there is nothing so absurd that everyone recognizes it as such."&mdash;[Theodore Dalrymple](http://takimag.com/article/street_corner_semantics_theodore_dalrymple/)
+“For the first time in history, we have reached a stage of absurdity in which a *reductio ad absurdum* is no longer viable as a rhetorical maneuver, for there is nothing so absurd that everyone recognizes it as such.”—[Theodore Dalrymple](http://takimag.com/article/street_corner_semantics_theodore_dalrymple/)
 
-History covers a long time and a lot of absurdity, but this is pretty clearly true &ndash;  least in my lifetime.
+History covers a long time and a lot of absurdity, but this is pretty clearly true—least in my lifetime.
 
 ## God the Father
 The, 12 Jun 2019
 
-“GOD is therefore truly the Father, inasmuch as He is Father of truth; He does not create the Son from outside Himself, but generates Him from His own substance. That is to say, being wise, He generates Wisdom, being just, Justice, be eternal, the Eternal, being immortal, the Immortal, being invisible, the Invisible. Because He is Light, He generates Brightness, and because He is Mind, the Word.” — Rufinus: *Commentary on the Apostles’ Creed*, 4. (5th cent.)
+“GOD is therefore truly the Father, inasmuch as He is Father of truth; He does not create the Son from outside Himself, but generates Him from His own substance. That is to say, being wise, He generates Wisdom, being just, Justice, be eternal, the Eternal, being immortal, the Immortal, being invisible, the Invisible. Because He is Light, He generates Brightness, and because He is Mind, the Word.”—Rufinus: *Commentary on the Apostles’ Creed*, 4. (5th cent.)
 
 ## Kings, Silverware and Olympus
 Tue, 17 Jul 2018
 
-"The Constitution, written by men with some experience of actual government, assumes that the chief executive will work to be king, the Parliament will scheme to sell off the silverware, and the judiciary will consider itself Olympian and do everything it can to much improve (destroy) the work of the other two branches. So the Constitution pits them against each other, in the attempt not to achieve stasis, but rather to allow for the constant corrections necessary to prevent one branch from getting too much power for too long."&mdash;[David Mamet](https://www.americanthinker.com/blog/2008/03/mamets_revelation.html)
+“The Constitution, written by men with some experience of actual government, assumes that the chief executive will work to be king, the Parliament will scheme to sell off the silverware, and the judiciary will consider itself Olympian and do everything it can to much improve (destroy) the work of the other two branches. So the Constitution pits them against each other, in the attempt not to achieve stasis, but rather to allow for the constant corrections necessary to prevent one branch from getting too much power for too long.”—[David Mamet](https://www.americanthinker.com/blog/2008/03/mamets_revelation.html)
 
 ## Horrible Old Person
 Sat, 21 Jul 2018
 
-"I&rdquo;ve become a horrible person in my old age.  And that goes way beyond falling asleep so hard that I slept through my alarm and left my poor long-suffering blog fans waiting for hours in vain. No, I&rdquo;ve become one of those terrible people that Heinlein talks about who tell the unvarnished truth in social situations."&mdash;<a href="https://accordingtohoyt.com/2018/07/21/art-and-craft/" rel="noopener" target="_blank">Sarah Hoyt</a>
-Mea Culpa&mdash;if not "the unvarnished truth" at least my honest opinion.
+“I’ve become a horrible person in my old age.  And that goes way beyond falling asleep so hard that I slept through my alarm and left my poor long-suffering blog fans waiting for hours in vain. No, I’ve become one of those terrible people that Heinlein talks about who tell the unvarnished truth in social situations.”—<a href="https://accordingtohoyt.com/2018/07/21/art-and-craft/" rel="noopener" target="_blank">Sarah Hoyt</a>
+
+Mea Culpa—if not “the unvarnished truth” at least my honest opinion.
 
 ## Call it George
 Wed, 01 Aug 2018
