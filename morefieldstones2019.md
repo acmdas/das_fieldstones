@@ -1477,3 +1477,18 @@ Tuesday, 12 November 2019
 Tuesday, 12 November 2019
 
 “There is something at the bottom of every new human thought, every thought of genius, or even every earnest thought that springs up in any brain, which can never be communicated to others, even if one were to write volumes about it and were explaining one's idea for thirty-five years; there's something left which cannot be induced to emerge from your brain, and remains with you forever; and with it you will die, without communicating to anyone perhaps the most important of your ideas.”—Fyodor Dostoevsky, *The Idiot*
+
+## Allies and Accomplices
+Thursday, 14 November 2019
+
+“To be an ally means that you won’t get in the way, and, if you are able to, you’ll try to help.
+
+“To become an accomplice, though, means that you’ve risked something, sacrificed something and put yourself on the hook as well.
+
+“We need more allies, in all the work we do. Allies can open doors and help us feel a lot less alone.
+
+“But finding an accomplice–that’s an extraordinary leap forward.
+
+“Willie Jackson is leading that conversation in an area where we need it urgently: around race. Once you see it there, you’ll see it everywhere.
+
+“When do we care enough to lean into the work, the mission or the problem? Even if we think it’s ‘someone else’s work.’ Because it probably belongs to us as well.”—Seth Godin
