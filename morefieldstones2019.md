@@ -1492,3 +1492,19 @@ Thursday, 14 November 2019
 “Willie Jackson is leading that conversation in an area where we need it urgently: around race. Once you see it there, you’ll see it everywhere.
 
 “When do we care enough to lean into the work, the mission or the problem? Even if we think it’s ‘someone else’s work.’ Because it probably belongs to us as well.”—Seth Godin
+
+## Systems
+Thursday, 14 November 2019
+
+“Marriage and Family fundamentally are not systems - they precede all systems. Their basis is outwith all systems - because they are based on Love.
+
+“Love is not abstract, nor is it the product of a model. Love is something real only between Beings; and Beings are not abstract, nor are they systems.
+
+“(Indeed, any System could be described as an abstract model of a Being...)
+
+
+“Marriage and family involve Beings (in reality, not in the system-induced subversions and distortions that we see in politics and law and the mass media - where they are reduced to abstract definitions). beings (such as you and me) are eternal entities; and Love - which is the primal relation, the primal cohesion, before system.
+
+“When God created, it was Love that made possible creation - it is Love that distinguished creation from chaos. 
+
+“So there is an alternative to The System - and it is based on Beings in Loving relationships.”—[Bruce Charlton](https://charltonteaching.blogspot.com/2019/11/what-we-are-supposed-to-learn-from.html)
