@@ -1508,3 +1508,20 @@ Thursday, 14 November 2019
 “When God created, it was Love that made possible creation - it is Love that distinguished creation from chaos. 
 
 “So there is an alternative to The System - and it is based on Beings in Loving relationships.”—[Bruce Charlton](https://charltonteaching.blogspot.com/2019/11/what-we-are-supposed-to-learn-from.html)
+
+## Lies
+Thursday, 21 November, 2019
+
+“If everybody always lies to you, the consequence is not that you believe the lies, but rather that nobody believes anything any longer. This is because lies, by their very nature, have to be changed, and a lying government has constantly to rewrite its own history. On the receiving end you get not only one lie—a lie which you could go on for the rest of your days—but you get a great number of lies, depending on how the political wind blows. And a people that no longer can believe anything cannot make up its mind. It is deprived not only of its capacity to act but also of its capacity to think and to judge.”—Hannah Arendt
+
+
+## Politics
+Sunday, 24 November, 2019
+
+“After 1789, politics ceased to be considered as the prudent management of men and circumstances, in order to become the ‘realization of ideas’. Political thinking became irredeemably ideological: an imposition of ideas on political life rather than an emergence of policy from living experience.”—Irving Kristol, *Yale Review* 1958
+
+## Two Books
+Sunday, 24 November, 2019
+
+“Imagine that everyone in the older age brackets had to write two books—’Smart Things I Have Done in My Life’ and ‘Dumb Things I Have Done in My Life.’ Be frank. Which book do you think would be bigger? Even some of the smart things we did were a result of having done dumb things before and suffered the consequences.”—[Thomas Sowell](https://townhall.com/columnists/thomassowell/2004/12/06/random-thoughts-n996213)
+
