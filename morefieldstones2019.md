@@ -949,7 +949,7 @@ W - Frozen.
 
 Dr - Frozen, cold frozen? Frozen to the touch?
 
-W - No, like how you feel when you are scared and can't breath or talk or do anything. I felt like this evil, like it was looking at me.
+W - No, like how you feel when you are scared and can’t  breath or talk or do anything. I felt like this evil, like it was looking at me.
 
 Dr - This evil. Well, what do you think this evil wanted?
 
