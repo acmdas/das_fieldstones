@@ -527,6 +527,15 @@ Sat, 18 May 2019
 
 &mdash;Ivan Illich [Interview with Jerry Brown](http://www.wtp.org/archive/transcripts/ivan_illich_jerry.html)
 
+## Happy Birthday to Me
+Sun, 19 May 2019
+
+I was recently informed by [David Warren](https://www.davidwarrenonline.com/2019/05/16/again-again/) that men (or, if you prefer, persons) of the 13th Century counted their age in moons, not years.
+
+If that is the case, and I’ve not independently verified it, and if I’m able to do simple arithmetic on my fingers and in my head, yesterday was my 845th birthday.
+
+In lieu of cards or gifts, please attend the most orthodox (small “O”) Christian Church of your choice.
+
 ## Somebody Gets It
 Mon, 20 May 2019
 
@@ -842,6 +851,11 @@ esr goes on to make interesting and important comments about the currently hot R
 I'm posting it here, however, to note the map/territory statement, which Gregory Bateson speaks about at length in *Steps to an Ecology of Mind* (1972) and/or *Mind and Nature* (1979), Bateson being an “English anthropologist, social scientist, linguist, visual anthropologist, semiotician, and cyberneticist” per [Wikipedia](https://en.wikipedia.org/wiki/Gregory_Bateson) and a founding participant, with his wife Margaret Mead, in the Macy Conferences. Stewart Brand introduced me to his work via the WEC, and it's been at least somewhat influential in my muddled thinking.
 
 And now, the question is how does this form of General Semantics fit in with (or survive?) Barfield's philological analysis of how consciousness evolved and relates to the “unrepresented” as well as the “appearances”.
+
+## God the Father
+Fri, 12 Jul 2019
+
+“GOD is therefore truly the Father, inasmuch as He is Father of truth; He does not create the Son from outside Himself, but generates Him from His own substance. That is to say, being wise, He generates Wisdom, being just, Justice, be eternal, the Eternal, being immortal, the Immortal, being invisible, the Invisible. Because He is Light, He generates Brightness, and because He is Mind, the Word.”—Rufinus: Commentary on the Apostles’ Creed, 4. (5th cent.)
 
 ## Principles and Edge Cases
 Sat, 13 Jul 2019

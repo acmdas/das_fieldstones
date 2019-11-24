@@ -394,12 +394,44 @@ Mon, 19 Mar 2018
 ## Five Stages
 Tue, 20 Mar 2018
 
-“Every human being, if he lives his normal span, suffers five traumatic events that serve to expand his consciousness and increase his need to know the truth of himself in being: the trauma of birth, of puberty, of recognizing himself to be cast out in solitary being, of losing his sexual competency, of anticipating the loss of his life. Thus, built into his nature are the stresses that periodically ‘flood the cellar’ of his subconscious mind and free him of much of the ‘conditioned learning’ society and Babel Tower builders have imposed upon him. Therefore, before death overtakes him, he is free of much of his spurious ‘conditioning’.”—Preston Harold, *The Shining Stranger*, p. 95
+“Every human being, if he lives his normal span, suffers five traumatic events that serve to expand his consciousness and increase his need to know the truth of himself in being: the trauma of
 
 ## Empathy, not Conscience
 Fri, 23 Mar 2018
 
 “In man, empathy, not conscience, is the resonator. But conscience has a vital role to play. Just as a satellite must have a continuous sensing of its motion and attitude in space, keeping itself horizontal in relation to the surface of the earth below if it is to perform its complicated maneuvers, so man must have a continuous sense of &ldquo;right or wrong,&rdquo; regardless of the compassion his empathy arouses within him as he views good or evil in this world. Conscience, which is of the closed world of the past, acts as an &ldquo;inertial reference package&rdquo; to balance the course empathy takes.”—Preston Harold, *The Shining Stranger*, p. 161
+
+## It Happened Again
+Tue, 3 Apr 2018
+
+Well, to be perfectly honest, it keeps happening, but that’s another story. Or maybe not—maybe that’s the whole story. Yeah, that’s the ticket, but since I turned 70 a while back, and the Web prefers haiku to War and Peace, we’ll have to see The Big Picture in bite-sized pieces.
+
+The bottom-line is that [redacted] has been on my butt for a year or more to stop solely studying and meditating and avoiding and studying some more and start writing it down. And I’ve been writing blips and blabs—mostly memories of times when It Happened sixty or fifty or forty or, well you get the idea years ago so they don’t sink back into the oh-so-understandable distraction (and Distraction with a capital-D is Satan’s favorite tactic with this one).
+
+And yesterday, backed into a corner in a small room, I promised [redacted} that I’d repurpose this place to do just that, and so here it is. Begun. Take that.
+
+## It
+Thu, 5 Apr 2018 
+
+So, that was a bit coy, I must admit. “It happened again…” and then a month of silence. Were anyone reading this it would be just too, too. But enough of that.
+
+There actually is a there there, or an it to it, and if it were easy to nail it, or to name it, I’d have done it already. The thing is, it isn’t a thing. It doesn’t even have a name, not properly so, at least. Not that it doesn’t get talked about, but the point is, talking about it isn’t the point. You remember the Further Adventures of Nick Danger, Third Eye, don’t you? Sure, you do. They’re (Nick and Betty Jo Bialowski, whom everyone knows as Nancy) in the Old Same Place and Nancy says, “We can’t talk here” and Nick says, “Wadda ya mean blurfp mlurg…oh, you’re right, we can’t talk here.” Now, since Nick and Nancy were just characters in a radio script, they could just go into the Chapel and they could talk. Here in Consensus Reality, there are things that we can’t talk about at all. Well, actually they aren’t really “things” but, the point is, words fail me. They fail you, too, but that’s just the way things are.
+
+So, there is an “It” to the “It” but we can’t name it or even give it a useful definition. So, what’s the point? Why throw down so many words talking about something that I can’t talk about? And why have so many others over so many ages done the same? I can’t speak for them, but in my case (not including [redacted] insisting that I should write) it’s because it just won’t stop, or just won’t go away, or just isn’t over yet. See what I mean? It’s hard to even explain why I’m talking about something that I can’t talk about!
+
+So, now what? Seems to me that the next best thing is to talk about the side effects of it’s breaking in on my otherwise bland and very ordinary life. Just a few examples – it’s currently a seventy-year-old story, and it has been busting in at least since I was eight or nine.
+
+What does it do ? I’m eight or nine years old – it’s 1955 or ’56, there’s a new World Book Encyclopedia in the little, built-in bookshelf next to the fireplace in the living room, and I’m exploring those Adult Books. It might have been Durant’s “The Mature Mind” or maybe a book of quotes. What I remember is a page with mostly white space, just the words “The Tao that can be named is not the true Tao” credited to Lao Tzu. When I was eight or nine it was Tao with a T, not a D the way it was in my later incarnation as a “Hippie seeker after truth,” but it managed to smack me up side of the head. I didn’t know it then, but it had broken in. That’s a hint, but not the whole picture. Let’s try another example.
+
+What does it really do? It’s late summer, 1969, and I’m in Georgetown waiting for the machinist who balances parts for our (Bill Scott Racing’s) engines to finish so that I can get back to the shop. He says he’ll be an hour or so, and I head out to poke around in the head shops along M Street. Georgetown Leather Design turned into a really posh, expensive outfit eventually, but in those days it was sandals, rolling papers and other long-haired weirdo paraphernalia. My jeans had holes in both front pockets from carrying keys and I couldn’t keep any change smaller than a quarter, so when I saw a pocket-sized leather pouch for $3 in the window, I was sold. I kept that pouch in my right-front pants pocket so long that it finally disintegrated, but there was another item in that window that caught my eye and had an even longer influence on me. The second Whole Earth Catalog, Fall 1969, $4 was deep black with a paste-up image of the “whole earth” and the moon taken from Apollo flights. Apollo 11 had either just landed or was just about to take off and my brief stint at IBM’s Apollo support office had left me hyper-aware of the moon shot. I probably wouldn’t have done more than notice the image otherwise, but since I was going inside to buy the pouch, I thumbed through the tabloid-sized magazine/book/catalog and was hooked. I met Buckminster Fuller, Norbert Weiner, Carl Jung, Hannah Arendt, Joseph Campbell, Olaf Stapleton, Rene Dubos, and that’s just the first few pages of that first WEC (and as far as I could I bought them all). In 1971 there was an article about George Dyson and his baidarkas, with a sidebar about British Columbia and becoming a landed immigrant. In April, 1972 we were there, and the rest is history. Did it have anything to do with the crankshaft and flywheel not being ready, and Georgetown Leather Design putting the pouch and the WEC both in the window, or was that a coincidence (whatever that means)?
+
+Over those sixty years between that first taste of Lao Tzu and today, those bursting-ins or it (or those coincidences) have happened often enough for my imagining that there’s a pattern. It happens, I’m exposed to a new metaphor for thinking about it, and then Life Happens and I return to unadulterated Consensus Reality until the next time that it happens. I say “a new metaphor” because it’s pretty clear now from the neurosciences that each of us lives in a “constructed reality” – that while we each seem to be constructing a reality that’s close enough to our friends’ and neighbors’ that we can all talk about “blue” and most of the time safely drive our cars, what we see and hear and apprehend with our senses is largely created “inside” us. Insofar as we are our “consciousness” we operate within a limited frequency of electromagnetic energy, such that we sense things as being “hard” and “wet” and “bright” and “dark” and a second is a very short time and a year is very long. What exists outside those limits, and those limits as they are expanded by our various physical and mental tools, are things that for the most part “we can’t talk about” because our languages have been developed for other purposes. And yet…and yet at least some of us are certain that there are other…what, other worlds? No, that’s too “consensus reality” – other dimensions? No, that’s still too…something. There’s something else, something more, and we use metaphor to talk about what we can’t talk about because we have no choice and that’s the best we can do.
+
+Whatever that is, I can’t help but feel/believe/think/whatever-verb/ that it’s It in some respect and it breaks through now and then. Maybe one more (extended) example:
+
+It’s 1990. I had my last drink a year ago and a friend suggested that I might like Emmet Fox’s Sermon on The Mount – that it had been a staple of AA since the earliest days. I got a copy, got most of his other books, and was greatly influenced by them for many years. It’s almost twenty years later – 2009. I describe Fox’s interpretation of the Garden of Eden story to Valerie, and she asks, “How did he know that?” I decide to research Fox’s backstory, and discover Thomas Troward. Fast forward another nine years to this February. I’ve looked at Troward’s “Bible Mystery, Bible Meaning” again and wonder whether anyone else is thinking about what he said about what Jesus taught. Googling “Troward Christianity” I discover a site devoted to a fifty-two-year-old book The Shining Stranger” and whoops! It’s happened again. Or I’m desperately trying to find meaning in an otherwise absurd world – am I right, or is Sartre?
+
+Enough said for now.
 
 ## What About Thomas Troward?
 Thu, 12 Apr 2018
@@ -656,6 +688,13 @@ History covers a long time and a lot of absurdity, but this is pretty clearly tr
 The, 12 Jun 2019
 
 “GOD is therefore truly the Father, inasmuch as He is Father of truth; He does not create the Son from outside Himself, but generates Him from His own substance. That is to say, being wise, He generates Wisdom, being just, Justice, be eternal, the Eternal, being immortal, the Immortal, being invisible, the Invisible. Because He is Light, He generates Brightness, and because He is Mind, the Word.”—Rufinus: *Commentary on the Apostles’ Creed*, 4. (5th cent.)
+
+## The Artist’s Role
+Wed, 27 Jun 2018
+
+“The artist’s role is to complete the circle that started with Adam and Eve. Her charge is to lead us back to Eden, not in the state of unconsciousness and dependence in which we stood before the Fall, but in full awareness of ourselves and our station, our mortality, and of the greater world around and within us.
+
+“The artist’s role is to make the unconscious conscious.”—[Steven Pressfield](https://stevenpressfield.com/2018/06/the-artists-journey-20/)
 
 ## Kings, Silverware and Olympus
 Tue, 17 Jul 2018
