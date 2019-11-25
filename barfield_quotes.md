@@ -1,6 +1,7 @@
 ## Owen Barfield > Quotes
 [Home](./index.html)
 
+## Imagination
 
 “Imagination is not, as some poets have thought, simply synonymous with good. It may be either good or evil. As long as art remained primarily mimetic, the evil which imagination could do was limited by nature. Again, as long as it was treated as an amusement, the evil which it could do was limited in scope. But in an age when the connection between imagination and figuration is beginning to be dimly realized, when the fact of the directionally creator relation is beginning to break through into consciousness, both the good and the evil latent in the working of imagination begin to appear unlimited. We have seen in the Romantic movement an instance of the way in which the making of images may react upon the collective representations. It is a fairly rudimentary instance, but even so it has already gone beyond the dreams and responses of a leisured few. The economic and social structure of Switzerland is noticeably affected by its tourist industry, and that is due only in part to increased facilities of travel. It is due not less to the condition that (whatever may be said about their ‘particles’) the mountains which twentieth-century man sees are not the mountains which eighteenth-century man saw.
 
@@ -9,14 +10,22 @@ It may be objected that this is a very small matter, and that it will be a long 
 We should remember this, when appraising the aberrations of the formally representational arts. Of course, in so far as these are due to affectation, they are of no importance. But in so far as they are genuine, they are genuine because the artist has in some way or other experienced the world he represents. And in so far as they are appreciated, they are appreciated by those who are themselves willing to make a move towards seeing the world in that way, and, ultimately therefore, seeing that kind of world. We should remember this, when we see pictures of a dog with six legs emerging from a vegetable marrow or a woman with a motorbicycle substituted for her left breast.” 
 ― Owen Barfield, *Saving the Appearances*
 
+## Obvious
+
 “The obvious is the hardest thing of all to point out to anyone who has genuinely lost sight of it.” 
 ― Owen Barfield, *Worlds Apart*
+
+## Progress -> Crisis
 
 “When the velocity of progress increases beyond a certain point, it becomes indistinguishable from crisis.” 
 ― Owen Barfield, *Night Operation*
 
+## Danger of Language
+
 “We can only cope with the dangers of language if we recognize that language is by nature magical and therefore highly dangerous.” 
 ― Owen Barfield, *History in English Words*
+
+## Repetition
 
 “All conscious nature has experiences of pleasure and pain. Man alone can deliberately will the repetition of an experience. And repetition, experienced as such, is at the heart, for good and evil, of his faculty of reasoning, and thus makes possible his language, his art, his morality, and indeed his humanity. Yet it is the enemy of life, for repetition is itself the principle, not of life but of mechanism.” 
 ― Owen Barfield, *Orpheus: A Poetic Drama*
