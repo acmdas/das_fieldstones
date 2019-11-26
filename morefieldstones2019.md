@@ -1546,3 +1546,8 @@ Tuesday, 26 November, 2019
 
 “All my training was surrealism. I still feel very close to the surrealists. But Capa was extremely sound. So I never mentioned surrealism. That’s my private affair. And what I want, what I’m looking for — that’s my business. Otherwise I never would have an assignment. Journalism is a way of noting — well, some journalists are wonderful writers and others are just putting facts one after the other. And facts are not interesting. It’s a point of view on facts which is important, and in photography it is the evocation. Some photographs are like a Chekhov short story or a Maupassant story. They’re quick things and there’s a whole world in them.”—Henri Cartier-Bresson, 1971 interview with Sheila Turner-Seed
 
+## The Rage
+Tuesday, 26 November, 2019
+
+“He had the rage without the anger.”—John Mayer at Stevie Ray Vaughn’s induction in the R&R Hall of Fame
+
