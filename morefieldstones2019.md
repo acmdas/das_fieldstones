@@ -1539,3 +1539,10 @@ Sunday, 24 November, 2019
 
 “Imagine that everyone in the older age brackets had to write two books—’Smart Things I Have Done in My Life’ and ‘Dumb Things I Have Done in My Life.’ Be frank. Which book do you think would be bigger? Even some of the smart things we did were a result of having done dumb things before and suffered the consequences.”—[Thomas Sowell](https://townhall.com/columnists/thomassowell/2004/12/06/random-thoughts-n996213)
 
+## Facts are not interesting
+Tuesday, 26 November, 2019
+
+“I’m not interested in documenting. Documenting is extremely dull and I’m a very bad reporter. When I had an exhibit at the Museum of Modern Art in 1946, my friend, Robert Capa, told me, “Henri, be very careful. You must not have a label of a surrealist photographer. If you do, you won’t have an assignment and you’ll be like a hothouse plant. Do whatever you like, but the label should be ‘photojournalist.’ ”
+
+“All my training was surrealism. I still feel very close to the surrealists. But Capa was extremely sound. So I never mentioned surrealism. That’s my private affair. And what I want, what I’m looking for — that’s my business. Otherwise I never would have an assignment. Journalism is a way of noting — well, some journalists are wonderful writers and others are just putting facts one after the other. And facts are not interesting. It’s a point of view on facts which is important, and in photography it is the evocation. Some photographs are like a Chekhov short story or a Maupassant story. They’re quick things and there’s a whole world in them.”—Henri Cartier-Bresson, 1971 interview with Sheila Turner-Seed
+
