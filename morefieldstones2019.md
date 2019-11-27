@@ -4,11 +4,11 @@
 ## What&#039;s the Matter?
 Fri, 11 Jan 2019
 
-&ldquo;A naive understanding of materialism attributes to it a naive understanding of matter.  Matter, common sense says, is more or less the way it appears to us in ordinary experience.  It is solid, colored stuff that always tastes, smells, sounds, and feels a certain way.  Materialism, on a naÃ¯ve understanding, is the view that everything that exists is like that.  Even unobservable particles are assumed to be tiny solid, colored objects that have their own tastes, smells, sounds, and feels to them.  Like little stones or marbles.
+“A naive understanding of materialism attributes to it a naive understanding of matter.  Matter, common sense says, is more or less the way it appears to us in ordinary experience.  It is solid, colored stuff that always tastes, smells, sounds, and feels a certain way.  Materialism, on a naïve understanding, is the view that everything that exists is like that.  Even unobservable particles are assumed to be tiny solid, colored objects that have their own tastes, smells, sounds, and feels to them.  Like little stones or marbles.
   
-&ldquo;Of course, this is all wrong.&rdquo;&mdash;[Edward Feser](http://edwardfeser.blogspot.com/2019/01/materialism-subverts-itself.html)
+“Of course, this is all wrong.”—[Edward Feser](http://edwardfeser.blogspot.com/2019/01/materialism-subverts-itself.html)
 
-A pretty &ldquo;Barfieldian&rdquo; statement for someone who seems determined to ignore Barfield, even when his name is mentioned dozens of times by his commenters. Well, &lsquo;philosophers&rsquo; are like that.
+A pretty “Barfieldian” statement for someone who seems determined to ignore Barfield, even when his name is mentioned dozens of times by his commenters. Well, ‘philosophers’ are like that.
 
 ## That Antichrist Feeling
 Sun, 13 Jan 2019
@@ -20,10 +20,11 @@ Sun, 13 Jan 2019
 ## Justice or Love
 Sun, 13 Jan 2019
 
-&ldquo;It is going-against a very mainstream&mdash;especially Protestant&mdash;view of Christianity (and the emphasis of the Apostle Paul) when I say Christianity is not&mdash;or is hardly at all&mdash;about justice.
-&ldquo;Indeed, quite the opposite: the promise of Christ is that salvation comes to all who follow him in love&mdash;and that is a massive short-circuit of anything like justice.&rdquo;&mdash;[Bruce Charlton](http://charltonteaching.blogspot.com/2019/01/christianity-is-not-much-about-justice.html)
+“It is going-against a very mainstream&mdash;especially Protestant&mdash;view of Christianity (and the emphasis of the Apostle Paul) when I say Christianity is not&mdash;or is hardly at all&mdash;about justice.
 
-Reminds me of the AA saying, &ldquo;Good thing that God&rsquo;s love is greater than His sense of justice&mdash;I&rsquo;d hate to think where I&rsquo;d be if I got what I deserve!&rdquo;
+“Indeed, quite the opposite: the promise of Christ is that salvation comes to all who follow him in love—and that is a massive short-circuit of anything like justice.”—[Bruce Charlton](http://charltonteaching.blogspot.com/2019/01/christianity-is-not-much-about-justice.html)
+
+Reminds me of the AA saying, “Good thing that God’s love is greater than His sense of justice—I’d hate to think where I’d be if I got what I deserve!”
 
 ## Modern Lit
 Sun, 13 Jan 2019
@@ -138,7 +139,7 @@ Wed, 30 Jan 2019
 
 &ldquo;And what is the function, or the aim, of Ahriman?
 
-&ldquo;You must distinguish the function from the aim. It is the aims of both beings that we are at present concerned with. Their aim is to oppose those whom it will suffice for the present to call the true gods; but their <em>function</em> is to serve these gods against their will, and by means of that very opposition. Do not take this lightly, or repeat it glibly. The aim of Ahriman is to anticipate the future, but which can only appear in the present as a wicked caricature. In pursuit of this aim he will persuade you, if he can, to eradicate the past instead of transforming it. He abhors tradition. History is his bane. He operates, in the present age, principally in the field of mind, leaving the feelings for Lucifer to exploit. He freezes. His purpose is to destroy everything in human thinking which depends on a certain warmth, to replace wonder by sophistication, courtesy by vulgarity, understanding by calculation, imagination by statistics.&rdquo;&mdash;Owen Barfield <em>Unancestral Voice</em>
+&ldquo;You must distinguish the function from the aim. It is the aims of both beings that we are at present concerned with. Their aim is to oppose those whom it will suffice for the present to call the true gods; but their <em>function</em> is to serve these gods against their will, and by means of that very opposition. Do not take this lightly, or repeat it glibly. The aim of Ahriman is to anticipate the future, but which can only appear in the present as a wicked caricature. In pursuit of this aim he will persuade you, if he can, to eradicate the past instead of transforming it. He abhors tradition. History is his bane. He operates, in the present age, principally in the field of mind, leaving the feelings for Lucifer to exploit. He freezes. His purpose is to destroy everything in human thinking which depends on a certain warmth, to replace wonder by sophistication, courtesy by vulgarity, understanding by calculation, imagination by statistics.&rdquo;&mdash;Owen Barfield, <em>Unancestral Voice</em>
 
 ## Politics
 Wed, 30 Jan 2019
