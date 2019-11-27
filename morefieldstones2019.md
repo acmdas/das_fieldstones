@@ -177,15 +177,15 @@ Thu, 14 Feb 2019
 ## Seen Online
 Mon, 25 Feb 2019
 
-youngster: "You were online 30 years ago?  Was it different back then?"
+youngster: “You were online 30 years ago?  Was it different back then?”
 
-me: [silence]
+me: *silence*
 
-youngster: "Well?"
+youngster: “Well?”
 
-me: "We didn't pretend we were doing anything important."
+me: “We didn't pretend we were doing anything important.”
 
-David's comment -- well, some of it seemed important—it was for work, after all, but mostly, yeah.
+David's comment: well, some of it seemed important—it was for work, after all, but mostly, yeah.
 
 ## Fathers and Sons
 Fri, 01 Mar 2019
