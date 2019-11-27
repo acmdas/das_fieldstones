@@ -1,5 +1,7 @@
 # More Fieldstones 2009
 
+[Home](./index.html)
+
 ## Fallacy
 Wed, 30 Dec 2009 18:55:38
 
