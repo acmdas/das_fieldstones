@@ -1564,3 +1564,12 @@ Wednesday, 27 November, 2019
 
 h/t to [L.M. Sacasas](https://tinyletter.com/lmsacasas/letters/the-convivial-society-no-26-the-social-unconscious)
 
+## Beginnings in History
+Wednesday, 27 November, 2019
+
+“An irony of studying history is that we often know exactly how a story ends, but have no idea where it began.”—[Morgan Housel](https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-shaping-the-world/)
+
+
+Housel suggests that, if we work backwards from any issue at hand today, eventually we arrive at WWII—that the shift from 1939 to 1945 was fundamental. IMHO, that might be pushed back to 1914, but then we could push back to 1812, or 1789, or ...
+
+For Housel the other Big Things today are demographics, inequality and access to information. I’d probably choose others that are equally “transformational and ubiquetous” but the basic thought is there...my old mantra, “There’s more to it than that.”
