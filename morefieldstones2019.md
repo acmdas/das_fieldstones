@@ -1550,5 +1550,9 @@ Tuesday, 26 November, 2019
 ## The Rage
 Tuesday, 26 November, 2019
 
-“He had the rage without the anger.”—John Mayer at Stevie Ray Vaughn’s induction in the R&R Hall of Fame
+“He had the rage without the anger.”—John Mayer at Stevie Ray Vaughn’s induction into the R&R Hall of Fame
 
+## Society as System
+Wednesday, 27 November, 2019
+
+“Existence in a society that has become a system finds the senses useless precisely because of the very instruments designed for their extension. One is prevented from touching and embracing reality. Further, one is programmed for interactive communication, one’s whole being is sucked into the system. It is this radical subversion of sensation that humiliates and then replaces perception.  We submit ourselves to fantastic degradations of image and sound consumption in order to anesthetize the pain resulting from having lost reality.”—Ivan Illich, "To Honor Jacques Ellul" (1993)
