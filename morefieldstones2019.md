@@ -144,14 +144,14 @@ Wed, 30 Jan 2019
 ## Politics
 Wed, 30 Jan 2019
 
-&ldquo;I am suggesting therefore that what we have to think of, and what future legislation must somehow learn to deal with, is not so much a public opinion that is sharply divided in two as it is two different publics: an A public and a B public. Or that, if this is not already the case, it is rapidly becoming so; and it seems that in the near future it will be so. Anyone who has felt the pulse, so to speak, of the intellectual climate in the English-speaking world, and of the changes that have been occurring in it over the last forty or fifty years, is likely to be impressed by the circumstance that, even at the philosophical level&mdash;even, that is, when a <em>bona fide</em> attempt is made to bridge the communication gap by recognizing the presuppositions, formulating them, debating them&mdash;it generally turns out to be impossible.&rdquo;&mdash;Owen Barfield [*The Politics of Abortion*](http://www.owenbarfield.org/the-politics-of-abortion/)
+&ldquo;I am suggesting therefore that what we have to think of, and what future legislation must somehow learn to deal with, is not so much a public opinion that is sharply divided in two as it is two different publics: an A public and a B public. Or that, if this is not already the case, it is rapidly becoming so; and it seems that in the near future it will be so. Anyone who has felt the pulse, so to speak, of the intellectual climate in the English-speaking world, and of the changes that have been occurring in it over the last forty or fifty years, is likely to be impressed by the circumstance that, even at the philosophical level&mdash;even, that is, when a <em>bona fide</em> attempt is made to bridge the communication gap by recognizing the presuppositions, formulating them, debating them&mdash;it generally turns out to be impossible.&rdquo;&mdash;Owen Barfield, [*The Politics of Abortion*](http://www.owenbarfield.org/the-politics-of-abortion/)
 
 ## Being an Ent
 Sat, 02 Feb 2019
 
-"'And what about yourself?' asked Merry.
+“‘And what about yourself?’ asked Merry.
 
-"'Hoom, hm, I have not troubled about the Great Wars,' said Treebeard; 'they mostly concern Elves and Men. That is the business of Wizards: Wizards are always troubled about the future. I do not like worrying about the future. I am not altogether on anybody's side, because nobody is altogether on my side, if you understand me: nobody cares for the woods as I care for them, not even Elves nowadays...'"&mdash;J.R.R. Tolkien, <em>The Lord of the Rings: The Two Towers</em>, book 3, chapter IV
+“‘Hoom, hm, I have not troubled about the Great Wars,’ said Treebeard; ‘they mostly concern Elves and Men. That is the business of Wizards: Wizards are always troubled about the future. I do not like worrying about the future. I am not altogether on anybody’s side, because nobody is altogether on my side, if you understand me: nobody cares for the woods as I care for them, not even Elves nowadays...’”—J.R.R. Tolkien, *The Lord of the Rings: The Two Towers*, book 3, chapter IV
 
 A [useful meditation](https://fencingbearatprayer.blogspot.com/2016/01/on-taking-sides-or-embracing-my-inner.html)
 
