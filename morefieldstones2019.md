@@ -1597,4 +1597,14 @@ Thursday, 28 November, 2019
 ## The Feynman Method
 Thursday, 28 November, 2019
 
-“Richard Feynman was fond of giving the following advice on how to be a genius. You have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say: *‘How did he do it? He must be a genius!’*”—[Gian-Carlo ](http://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html#feynmann)
+“Richard Feynman was fond of giving the following advice on how to be a genius. You have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say: *‘How did he do it? He must be a genius!’*”—[Gian-Carlo Rota](http://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html#feynmann)
+
+
+## Be Prepared for Old Age
+Thursday, 28 November, 2019
+
+“My late friend Stan Ulam used to remark that his life was sharply divided into two halves. In the first half, he was always the youngest person in the group; in the second half, he was always the oldest. There was no transitional period.
+
+“I now realize how right he was. The etiquette of old age does not seem to have been written up, and we have to learn it the hard way. It depends on a basic realization, which takes time to adjust to. You must realize that, after reaching a certain age, you are no longer viewed as a person. You become an institution, and you are treated the way institutions are treated. You are expected to behave like a piece of period furniture, an architectural landmark, or an incunabulum.
+
+“It matters little whether you keep publishing or not. If your papers are no good, they will say, ‘What did you expect? He is a fixture!’ and if an occasional paper of yours is found to be interesting, they will say, ‘What did you expect? He has been working at this all his life!’ The only sensible response is to enjoy playing your newly-found role as an institution.”—[GianCarlo Rota](http://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html#old-age)
