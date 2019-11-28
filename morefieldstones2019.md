@@ -1583,3 +1583,13 @@ Wednesday, 27 November, 2019
 Thursday, 28 November, 2019
 
 “So: we come to rest with the mysteries... We do not abandon reason, we merely recognize its limitations. We reason to the existence of God, it is revealed to us that His Son was the incarnation, and that such was His love of us that He endured a torture excruciating in pain, and unique in aspect—the God of hosts, mutilated by His own creatures, whom He dies forgiving, loving. Can we do less? Yes, we do less, but must try to do more, until we die.”—William F. Buckley, Jr., *Nearer, My God: An Autobiography of Faith*
+
+## Self-destructing Paper
+Thursday, 28 November, 2019
+
+“The Internet is self destructing paper. A place where anything written is soon destroyed by rapacious competition and the only preservation is to forever copy writing from sheet to sheet faster than they can burn. If it’s worth writing, it’s worth keeping. If it can be kept, it might be worth writing…If you store your writing on a third party site like Blogger, Livejournal or even on your own site, but in the complex format used by blog/wiki software du jour you will lose it forever as soon as hypersonic wings of Internet labor flows direct people’s energies elsewhere. For most information published on the Internet, perhaps that is not a moment too soon, but how can the muse of originality soar when immolating transience brushes every feather?”—Julian Assange, [Self destructing paper](https://www.gwern.net/docs/technology/2007-assange-iq.org.html#Selfdestructingpaper), 5 December, 2006
+
+## Special Knowledge
+Thursday, 28 November, 2019
+
+“Special knowledge can be a terrible disadvantage if it leads you too far along a path you cannot explain anymore.”—Brian Herbert, *Dune: House Harkonnen*
