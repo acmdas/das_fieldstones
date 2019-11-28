@@ -1578,3 +1578,8 @@ For Housel the other Big Things today are demographics, inequality and access to
 Wednesday, 27 November, 2019
 
 “All ages have said and repeated that one should strive to know one's self. This is a strange demand which no one up to now has measured up to and, strictly considered, no one should. With all their study and effort, people are directed to what is outside, to the world about them, and they are kept busy coming to know this and to master it to the extent that their purposes require. How can you come to know yourself? Never by thinking, always by doing. Try to do your duty, and you'll know right away what you amount to. And what is your duty? Whatever the day calls for.”—Johann Wolfgang von Goethe
+
+## Mysteries
+Thursday, 28 November, 2019
+
+“So: we come to rest with the mysteries... We do not abandon reason, we merely recognize its limitations. We reason to the existence of God, it is revealed to us that His Son was the incarnation, and that such was His love of us that He endured a torture excruciating in pain, and unique in aspect—the God of hosts, mutilated by His own creatures, whom He dies forgiving, loving. Can we do less? Yes, we do less, but must try to do more, until we die.”—William F. Buckley, Jr., *Nearer, My God: An Autobiography of Faith*
