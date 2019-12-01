@@ -1608,3 +1608,29 @@ Thursday, 28 November, 2019
 “I now realize how right he was. The etiquette of old age does not seem to have been written up, and we have to learn it the hard way. It depends on a basic realization, which takes time to adjust to. You must realize that, after reaching a certain age, you are no longer viewed as a person. You become an institution, and you are treated the way institutions are treated. You are expected to behave like a piece of period furniture, an architectural landmark, or an incunabulum.
 
 “It matters little whether you keep publishing or not. If your papers are no good, they will say, ‘What did you expect? He is a fixture!’ and if an occasional paper of yours is found to be interesting, they will say, ‘What did you expect? He has been working at this all his life!’ The only sensible response is to enjoy playing your newly-found role as an institution.”—[GianCarlo Rota](http://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html#old-age)
+
+## Everyone and Noone Wants to Save the World
+Saturday, 30 November, 2019
+
+“When the world extended to one’s surrounding hills and mountains and over them was only legend, saving the world was approchable and a natural activity to all of independent character.
+
+“You do not need to justify the possession of these noble instincts. Such attributes are normally distributed. You have a constellation of these attributes and that makes you who you are. Recognise that the substantial ones are invariant.
+
+“You must satisfy your invariant instincts or you will be at odds with your own character. It is only when we are not at odds with our basic makeup that we can find life meaningful.
+
+“To exercise your instinct for saving the world, requires saving what you perceive to be the world.
+
+“Being modern, educated and wordly, the world you perceive is immense and this is disempowering compared to the valley world of your ancestors where your feelings were forged and where saving 10 people saved 10% of the “world”’s population.
+
+“Here lays the difficulty in actualising your character. Your perception is of a world so vast that that you can not envisage your actions making a meaningful difference.
+
+“People try to fool themselves and others into believing that one can “think globally and act locally”, however to anyone with a sense of proportion (not most people, btw) thinking globaly makes acting locally seem to be a marginal activity. It's not setting the world to rights.
+
+“To meaningfully interact with the world, you have to either constrain your perception of what it is back to valley proportions by eschewing all global information (most of us here have engaged on just the opposite course which is what has provoked this discussion), losing your sense of perspective, or start seriously engaging with the modern perception of the world.
+
+“That latter path can be hard to find, because it is only satisfied by creating ideas or inventions that have a global impact. Perhaps I have found one, and there's others out there, but for most people of your character a combination of eschewing knowledge of those parts of the world they can't change, and robust engagement with the parts they can is probably optimal.
+
+“Do not be concerned about when one is to do good, who defines good, etc. Act in the way you do because to do otherwise would to be at odds would to be at odds with yourself. Being on a path true to your character carries with it a state of flow, where the thoughts about your next step come upon waking, unbidden, but welcome.
+
+“I support similarly minded people, not because they are moral agents, but because they have common cause with my own feelings and dreams.”—[Julian Assange](https://web.archive.org/web/20071020051936/http://iq.org/#Everyoneandnoonewantstosavetheworld)
+
