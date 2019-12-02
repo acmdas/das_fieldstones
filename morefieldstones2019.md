@@ -1634,3 +1634,23 @@ Saturday, 30 November, 2019
 
 “I support similarly minded people, not because they are moral agents, but because they have common cause with my own feelings and dreams.”—[Julian Assange](https://web.archive.org/web/20071020051936/http://iq.org/#Everyoneandnoonewantstosavetheworld)
 
+## Healthy Media Consumption
+Monday, 03 December, 2019
+
+  * I watch zero cable news.
+
+  * I don’t read Twitter.
+
+  * I use Facebook only to keep up with people who I care about personally. I tell myself to never, never comment on or share political posts on Facebook.
+
+  * On my blog, I do not comment on any story I come across for at least 48 hours. Often, this means that I do not comment at all, because many stories do not stay in the news cycle more than two days. I almost never publish any post immediately. Instead, I schedule posts several days ahead. I am trying to make sure that I engage system 2 (sober and reflective) rather than system 1 (emotional and instinctive).
+
+  * I try to give priority to long-form reading: books, essays, and journal articles. I also give priority to my own writing. Still, I need to get better about limiting the time that I spend on short-term reading.
+
+  * I believe that it is a good idea to keep all devices in airplane mode for a 24-hour period once a week. I have difficulty executing this one, particularly when I travel.
+
+  * I spend at least an hour a day doing physical activity (for me, it’s walking or biking or working out in the basement) accompanied by nothing but my thoughts and daydreams.
+
+  * My sleep-time ritual is to curl up with a physical book or journal.
+
+—[Arnold King](http://www.arnoldkling.com/blog/essay-backup-my-tips-for-healthy-media-consumption/)
