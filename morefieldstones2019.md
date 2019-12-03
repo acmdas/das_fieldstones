@@ -1635,7 +1635,7 @@ Saturday, 30 November, 2019
 “I support similarly minded people, not because they are moral agents, but because they have common cause with my own feelings and dreams.”—[Julian Assange](https://web.archive.org/web/20071020051936/http://iq.org/#Everyoneandnoonewantstosavetheworld)
 
 ## Healthy Media Consumption
-Monday, 03 December, 2019
+Monday, 02 December, 2019
 
   * I watch zero cable news.
 
@@ -1654,3 +1654,8 @@ Monday, 03 December, 2019
   * My sleep-time ritual is to curl up with a physical book or journal.
 
 —[Arnold King](http://www.arnoldkling.com/blog/essay-backup-my-tips-for-healthy-media-consumption/)
+
+## Doodzwijgen
+Tuesday, 03 December, 2019
+
+“The Dutch language knows the priceless verb ‘doodzwijgen’, literally ‘kill something by keeping silent about it’. This has been a favorite tactic of European Brahmandarins for a long time—the near-media silence on the continuing Yellow Jackets protests is only the most recent example.”—[Nitay Arbel](https://accordingtohoyt.com/2019/10/08/brahmandarins-guest-post-by-nitay-arbel/)
