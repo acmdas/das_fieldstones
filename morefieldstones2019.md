@@ -1665,4 +1665,13 @@ Tuesday, 03 December, 2019
 
 “When we say ‘Humanism’ today we are invariably talking blithering nonsense. The actual Humanist tradition was, like Erasmus himself, a mixed blessing, and finally a disaster. Our modern, atheist, ‘humanist’ creed is, by contrast, unmixed: a contumacious disaster from beginning to end. It carries none of the sincerity and well-intended zeal of the late mediaeval reformers, who were dedicated not to the overthrow of the Church, but to her renovation. They were more, not less, eager to enforce her morals, her faith, her splendour; to exalt her Christ. Only their vanity stood in their way.”—[David Warren](https://www.davidwarrenonline.com/2019/12/03/remembering-humanism/)
 
+## Ego/Self
+Wednesday, 04 December, 2019
 
+“The primary emotion that the ego lives by is fear.
+
+“The primary emotion that the self lives by is love.
+
+“What then, is Resistance?
+
+“Resistance is the weapon the ego uses to prevent the individual from seating her identity in the Self.”—[Steven Pressfield](https://stevenpressfield.com/2019/12/ego-and-self-and-resistance/)
