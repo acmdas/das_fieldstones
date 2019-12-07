@@ -1680,3 +1680,8 @@ Wednesday, 04 December, 2019
 Friday, 06 December 2019
 
 “Everything rests on a few ideas that are fearsome and cannot be looked at directly.”—Paul Valery
+
+## Made by Books
+Saturday, 07 December 2019
+
+“Oscar Wilde’s mot—that men are made by books rather than books by men—was certainly not pure nonsense; there is a very real sense, humiliating as it may seem, in which what we generally venture to call our feelings are really Shakespeare’s ‘meaning’.”—Owen Barfield, *Poetic Diction: a Study in Meaning*, (London: Faber & Gwyer, 1928. Third Edition. Middleton, CN: Wesleyan UP, 1973) 136–37
