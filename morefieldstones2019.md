@@ -1675,3 +1675,8 @@ Wednesday, 04 December, 2019
 “What then, is Resistance?
 
 “Resistance is the weapon the ego uses to prevent the individual from seating her identity in the Self.”—[Steven Pressfield](https://stevenpressfield.com/2019/12/ego-and-self-and-resistance/)
+
+## A few ideas
+Friday, 06 December 2019
+
+“Everything rests on a few ideas that are fearsome and cannot be looked at directly.”—Paul Valery
