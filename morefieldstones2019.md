@@ -1702,3 +1702,8 @@ Monday, 09 December 2019
 “A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.”—John Gall
 
 Although known as “Gall’s Law” to software development gurus like Grady Booch and Ken Orr, Gall was a pediatrician and primarily interested in systems that support child rearing. in 1975 he wrote *Systemantics: How Systems Work and Especially How They Fail*. I’m inclined to think that it’s applicable to situations where those in power want to replace gradually developed economic or political systems with “more efficient” versions.
+
+## Unlearning
+Monday, 09 December 2019
+
+“The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.”—[Paul Graham](http://paulgraham.com/lesson.html)
