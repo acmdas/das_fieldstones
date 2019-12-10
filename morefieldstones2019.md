@@ -1707,3 +1707,9 @@ Although known as “Gall’s Law” to software development gurus like Grady Bo
 Monday, 09 December 2019
 
 “The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.”—[Paul Graham](http://paulgraham.com/lesson.html)
+
+## Sunlight
+Tuesday, 10 December 2019
+
+“It is, after all, not necessary to fly right into the middle of the sun, but it is necessary to crawl to a clean little spot on earth where the sun sometimes shines and one can warm oneself a little.”—Franz Kafka *Letter to my Father*
+
