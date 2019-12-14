@@ -1713,3 +1713,7 @@ Tuesday, 10 December 2019
 
 “It is, after all, not necessary to fly right into the middle of the sun, but it is necessary to crawl to a clean little spot on earth where the sun sometimes shines and one can warm oneself a little.”—Franz Kafka *Letter to my Father*
 
+## Materialism
+Saturday, 14 December 2019
+
+“… Implicit Materialism—that is, an underlying, unexpressed, conception that material causes explain all things—survives. Men do not commonly say, nowadays, as many did not so long ago, that man is to be explained as a machine or a set of chemical formulae. They no longer, in any great numbers, deny flatly the presence the presence of immaterial factors in the universe. But when they speak of life or death, or when they propose an explanation of anything, they imply, often without knowing it, that all of which they talk is material: that life is a material process, death but the cessation of that process, and that any human occasion—for instance any social development—can be completely understood when it is stated in terms of material things.”—Hilaire Belloc: [*Survivals and New Arrivals*](https://oldthunderbelloc.blogspot.com/2014/10/survivals-and-new-arrivals-i-introductory.html)
