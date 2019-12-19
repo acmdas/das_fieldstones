@@ -1732,3 +1732,8 @@ Tuesday, 17 December 2019
 Wednesday, 18 December 2019
 
 “Political conflicts are merely surface manifestations. If conflicts arise you may be sure that certain powers intend to keep this conflict under operation since they hope to profit from the situation. To concern yourself with surface political conflicts is to make the mistake of the bull in the ring, you are charging the cloth. That is what politics is for, to teach you the cloth. Just as the bullfighter teaches the bull, teaches him to follow, obey the cloth.”—William S. Burroughs
+
+## Hardware Gains
+Thursday, 19 December 2019
+
+“It is a testament to the genius of the software industry that it has neutralized the hardware gains of the last half century.”—John Gregg
