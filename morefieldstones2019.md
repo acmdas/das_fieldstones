@@ -1727,3 +1727,8 @@ Tuesday, 17 December 2019
 Tuesday, 17 December 2019
 
 “At the center of our being is a point of nothingness which is untouched by sin and by illusion, a point of pure truth, a point or spark which belongs entirely to God, which is never at our disposal, from which God disposes our lives, which is inaccessible to the fantasies of our own mind or the brutalities of our own will. This little point of nothingness and of absolute poverty is the pure glory of God in us. It is, so to speak, His name written in us…”—Thomas Merton, *Conjectures of a Guilty Bystander*
+
+## Conflicts
+Wednesday, 18 December 2019
+
+“Political conflicts are merely surface manifestations. If conflicts arise you may be sure that certain powers intend to keep this conflict under operation since they hope to profit from the situation. To concern yourself with surface political conflicts is to make the mistake of the bull in the ring, you are charging the cloth. That is what politics is for, to teach you the cloth. Just as the bullfighter teaches the bull, teaches him to follow, obey the cloth.”—William S. Burroughs
