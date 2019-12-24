@@ -1747,3 +1747,10 @@ Friday, 20 December 2019
 Sunday, 22 December 2019
 
 “I was never more hated than when I tried to be honest.””—Ralph Ellison, *Invisible Man *
+
+## Inversion
+Tuesday, 24 December 2019
+
+“In the new environment (post WWII, ed.), being “working class” became steadily less of a purchasing-power distinction and more one of culture, affiliation, and educational limits on upward mobility. A plumber might make more than an advertising copywriter per hour, but the copywriter could reasonably hope to run his own ad agency—or at least a corporate marketing department—some day. The plumber remained “working class” because, lacking his A-level, he could never hope to join the managerial elite.
+
+“At the same time, state socialism was becoming increasingly appealing to the managerial and upper classes because it offered the prospect not of revolution but of a managed economy that would freeze power relationships into a shape they were familiar with and knew how to manipulate. This came to be seen as greatly preferable to the chaotic dynamism of unrestrained free markets—and to upper-SES people who every year feared falling into poverty less but losing relative status more, it really was preferable.”—[Eric Raymond](http://esr.ibiblio.org/?p=8526)
