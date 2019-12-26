@@ -1754,3 +1754,11 @@ Tuesday, 24 December 2019
 “In the new environment (post WWII, ed.), being “working class” became steadily less of a purchasing-power distinction and more one of culture, affiliation, and educational limits on upward mobility. A plumber might make more than an advertising copywriter per hour, but the copywriter could reasonably hope to run his own ad agency—or at least a corporate marketing department—some day. The plumber remained “working class” because, lacking his A-level, he could never hope to join the managerial elite.
 
 “At the same time, state socialism was becoming increasingly appealing to the managerial and upper classes because it offered the prospect not of revolution but of a managed economy that would freeze power relationships into a shape they were familiar with and knew how to manipulate. This came to be seen as greatly preferable to the chaotic dynamism of unrestrained free markets—and to upper-SES people who every year feared falling into poverty less but losing relative status more, it really was preferable.”—[Eric Raymond](http://esr.ibiblio.org/?p=8526)
+
+## Insecure Bluster
+Thursday, 26 December 2019
+
+“Joseph Carter, in the article cited above, finds it natural to say, without blinking an eye, ‘As a materialist, I think …’—as if ‘material’ and ‘matter’ were perfectly routine concepts. Yet I doubt whether any philosopher of science today would be so rash as to venture a confident definition of ‘matter’. Certainly our technological know-how does little to lend it content.
+
+“Much the same can be said of the terms often considered basic to science, such as energy, space, force, and time. Feynman himself remarked in his famous lectures that ‘we have no knowledge of what energy is’. Anyone who senses the disquieting shadow of the unknown enveloping our science will hardly pronounce upon the true nature of the ‘material’ world. To do so might only suggest a tendency toward insecure bluster and a habit of uncritical thinking.”[Stephen L. Talbott](https://natureinstitute.org/txt/st/org/comm/ar/2018/meaning_33.htm)
+
