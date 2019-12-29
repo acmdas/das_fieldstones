@@ -12,4 +12,6 @@ Now there is usually little connection between the physical causes of a thing an
 
 Up to now even those who reject materialism as an ultimate philosophy have been content to accept the limitations which positivism seeks to impose on the sphere of knowledge. True, they say, the spiritual values which constitute the true meaning of life can be dimly felt and are, in fact, what lie behind the symbols of religion and the mysterious phenomena of art. But we can never hope to know anything about them. There are—and this is often suggested with a certain unction—two kinds of truth: the scientific kind which can be demonstrated experimentally and which is limited to the physical world and, on the other side, the “truths” of mystical intuition and revelation, which can be felt and suggested but never known or scientifically stated. And if these seem to be incompatible with the truths of science—well, perhaps that is all the better. “The heart has its reasons whereof reason knoweth not.”
 
-In this way for a number of years
+In this way for a number of years a precarious equilibrium may be said to have been maintained between a meaningless and mechanical world of physical events described by science and some kind of ulterior spiritual significance which that world might be supposed to conceal and with which it had little if anything to do. The idealist philosophies of the nineteenth century made it their business to maintain this equilibrium by rationalizing it as best they could.
+
+
