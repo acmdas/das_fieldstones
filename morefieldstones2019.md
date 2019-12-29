@@ -1762,3 +1762,7 @@ Thursday, 26 December 2019
 
 “Much the same can be said of the terms often considered basic to science, such as energy, space, force, and time. Feynman himself remarked in his famous lectures that ‘we have no knowledge of what energy is’. Anyone who senses the disquieting shadow of the unknown enveloping our science will hardly pronounce upon the true nature of the ‘material’ world. To do so might only suggest a tendency toward insecure bluster and a habit of uncritical thinking.”[Stephen L. Talbott](https://natureinstitute.org/txt/st/org/comm/ar/2018/meaning_33.htm)
 
+## Warning Tags
+Sunday, 29 December 2019
+
+“Well over two thousand years ago, science as we know it was offered to the West with a warning tag attached to it: Use this, but don’t be tricked by it. And of course, impatient little children that we are, we tore off the tag and ignored the warning.”—Peter Kingsley, *Reality* (2003).
