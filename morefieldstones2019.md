@@ -1760,7 +1760,7 @@ Thursday, 26 December 2019
 
 “Joseph Carter, in the article cited above, finds it natural to say, without blinking an eye, ‘As a materialist, I think …’—as if ‘material’ and ‘matter’ were perfectly routine concepts. Yet I doubt whether any philosopher of science today would be so rash as to venture a confident definition of ‘matter’. Certainly our technological know-how does little to lend it content.
 
-“Much the same can be said of the terms often considered basic to science, such as energy, space, force, and time. Feynman himself remarked in his famous lectures that ‘we have no knowledge of what energy is’. Anyone who senses the disquieting shadow of the unknown enveloping our science will hardly pronounce upon the true nature of the ‘material’ world. To do so might only suggest a tendency toward insecure bluster and a habit of uncritical thinking.”[Stephen L. Talbott](https://natureinstitute.org/txt/st/org/comm/ar/2018/meaning_33.htm)
+“Much the same can be said of the terms often considered basic to science, such as energy, space, force, and time. Feynman himself remarked in his famous lectures that ‘we have no knowledge of what energy is’. Anyone who senses the disquieting shadow of the unknown enveloping our science will hardly pronounce upon the true nature of the ‘material’ world. To do so might only suggest a tendency toward insecure bluster and a habit of uncritical thinking.”—[Stephen L. Talbott](https://natureinstitute.org/txt/st/org/comm/ar/2018/meaning_33.htm)
 
 ## Warning Tags
 Sunday, 29 December 2019
