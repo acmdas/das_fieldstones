@@ -1766,3 +1766,18 @@ Thursday, 26 December 2019
 Sunday, 29 December 2019
 
 “Well over two thousand years ago, science as we know it was offered to the West with a warning tag attached to it: Use this, but don’t be tricked by it. And of course, impatient little children that we are, we tore off the tag and ignored the warning.”—Peter Kingsley, *Reality* (2003).
+
+## Quotes
+Tuesday, 31 December 2019
+
+Quotes from Kevin Kelly’s [Cool Tools](https://kk.org/cooltools/) site:
+
+- “The most courageous decision that you can make each day is to be in a good mood.”—Voltaire
+
+- “Let everything happen to you: beauty and terror. Just keep going. No feeling is final.”—Rainer Maria Rilke
+
+- “A good marriage is one in which each spouse secretly thinks he or she got the better deal, and this is true also of our friendships.”—Anne Lamott
+
+- “Things usually happen around us, not to us.”—Unknown, found on Reddit
+
+- “We suffer more in imagination than in reality.”—Seneca
