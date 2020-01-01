@@ -17,3 +17,4 @@ Wednesday, 1 January 2020
 “The old man next stepped toward the Spartan section. As soon as his foot crossed the margin, every single Spartan stood, offering the gentleman his seat.
 
 “At this, the entire stadium burst into applause. The ovation lasted for minutes. When the cheers finally died down, one spectator turned to his neighbor and observed, ‘See? The Greeks all know what is right. But only the Spartans practice it.’”—[Steven Pressfield](https://stevenpressfield.com/2020/01/2-notes-for-the-new-year/)
+
