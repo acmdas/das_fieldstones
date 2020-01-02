@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Cognitive Bias
+Thursday, 02 January 2020
+
+“Intelligent and educated people are less likely to learn from their mistakes, for instance, or take advice from others. And when they do err, they are better able to build elaborate arguments to justify their reasoning, meaning that they become more and more dogmatic in their views.”—David Robson, *The Intelligence Trap*
+
 ## Dysrationalia
 Thursday, 02 January 2020
 
