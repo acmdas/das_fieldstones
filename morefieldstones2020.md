@@ -1,8 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Cognitive Bias
+Thursday, 02 January 2020
+
+“We have an implicit [but wrong] assumption that intelligence and rationality go together—or else why would we be so surprised when smart people do foolish things?”—[Keith E. Stanovich](https://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/)
+
 ## Practice It
-Wednesday, 1 January 2020
+Wednesday, 01 January 2020
 
 “The Games sacred to Zeus were held every four years at the city of Olympia in Greece. The stadium is still there. You can walk through the tunnel that the athletes took to enter the arena and even wriggle your toes into the stone grooves that served in ancient times as starting blocks for the races.
 
@@ -17,4 +22,3 @@ Wednesday, 1 January 2020
 “The old man next stepped toward the Spartan section. As soon as his foot crossed the margin, every single Spartan stood, offering the gentleman his seat.
 
 “At this, the entire stadium burst into applause. The ovation lasted for minutes. When the cheers finally died down, one spectator turned to his neighbor and observed, ‘See? The Greeks all know what is right. But only the Spartans practice it.’”—[Steven Pressfield](https://stevenpressfield.com/2020/01/2-notes-for-the-new-year/)
-
