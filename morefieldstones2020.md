@@ -1,10 +1,12 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
-## Cognitive Bias
+## Dysrationalia
 Thursday, 02 January 2020
 
-“We have an implicit [but wrong] assumption that intelligence and rationality go together—or else why would we be so surprised when smart people do foolish things?”—[Keith E. Stanovich](https://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/)
+“We have an implicit [but wrong] assumption that intelligence and rationality go together—or else why would we be so surprised when smart people do foolish things?”
+
+“I coined the term “dysrationalia” (analogous to “dyslexia”), meaning the inability to think and behave rationally despite having adequate intelligence, to draw attention to a large domain of cognitive life that intelligence tests fail to assess.”—[Keith E. Stanovich](https://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/)
 
 ## Practice It
 Wednesday, 01 January 2020
