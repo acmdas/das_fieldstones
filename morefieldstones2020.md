@@ -1,6 +1,28 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Muggeridge’s Law
+Thursday, 02 January 2020
+
+“Satire can never compete with real life for its sheer absurdity.”
+
+“While Malcolm Muggeridge was the editor of Punch, it was announced that Khrushchev and Bulganin were coming to England. Muggeridge hit upon the idea of a mock itinerary, a lineup of the most ludicrous places the two paunchy pear-shaped little Soviet leaders could possibly be paraded through during the solemn process of a state visit. Shortly before press time, half the feature had to be scrapped. It coincided exactly with the official itinerary, just released, prompting Muggeridge to observe: We live in an age in which it is no longer possible to be funny. There is nothing you can imagine, no matter how ludicrous, that will not promptly be enacted before your very eyes, probably by someone well known.”—Tom Wolfe, “Stalking the Billion-Footed Beast: A literary manifesto for the new social novel”, *Harpers*, November, 1989
+
+## Sowell’s Law
+Thursday, 02 January 2020
+
+“In human problems, there are no solutions, only trade-offs.”
+
+## Sumner’s Law
+Thursday, 02 January 2020
+
+“The type and formula of most schemes of philanthropy or humanitarianism is this: A and B put their heads together to decide what C shall be made to do for D. The radical vice of all these schemes, from a sociological point of view, is that C is not allowed a voice in the matter, and his position, character, and interests, as well as the ultimate effects on society through C’s interests, are entirely overlooked. […A and B] ignore entirely the source from which they must draw all the energy which they employ in their remedies, and they ignore all the effects on other members of society than the ones they have in view. […T]he State cannot get a cent for any man without taking it from some other man, and this latter must be a man [C] who has produced and saved it. This latter is the Forgotten Man.”—William Graham Sumner, *The Forgotten Man*
+
+## Heinlein’s Dichotomy
+Thursday, 02 January 2020
+
+“Political rags—such as royalist, communist, democrat, populist, fascist, liberal, conservative, and so forth—are never basic criteria. The human race divides politically into those who want people to be controlled and those who have no such desire.”—Robert A. Heinlein *The notebooks of Lazarus Long*
+
 ## Cognitive Bias
 Thursday, 02 January 2020
 
