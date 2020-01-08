@@ -1,6 +1,17 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Editing
+Wednesday, 08 January 2020
+
+“A simple editing trick:
+
+“Every sentence has a purpose. It doesn’t exist to take up space. It exists to change the reader, to move her from here to there.
+
+“This sentence, then, what’s it for?
+
+“If it doesn’t move us closer to where we seek to go, delete it.”—[Seth Godin](https://seths.blog/2020/01/what-is-this-sentence-supposed-to-do/)
+
 ## Madness
 Saturday, 04 January 2020
 
