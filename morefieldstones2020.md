@@ -1,6 +1,21 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Precision
+Saturday, 11 January 2020
+
+“There’s no sense in being precise when you don’t even know what you’re talking about”—John Von Neumann
+
+## Expression
+Saturday, 11 January 2020
+
+“I know more than I can express in words, and the little I can express would not have been expressed, had I not known more.”—Vladimir Nabokov, *Strong Opinions*
+
+## Anger
+Saturday, 11 January 2020
+
+“To be angry with the right person, to the right degree, at the right time, for the right purpose, in the right way—that is not easy.”—Aristotle, *Nicomachean Ethics*
+
 ## Editing
 Wednesday, 08 January 2020
 
