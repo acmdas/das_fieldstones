@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Committment
+Saturday, 11 January 2020
+
+“At the moment of commitment the entire universe conspires to assist you.”—Johann Wolfgang Von Goethe
+
+## Choosing Evil
+Saturday, 11 January 2020
+
+“No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks.”—Mary Wollstonecraft
+
 ## Precision
 Saturday, 11 January 2020
 
