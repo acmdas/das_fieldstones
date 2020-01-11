@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Truth
+Saturday, 11 January 2020
+
+“Truth is not that which is demonstrable but that which is unavoidable.”—Antoine de Saint-Exupery
+
 ## Committment
 Saturday, 11 January 2020
 
