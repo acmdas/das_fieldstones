@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Consciousness
+Monday, 13 January 2020
+
+“Consciousness is never experienced in the plural, only in the singular. Not only has none of us ever experienced more than one consciousness, but there is also no trace of circumstantial evidence of this ever happening anywhere in the world. If I say that there cannot be more than one consciousness in the same mind, this seems a blunt tautology–we are quite unable to imagine the contrary.”—Erwin Schrödinger (unattributed)
+
 ## Mere
 Monday, 13 January 2020
 
@@ -24,7 +29,7 @@ Saturday, 11 January 2020
 ## Precision
 Saturday, 11 January 2020
 
-“There’s no sense in being precise when you don’t even know what you’re talking about”—John Von Neumann
+“There’s no sense in being precise when you don’t even know what you’re talking about”—John Von Neumann (unsourced)
 
 ## Expression
 Saturday, 11 January 2020
