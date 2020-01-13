@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Mere
+Monday, 13 January 2020
+
+“But my interest was drawn not only to the noun in the title of Bejan’s book but also to the adjective: mere. Her use of that word delighted me. Like a lover of endangered species, the lover of endangered words jumps for joy when he sees a word being rescued, and is grateful when a writer restores to currency a semantic possibility that had fallen into desuetude. It is as if a lovely antique table has been rediscovered after many years of gathering dust up in the attic, and when brought downstairs and cleaned up and polished, imparts a splendor and unbought grace to the room that no shiny new object could possibly match.”—[Wilfred M. McClay](https://hedgehogreview.com/issues/eating-and-being/articles/mere)
+
 ## Truth
 Saturday, 11 January 2020
 
