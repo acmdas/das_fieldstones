@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Absurdity
+Monday, 13 January 2020
+
+“I remember discussions with Bohr which went through many hours till very late at night and ended almost in despair; and when at the end of the discussion I went alone for a walk in the neighboring park I repeated to myself again and again the question: Can nature possibly be as absurd as it seemed to us in these atomic experiments?”—Werner Heisenberg, *Physics and Philosophy: The Revolution in Modern Science* (1958)
+
 ## Evil
 Monday, 13 January 2020
 
