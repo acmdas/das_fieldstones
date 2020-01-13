@@ -4,12 +4,12 @@
 ## Science
 Monday, 13 January 2020
 
-“I am very astonished that the scientific picture of the real world around me is deficient. It gives a lot of factual information, puts all our experience in a magnificently consistent order, but it is ghastly silent about all and sundry that is really near to our heart, that really matters to us. It cannot tell us a word about red and blue, bitter and sweet, physical pain and physical delight; it knows nothing of beautiful and ugly, good or bad, God and eternity. Science sometimes pretends to answer questions in these domains, but the answers are very often so silly that we are not inclined to take them seriously.”—Erwin Schrödinger (unattributed)
+“I am very astonished that the scientific picture of the real world around me is deficient. It gives a lot of factual information, puts all our experience in a magnificently consistent order, but it is ghastly silent about all and sundry that is really near to our heart, that really matters to us. It cannot tell us a word about red and blue, bitter and sweet, physical pain and physical delight; it knows nothing of beautiful and ugly, good or bad, God and eternity. Science sometimes pretends to answer questions in these domains, but the answers are very often so silly that we are not inclined to take them seriously.”—Erwin Schrödinger (no citation)
 
 ## Consciousness
 Monday, 13 January 2020
 
-“Consciousness is never experienced in the plural, only in the singular. Not only has none of us ever experienced more than one consciousness, but there is also no trace of circumstantial evidence of this ever happening anywhere in the world. If I say that there cannot be more than one consciousness in the same mind, this seems a blunt tautology–we are quite unable to imagine the contrary.”—Erwin Schrödinger (unattributed)
+“Consciousness is never experienced in the plural, only in the singular. Not only has none of us ever experienced more than one consciousness, but there is also no trace of circumstantial evidence of this ever happening anywhere in the world. If I say that there cannot be more than one consciousness in the same mind, this seems a blunt tautology–we are quite unable to imagine the contrary.”—Erwin Schrödinger (no citation)
 
 “For thousands of years men have striven and suffered and begotten and woman have brought forth in pain. A hundred years ago, perhaps, another man sat on this spot; like you he gazed with awe and yearning in his heart at the dying light on the glaciers. Like you he was begotten of man and born of woman. He felt pain and brief joy as you do. Was he someone else? Was it not you yourself? What is this Self of yours? What was the necessary condition for making the thing conceived this time into you, just you and not someone else?”—Erwin Schrödinger, *Seek for the Road* (1925)
 
