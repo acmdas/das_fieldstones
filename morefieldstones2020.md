@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Natural Science
+Monday, 13 January 2020
+
+“Natural science does not simply describe and explain nature; it is part of the interplay between nature and ourselves; it describes nature as exposed to our method of questioning.”—Werner Heisenberg, *Physics and Philosophy: The Revolution in Modern Science* (1959)
+
 ## Absurdity
 Monday, 13 January 2020
 
