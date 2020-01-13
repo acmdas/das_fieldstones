@@ -1,6 +1,18 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Evil
+Monday, 13 January 2020
+
+“The evil man destroys even himself.”—Aristotle, *Nicomachean Ethics*
+
+## Atoms
+Monday, 13 January 2020
+
+“According to Democritus, atoms had lost the qualities like colour, taste, etc., they only occupied space, but geometrical assertions about atoms were admissible and required no further analysis. In modern physics, atoms lose this last property, they possess geometrical qualities in no higher degree than colour, taste, etc. The atom of modern physics can only be symbolized by a partial differential equation in an abstract multidimensional space. Only the experiment of an observer forces the atom to indicate a position, a colour and a quantity of heat. All the qualities of the atom of modern physics are derived, it has no immediate and direct physical properties at all, i.e. every type of visual conception we might wish to design is, *eo ipso*, faulty. An understanding of ‘the first order’ is, I would almost say by definition, impossible for the world of atoms.”—Werner Heisenberg, *Philosophic Problems of Nuclear Science*, trans. F. C. Hayes (1952)
+
+
+
 ## Science
 Monday, 13 January 2020
 
