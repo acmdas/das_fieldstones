@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Eyore
+Thursday, 16 January 2020
+
+“Eeyore’s pessimism is the expression of inadequacy and fear. I distinguish the right kind of pessimism, which means simply recognizing the deep incompetence of human nature, from the wrong kind, which tells us to stop hoping.”—Roger Scruton,  (27 February 1944 – 12 January 2020)
+
+## Perfection
+Thursday, 16 January 2020
+
+“It seems that perfection is finally attained, not when there is no longer anything to add, but when there is no longer anything to take away.”—Antoine de Saint-Exupery, *Terre des Hommes* (1939)
+
 ## Vain Hope
 Monday, 13 January 2020
 
