@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Breakdown
+Friday, 17 January 2020
+
+“Cultures spring from religions; ultimately the vital force which maintains any culture is its philosophy, its attitude toward the universe; the decay of a religion involves the decay of the culture corresponding to it—we see that most clearly in the breakdown of Christendom today.”—Hilaire Belloc: *The Great Heresies*
+
 ## Eyore
 Thursday, 16 January 2020
 
