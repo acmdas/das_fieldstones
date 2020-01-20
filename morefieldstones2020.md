@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Tools
+Monday, 20 January 2020
+
+“A convivial society should be designed to allow all its members the most autonomous action by means of tools least controlled by others. People feel joy, as opposed to mere pleasure, to the extent that their activities are creative; while the growth of tools beyond a certain point increases regimentation, dependence, exploitation, and impotence.”—Ivan Illich, *Tools for Conviviality* (1973)
+
 ## Breakdown
 Friday, 17 January 2020
 
