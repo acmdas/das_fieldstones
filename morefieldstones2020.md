@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Opinion Ghettos
+Wednesday, 22 January 2020
+
+“People are only your friends in opinion ghettos as long as you agree with them.”-[James Altucher}(https://jamesaltucher.com/blog/i-dont-give-a-s/)
+
 ## Tools
 Monday, 20 January 2020
 
