@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Escape
+Wednesday, 22 January 2020
+
+“The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.”—Marcus Aurelius
+
 ## Opinion Ghettos
 Wednesday, 22 January 2020
 
