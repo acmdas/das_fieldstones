@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Prudence
+Wednesday, 22 January 2020
+
+“An ounce of prudence is worth a pound of cleverness.”—Baltasar Gracian (1601-1658)
+
 ## Escape
 Wednesday, 22 January 2020
 
