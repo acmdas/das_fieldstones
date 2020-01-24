@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Physics Is
+Friday, 24 January 2020
+
+“The first step is to reject the misguided belief that ‘everything is physical’, and replace it with a much more humble—but true—thesis: only observation is physical. Physics is the science of observation.”—[Adur Alkain](https://www.bernardokastrup.com/2020/01/guest-essay-marriage-of-physics-and_24.html)
+
 ## Bodies
 Friday, 24 January 2020
 
