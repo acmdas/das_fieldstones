@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Bodies
+Friday, 24 January 2020
+
+“Man has no Body distinct from his soul; for that called Body is a portion of a Soul discerned by the five senses, the chief inlets of Soul in this age.”—William Blake, *The Marriage of Heaven and Hell*
+
 ## Prudence
 Wednesday, 22 January 2020
 
