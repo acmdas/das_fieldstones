@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Common Sense, Hedonistic World-view
+Monday, 27 January 2020
+
+“By contrast, Hitler is a criminal lunatic... yet Hitler has an army of millions of men, aeroplanes in thousands, tanks in tens of thousands. For his sake a great nation has been willing to overwork itself for six years and then to fight for two years more, whereas for the common-sense, essentially hedonistic world-view which Mr. Wells puts forward, hardly a human creature is willing to shed a pint of blood.”—George Orwell, *[Wells, Hitler and the world State](https://orwell.ru/library/reviews/wells/english/e_whws)* (1941)
+
 ## Physics Is
 Friday, 24 January 2020
 
