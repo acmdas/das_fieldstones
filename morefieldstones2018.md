@@ -841,9 +841,9 @@ I love how just following the basic plan for hyperspace, link to link to yet ano
 ## Enlightenment, The
 Mon, 03 Dec 2018
 
-<a href="http://www.consultingsmiths.com/wp-content/uploads/2018/12/The_sleep_of_reason.jpg"><img src="http://www.consultingsmiths.com/wp-content/uploads/2018/12/The_sleep_of_reason-198x300.jpg" alt="" width="198" height="300" class="alignnone size-medium wp-image-1125" /></a>
+<img src="/media/The_sleep_of_reason-198x300.jpg" alt="" width="198" height="300" class="alignnone size-medium wp-image-1125" />
 
-&ldquo;Ah well, the bones of the Enlightenment lie buried in a shallow grave somewhere along the Western Front. It had some nice ideals, but left us living rapt in the spell of Reason.&rdquo;&mdash;[Gerard VanDerleun](https://americandigest.org/wp/on-advent-we-are-all-lying-in-the-mud-but-some-of-us-are-looking-at-the-stars/
+&ldquo;Ah well, the bones of the Enlightenment lie buried in a shallow grave somewhere along the Western Front. It had some nice ideals, but left us living rapt in the spell of Reason.&rdquo;&mdash;[Gerard VanDerleun](https://americandigest.org/wp/on-advent-we-are-all-lying-in-the-mud-but-some-of-us-are-looking-at-the-stars/)
 
 The image is Goya's &ldquo;The sleep of reason breeds monsters&rdquo;...
 
