@@ -864,8 +864,9 @@ Fri, 14 Dec 2018
 ## Medieval Minds
 Mon, 17 Dec 2018
 
-&ldquo;But if we scrutinize the men of the Middle Ages more closely, contrasting them with ourselves, we shall find something yet more significant. And it is this, that they identified *themselves* with their thoughts. This is of the utmost importance. It is this that is at the bottom of all that strikes a modern observer as most incomprehensible and alien about the men of that time&mdash;for example, their intolerance. Identifying the thought with the words, they felt that truth could be wholly embodied in creed and dogma, and identifying the self with the thought, they were&mdash;quite rightly&mdash;intolerant. A wrong thought could strike them as far more immoral than a wrong action.&rdquo;&mdash;Owen Barfield *Romanticism Comes of Age* p. 54
-An example of a key "Barfieldian" concept&mdash;that we are profoundly different from our ancestors, that their experience of both external and interior realities was incomprehensibly different from ours.
+“But if we scrutinize the men of the Middle Ages more closely, contrasting them with ourselves, we shall find something yet more significant. And it is this, that they identified *themselves* with their thoughts. This is of the utmost importance. It is this that is at the bottom of all that strikes a modern observer as most incomprehensible and alien about the men of that time&mdash;for example, their intolerance. Identifying the thought with the words, they felt that truth could be wholly embodied in creed and dogma, and identifying the self with the thought, they were&mdash;quite rightly&mdash;intolerant. A wrong thought could strike them as far more immoral than a wrong action.”—Owen Barfield, *Romanticism Comes of Age* p. 54
+
+An example of a key “Barfieldian” concept—that we are profoundly different from our ancestors, that their experience of both external and interior realities was incomprehensibly different from ours.
 
 ## Walking About
 Mon, 17 Dec 2018
