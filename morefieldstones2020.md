@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Learned Lumber
+Saturday, 01 February 2020
+
+“The bookish blockhead, ignorantly read,
+
+With loads of learned lumber in his head.”—Alexander Pope, *Essay on Criticism* (1711)
+
 ## Common Sense, Hedonistic World-view
 Monday, 27 January 2020
 
