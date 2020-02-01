@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Course of Study
+Saturday, 01 February 2020
+
+“I would not advise a rigid adherence to a particular plan of study . . . . A man ought to read just as inclination leads him, for what he reads as a task will do him little good.”–James Boswell, *Life of Samuel Johnson*, quoting Johnson
+
 ## Learned Lumber
 Saturday, 01 February 2020
 
