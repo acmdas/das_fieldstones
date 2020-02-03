@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Beasts
+Monday, 03 February 2020
+
+“The beasts of modernism have mutated into the beasts of postmodernism—relativism into nihilism, amorality into immorality, irrationality into insanity, sexual deviancy into polymorphous perversity. And since then, generations of intelligent students under the guidance of their enlightened professors have looked into the abyss, have contemplated those beasts, and have said, “How interesting, how exciting.”—Gertrude Himmelfarb, *On Looking into the Abyss* (1994)
+
 ## Course of Study
 Saturday, 01 February 2020
 
