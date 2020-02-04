@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Fully Automatic Model
+Monday, 03 February 2020
+
+“The world-conquering West of the nineteenth century needed a philosophy of life in which realpolitik—victory for the tough people who face the bleak facts—was the guiding principle. Thus the bleaker the facts you face, the tougher you seem to be. So we vied with each other to make the Fully Automatic Model of the universe as bleak as possible.”—Bernardo Kastrup, *More Than Allegory: On Religious Myth, Truth and Belief*
+
 ## Beasts
 Monday, 03 February 2020
 
