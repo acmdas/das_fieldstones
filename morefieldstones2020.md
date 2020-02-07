@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Conversation
+Friday, 07 February 2020
+
+“[This argument] fixes its attention on the forms of human conversation, and postulates that how we are obliged to conduct such conversations will have the strongest possible influence on what ideas we can conveniently express. And what ideas are convenient to express inevitably become the important content of a culture.”—Neil Postman, *Amusing Ourselves to Death*
+
 ## Education and Training
 Friday, 07 February 2020
 
