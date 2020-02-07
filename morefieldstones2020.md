@@ -13,6 +13,8 @@ Friday, 07 February 2020
 
 “In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know what you are doing, you should not be doing it.”—Richard Hamming, *The Art of Doing Science and Engineering* (1997)
 
+See also [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+
 ## Fully Automatic Model
 Monday, 03 February 2020
 
