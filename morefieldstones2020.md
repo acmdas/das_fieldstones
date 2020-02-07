@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Education and Training
+Friday, 07 February 2020
+
+“Education is what, when, and why to do things. Training is how to do it.
+
+“In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know what you are doing, you should not be doing it.”—Richard Hamming, *The Art of Doing Science and Engineering* (1997)
+
 ## Fully Automatic Model
 Monday, 03 February 2020
 
