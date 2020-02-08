@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Luck
+Saturday, 08 February 2020
+
+“If someone has consistently good luck, it ain’t luck.”—Zvi Mowshowitz, [Moloch Hasn’t Won](https://thezvi.wordpress.com/2019/12/28/moloch-hasnt-won/) 
+
 ## Conversation
 Friday, 07 February 2020
 
