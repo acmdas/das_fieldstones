@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## History
+Friday, 14 February 2020
+
+“The dead outnumber the living fourteen to one, and we ignore the accumulated experience of such a huge majority of mankind at our peril.”—Niall Ferguson
+
+“History never repeats itself. Man always does.”—Voltaire
+
 ## Luck
 Saturday, 08 February 2020
 
