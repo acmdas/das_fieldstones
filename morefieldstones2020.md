@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Truth
+Saturday, 15 February 2020
+
+“Once you can sincerely say: ‘I don’t know’ then it becomes possible to get at the truth.”—Robert A. Heinlein, *The cat who walks through walls*
+
+“Dear G-d: lead me in the company of those who seek truth and spare me from those who have found it.”—(attributed to André Gide)
+
 ## History
 Friday, 14 February 2020
 
