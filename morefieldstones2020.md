@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Imagination and Will
+Friday, 28 February 2020
+
+“Collecting facts is important. Knowledge is important. But if you don’t have an imagination to use the knowledge, civilization is nowhere. Love what you do and do what you love. Don’t listen to anyone else who tells you not to do it. You do what you want, what you love. Imagination should be the center of your life. We are the miracle of force and matter making itself over into imagination and will. Incredible. The Life Force experimenting with forms. You for one. Me for another. The Universe has shouted itself alive. We are one of the shouts.”—Ray Bradbury
+
 ## For Your Own Good
 Friday, 21 February 2020
 
