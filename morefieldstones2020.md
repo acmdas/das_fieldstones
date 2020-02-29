@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Saints’ Biographies
+Saturday, 29 February 2020
+
+“If the biographers of the saints would write of their defects as well as of their virtues, their biographies would be longer.” So said —Saint Alphonsus de Liguori
+
 ## Imagination and Will
 Friday, 28 February 2020
 
