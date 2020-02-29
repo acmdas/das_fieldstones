@@ -9,7 +9,7 @@ Saturday, 29 February 2020
 ## Saints’ Biographies
 Saturday, 29 February 2020
 
-“If the biographers of the saints would write of their defects as well as of their virtues, their biographies would be longer.” So said —Saint Alphonsus de Liguori
+“If the biographers of the saints would write of their defects as well as of their virtues, their biographies would be longer.” So said Saint Alphonsus de Liguori to one of his novices.—[David Warren](https://www.davidwarrenonline.com/2020/02/28/a-look-inside/)
 
 ## Imagination and Will
 Friday, 28 February 2020
