@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Teachers
+Saturday, 07 March 2020
+
+“The old dealt with its pupils as grown birds when they teach them to fly; the new deals with them more as the poultry-keeper deals with young birds... In a word, the old was a kind of propagation—men transmitting manhood to men; the new is merely propaganda.”—C.S. Lewis, *The Abolition of Man* p.32-33
+
 ## What Life Is All About
 Sunday, 01 March 2020
 
