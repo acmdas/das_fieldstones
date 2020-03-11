@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Belief
+Sunday, 08 March 2020
+
+“I should like to report here an experience I had during my last trip to this country, when I visited a world-famous scientist whom I had known from Europe. He received me on the porch of his house which was adorned with a horse shoe. I tried to make a funny remark by saying, “But Professor, you don’t believe in that sort of thing, do you really?” whereupon he answered quite naively, “Of course not, but you know I have been told that it works even when you don't believe in it.”—Carl Alfred Meier
+
 ## Teachers
 Saturday, 07 March 2020
 
