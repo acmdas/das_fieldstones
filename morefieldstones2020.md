@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Science
+Thursday, 12 March 2020
+
+“Science is what we do to keep us from lying to ourselves.”—Richard P. Feynman
+
 ## Belief
 Sunday, 08 March 2020
 
