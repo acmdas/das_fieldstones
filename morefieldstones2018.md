@@ -1,3 +1,4 @@
+
 # More Fieldstones 2018
 [Home](./index.html)
 
@@ -566,6 +567,8 @@ Faith.</blockquote>
 Found again today on a sheet torn from a steno pad—almost certainly written in the late 1980s or early 1990s. I have no memory of writing it, but but it’s in my scrawl with more than a few misspellings, and since there are many false starts and strike-outs, it’s almost certainly not transcribed from someone else’s work.
 
 Not sure what to make of it, thirty years on, but I’ll stand by it.
+
+Addition Friday, 13 March, 2020—Just found in my yellow ‘Rite-In-The-Rain’ Cruisers Transit Book, dated 12/02/1977. The steno pad sheet was probably original, likely then copied into the notebook soon after. Nestled between many passages copied from Merton’s *No Man Is An Island* to provide some context. Living at 9 Mile, expecting a child who turned into Jesse, before we went to Maryland for a few months.
 
 ## What Precedes
 Mon, 30 Apr 2018

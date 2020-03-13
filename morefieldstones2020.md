@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Notes
+Thursday, 12 March 2020
+
+“Notes aren’t a record of my thinking process. They are my thinking process.”—Richard p. Feynman
+
 ## Science
 Thursday, 12 March 2020
 
