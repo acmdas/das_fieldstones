@@ -9,7 +9,7 @@ Sunday, 15 March 2020
 ## Notes
 Thursday, 12 March 2020
 
-“Notes aren’t a record of my thinking process. They are my thinking process.”—Richard p. Feynman
+“Notes aren’t a record of my thinking process. They are my thinking process.”—Richard P. Feynman
 
 ## Science
 Thursday, 12 March 2020
