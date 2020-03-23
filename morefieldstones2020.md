@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Consciousness
+Sunday, 22 March 2020
+
+“Why do you insist the universe is not a conscious intelligence, when it gives birth to conscious intelligences?”—Cicero, c. 44 B.C.
+
+## The Birthday of Eternity
+Sunday, 22 March 2020
+
+“The day which we fear as our last is but the birthday of eternity.”—Lucius Annaeus Seneca, *De Brevitate Vitae* c. 48 A.D.
+
 ## Honeybees
 Sunday, 15 March 2020
 
