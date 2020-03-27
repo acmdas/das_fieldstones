@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Truth
+Friday, 27 March 2020
+
+“You shall know the truth, and it will make you odd”—Flannery O'Connor
+
+
+
 ## Hope
 Friday, 27 March 2020
 
