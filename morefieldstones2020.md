@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Cures
+Friday, 27 March 2020
+
+“If people offer many remedies for an illness, you may be sure it is incurable”—Anton Chekhov
+
 ## Anything
 Friday, 27 March 2020
 
