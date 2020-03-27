@@ -1,6 +1,12 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Progress
+Friday, 27 March 2020
+
+“Believing in progress does not mean believing that any progress has yet been made”—Franz Kafka
+
+
 ## Cures
 Friday, 27 March 2020
 
