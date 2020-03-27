@@ -1,6 +1,12 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Anything
+Friday, 27 March 2020
+
+“Anything can happen, but it usually doesn’t”—Robert Benchley
+
+
 ## Truth
 Friday, 27 March 2020
 
