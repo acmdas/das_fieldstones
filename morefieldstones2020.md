@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Hope
+Friday, 27 March 2020
+
+“Hope is patience with the lamp lit”—Tertullian
+
 ## Consciousness
 Sunday, 22 March 2020
 
@@ -14,7 +19,7 @@ Sunday, 22 March 2020
 ## Honeybees
 Sunday, 15 March 2020
 
-“We are the bees of the Invisible. Passionately, we plunder the honey of the visible, in order to gather it in the great golden hive of the Invisible.”—Rainer Maria Rilke, from a letter to his friend Witold Hulewicz, 1925.
+“We are the bees of the Invisible. Passionately, we plunder the honey of the visible, in order to gather it in the great golden hive of the Invisible.”—Rainer Maria Rilke, from a letter to his friend Witold Hulewicz, 1925. [Seen here](https://theoriapress.wordpress.com/publications/face-to-face-with-invisible-honeybees/)
 
 ## Notes
 Thursday, 12 March 2020
