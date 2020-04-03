@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Scientific Truth
+Friday, 03 April 2020
+
+“No government has the right to decide on the truth of scientific principles, nor to prescribe in any way the character of the questions investigated. Neither may a government determine the aesthetic value of artistic creations, nor limit the forms of literacy or artistic expression. Nor should it pronounce on the validity of economic, historic, religious, or philosophical doctrines. Instead it has a duty to its citizens to maintain their freedom, to let those citizens contribute to the further adventure and the development of the human race.”—Richard Feynman
+
 ## Common Sense
 Friday, 03 April 2020
 
