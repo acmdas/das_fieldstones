@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Common Sense
+Friday, 03 April 2020
+
+“The heresy of heresies was common sense. And what was terrifying was not that they would kill you for thinking otherwise, but that they might be right. For after all, how do we know that two and two make four? Or that the force of gravity works? Or that the past is unchangeable? If both the past and the external world exist only in the mind, and if the mind itself is controllable, what then?”—George Orwell *1984*
+
 ## Progress
 Friday, 27 March 2020
 
