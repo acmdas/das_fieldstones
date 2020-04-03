@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## By His Lights
+Friday, 03 April 2020
+
+“I don't quite know what we're doing on this insignificant cinder spinning away in a dark corner of the universe. That is a secret which the high gods have not confided in me. Yet one thing I believe and I believe it with every fiber of my being. A man must live by his lights and do what little he can and do it as best as he can.”—Walker Percy
+
 ## Scientific Truth
 Friday, 03 April 2020
 
