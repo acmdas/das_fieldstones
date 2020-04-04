@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Admission of Uncertainty
+Saturday, 04 April 2020
+
+“[...] it is in the admission of ignorance and the admission of uncertainty that there is a hope for the continuous motion of human beings in some direction that doesn’t get confined, permanently blocked, as it has so many times before in various periods in the history of man.”—Richard Feynman, *John Danz Lecture* 1963
+
 ## By His Lights
 Friday, 03 April 2020
 
