@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Dreaming
+Monday, 06 April 2020
+
+“Every one of us is like a man who sees things in a dream and thinks that he knows them perfectly and then wakes up to find that he knows nothing.”–Plato, *Statesman* quoted in Hannah Arendt, *The Life of the Mind*
+
+## Solitude
+Monday, 06 April 2020
+
+“Thinking, existentially speaking, is a solitary but not a lonely business; solitude is that human situation in which I keep myself company. Loneliness comes about … when I am alone without being able to split up into the two-in0one, without being able to keep myself company.”—Hannah Arendt, *The Life of the Mind*
+
 ## Admission of Uncertainty
 Saturday, 04 April 2020
 
