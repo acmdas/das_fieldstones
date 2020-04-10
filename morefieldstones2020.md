@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Never Defined
+Friday, 10 April 2020 (Good Friday)
+
+“It’s so important that we never be defined by tragedy. Shaped by it, but never defined.”—Amanda Holden, on *Britain’s Got Talent*, 2018 Week 2
+
 ## Dreaming
 Monday, 06 April 2020
 
