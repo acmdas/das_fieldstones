@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Old Books
+Saturday, 11 April 2020 (Holy Saturday)
+
+“It is a good rule, after reading a new book, never to allow yourself another new one till you have read an old one in between. If that is too much for you, you should at least read one old one to every three new ones.”–C. S. Lewis, Introduction to Athanasius’ *On the Incarnation*
+
 ## Never Defined
 Friday, 10 April 2020 (Good Friday)
 
