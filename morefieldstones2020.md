@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Coincidence
+Wednesday, 22 April 2020
+
+“Coincidence can be interpreted, even spun. Back in 1777, Horace Walpole announced that ‘what is called chance is the instrument of Providence.’ Théophile Gautier called chance God’s pseudonym, and Doris Lessing supposedly said that ‘coincidences are God’s way of remaining anonymous’—though the quote is often hopefully (or impishly) misattributed to Albert Einstein. The legendary editor Sol Stein put it this way: ‘If you think something is a coincidence, you don’t know how God works. Pay attention. He doesn’t have time to give you private lessons.’”—Jeanette Cooperman, [*Making Sense of a Random Universe*](https://commonreader.wustl.edu/making-sense-of-a-random-universe/)
+
 ## Old Books
 Saturday, 11 April 2020 (Holy Saturday)
 
