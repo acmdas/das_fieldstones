@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Greatest Trick
+Thursday, 23 April 2020
+
+“The greatest trick the devil ever pulled was convincing the world he didn’t exist”—Charles Baudelaire
+
 ## Coincidence
 Wednesday, 22 April 2020
 
