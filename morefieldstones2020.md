@@ -4,7 +4,7 @@
 ## Good and Evil
 Thursday, 23 April 2020
 
-“The line dividing good and evil cuts through the heart of every human being.”—Solzhenitsyn
+“The line dividing good and evil cuts through the heart of every human being.”—Aleksandr Solzhenitsyn
 
 ## Greatest Trick
 Thursday, 23 April 2020
