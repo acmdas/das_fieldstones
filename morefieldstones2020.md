@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Good and Evil
+Thursday, 23 April 2020
+
+“The line dividing good and evil cuts through the heart of every human being.”—Solzhenitsyn
+
 ## Greatest Trick
 Thursday, 23 April 2020
 
