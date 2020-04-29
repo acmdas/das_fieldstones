@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Unable to Bear
+Wednesday, 29 April 2020
+
+“Some things you must always be unable to bear. Some things you must never stop refusing to bear. Injustice and outrage and dishonor and shame. No matter how young you are or how old you have got. Not for kudos and not for cash: your picture in the paper nor money in the bank either. Just refuse to bear them.”—William Faulkner, *Intruder in the Dust*
+
+## A Day
+Monday, 27 April 2020
+
+“Every separate day in the year is a gift presented to only one man—the happiest one; all other people use his day, to enjoy the sunshine or berate the rain, never knowing, however, to whom that day really belongs; and its fortunate owner is pleased and amused by their ignorance. A person cannot foreknow which day exactly will fall to his lot, what trifle he will remember forever: the ripple of reflected sunlight on a wall bordering water or the revolving fall of a maple leaf; and it often happens that he recognizes his day only in retrospection, long after he has plucked, and crumpled, and chucked under his desk the calendar leaf with the forgotten figure.”—Vladimir Nabokov, from “The Potato Elf,” The Stories of Vladimir Nabokov (Vintage, 1997)
+
 ## Water
 Saturday, 25 April 2020
 
