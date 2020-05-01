@@ -1,7 +1,26 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
-## Unable to Bear
+## Covenant
+Thursday, 30 April 2020
+
+We thought we ranked above the chance of ill.<br/>
+Others might fall, not we, for we were wise—<br/>
+Merchants in freedom. So, of our free-will<br/>
+We let our servants drug our strength with lies.<br/>
+The pleasure and the poison had its way<br/>
+On us as on the meanest, till we learned<br/>
+That he who lies will steal, who steals will slay.<br/>
+Neither God's judgment nor man's heart was turned.<br/>
+
+Yet there remains His Mercy--to be sought<br/>
+Through wrath and peril till we cleanse the wrong<br/>
+By that last right which our forefathers claimed<br/>
+When their Law failed them and its stewards were bought.<br/>
+This is our cause. God help us, and make strong<br/>
+Our will to meet Him later, unashamed!—Rudyard Kipling
+
+## Unbearable
 Wednesday, 29 April 2020
 
 “Some things you must always be unable to bear. Some things you must never stop refusing to bear. Injustice and outrage and dishonor and shame. No matter how young you are or how old you have got. Not for kudos and not for cash: your picture in the paper nor money in the bank either. Just refuse to bear them.”—William Faulkner, *Intruder in the Dust*
