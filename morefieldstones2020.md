@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Rich Anarchists
+Saturday, 02 May 2020
+
+“So you talk about mobs and the working classes as if they were the question. You’ve got that eternal idiotic idea that if anarchy came it would come from the poor. Why should it? The poor have been rebels, but they have never been anarchists; they have more interest than anyone else in there being some decent government. The poor man really has a stake in the country. The rich man hasn’t; he can go away to New Guinea in a yacht. The poor have sometimes objected to being governed badly; the rich have always objected to being governed at all. Aristocrats were always anarchists.”—G. K. Chesterton, *The Man Who Was Thursday: A Nightmare*
+
 ## Covenant
 Thursday, 30 April 2020
 
