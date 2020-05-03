@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Questioning
+Saturday, 02 May 2020
+
+“It is important that students bring a certain ragamuffin, barefoot irreverence to their studies; they are not here to worship what is known but to question it.”—Jacob Bronowski, *The Ascent of Man*
+
 ## Rich Anarchists
 Saturday, 02 May 2020
 
