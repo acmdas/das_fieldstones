@@ -1,6 +1,14 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Meaning
+Thursday, 07 May 2020
+
+(Paraphrasing and elaborating on something Bernardo Kastrup said)
+“The great taboo in science is not that there is magic (no one cares that the big bang is supposed to have magically come from nothing, or that mental processes like mathematics magically map onto the physical world so perfectly).
+
+No, science is fine with all that. The great taboo in our scientistic world view is the idea that there could be meaning to it all!”
+
 ## Questioning
 Saturday, 02 May 2020
 
