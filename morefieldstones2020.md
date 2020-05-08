@@ -1,6 +1,12 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Tyranny
+Friday, 08 May 2020
+
+“The wisest thing in the world is to cry out before you are hurt. It is no good to cry out after you are hurt; especially after you are mortally hurt. People talk about the impatience of the populace; but sound historians know that most tyrannies have been possible because men moved too late. It is often essential to resist a tyranny before it exists.”—G. K. Chesterton, *Eugenics and Other Evils*
+
+
 ## Symbolic Logic
 Thursday, 07 May 2020
 
