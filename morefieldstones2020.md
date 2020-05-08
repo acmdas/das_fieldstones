@@ -12,7 +12,7 @@ Thursday, 07 May 2020
 
 “Man lives in a world of ideas. Any phenomenon is so complex that he cannot possibly grasp the whole of it. He abstracts certain characteristics of a given phenomenon as an idea, then represents that idea as a symbol, be it a word or a mathematical sign. Human reaction is almost entirely reaction to symbols, and only negligibly to phenomena. As a matter of fact,” he continued, removing the cigarette holder from his mouth and settling into his subject, “it can be demonstrated that the human mind can think only in terms of symbols.”
 
-“When we think, we let symbols operate on other symbols in certain, set fashions—rules of logic, or rules of mathematics. If the symbols have been abstracted so that they are structurally similar to the phenomena they stand for, and if the symbol operations are similar in structure and order to the operations of phenomena in the real world, we think sanely. If our logic-mathematics, or our word-symbols, have been poorly chosen, we think not sanely.”—Robert A. Heinlein, *The Past Through Tomorrow” p. 10
+“When we think, we let symbols operate on other symbols in certain, set fashions—rules of logic, or rules of mathematics. If the symbols have been abstracted so that they are structurally similar to the phenomena they stand for, and if the symbol operations are similar in structure and order to the operations of phenomena in the real world, we think sanely. If our logic-mathematics, or our word-symbols, have been poorly chosen, we think not sanely.”—Robert A. Heinlein, *The Past Through Tomorrow* p. 10
 
 ## Meaning
 Thursday, 07 May 2020
