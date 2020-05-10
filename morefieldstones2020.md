@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Mortality
+Sunday, 10 May 2020
+
+“The Church itself was regarded (and will continue to be regarded by its adherents) as immortal, but its administration is subject to perpetual threat of mortality, that is, of corruption and weakness tending to extinction.”—Hilaire Belloc, *The Crisis of Civilization*
+
 ## Tyranny
 Friday, 08 May 2020
 
