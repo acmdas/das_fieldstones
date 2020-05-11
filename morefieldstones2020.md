@@ -1,6 +1,15 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Following in the footsteps of those that came before
+Monday, 11 May 2020
+
+“No matter how hard you try, you can’t.
+
+“After just a few steps, you’ll be slightly enlarging the footprint. By the time six people have done it, the original is completely gone.
+
+“Footprints might be a fine compass, but they’re not much of a map. That’s on us.”—[Seth Godin](https://seths.blog/2020/05/following-in-the-footsteps-of-those-that-came-before/)
+
 ## Mortality
 Sunday, 10 May 2020
 
