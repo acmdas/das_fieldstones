@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Things Happen
+Monday, 11 May 2020
+
+“Things happen to a person; that is, life deals you a set of cards and you play them as you are able. If I do my best I can and make no trouble for my neighbors, then surely I cannot be blamed either for my existence or my government. There are forces that buffet us through life that no mere individual can withstand. Better to stick to my books and musings about literature and leave the government to those who know best. That was certainly what I believed for years, but this evening I had begun to wonder, foolishly perhaps, if it wasn't that sort of thinking which had helped bring about this current state of affairs.”—Stephen Dobyns, *The Two Deaths of Senora Puccini*
+
 ## Following in the footsteps of those that came before
 Monday, 11 May 2020
 
