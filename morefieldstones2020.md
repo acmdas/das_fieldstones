@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## A Good Side
+Monday, 11 May 2020
+
+“Does Political Correctness have a good side? Yes, it does, for it makes us re-examine attitudes, and that is always useful. The trouble is that, with all popular movements, the lunatic fringe so quickly ceases to be a fringe, the tail begins to wag the dog. For every woman or man who is quietly and sensibly using the idea to examine our assumptions, there are 20 rabble-rousers whose real motive is desire for power over others, no less rabble-rousers because they see themselves as anti-racists or feminists or whatever.”—Doris Lessing, *Language and the Lunatic Fringe* 1992
+
 ## Things Happen
 Monday, 11 May 2020
 
