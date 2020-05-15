@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Stress or Passion
+Friday, 15 May 2020
+
+“Working hard for something we don't care about is called stress. Working hard for something we love is called passion.”—Simon Sinek
+
 ## A Good Side
 Monday, 11 May 2020
 
