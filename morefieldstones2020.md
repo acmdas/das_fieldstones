@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Hell Begins
+Friday, 22 May 2020
+
+“Hell begins with a grumbling mood, always complaining, always blaming others . . . but you are still distinct from it. You may even criticize it in yourself and wish you could stop it. But there may come a day when you can no longer. Then there will be no you left to criticize the mood or even to enjoy it, but just the grumble itself, going on forever like a machine. It is not a question of God “sending us” to hell. In each of us there is something growing, which will BE hell unless it is nipped in the bud.”—C. S. Lewis, *The Great Divorce*
+
 ## Stress or Passion
 Friday, 15 May 2020
 
