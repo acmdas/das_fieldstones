@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Straw Men
+Tuesday, 26 May 2020
+
+“The light obtained by setting straw men on fire is not what we mean by illumination.”—Adam Gopnik
+
 ## Hell Begins
 Friday, 22 May 2020
 
