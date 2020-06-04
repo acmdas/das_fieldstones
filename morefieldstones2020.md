@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## More Absurdity
+Thursday, 04 June 2020
+
+“So I hope you can accept Nature as She is—absurd.”—Richard Feynman, *QED: The Strange Theory of Light and Matter* (1985)
+
 ## Jacksonianism
 Thursday, 28 May 2020
 
