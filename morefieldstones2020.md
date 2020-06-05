@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Success
+Friday, 05 June 2020
+
+“Success usually comes to those who are too busy to be looking for it.”—Henry David Thoreau
+
 ## More Absurdity
 Thursday, 04 June 2020
 
