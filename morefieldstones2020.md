@@ -20,6 +20,7 @@ Thursday, 04 June 2020
 Thursday, 28 May 2020
 
 “The whole point of Jacksonianism is ‘You leave me alone and I’ll leave you alone. You play fair with me and I’ll play fair with you. But if you fuck with me, I’ll kill you.’”—Steven den Beste
+
 ## Straw Men
 Tuesday, 26 May 2020
 
