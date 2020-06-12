@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Unique
+Thursday, 11 June 2020
+
+“My generation is on the way out, and each death I have felt as an abruption, a tearing away of part of myself. There will be no one like us when we are gone, but then there is no one like anyone else, ever. When people die, they cannot be replaced. They leave holes that cannot be filled, for it is the fate—the genetic and neural fate—of every human being to be a unique individual, to find his own path, to live his own life, to die his own death.”—Oliver Sacks
+
 ## Suffering
 Friday, 05 June 2020
 
