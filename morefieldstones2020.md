@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Reality Is
+Friday, 12 June 2020
+
+“Reality is that which, when you stop believing in it, doesn’t go away.”—Philip K. Dick
+
 ## Unique
 Thursday, 11 June 2020
 
