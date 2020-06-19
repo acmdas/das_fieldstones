@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Models
+Friday, 19 June 2020
+
+“Should some sort of post-mortem ever be conducted on the catastrophic failure of all computer models, it will be done with the help of a computer model, that will cost billions in whatever currency to assemble. It will show the need for more computer studies. And therefore, it will be catastrophically wrong.”—[David Warren](https://www.davidwarrenonline.com/2020/06/19/a-note-on-sternutation/)
+
 ## Reality Is
 Friday, 12 June 2020
 
