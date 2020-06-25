@@ -4,7 +4,7 @@
 ## Hardship
 Monday, 22 June 2020
 
-“Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary.”—Sebastian Junger
+“Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary.”fb—Sebastian Junger
 
 ## Models
 Friday, 19 June 2020
