@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Fashions of Thought
+Friday, 26 June 2020
+
+“The use of fashions of thought is to distract men from their real dangers. We direct the fashionable outcry of each generation against those vices of which it is in the least danger, and fix its approval on the virtue that is nearest the vice which we are trying to make endemic. The game is to have them all running around with fire extinguishers whenever there’s a flood; and all crowding to that side of the boat which is already nearly gone under.”—C.S. Lewis, *The Screwtape Letters*
+
 ## Hardship
 Monday, 22 June 2020
 
