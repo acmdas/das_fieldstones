@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Majority
+Friday, 03 July 2020
+
+“Whenever you find yourself on the side of the majority, it is time to pause and reflect.”—Mark Twain
+
 ## Fashions of Thought
 Friday, 26 June 2020
 
