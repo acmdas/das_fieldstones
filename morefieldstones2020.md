@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Action
+Sunday, 05 July 2020
+
+“Simple as it seems, action is the cause, vehicle, and outcome of education. Perceptions, thoughts, ideas, memories, and intentions are important, but they are not the end product.”—James Zull, *From Brain to Mind: Using Neuroscience to Guide Change in Education*
+
 ## Opression and Liberty
 Friday, 03 July, 2020
 
