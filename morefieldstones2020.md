@@ -1,13 +1,18 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Mastery
+Monday, 06 July 2020
+
+“Once you start with openings, there is no way out… It is a little like developing the habit of stealing the test from your teacher’s desk instead of learning how to do the math. You may pass the test, but you learn absolutely nothing—and most critically, you don’t gain an appreciation for the value or beauty of learning itself.”—Josh 
+
 ## Action
 Sunday, 05 July 2020
 
 “Simple as it seems, action is the cause, vehicle, and outcome of education. Perceptions, thoughts, ideas, memories, and intentions are important, but they are not the end product.”—James Zull, *From Brain to Mind: Using Neuroscience to Guide Change in Education*
 
 ## Opression and Liberty
-Friday, 03 July, 2020
+Friday, 03 July 2020
 
 “Never has the individual been so completely delivered up to a blind collectivity, and never have men been less capable, not only of subordinating their actions to their thoughts, but even of thinking. Such terms as oppressors and oppressed, the idea of classes—all that sort of thing is near to losing all meaning, so obvious are the impotence and distress of all men in face of the social machine, which has become a machine for breaking hearts and crushing spirits, a machine for manufacturing irresponsibility, stupidity, corruption, slackness and, above all, dizziness. The reason for this painful state of affairs is perfectly clear. We are living in a world in which nothing is made to man’s measure; there exists a monstrous discrepancy between man’s body, man’s mind and the things which at present time constitute the elements of human existence; everything is in disequilibrium.”—Simone Weil, *Oppression and Liberty* (1955)
 
