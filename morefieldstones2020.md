@@ -4,7 +4,7 @@
 ## Mastery
 Monday, 06 July 2020
 
-“Once you start with openings, there is no way out… It is a little like developing the habit of stealing the test from your teacher’s desk instead of learning how to do the math. You may pass the test, but you learn absolutely nothing—and most critically, you don’t gain an appreciation for the value or beauty of learning itself.”—Josh 
+“Once you start with openings, there is no way out… It is a little like developing the habit of stealing the test from your teacher’s desk instead of learning how to do the math. You may pass the test, but you learn absolutely nothing—and most critically, you don’t gain an appreciation for the value or beauty of learning itself.”—Josh Waitzkin, *Mastering the Fundamentals*
 
 ## Action
 Sunday, 05 July 2020
