@@ -4,7 +4,7 @@
 ## Mastery
 Monday, 06 July 2020
 
-“Once you start with openings, there is no way out… It is a little like developing the habit of stealing the test from your teacher’s desk instead of learning how to do the math. You may pass the test, but you learn absolutely nothing—and most critically, you don’t gain an appreciation for the value or beauty of learning itself.”—Josh Waitzkin, *Mastering the Fundamentals*XsX
+“Once you start with openings, there is no way out… It is a little like developing the habit of stealing the test from your teacher’s desk instead of learning how to do the math. You may pass the test, but you learn absolutely nothing—and most critically, you don’t gain an appreciation for the value or beauty of learning itself.”—Josh Waitzkin, *Mastering the Fundamentals*
 
 ## Action
 Sunday, 05 July 2020
@@ -49,7 +49,7 @@ Thursday, 11 June 2020
 ## Suffering
 Friday, 05 June 2020
 
-“My argument with so much of psychoanalysis, is the preconception that suffering is a mistake, or a sign of weakness, or a sign even of illness. When in fact, possibly the greatest truths we know, have come out of people’s suffering. The problem is not to undo suffering, or to wipe it off the face of the earth, but to make it inform our lives, instead of trying to ‘cure’ ourselves of it constantly, and avoid it, and avoid anything but that lobotomized sense of what they call ‘happiness’. There’s too much of an attempt, it seems to me, to think in terms of controlling man, rather than freeing him—of defining him, rather than letting him go! It’s part of the whole ideology of this age, which is power-mad!”—Arthur Miller
+“My argument with so much of psychoanalysis, is the preconception that suffering is a mistake, or a sign of weakness, or a sign even of illness. When in fact, possibly the greatest truths we know, have come out of people’s suffering. The problem is not to undo suffering, or to wipe it off the face of the earth, but to make it inform our lives, instead of trying to ‘cure’ ourselves of it constantly, and avoid it, and avoid anything but that lobotomized sense of what they call ‘happiness’x. There’s too much of an attempt, it seems to me, to think in terms of controlling man, rather than freeing him—of defining him, rather than letting him go! It’s part of the whole ideology of this age, which is power-mad!”—Arthur Miller
 
 ## Success
 Friday, 05 June 2020
