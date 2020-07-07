@@ -10,7 +10,7 @@ Tuesday, 07 July 2020
 
 “This is not trust.
 
-“To trust is to move to the stable conviction that whatever God decides to do is the right thing. It means being at peace with what He does, what He decides. It is to accept that God often acts in paradoxical ways, in ways that are different from, or even contrary to, our notions of what is best. God often permits evils for some greater good, even if this greater good is hidden from us.”—Msgr. Charles Pope
+“To trust is to move to the stable conviction that whatever God decides to do is the right thing. It means being at peace with what He does, what He decides. It is to accept that God often acts in paradoxical ways, in ways that are different from, or even contrary to, our notions of what is best. God often permits evils for some greater good, even if this greater good is hidden from us.”—[Msgr. Charles Pope](http://blog.adw.org/2020/07/what-does-it-mean-to-trust-in-god/)
 
 ## Mastery
 Monday, 06 July 2020
