@@ -1,6 +1,17 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Trust
+Tuesday, 07 July 2020
+
+“We are often told to trust in God, and many of us have counseled others who are anxious or downcast to do so. But what does that mean?
+
+“In some cases, when people give this counsel they mean this: Don’t worry, God will eventually give you what want. God will come around to your way of thinking at some point. Hang in there and wait for God to answer (your way). He’ll take care of things (in a way that pleases you).
+
+“This is not trust.
+
+“To trust is to move to the stable conviction that whatever God decides to do is the right thing. It means being at peace with what He does, what He decides. It is to accept that God often acts in paradoxical ways, in ways that are different from, or even contrary to, our notions of what is best. God often permits evils for some greater good, even if this greater good is hidden from us.”—Msgr. Charles Pope
+
 ## Mastery
 Monday, 06 July 2020
 
