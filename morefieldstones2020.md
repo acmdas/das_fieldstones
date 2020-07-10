@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Love
+Friday, 10 July 2020
+
+“It doesn’t matter who you are or what you look like, so long as somebody loves you.”—Roald Dahl, *The Witches*
+
 ## Memories
 Friday, 10 July 2020
 
