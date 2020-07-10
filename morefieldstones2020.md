@@ -1,10 +1,10 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
-## Moved
+## Memories
 Friday, 10 July 2020
 
-Moved from Ubuntu 18.04 to Debian 10.4. All things considered, it’s gone pretty smoothly.
+“Memories warm you up from the inside. But they also tear you apart.”—Haruki Murakami, *Kafka on the Shore*
 
 ## Trust
 Tuesday, 07 July 2020
