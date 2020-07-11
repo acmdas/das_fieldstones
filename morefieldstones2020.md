@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Remembered
+Saturday, 11 July 2020
+
+“What has been done, thought, written, or spoken is not culture; culture is only that fraction which is remembered.”—Gary Taylor, *The Clock of the Long Now*
+
 ## Love
 Friday, 10 July 2020
 
