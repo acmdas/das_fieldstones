@@ -1,6 +1,15 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Momisms
+Monday, 13 July 2020
+
+If We hadn’t told my brother Stumpy not to clean out the wood chipper by hand, we’d still be calling him Edward.
+
+The cat can have kittens in the oven.  That doesn’t make them biscuits.
+
+She was a tall girl.  She was so tall she could hunt geese with a rake
+
 ## Julian of Norwich
 Monday, 13 July 2020
 
