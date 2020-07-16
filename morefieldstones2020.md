@@ -1,6 +1,15 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Pity
+Wednesday, 15 July 2020
+
+“We may have uneasy sensations from seeing a creature in distress, without pity; for we have not pity unless we wish to relieve them.”—Samuel Johnson 
+
+“Pity is one form of being convinced that someone else is in pain.”—Ludwig Wittgenstein
+
+“The name of this intense, pure, disinterested, gratuitous, generous attention” is love.”—Simone Weil
+
 ## Holy Duties
 Wednesday, 15 July 2020
 
