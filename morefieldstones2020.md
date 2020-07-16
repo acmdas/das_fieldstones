@@ -1,14 +1,28 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Pity
+Wednesday, 15 July 2020
+
+“We may have uneasy sensations from seeing a creature in distress, without pity; for we have not pity unless we wish to relieve them.”—Samuel Johnson 
+
+“Pity is one form of being convinced that someone else is in pain.”—Ludwig Wittgenstein
+
+“The name of this intense, pure, disinterested, gratuitous, generous attention” is love.”—Simone Weil
+
+## Holy Duties
+Wednesday, 15 July 2020
+
+“The burning conviction that we have a holy duty toward others is often a way of attaching our drowning selves to a passing raft. What looks like giving a hand is often a holding on for dear life. Take away our holy duties and you leave our lives puny and meaningless. There is no doubt that in exchanging a self-centered for a selfless life we gain enormously in self-esteem. The vanity of the selfless, even those who practice utmost humility, is boundless.”—Eric Hoffer, *The True Believer*
+
 ## Momisms
 Monday, 13 July 2020
 
-If We hadn’t told my brother Stumpy not to clean out the wood chipper by hand, we’d still be calling him Edward.
+If we hadn’t told my brother Stumpy not to clean out the wood chipper by hand, we’d still be calling him Edward.
 
 The cat can have kittens in the oven.  That doesn’t make them biscuits.
 
-She was a tall girl.  She was so tall she could hunt geese with a rake
+She was a tall girl.  She was so tall she could hunt geese with a rake.
 
 ## Julian of Norwich
 Monday, 13 July 2020
