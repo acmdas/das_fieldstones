@@ -4,7 +4,7 @@
 ## System
 Thursday, 16 July 2020
 
-“I must create a system or be enslaved by another man’s”—William Blake
+“I must create a system or be enslaved by another man’s.”—William Blake
 
 ## Pity
 Wednesday, 15 July 2020
