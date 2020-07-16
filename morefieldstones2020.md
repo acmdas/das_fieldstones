@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Holy Duties
+Wednesday, 15 July 2020
+
+“The burning conviction that we have a holy duty toward others is often a way of attaching our drowning selves to a passing raft. What looks like giving a hand is often a holding on for dear life. Take away our holy duties and you leave our lives puny and meaningless. There is no doubt that in exchanging a self-centered for a selfless life we gain enormously in self-esteem. The vanity of the selfless, even those who practice utmost humility, is boundless.”—Eric Hoffer, *The True Believer*
+
 ## Momisms
 Monday, 13 July 2020
 
