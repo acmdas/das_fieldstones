@@ -11,7 +11,7 @@ Friday, 17 July 2020
 ## Entrepreneurial Science
 Friday, 17 July 2020
 
-“Just as we have established a tradition of double-blinded research to determine drug efficacy, we must institute double-blinded research in other policy areas as well. Certainly the increased use of computer models, such as GCMs, cries out for the separation of those who make the models from those who verify them. The fact is that the present structure of science is entrepreneurial, with individual investigative teams vying for funding from organizations which all too often have a clear stake in the outcome of the research—or appear to, which may be just as bad. This is not healthy for science.”—Michael Crichton
+“Just as we have established a tradition of double-blinded research to determine drug efficacy, we must institute double-blinded research in other policy areas as well. Certainly the increased use of computer models, such as GCMs, cries out for the separation of those who make the models from those who verify them. The fact is that the present structure of science is entrepreneurial, with individual investigative teams vying for funding from organizations which all too often have a clear stake in the outcome of the research—or appear to, which may be just as bad. This is not healthy for science.”—Michael Crichton, *Aliens Cause Global Warming*
 
 ## System
 Thursday, 16 July 2020
