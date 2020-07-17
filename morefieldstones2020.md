@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Slave
+Friday, 17 July 2020
+
+“The oldest written history of the Slavs can be shortly summarised—myriads of slave hunts and the enthralment of entire peoples. The Slav was the most prized of human goods. With increased strength outside his marshy land of origin, hardened to the utmost against all privation, industrious, content with little, good-humoured, and cheerful, he filled the slave markets of Europe, Asia, and Africa. It must be remembered that for every Slavonic slave who reached his destination, at least ten succumbed to inhuman treatment during transport and to the heat of the climate. Indeed Ibrāhīm (tenth century), himself in all probability a slave dealer, says: ‘And the Slavs cannot travel to Lombardy on account of the heat which is fatal to them.’ Hence their high price.
+
+“The Arabian geographer of the ninth century tells us how the Magyars in the Pontus steppe dominated all the Slavs dwelling near them. The Magyars made raids upon the Slavs and took their prisoners along the coast to Kerkh where the Byzantines came to meet them and gave Greek brocades and such wares in exchange for the prisoners.”—*The Cambridge Medieval History,* Vol. II, 1913
+
 ## Entrepreneurial Science
 Friday, 17 July 2020
 
