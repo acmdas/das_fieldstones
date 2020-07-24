@@ -1,6 +1,12 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Systems
+Thursday, 23 July 2020
+
+
+“The tragic reality is that very few sustainable systems are designed or applied by those who hold power, and the reason for this is obvious and simple: to let people arrange their own food, energy and shelter is to lose economic and political control over them. We should cease to look to power structures, hierarchical systems, or governments to help us, and devise ways to help ourselves.”—Bill Mollison
+
 ## Slave
 Friday, 17 July 2020
 
