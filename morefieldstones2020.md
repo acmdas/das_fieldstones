@@ -1,9 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Happiness=Expectation-Reality
+Monday, 27 July 2020
+
+“All happiness depends on the proportion of what we claim and what we receive. It is immaterial how great or small the two quantities of this proportion are, and the proportion can be established just as well by diminishing the first quantity as by increasing the second.” —Arthur Schopenauer, *The World as Will and Representation*
+
 ## Systems
 Thursday, 23 July 2020
-
 
 “The tragic reality is that very few sustainable systems are designed or applied by those who hold power, and the reason for this is obvious and simple: to let people arrange their own food, energy and shelter is to lose economic and political control over them. We should cease to look to power structures, hierarchical systems, or governments to help us, and devise ways to help ourselves.”—Bill Mollison
 
