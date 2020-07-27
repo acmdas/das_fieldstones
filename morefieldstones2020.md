@@ -1,10 +1,15 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Unhappiness=Error
+Monday, 27 July 2020
+
+“For whenever a man in any way loses self-control, or is struck down by misfortune, or grows angry, or loses heart, he shows in this way that he finds things different than what he expected, and consequently he lived under a mistake.”—Arthur Schopenauer, *The World as Will and Representation*
+
 ## Happiness=Expectation-Reality
 Monday, 27 July 2020
 
-“All happiness depends on the proportion of what we claim and what we receive. It is immaterial how great or small the two quantities of this proportion are, and the proportion can be established just as well by diminishing the first quantity as by increasing the second.” —Arthur Schopenauer, *The World as Will and Representation*
+“All happiness depends on the proportion of what we claim and what we receive. It is immaterial how great or small the two quantities of this proportion are, and the proportion can be established just as well by diminishing the first quantity as by increasing the second.”—Arthur Schopenauer, *The World as Will and Representation*
 
 ## Systems
 Thursday, 23 July 2020
