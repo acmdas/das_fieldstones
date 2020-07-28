@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Anti-Authoritarian
+Tuesday, 28 July 2020
+
+“Anti-authoritarians question whether an authority is a legitimate one before taking that authority seriously. Evaluating the legitimacy of authorities includes assessing whether or not authorities actually know what they are talking about, are honest, and care about those people who are respecting their authority. And when anti-authoritarians assess an authority to be illegitimate, they challenge and resist that authority—sometimes aggressively and sometimes passive-aggressively, sometimes wisely and sometimes not.”—[Bruce Levine, PhD](https://www.madinamerica.com/2012/02/why-anti-authoritarians-are-diagnosed-as-mentally-ill/)
+
 ## Unhappiness=Error
 Monday, 27 July 2020
 
