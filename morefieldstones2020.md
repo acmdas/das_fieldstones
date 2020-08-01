@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## A Machine
+Saturday, 01 August 2020
+
+“The brain being indeed a machine, we must not hope to find its artifice through other ways than those which are used to find the artifice of the other machines. It thus remains to do what we would do for any other machine; I mean to dismantle it piece by piece and to consider what these can do separately and together.”—Nicolaus Steno, *On the Brain*, 1669
+
+## Achievement
+Friday, 31 July 2020
+
+“To achieve great things, two things are needed: a plan, and not quite enough time.”—Leonard Bernstein
+
 ## The Brain
 Wednesday, 29 July 2020
 
