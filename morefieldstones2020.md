@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Dementia
+Thursday, 06 August 2020
+
+“*Quem deus vult perdere, prius dementat*. [Whom the gods would destroy they first drive mad.] … Dementia: loss of memory, history, & therefore of a future. That is our difficulty: we are all demented now.”—[David Warren](https://www.davidwarrenonline.com/2020/08/06/ignore-gentle-reader/)
+
 ## A Machine
 Saturday, 01 August 2020
 
