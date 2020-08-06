@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Editing
+Thursday, 06 August 2020
+
+“Remedies for Growth. The human thing is gardening, pruning. Nature is shameless & profligate, our job is editorial. We don’t tell it to grow; we tell it where, and where not to.”—David Warren
+
 ## Dementia
 Thursday, 06 August 2020
 
