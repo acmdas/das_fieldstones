@@ -1,6 +1,12 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Bad Lovin’
+Wednesday, 12 August 2020
+
+“To summarize, then, we have four main points: First, love is primarily a matter of will rather than passion. Second, pleasant feelings are therefore not of its essence, even if they are usually associated with it. Third, love is a matter of willing what is good for the beloved. Fourth, love of another for his own sake has priority over love of another merely for some benefit he provides.”—[Edward Feser](https://edwardfeser.blogspot.com/2016/07/bad-lovin.html)
+
+
 ## Editing
 Thursday, 06 August 2020
 
