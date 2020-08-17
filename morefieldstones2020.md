@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## GTD
+Sunday, 16 August 2020
+
+“Pretend your brain is a white board. Is it covered with to-do lists and ‘DO NOT ERASE’? Is there space for drawing and combining ideas?”—Jessica Kerr
+
+## Emacs
+Saturday, 15 August 2020
+
+“GNU Emacs, which is a sort of hybrid between Windows Notepad, a monolithic-kernel operating system, and the International Space Station. It’s a bit tricky to explain, but in a nutshell, Emacs is a platform written in 1976 (yes, almost half a century ago) for writing software to make you more productive, masquerading as a text editor.”—[Steve Yegge](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
+
 ## Bad Lovin’
 Wednesday, 12 August 2020
 
