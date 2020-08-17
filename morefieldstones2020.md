@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Boring
+Monday, 17 August 2020
+
+“Every kind of writing is good save that which bores.” — Voltaire, preface to *L’Enfant prodigue* (1736)
+
 ## GTD
 Sunday, 16 August 2020
 
