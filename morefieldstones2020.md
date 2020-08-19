@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Empire
+Wednesday, 19 August 2020
+
+“If we look at this conflict as a straight eyeball-to-eyeball confrontation between Empire and those of us who are resisting it, it might seem that we are losing. But there is another way of looking at it. We, all of us gathered here, have, each in our own way, laid siege to Empire. We may not have stopped it in its tracks—yet—but we have stripped it down. We have made it drop its mask. We have forced it into the open. It now stands before us on the world’s stage in all its brutish, iniquitous nakedness.
+
+“Our strategy should be not only to confront empire, but to lay siege to it. To deprive it of oxygen. To shame it. To mock it. With our art, our music, our literature, our stubbornness, our joy, our brilliance, our sheer relentlessness—and our ability to tell our own stories. Stories that are different from the ones we’re being brainwashed to believe. The corporate revolution will collapse if we refuse to buy what they are selling—their ideas, their version of history, their wars, their weapons, their notion of inevitability. Remember this: We be many and they be few. They need us more than we need them.”—Arundhati Roy, *War Talk*
+
 ## Boring
 Monday, 17 August 2020
 
