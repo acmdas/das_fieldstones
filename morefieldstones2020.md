@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Partnership
+Sunday, 23 August 2020
+
+“A horrible suspicion that has sometimes haunted me is that the Conservative and the Progressive are secretly in partnership. That the quarrel they keep up in public is a put-up job, and that the way they perpetually play into each other’s hands is not an everlasting coincidence.”—G.K. Chesterton
+
+“The whole modern world has divided itself into Conservatives and Progressives. The business of Progressives is to go on making mistakes. The business of Conservatives is to prevent mistakes from being corrected.”—G.K. Chesterton
+
 ## Books
 Sunday, 23 August 2020
 
