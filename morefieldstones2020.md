@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Truth
+Sunday, 23 August 2020
+
+“The truth does not chance according to our ability to stomach it.”—Flannery O’Connor
+
 ## Empire
 Wednesday, 19 August 2020
 
