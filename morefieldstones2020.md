@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Books
+Sunday, 23 August 2020
+
+“Thank God for books as an alternative to conversation.”—W. H. Auden
+
 ## Truth
 Sunday, 23 August 2020
 
