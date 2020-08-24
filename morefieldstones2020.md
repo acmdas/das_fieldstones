@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Deception
+Monday, 24 August 2020
+
+“It is as easy to deceive oneself without perceiving it as it is difficult to deceive others without their perceiving it.”—François duc de La Rochefoucauld, *Maximes* (1664)
+
 ## Partnership
 Sunday, 23 August 2020
 
