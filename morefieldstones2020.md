@@ -1,6 +1,15 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## The relativity of time
+Tuesday, 25 August 2020
+
+“Two things are true simultaneously: We’re running out of time. We have too much time on our hands.
+
+“How can we be at a deadline and bored at the same time? We always are.
+
+“Our experience of time relates to engagement, fear, opportunity and the culture.”—Seth Godin
+
 ## Deception
 Monday, 24 August 2020
 
