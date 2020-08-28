@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Apocalypse
+Friday, 28 August 2020
+
+“I had not been prepared for just how stupid the apocalypse would be, how obscene, how inane.”—[William Tychonievich](https://narrowdesert.blogspot.com/2020/08/not-with-bang.html)
+
+## Creativity
+Friday, 28 August 2020
+
+“Creativity is intelligence having fun.”—Albert Einstein
+
 ## Tools
 Wednesday, 26 August 2020
 
