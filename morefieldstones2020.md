@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Teaching History
+Sunday, 06 September 2020
+
+“History isn’t just something that ought to be taught or ought to be read or ought to be encouraged because it’s going to make us a better citizen. It will make us a better citizen; or because it will make us a more thoughtful and understanding human being, which it will; or because it will cause us to behave better, which it will. It should be taught for pleasure: The pleasure of history, like art or music or literature, consists of an expansion of the experience of being alive, which is what education is largely about.”—David McCullough
+
 ## This is what you shall do;
 Friday, 04 September 2020
 
