@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Simplicity
+Sunday, 06 September 2020
+
+“Simplicity is the end result of long, hard work; not the starting point.”—Frederick Maitland
+
 ## Teaching History
 Sunday, 06 September 2020
 
