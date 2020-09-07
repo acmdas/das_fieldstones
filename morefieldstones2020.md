@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Doubt or Certainty
+Monday, 07 September 2020
+
+“It is not doubt but certainty that drives you mad.”—Friedrich Nietzsche, *Why I Am So Wise*
+
 ## Simplicity
 Sunday, 06 September 2020
 
