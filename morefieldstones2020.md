@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Violence
+Saturday, 12 September 2020
+
+“If you are not prepared to use force to defend civilization, then be prepared to accept barbarism.”—Thomas Sowell
+
+## Debased Eras (like today)
+Wednesday, 09 September 2020
+
+“In debased eras like today’s you can’t speak with a straight face of such notions as honor or integrity (or just about any other quality of character that rises above the basest and most self-serving of human instincts). You have to express yourself ironically or with a certain bitter and self-distancing knowingness and despair. You certainly can’t put words into a contemporary character’s mouth that take seriously such notions as nobility or rectitude.”—[Steven Pressfield](https://stevenpressfield.com/2020/09/historical-fiction-1/)
+
 ## Doubt or Certainty
 Monday, 07 September 2020
 
