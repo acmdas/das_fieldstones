@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Cruel Reality
+Monday, 14 September 2020
+
+“History has the cruel reality of a nightmare, and the grandeur of man consists in his making beautiful and lasting works out of the real substance of that nightmare. Or, to put it another way, it consists in transforming the nightmare into vision; in freeing ourselves from the shapeless horror of reality—if only for an instant—by means of creation.”—Octavio Paz, *The Labyrinth of Solitude and Other Writings*
+
 ## Violence
 Saturday, 12 September 2020
 
