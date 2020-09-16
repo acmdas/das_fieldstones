@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Dictatorship
+Wednesday, 16 September 2020
+
+“Nobody every recommended a dictatorship aiming at ends other than those he himself approved. He who advocates dictatorship always advocates the unrestricted rule of his own will. “—Ludwig Von Mises
+
+## Activism
+Wednesday, 16 September 2020
+
+“Activism is a way for useless people to feel important, even if the consequences of their activism are counterproductive for those they claim to be helping and damaging to the fabric of society as a whole.”—Thomas Sowell
+
 ## Cruel Reality
 Monday, 14 September 2020
 
