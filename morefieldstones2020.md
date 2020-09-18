@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Curiosity
+Friday, 18 September 2020
+
+“But a curiosity of my type remains after all the most agreeable of all vices — sorry, I meant to say: the love of truth has its reward in heaven and even on earth.”—Nietzsche, *Beyond Good and Evil*
+
 ## Dictatorship
 Wednesday, 16 September 2020
 
