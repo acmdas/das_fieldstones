@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Socialism
+Monday, 21 September 2020
+
+“One sometimes gets the impression that the mere words ‘Socialism’ and ‘Communism’ draw towards them with magnetic force every fruit juice drinker, nudist, sandal-wearer, sex-maniac, Quaker, ‘Nature Cure’ quack, pacifist and feminist in England.”—George Orwell
+
 ## Curiosity
 Friday, 18 September 2020
 
