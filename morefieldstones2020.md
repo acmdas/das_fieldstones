@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Humility
+Tuesday, 22 September 2020
+
+"Humility, therefore, is absolutely necessary if man is to avoid acting like a baby all his life. To grow up means, in fact, to become humble, to throw away the illusion that I am at the center of everything and that other people only exist to provide me with comfort and pleasure."—Thomas Merton, *Seeds of Contemplation*
+
 ## Socialism
 Monday, 21 September 2020
 
