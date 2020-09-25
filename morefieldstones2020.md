@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Irate
+Thursday, 24 September 2020
+
+“Only the person who becomes irate without reason, sins. Whoever becomes irate for a just reason is not guilty. Because, if ire were lacking, the science of God would not progress, judgments would not be sound, and crimes would not be repressed.
+
+“Further, the person who does not become irate when he has cause to be, sins. For an unreasonable patience is the hotbed of many vices: it fosters negligence, and stimulates not only the wicked, but above all the good, to do wrong.”—St. John Chrysostom, *Homily XI super Matheum, 1c, nt.7*
+
 ## Humility
 Tuesday, 22 September 2020
 
