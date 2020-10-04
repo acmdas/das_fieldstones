@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Decomposition
+Sunday, 4 October 2020
+
+“The standard process of organizing knowledge by departments, and subdepartments, and further breaking it up into separate courses, tends to conceal the homogeneity of knowledge, and at the same time to omit much which falls between the courses.”—Richard Hamming
+
+A technique useful in software development, less so in other fields.
+
 ## Irate
 Thursday, 24 September 2020
 
