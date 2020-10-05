@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Fools
+Monday, 5 October 2020
+
+“The first principle is that you must not fool yourself, and you are the easiest person too fool.”—Richard Feynman
+
 ## Decomposition
 Sunday, 4 October 2020
 
