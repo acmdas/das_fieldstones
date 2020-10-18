@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Wasted
+Sunday, 18 October 2020
+
+“The time you enjoy wasting is not wasted time”—Bertrand Russell
+
 ## Fools
 Monday, 5 October 2020
 
