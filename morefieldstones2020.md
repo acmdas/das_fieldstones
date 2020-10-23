@@ -6,6 +6,8 @@ Friday, 23 2020
 
 “The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”—Gene Spafford
 
+Similar to the expectation that, whatever you’ve done to secure your outward-facing network, the bad buys have penetrated it and secure individual machines and data appropriately. IOW, you’re never paranoid enough in today’s world.
+
 ## Wasted
 Sunday, 18 October 2020
 
