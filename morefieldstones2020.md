@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Secure System
+Friday, 23 2020
+
+“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”—Gene Spafford
+
 ## Wasted
 Sunday, 18 October 2020
 
