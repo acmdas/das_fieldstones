@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Elephants
+Friday, 23 October 2020
+
+“I remember my friend Johnny von Neumann used to say, with four parameters I can fit an elephant, and with five I can make him wiggle his trunk.”–Enrico Fermi, quoted by Freeman Dyson, [*A meeting with Enrico Fermi*](https://www.nature.com/articles/427297a)
+
 ## The Ideal Subject
 Friday, 23 October 2020
 
