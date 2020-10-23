@@ -1,8 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Lies and Truth
+Friday, 23 October 2020
+
+“The result of a consistent and total substitution of lies for factual truth is not that the lie will now be accepted as truth and truth be defamed as a lie, but that the sense by which we take our bearings in the real world - and the category of truth versus falsehood is among the mental means to this end - is being destroyed.”—Hannah Arendt
+
 ## Secure System
-Friday, 23 2020
+Friday, 23 October 2020
 
 “The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”—Gene Spafford
 
