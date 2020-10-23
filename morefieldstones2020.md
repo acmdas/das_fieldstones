@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Tyrants’ Fear
+Friday, 23 October 2020
+
+“Harry, Harry, only because Voldemort made a grave error, and acted on Professor Trelawney’s words! If Voldemort had never murdered your father, would he have imparted in you a furious desire for revenge? Of course not! If he had not forced your mother to die for you, would he have given you a magical protection he could not penetrate? Of course not, Harry! Don’t you see? Voldemort himself created his worst enemy, just as tyrants everywhere do! Have you any idea how much tyrants fear the people they oppress? All of them realize that, one day, amongst their many victims, there is sure to be one who rises against them and strikes back! Voldemort is no different! Always he was on the lookout for the one who would challenge him. He heard the prophecy and he leapt into action, with the result that he not only handpicked the man most likely to finish him, he handed him uniquely deadly weapons!”—J.K. Rowling, *Harry Potter and the Half-Blood Prince*
+
 ## Lies and Truth
 Friday, 23 October 2020
 
