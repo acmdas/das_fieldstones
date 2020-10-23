@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## The Ideal Subject
+Friday, 23 October 2020
+
+“The ideal subject of totalitarian rule is not the convinced Nazi or the convinced Communist, but people for whom the distinction between fact and fiction (i.e., the reality of experience) and the distinction between true and false (i.e., the standards of thought) no longer exist.”—Hannah Arendt, *The Origins of Totalitarianism*
+
 ## Tyrants’ Fear
 Friday, 23 October 2020
 
