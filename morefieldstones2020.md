@@ -1,6 +1,12 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Being Sad
+Wednesday, 28 October 2020
+
+
+“We all want to do something to mitigate the pain of loss or to turn grief into something positive, to find a silver lining in the clouds. But I believe there is real value in just standing there, being still, being sad.”—John Green
+
 ## Elephants
 Friday, 23 October 2020
 
