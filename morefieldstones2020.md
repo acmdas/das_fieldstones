@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## To know, but not to seek
+Wednesday, 28 October 2020
+
+“Am I meant to know, but not to seek? Did you know how hard I’d find that? Is that why you made it this difficult? So I’d have time to work that out?”—J.K. Rowling, *Harry Potter and the Deathly Hallows*
+
 ## Being Sad
 Wednesday, 28 October 2020
 
