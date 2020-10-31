@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## The Past
+Friday, 30 October 2020
+
+“...since men have no more ready corrective of conduct than knowledge of the past”—Polybius, *Histories*, 1.1.1-4
+
 ## To know, but not to seek
 Wednesday, 28 October 2020
 
