@@ -1,7 +1,13 @@
+
 # More Fieldstones 2020
 [Home](./index.html)
 
-## The Past
+## Brilliance
+Monday, 02 November 2020
+
+“Amateurs tend to focus on seeking brilliance. Professionals often know that it’s far more effective to avoid stupidity. Side-stepping typical blunders is the simplest way to get ahead of the crowd.”—{Rosie Leizrowice](https://fs.blog/2020/11/common-probability-errors/)
+
+## The Past or Why Study History
 Friday, 30 October 2020
 
 “...since men have no more ready corrective of conduct than knowledge of the past”—Polybius, *Histories*, 1.1.1-4
