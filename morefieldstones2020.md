@@ -2,6 +2,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Simple Brains
+Tuesday, 03 November 2020
+
+“If the brain were so simple that we could understand it, we would be so simple that we couldn’t.”—Emerson Pugh
+
 ## Brilliance
 Monday, 02 November 2020
 
