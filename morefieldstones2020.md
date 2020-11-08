@@ -2,6 +2,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Efficiency
+Sunday, 08 November 2020
+
+“If you’re efficient, you’re doing it the wrong way. The right way is the hard way. The show was successful because I micromanaged it—every word, every line, every take, every edit, every casting. That’s my way of life.”—[Jerry Seinfeld](https://hbr.org/2017/01/lifes-work-jerry-seinfeld%E2%80%8B), *Harvard Business Review* interview
+
 ## Simple Brains
 Tuesday, 03 November 2020
 
