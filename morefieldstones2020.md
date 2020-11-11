@@ -1,6 +1,10 @@
-
 # More Fieldstones 2020
 [Home](./index.html)
+
+## Freedom
+Wednesday, 11 November 2020
+
+“I am free, no matter what rules surround me. If I find them tolerable, I tolerate them; if I find them too obnoxious, I break them. I am free because I know that I alone am morally responsible for everything I do.”—Robert A. Heinlein, *The Moon is a Harsh Mistress*
 
 ## Efficiency
 Sunday, 08 November 2020
