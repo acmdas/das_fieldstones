@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Results
+Thursday, 12 November 2020
+
+“We can view results as a threat, or see them as an opportunity. It depends on whether we’re defending a little-understood status quo or seeking to make things work better.”—Seth Godin, [*The Gift of Results*](https://seths.blog/2020/11/the-gift-of-results/)
+
 ## Freedom
 Wednesday, 11 November 2020
 
