@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## A Theatre of Dominance and Affiliation
+Saturday, 14 November 2020
+
+“Organized sports often turn into a play about status roles and dominance. Bullfighting, pro wrestling, even hockey, are about who’s winning, who’s losing and who’s in charge.
+
+But they are also theatres of affiliation. The fans celebrate their unity as well as their divisions. The pomp and circumstance are a form of culture. There are insiders and outsiders, and the right way and the wrong way.”—[Seth Godin](https://seths.blog/2020/11/a-theatre-of-dominance/)
+
 ## The Study of History
 Saturday, 14 November 2020
 
