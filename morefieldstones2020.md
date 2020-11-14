@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## The Study of History
+Saturday, 14 November 2020
+
+“The study of history is a powerful antidote to contemporary arrogance. It is humbling to discover how many of our glib assumptions, which seem to us novel and plausible, have been tested before, not once but many times and in innumerable guises; and discovered to be, at great human cost, wholly false.”—Paul Johnson, *The Recovery of Freedom*
+
 ## Results
 Thursday, 12 November 2020
 
