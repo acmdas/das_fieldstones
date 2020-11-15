@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Happy
+Sunday, 15 November 2020
+
+“A child can teach an adult three things: to be happy for no reason, to always be busy with something, and to know how to demand with all his might that which he desires.”—Paulo Coelho, *The Fifth Mountain*
+
+## Freedom of Speech and Thought
+Sunday, 15 November, 2020
+
+“People demand freedom of speech as a compensation for the freedom of thought which they seldom use.”—Søren Kierkegaard
+
 ## A Theatre of Dominance and Affiliation
 Saturday, 14 November 2020
 
