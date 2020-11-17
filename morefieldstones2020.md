@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Totalitarian Truth
+Tuesday, 17 November 2020
+
+“The really frightening thing about totalitarianism is not that it commits ‘atrocities’ but that it attacks the concept of objective truth; it claims to control the past as well as the future.”—George Orwell, “As I Please” column in *Tribune*, 4 February 1944
+
 ## Totalitarian
 Tuesday, 17 November 2020
 
