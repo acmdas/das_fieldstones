@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## No Past
+Tuesday, 17 November 2020
+
+“A generation which ignores history has no past—and no future.”—Robert A. Heinlein, *Time Enough for Love*
+
 ## Totalitarian Truth
 Tuesday, 17 November 2020
 
