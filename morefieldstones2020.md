@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Moving On
+Monday, 16 November 2020
+
+“You can’t go back and change the beginning, but you can start where you are and change the ending.”—C.S. Lewis
+
 ## Happy
 Sunday, 15 November 2020
 
