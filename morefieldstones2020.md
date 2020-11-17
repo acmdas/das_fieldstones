@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Totalitarian
+Tuesday, 17 November 2020
+
+“A society becomes totalitarian when its structure becomes flagrantly artificial: that is, when its ruling class has lost its function but succeeds in clinging to power by force or fraud.”—George Orwell *The Prevention of Literature*, 1946
+
 ## Moving On
 Monday, 16 November 2020
 
