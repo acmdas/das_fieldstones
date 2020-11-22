@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Rebel
+Sunday, 22 November 2020
+
+“What is a rebel? A man who says no.”—Albert Camus
+
 ## Peace and Ease
 Sunday, 22 November 2020
 
