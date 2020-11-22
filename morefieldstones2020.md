@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Peace and Ease
+Sunday, 22 November 2020
+
+“He that would live in peace and ease must not speak all he knows or all he sees.”—Benjamin Franklin
+
 ## No Past
 Tuesday, 17 November 2020
 
