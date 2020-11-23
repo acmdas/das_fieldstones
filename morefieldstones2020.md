@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Real
+Monday, 23 November 2020
+
+“Everything we call real is made of things that cannot be regarded as real. If quantum mechanics hasn’t profoundly shocked you, you haven’t understood it yet.”—Niels Bohr
+
 ## Rebel
 Sunday, 22 November 2020
 
