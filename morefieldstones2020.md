@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Education
+Friday, 27 November 2020
+
+“The problem is not you being uneducated. The problem is that you are educated just enough to believe what you have been taught, and not educated enough to question anything from what you have been taught.”—Richard Feynman
+
 ## Real
 Monday, 23 November 2020
 
