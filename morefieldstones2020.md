@@ -1,6 +1,18 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Undecided
+Sunday, 29 November 2020
+
+“Men do not know how to be either entirely wicked or entirely good... they do not know how to employ violent measures which are honourable in themselves, and as a result, remaining undecided, between their own indecision and their ambiguity they are eliminated.”—Niccolò Machiavelli
+
+## Teddy
+Sunday, 29 November 2020
+
+“Far and away the best prize that life has to offer is the chance to work hard at work worth doing.”–Teddy Roosevelt
+
+“Whenever you are asked if you can do a job, tell ‘em ‘Certainly I can!’ Then get busy and find out how to do it.”–Teddy Roosevelt
+
 ## Education
 Friday, 27 November 2020
 
