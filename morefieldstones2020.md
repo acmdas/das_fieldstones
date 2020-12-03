@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Distinguishing
+Thursday, 03 December 2020
+
+“The greatest challenge facing mankind is the challenge of distinguishing reality from fantasy, truth from propaganda. Perceiving the truth has always been a challenge to mankind, but in the information age (or as I think of it, the disinformation age) it takes on a special urgency and importance.
+
+“We must daily decide whether the threats we face are real, whether the solutions we are offered will do any good, whether the problems we’re told exist are in fact real problems, or non-problems.”—Michael Crichton
+
 ## Certainty
 Thursday, 03 December 2020
 “I wish I were dumber so I could be more certain about my opinions. It looks fun.”—Scott Adams
