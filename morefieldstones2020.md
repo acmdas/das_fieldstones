@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Faster
+Thursday, 03 December 2020
+
+“If you have everything under control, you’re not moving fast enough.”—Mario Andretti
+
 ## Undecided
 Sunday, 29 November 2020
 
