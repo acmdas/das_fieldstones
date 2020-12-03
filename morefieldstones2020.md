@@ -6,7 +6,7 @@ Thursday, 03 December 2020
 
 “The greatest challenge facing mankind is the challenge of distinguishing reality from fantasy, truth from propaganda. Perceiving the truth has always been a challenge to mankind, but in the information age (or as I think of it, the disinformation age) it takes on a special urgency and importance.
 
-“We must daily decide whether the threats we face are real, whether the solutions we are offered will do any good, whether the problems we’re told exist are in fact real problems, or non-problems.”—Michael Crichton
+“We must daily decide whether the threats we face are real, whether the solutions we are offered will do any good, whether the problems we’re told exist are in fact real problems, or non-problems.”—Michael Crichton, *Environmentalism as Religion* speech at Commonwealth Club, San Francisco, CA 15 September 2003
 
 ## Certainty
 Thursday, 03 December 2020
