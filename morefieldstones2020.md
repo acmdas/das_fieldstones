@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Intuition and Discovery
+Saturday, 05 December 2020
+
+“It is through science that we prove, but through intuition that we discover.”—Henri Poincaré
+
 ## Distinguishing
 Thursday, 03 December 2020
 
