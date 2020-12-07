@@ -43,9 +43,9 @@ Sunday, 29 November 2020
 ## Teddy
 Sunday, 29 November 2020
 
-“Far and away the best prize that life has to offer is the chance to work hard at work worth doing.”–Teddy Roosevelt
+“Far and away the best prize that life has to offer is the chance to work hard at work worth doing.”—Teddy Roosevelt
 
-“Whenever you are asked if you can do a job, tell ‘em ‘Certainly I can!’ Then get busy and find out how to do it.”–Teddy Roosevelt
+“Whenever you are asked if you can do a job, tell ‘em ‘Certainly I can!’ Then get busy and find out how to do it.”—Teddy Roosevelt
 
 ## Education
 Friday, 27 November 2020
@@ -168,14 +168,14 @@ Friday, 23 October 2020
 ## Lies and Truth
 Friday, 23 October 2020
 
-“The result of a consistent and total substitution of lies for factual truth is not that the lie will now be accepted as truth and truth be defamed as a lie, but that the sense by which we take our bearings in the real world - and the category of truth versus falsehood is among the mental means to this end - is being destroyed.”—Hannah Arendt
+“The result of a consistent and total substitution of lies for factual truth is not that the lie will now be accepted as truth and truth be defamed as a lie, but that the sense by which we take our bearings in the real world—and the category of truth versus falsehood is among the mental means to this end - is being destroyed.”—Hannah Arendt
 
 ## Secure System
 Friday, 23 October 2020
 
 “The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”—Gene Spafford
 
-Similar to the expectation that, whatever you’ve done to secure your outward-facing network, the bad buys have penetrated it and secure individual machines and data appropriately. IOW, you’re never paranoid enough in today’s world.
+Similar to the expectation that, whatever you’ve done to secure your outward-facing network, the bad buys have penetrated it and do all the extra, expensive work to secure individual machines and data appropriately (which, in my experience, almost nobody is willing to do). IOW, you’re never paranoid enough in today’s world.
 
 ## Wasted
 Sunday, 18 October 2020
@@ -214,7 +214,7 @@ Monday, 21 September 2020
 ## Curiosity
 Friday, 18 September 2020
 
-“But a curiosity of my type remains after all the most agreeable of all vices — sorry, I meant to say: the love of truth has its reward in heaven and even on earth.”—Nietzsche, *Beyond Good and Evil*
+“But a curiosity of my type remains after all the most agreeable of all vices—sorry, I meant to say: the love of truth has its reward in heaven and even on earth.”—Nietzsche, *Beyond Good and Evil*
 
 ## Dictatorship
 Wednesday, 16 September 2020
