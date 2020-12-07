@@ -28,7 +28,7 @@ Thursday, 03 December 2020
 ## Obvious
 Thursday, 03 December 2020
 
-“Every high civilization decays by forgetting obvious things.”G.K. Chesterton
+“Every high civilization decays by forgetting obvious things.”—G.K. Chesterton
 
 ## Faster
 Thursday, 03 December 2020
