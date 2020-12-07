@@ -317,7 +317,7 @@ Wednesday, 19 August 2020
 ## Boring
 Monday, 17 August 2020
 
-“Every kind of writing is good save that which bores.” — Voltaire, preface to *L’Enfant prodigue* (1736)
+“Every kind of writing is good save that which bores.”—Voltaire, preface to *L’Enfant prodigue* (1736)
 
 ## GTD
 Sunday, 16 August 2020
@@ -344,11 +344,6 @@ Thursday, 06 August 2020
 Thursday, 06 August 2020
 
 “*Quem deus vult perdere, prius dementat*. [Whom the gods would destroy they first drive mad.] … Dementia: loss of memory, history, & therefore of a future. That is our difficulty: we are all demented now.”—[David Warren](https://www.davidwarrenonline.com/2020/08/06/ignore-gentle-reader/)
-
-## A Machine
-Saturday, 01 August 2020
-
-“The brain being indeed a machine, we must not hope to find its artifice through other ways than those which are used to find the artifice of the other machines. It thus remains to do what we would do for any other machine; I mean to dismantle it piece by piece and to consider what these can do separately and together.”—Nicolaus Steno, *On the Brain*, 1669
 
 ## Achievement
 Friday, 31 July 2020
