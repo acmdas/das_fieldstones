@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Celebrity
+Monday, 07 December 2020
+
+“Moreover, the celebrity’s apparent talent and relevant success teach him to do the things he must not do: to trust himself, to believe that he is a person of virtue, to believe that he is important. This is particularly dangerous when talent and success almost always create both opportunity and motive for serious sin.”—[David French](https://frenchpress.thedispatch.com/p/the-crisis-of-christian-celebrity)
+
 ## Science, Intuition and Discovery
 Saturday, 05 December 2020
 
