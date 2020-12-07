@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Alone
+Monday, 07 December 2020
+
+“If you are lonely when you are alone, you are in bad company.”—Jean Paul Satre
+
+## Government
+Monday, 07 December 2020
+
+“Government does not exist to make us equal, but to treat us equally. It does not exist to make life fair, but to treat us fairly.”—Andrew Klavan
+
 ## Celebrity
 Monday, 07 December 2020
 
