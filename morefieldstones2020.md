@@ -22,6 +22,7 @@ Thursday, 03 December 2020
 
 ## Certainty
 Thursday, 03 December 2020
+
 “I wish I were dumber so I could be more certain about my opinions. It looks fun.”—Scott Adams
 
 ## Obvious
