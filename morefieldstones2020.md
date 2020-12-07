@@ -219,7 +219,7 @@ Friday, 18 September 2020
 ## Dictatorship
 Wednesday, 16 September 2020
 
-“Nobody every recommended a dictatorship aiming at ends other than those he himself approved. He who advocates dictatorship always advocates the unrestricted rule of his own will. “—Ludwig Von Mises
+“Nobody every recommended a dictatorship aiming at ends other than those he himself approved. He who advocates dictatorship always advocates the unrestricted rule of his own will.“—Ludwig Von Mises
 
 ## Activism
 Wednesday, 16 September 2020
@@ -305,7 +305,7 @@ Sunday, 23 August 2020
 ## Truth
 Sunday, 23 August 2020
 
-“The truth does not chance according to our ability to stomach it.”—Flannery O’Connor
+“The truth does not change according to our ability to stomach it.”—Flannery O’Connor
 
 ## Empire
 Wednesday, 19 August 2020
