@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Important
+Monday, 14 December 2020
+
+“The two most important days of a man’s life are the day he was born and the day he finds out why.”—recently attributed to Mark Twain, but almost certainly inaccurately.
+
+The [Quote Investigator](https://quoteinvestigator.com/2016/06/22/why/#return-note-13878-1) traces it to a January 25, 1970 sermon delivered at Riverside Church in New York City. Whoever said it first, it’s a useful thought.
+
 ## Alone
 Monday, 07 December 2020
 
