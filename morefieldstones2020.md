@@ -6,7 +6,7 @@ Monday, 14 December 2020
 
 “The two most important days of a man’s life are the day he was born and the day he finds out why.”—recently attributed to Mark Twain, but almost certainly inaccurately.
 
-The [Quote Investigator](https://quoteinvestigator.com/2016/06/22/why/#return-note-13878-1) traces it to a January 25, 1970 sermon delivered at Riverside Church in New York City. Whoever said it first, it’s a useful thought.
+The [Quote Investigator](https://quoteinvestigator.com/2016/06/22/why/#return-note-13878-1) traces it to a January 25, 1970 sermon delivered at Riverside Church in New York City. Whoever said it first, it’s a useful thought. It’s always wise to be suspicious of any quote attributed to Twain, Einstein, Dalai Lama, etc. As Abe Lincoln used to say, “Don’t trust anything you read on the Internet.”
 
 ## Alone
 Monday, 07 December 2020
