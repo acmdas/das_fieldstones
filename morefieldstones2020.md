@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Confidence
+Friday, 18 December 2020
+
+“It is our knowledge—the things we are sure of—that makes the world go wrong and keeps us from seeing and learning.”—Lincoln Steffens
+
+## Leadership
+Friday, 18 December 2020
+
+“Anyone can steer the ship when the sea is calm.”—Publilius Syrus
+
 ## Important
 Monday, 14 December 2020
 
