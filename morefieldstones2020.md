@@ -4,7 +4,7 @@
 ## The World is Made of Events, Not Things
 Sunday, 20 December 2020
 
-“There is, nevertheless, an aspect of time that has survived the demolition inflicted on it by nineteenth- and twentieth-century physice. Divested of the trappings with which Newtonian theory had draped it, and to which we had become so accustomed, it now shines out with greater clarity; the world is nothing but change.”—Carlo Rovelli, *The Order of Time* p 96
+“There is, nevertheless, an aspect of time that has survived the demolition inflicted on it by nineteenth- and twentieth-century physics. Divested of the trappings with which Newtonian theory had draped it, and to which we had become so accustomed, it now shines out with greater clarity; the world is nothing but change.”—Carlo Rovelli, *The Order of Time* p 96
 
 Time Physics
 
@@ -495,7 +495,7 @@ Sunday, 05 July 2020
 
 “Simple as it seems, action is the cause, vehicle, and outcome of education. Perceptions, thoughts, ideas, memories, and intentions are important, but they are not the end product.”—James Zull, *From Brain to Mind: Using Neuroscience to Guide Change in Education*
 
-## Opression and Liberty
+## Oppression and Liberty
 Friday, 03 July 2020
 
 “Never has the individual been so completely delivered up to a blind collectivity, and never have men been less capable, not only of subordinating their actions to their thoughts, but even of thinking. Such terms as oppressors and oppressed, the idea of classes—all that sort of thing is near to losing all meaning, so obvious are the impotence and distress of all men in face of the social machine, which has become a machine for breaking hearts and crushing spirits, a machine for manufacturing irresponsibility, stupidity, corruption, slackness and, above all, dizziness. The reason for this painful state of affairs is perfectly clear. We are living in a world in which nothing is made to man’s measure; there exists a monstrous discrepancy between man’s body, man’s mind and the things which at present time constitute the elements of human existence; everything is in disequilibrium.”—Simone Weil, *Oppression and Liberty* (1955)
@@ -533,7 +533,7 @@ Thursday, 11 June 2020
 ## Suffering
 Friday, 05 June 2020
 
-“My argument with so much of psychoanalysis, is the preconception that suffering is a mistake, or a sign of weakness, or a sign even of illness. When in fact, possibly the greatest truths we know, have come out of people’s suffering. The problem is not to undo suffering, or to wipe it off the face of the earth, but to make it inform our lives, instead of trying to ‘cure’ ourselves of it constantly, and avoid it, and avoid anything but that lobotomized sense of what they call ‘happiness’x. There’s too much of an attempt, it seems to me, to think in terms of controlling man, rather than freeing him—of defining him, rather than letting him go! It’s part of the whole ideology of this age, which is power-mad!”—Arthur Miller
+“My argument with so much of psychoanalysis, is the preconception that suffering is a mistake, or a sign of weakness, or a sign even of illness. When in fact, possibly the greatest truths we know, have come out of people’s suffering. The problem is not to undo suffering, or to wipe it off the face of the earth, but to make it inform our lives, instead of trying to ‘cure’ ourselves of it constantly, and avoid it, and avoid anything but that lobotomized sense of what they call ‘happiness’. There’s too much of an attempt, it seems to me, to think in terms of controlling man, rather than freeing him—of defining him, rather than letting him go! It’s part of the whole ideology of this age, which is power-mad!”—Arthur Miller
 
 ## Success
 Friday, 05 June 2020
@@ -979,7 +979,7 @@ Saturday, 11 January 2020
 
 “Truth is not that which is demonstrable but that which is unavoidable.”—Antoine de Saint-Exupery
 
-## Committment
+## Commitment
 Saturday, 11 January 2020
 
 “At the moment of commitment the entire universe conspires to assist you.”—Johann Wolfgang Von Goethe
@@ -1028,7 +1028,7 @@ Thursday, 02 January 2020
 “While Malcolm Muggeridge was the editor of Punch, it was announced that Khrushchev and Bulganin were coming to England. Muggeridge hit upon the idea of a mock itinerary, a lineup of the most ludicrous places the two paunchy pear-shaped little Soviet leaders could possibly be paraded through during the solemn process of a state visit. Shortly before press time, half the feature had to be scrapped. It coincided exactly with the official itinerary, just released, prompting Muggeridge to observe: We live in an age in which it is no longer possible to be funny. There is nothing you can imagine, no matter how ludicrous, that will not promptly be enacted before your very eyes, probably by someone well known.”—Tom Wolfe, “Stalking the Billion-Footed Beast: A literary manifesto for the new social novel”, *Harpers*, November, 1989
 
 ## Sowell’s Law
-Thursday, 02 January 2020prin
+Thursday, 02 January 2020
 
 “In human problems, there are no solutions, only trade-offs.”
 
