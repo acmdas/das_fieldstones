@@ -26,7 +26,7 @@ The [Quote Investigator](https://quoteinvestigator.com/2016/06/22/why/#return-no
 ## Alone
 Monday, 07 December 2020
 
-“If you are lonely when you are alone, you are in bad company.”—Jean Paul Satre
+“If you are lonely when you are alone, you are in bad company.”—Jean Paul Sartre
 
 ## Government
 Monday, 07 December 2020
