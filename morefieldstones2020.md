@@ -1,6 +1,13 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## The World is Made of Events, Not Things
+Sunday, 20 December 2020
+
+“There is, nevertheless, an aspect of time that has survived the demolition inflicted on it by nineteenth- and twentieth-century physice. Divested of the trappings with which Newtonian theory had draped it, and to which we had become so accustomed, it now shines out with greater clarity; the world is nothing but change.”—Carlo Rovelli, *The Order of Time* p 96
+
+Time Physics
+
 ## Lies
 Sunday, 20 December 2020
 
