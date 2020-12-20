@@ -1040,7 +1040,7 @@ Thursday, 02 January 2020
 ## Heinlein’s Dichotomy
 Thursday, 02 January 2020
 
-“Political rags—such as royalist, communist, democrat, populist, fascist, liberal, conservative, and so forth—are never basic criteria. The human race divides politically into those who want people to be controlled and those who have no such desire.”—Robert A. Heinlein *The notebooks of Lazarus Long*
+“Political tags—such as royalist, communist, democrat, populist, fascist, liberal, conservative, and so forth—are never basic criteria. The human race divides politically into those who want people to be controlled and those who have no such desire.”—Robert A. Heinlein, *The notebooks of Lazarus Long*
 
 ## Cognitive Bias
 Thursday, 02 January 2020
