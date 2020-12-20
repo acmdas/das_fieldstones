@@ -1023,9 +1023,9 @@ Saturday, 04 January 2020
 ## Muggeridge’s Law
 Thursday, 02 January 2020
 
-“Satire can never compete with real life for its sheer absurdity.”
+“Satire can never compete with real life for its sheer absurdity.
 
-“While Malcolm Muggeridge was the editor of Punch, it was announced that Khrushchev and Bulganin were coming to England. Muggeridge hit upon the idea of a mock itinerary, a lineup of the most ludicrous places the two paunchy pear-shaped little Soviet leaders could possibly be paraded through during the solemn process of a state visit. Shortly before press time, half the feature had to be scrapped. It coincided exactly with the official itinerary, just released, prompting Muggeridge to observe: We live in an age in which it is no longer possible to be funny. There is nothing you can imagine, no matter how ludicrous, that will not promptly be enacted before your very eyes, probably by someone well known.”—Tom Wolfe, “Stalking the Billion-Footed Beast: A literary manifesto for the new social novel”, *Harpers*, November, 1989
+“While Malcolm Muggeridge was the editor of Punch, it was announced that Khrushchev and Bulganin were coming to England. Muggeridge hit upon the idea of a mock itinerary, a lineup of the most ludicrous places the two paunchy pear-shaped little Soviet leaders could possibly be paraded through during the solemn process of a state visit. Shortly before press time, half the feature had to be scrapped. It coincided exactly with the official itinerary, just released, prompting Muggeridge to observe: ‘We live in an age in which it is no longer possible to be funny. There is nothing you can imagine, no matter how ludicrous, that will not promptly be enacted before your very eyes, probably by someone well known.’”—Tom Wolfe, “Stalking the Billion-Footed Beast: A literary manifesto for the new social novel”, *Harpers*, November, 1989
 
 ## Sowell’s Law
 Thursday, 02 January 2020
