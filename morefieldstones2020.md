@@ -1,6 +1,11 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Lies
+Sunday, 20 December 2020
+
+“I’m not upset that you lied to me; I’m upset that from now on I can’t believe you.”—Friedrich Nietzsche
+
 ## Confidence
 Friday, 18 December 2020
 
