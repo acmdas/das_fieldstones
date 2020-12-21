@@ -1,11 +1,11 @@
 # More Fieldstones 2019
 [Home](./index.html)
 
-## What&#039;s the Matter?
+## What’s the Matter?
 Fri, 11 Jan 2019
 
 “A naive understanding of materialism attributes to it a naive understanding of matter.  Matter, common sense says, is more or less the way it appears to us in ordinary experience.  It is solid, colored stuff that always tastes, smells, sounds, and feels a certain way.  Materialism, on a naïve understanding, is the view that everything that exists is like that.  Even unobservable particles are assumed to be tiny solid, colored objects that have their own tastes, smells, sounds, and feels to them.  Like little stones or marbles.
-  
+
 “Of course, this is all wrong.”—[Edward Feser](http://edwardfeser.blogspot.com/2019/01/materialism-subverts-itself.html)
 
 A pretty “Barfieldian” statement for someone who seems determined to ignore Barfield, even when his name is mentioned dozens of times by his commenters. Well, ‘philosophers’ are like that.
@@ -13,14 +13,16 @@ A pretty “Barfieldian” statement for someone who seems determined to ignore 
 ## That Antichrist Feeling
 Sun, 13 Jan 2019
 
-&ldquo;Surface plausibility, reasonableness, persuasiveness, enjoyability... yet all the time, underneath, nagging away at me&mdash;there a revulsion, a rising tide of suspicion. The 'balance' of 'evidence' suggests that these are 'well-meaning' people, saying things that have 'some value'... yet from the start, and all the time, there is this drum-beat of inner rejection.
-&ldquo;This is what I call That Antichrist feeling&mdash;that sense that I am here dealing with an Antichrist phenomenon...
-&ldquo;It is the knowledge of my own heart that I am dealing with some person, institution or product that has (to some degree&mdash;perhaps unconsciously to itself) a rotten, corrupt, dishonest, manipulative heart. That is pretending to be on the side of God, while actually working against God... That is pretending to be on the side of God in order to work against God.&rdquo;&mdash;[Bruce Charlton](http://charltonteaching.blogspot.com/2019/01/that-antichrist-feeling.html)
+“Surface plausibility, reasonableness, persuasiveness, enjoyability... yet all the time, underneath, nagging away at me—there a revulsion, a rising tide of suspicion. The ‘balance’ of ‘evidence’ suggests that these are ‘well-meaning’ people, saying things that have ‘some value’... yet from the start, and all the time, there is this drum-beat of inner rejection.
+
+“This is what I call That Antichrist feeling—that sense that I am here dealing with an Antichrist phenomenon...
+
+“It is the knowledge of my own heart that I am dealing with some person, institution or product that has (to some degree—perhaps unconsciously to itself) a rotten, corrupt, dishonest, manipulative heart. That is pretending to be on the side of God, while actually working against God... That is pretending to be on the side of God in order to work against God.”—[Bruce Charlton](http://charltonteaching.blogspot.com/2019/01/that-antichrist-feeling.html)
 
 ## Justice or Love
 Sun, 13 Jan 2019
 
-“It is going-against a very mainstream&mdash;especially Protestant&mdash;view of Christianity (and the emphasis of the Apostle Paul) when I say Christianity is not&mdash;or is hardly at all&mdash;about justice.
+“It is going-against a very mainstream—especially Protestant—view of Christianity (and the emphasis of the Apostle Paul) when I say Christianity is not—or is hardly at all—about justice.
 
 “Indeed, quite the opposite: the promise of Christ is that salvation comes to all who follow him in love—and that is a massive short-circuit of anything like justice.”—[Bruce Charlton](http://charltonteaching.blogspot.com/2019/01/christianity-is-not-much-about-justice.html)
 
@@ -31,68 +33,68 @@ Sun, 13 Jan 2019
 
 &ldquo;The intelligentsia was driven to create literary modernism by a profound loathing of ordinary common readers. The intellectuals feared the masses not because they were illiterate but because, by the early twentieth century, they were becoming more literate, thanks to public education, adult education, scholarships, and cheap editions of the great books.
 
-&ldquo;If more and more working people were reading the classics, if they were closing the cultural gap between themselves and the middle classes, how could intellectuals preserve their elite status as arbiters of taste and custodians of rare knowledge? They had to create a new body of modernist literature which was deliberately made so difficult and obscure that the average reader did not understand it.&rdquo;&mdash;[Jonathan Rose](https://daily.jstor.org/was-modernism-meant-to-keep-the-working-classes-out/)
+“If more and more working people were reading the classics, if they were closing the cultural gap between themselves and the middle classes, how could intellectuals preserve their elite status as arbiters of taste and custodians of rare knowledge? They had to create a new body of modernist literature which was deliberately made so difficult and obscure that the average reader did not understand it.”—[Jonathan Rose](https://daily.jstor.org/was-modernism-meant-to-keep-the-working-classes-out/)
 
 This explains Virginia Woolf, Stein and Pound. And a lot of Joyce, Kafka, Eliot. Not to mention a lot of newer stuff. Or is it just me?
 
 ## The State of Current Science
 Tue, 15 Jan 2019
 
-&ldquo;Modern, Linear Faustian Science has run it&rsquo;s course. The decline is obviously visible when the spokesmanship passes from Albert Einstein to Carl Sagan to Neil DeGrasse Tyson. It&rsquo;s been about 40 years since we really smashed through any scientific barriers. &rdquo;&mdash;[Jonathan Wilkinson](http://www.amerika.org/politics/periscope-january-11-2019/)
+“Modern, Linear Faustian Science has run it’s course. The decline is obviously visible when the spokesmanship passes from Albert Einstein to Carl Sagan to Neil DeGrasse Tyson. It’s been about 40 years since we really smashed through any scientific barriers.”—[Jonathan Wilkinson](http://www.amerika.org/politics/periscope-january-11-2019/)
 
 ## Judging
 Fri, 18 Jan 2019
 
-&ldquo;Today&rsquo;s &ldquo;let&rsquo;s all get along, not judge or challenge anyone&rdquo; groupthink also reminds me of a major scene sequence in Milos Forman&rsquo;s adaptation of Ken Kesey&rsquo;s 1962 novel <em>One Flew Over the Cuckoo&rsquo;s Nest</em>.
+“Today’s ‘let’s all get along, not judge or challenge anyone’ groupthink also reminds me of a major scene sequence in Milos Forman’s adaptation of Ken Kesey’s 1962 novel *One Flew Over the Cuckoo’s Nest*.
 
-&ldquo;Jack Nicholson portrays R.P. McMurphy, a good time Charlie with authority figure issues. He&rsquo;s playing crazy at a maximum-security insane asylum to get out of a work detail jail sentence. Years ago, they sentenced petty criminals to hard labor. I remember as a kid being in the backseat driving South and watching chain gangs cutting overgrown brush on the median of I95&mdash;Donn Pearce must have seen them too. He wrote <em>Cool Hand Luke</em>.
+“Jack Nicholson portrays R.P. McMurphy, a good time Charlie with authority figure issues. He’s playing crazy at a maximum-security insane asylum to get out of a work detail jail sentence. Years ago, they sentenced petty criminals to hard labor. I remember as a kid being in the backseat driving South and watching chain gangs cutting overgrown brush on the median of I95—Donn Pearce must have seen them too. He wrote *Cool Hand Luke*.
 
-&ldquo;McMurphy&rsquo;s Moriarty is Nurse Ratched, the head nurse in the asylum. Louise Fletcher played this role so brilliantly&mdash;all ice and pursed lips&mdash;she had difficulty finding work after winning the Oscar for it.
+“McMurphy’s Moriarty is Nurse Ratched, the head nurse in the asylum. Louise Fletcher played this role so brilliantly—all ice and pursed lips—she had difficulty finding work after winning the Oscar for it.
 
-&ldquo;One afternoon, during an interminable group therapy session, McMurphy requests that the guys be allowed to watch the World Series that evening. Knowing that the last thing the other men would want to do is stand up and challenge the way she rules her kingdom, Ratched sees an opportunity to put McMurphy in his place.
+“One afternoon, during an interminable group therapy session, McMurphy requests that the guys be allowed to watch the World Series that evening. Knowing that the last thing the other men would want to do is stand up and challenge the way she rules her kingdom, Ratched sees an opportunity to put McMurphy in his place.
 
-&ldquo;She&rdquo;ll put the request up to a vote.
+“She’ll put the request up to a vote.
 
-&ldquo;McMurphy sticks his hand up to vote &ldquo;yea&rdquo; assuming that his fellow patients will come to the same conclusion that he has.  By simply raising their arms, together the men can let this lady know that denying a simple pleasure like watching a ball game to a bunch of lunatics is absurd.
+“McMurphy sticks his hand up to vote ‘yea’ assuming that his fellow patients will come to the same conclusion that he has.  By simply raising their arms, together the men can let this lady know that denying a simple pleasure like watching a ball game to a bunch of lunatics is absurd.
 
-&ldquo;Which one of you nuts has any guts?
+“Which one of you nuts has any guts?
 
-&ldquo;The needy fuser Cheswick is the only other one who has the courage to challenge Nurse Ratched&rsquo;s command. Meeting adjourned. The men are then shuttled into the shower room for their evening cleaning. McMurphy is out of his mind with anger.
+“The needy fuser Cheswick is the only other one who has the courage to challenge Nurse Ratched’s command. Meeting adjourned. The men are then shuttled into the shower room for their evening cleaning. McMurphy is out of his mind with anger.
 
-&ldquo;If you&rdquo;re a writer, this scene is a perfect example of a set-up that dramatically portrays a character&rsquo;s inner change.  How does Ken Kesey pay it off?
+“If you’re a writer, this scene is a perfect example of a set-up that dramatically portrays a character’s inner change.  How does Ken Kesey pay it off?
 
-&ldquo;From the first moment McMurphy lays eyes on Ratched, the reader/viewer knows he judges her as rotten to the core. McMurphy is not afraid to judge. His problem is that he acts on his judgments too quickly. That&rsquo;s what got him in the clink in the first place.
+“From the first moment McMurphy lays eyes on Ratched, the reader/viewer knows he judges her as rotten to the core. McMurphy is not afraid to judge. His problem is that he acts on his judgments too quickly. That’s what got him in the clink in the first place.
 
-&ldquo;In the nuthouse, though, he is forced to keep the judgment to himself. He&rsquo;s supposed to be crazy! And to McMurphy, only crazy people don&rsquo;t judge, so he shouldn&rsquo;t either.
+“In the nuthouse, though, he is forced to keep the judgment to himself. He’s supposed to be crazy! And to McMurphy, only crazy people don’t judge, so he shouldn’t either.
 
-&ldquo;But when the evidence of Ratched&rsquo;s evil is incontrovertible to him, he can&rsquo;t help himself but act. He&rsquo;s the novel&rsquo;s protagonist. He&rsquo;s the hero. If he doesn&rsquo;t act on his judgments, there&rsquo;s no story.
+“But when the evidence of Ratched’s evil is incontrovertible to him, he can’t help himself but act. He’s the novel’s protagonist. He’s the hero. If he doesn’t act on his judgments, there’s no story.
 
-&ldquo;Kesey could have made any number of choices with this scene. He could have had McMurphy act selfishly, like a child, and physically attack a guard or an inmate or himself. Something the character has a reputation for doing earlier in his life.
+“Kesey could have made any number of choices with this scene. He could have had McMurphy act selfishly, like a child, and physically attack a guard or an inmate or himself. Something the character has a reputation for doing earlier in his life.
 
-&ldquo;Instead, for the first time (and the perfect time) Kesey has his character act beyond himself. He changes his behavior. McMurphy sees that these men have it within themselves to judge Ratched as a tyrant. If he can make them understand how important it is to make a judgment and to act on that judgment&mdash;even if it puts them in harm&rsquo;s way&mdash;he will help them. And helping them will help him bring down tyranny. He&rdquo;ll win.
+“Instead, for the first time (and the perfect time) Kesey has his character act beyond himself. He changes his behavior. McMurphy sees that these men have it within themselves to judge Ratched as a tyrant. If he can make them understand how important it is to make a judgment and to act on that judgment—even if it puts them in harm’s way—he will help them. And helping them will help him bring down tyranny. He’ll win.
 
-&ldquo;McMurphy, already known as a consummate hustler, challenges all of the men to take a bet. He puts all of his money on his succeeding. He will pick up a thousand pound marble bathroom vanity, throw it through the barred window, walk to a nearby bar with his buddy Cheswick, wet his whistle and watch Mickey Mantle play in the World Series&rdquo;¦Who wants some of this action?
+“McMurphy, already known as a consummate hustler, challenges all of the men to take a bet. He puts all of his money on his succeeding. He will pick up a thousand pound marble bathroom vanity, throw it through the barred window, walk to a nearby bar with his buddy Cheswick, wet his whistle and watch Mickey Mantle play in the World Series...Who wants some of this action?
 
-&ldquo;He&rsquo;s so convincing that only the most cynical among them take his bet.
+“He’s so convincing that only the most cynical among them take his bet.
 
-&ldquo;Playing McMurphy as only he could play him, Jack Nicholson grabs the edges of the vanity, squats and surges into the plumbing. He turns blue from effort.  He commits to the action, gives it his best shot. When he&rsquo;s drenched with sweat, spent and defeated, he walks out of the room.  But not before turning to the stunned assemblage and saying:
+“Playing McMurphy as only he could play him, Jack Nicholson grabs the edges of the vanity, squats and surges into the plumbing. He turns blue from effort.  He commits to the action, gives it his best shot. When he’s drenched with sweat, spent and defeated, he walks out of the room.  But not before turning to the stunned assemblage and saying:
 
-&ldquo;&ldquo;At least I tried.&rdquo;
+“‘At least I tried.’
 
-&ldquo;As a child in the 60s and 70s, I was raised on stories like this. (I wish we had more of them today) And they&rdquo;ve had a profound influence. This is why art is so important.
+“As a child in the 60s and 70s, I was raised on stories like this. (I wish we had more of them today) And they’ve had a profound influence. This is why art is so important.
 
-&ldquo;These stories taught me that to passively disengage for fear of reprisal is cowardly. Making a judgment, taking a stand and then acting against an injustice or acting to support excellence is the stuff of the everyman hero.&rdquo;&mdash;[Shawn Coyne](https://stevenpressfield.com/2019/01/art-and-polarity/)
+“These stories taught me that to passively disengage for fear of reprisal is cowardly. Making a judgment, taking a stand and then acting against an injustice or acting to support excellence is the stuff of the everyman hero.”—[Shawn Coyne](https://stevenpressfield.com/2019/01/art-and-polarity/)
 
 ## Problems and Boundaries
 Fri, 18 Jan 2019
 
-&ldquo;All problems have solutions.
+“All problems have solutions.
 
-&ldquo;That&rsquo;s what makes them problems.
+“Tha’s what makes them problems.
 
-&ldquo;The solution might involve trade-offs or expenses that you don&rsquo;t want to incur. You might choose not to solve the problem. But there is a solution. Perhaps you haven&rsquo;t found it yet. Perhaps you need to do more research or make some tradeoffs in what you&rdquo;re hoping for.
+“The solution might involve trade-offs or expenses that you don’t want to incur. You might choose not to solve the problem. But there is a solution. Perhaps you haven’t found it yet. Perhaps you need to do more research or make some tradeoffs in what you’re hoping for.
 
-&ldquo;If there is no solution, then it&rsquo;s not a problem.
+“If there is no solution, then it’s not a problem.
 
 &ldquo;It&rsquo;s a regrettable situation. It&rsquo;s a boundary condition. It&rsquo;s something you&rdquo;ll need to live with.
 
@@ -102,7 +104,7 @@ Fri, 18 Jan 2019
 
 &ldquo;&ldquo;I want to go to the wedding, but I&rdquo;m not willing to cancel my meeting.&rdquo; That&rsquo;s not a problem. That&rsquo;s an unavoidable conflict. If you need to violate a law of physics to get out of a situation, it&rsquo;s not a problem. But you&rdquo;ve already given up turning it into a problem, so it doesn&rsquo;t pay to pretend it&rsquo;s solvable.
 
-&ldquo;Once we can walk away from unsolvable situations that pretend to be problems, we can focus our energy on the real problems in front of us.&rdquo;&mdash;[Seth Godin](https://seths.blog/2019/01/problems-and-boundaries/)
+&ldquo;Once we can walk away from unsolvable situations that pretend to be problems, we can focus our energy on the real problems in front of us.”—&rdquo;&mdash;[Seth Godin](https://seths.blog/2019/01/problems-and-boundaries/)
 
 ## Joining Forces
 Wed, 23 Jan 2019
@@ -190,7 +192,7 @@ David's comment: well, some of it seemed important—it was for work, after all,
 ## Fathers and Sons
 Fri, 01 Mar 2019
 
-“And in that moment Sherman made the terrible discovery that men make about their fathers sooner or later. For the first time he realized that the man before him was not an aging father but a boy, a boy much like himself, a boy who grew up and had a child of his own and, as best he could, out of a sense of duty and, perhaps, love, adopted a role called Being a Father so that his child would have something mythical and infinitely important: a Protector, who would keep a lid on all the chaotic and catastrophic possibilities of life. And now that boy, that good actor, had grown old and fragile and tired, wearier than ever at the thought of trying to hoist the Protector&rsquo;s armor back onto his shoulders again, now, so far down the line.”—Tom Wolfe *Bonfire of the Vanities*
+“And in that moment Sherman made the terrible discovery that men make about their fathers sooner or later. For the first time he realized that the man before him was not an aging father but a boy, a boy much like himself, a boy who grew up and had a child of his own and, as best he could, out of a sense of duty and, perhaps, love, adopted a role called Being a Father so that his child would have something mythical and infinitely important: a Protector, who would keep a lid on all the chaotic and catastrophic possibilities of life. And now that boy, that good actor, had grown old and fragile and tired, wearier than ever at the thought of trying to hoist the Protector’s armor back onto his shoulders again, now, so far down the line.”—Tom Wolfe *Bonfire of the Vanities*
 
 ## Boring and Dangerous
 Wed, 06 Mar 2019
@@ -200,7 +202,7 @@ Wed, 06 Mar 2019
 ## Magic
 Mon, 11 Mar 2019
 
-“You could say that ‘magic’ is a recognition that you have been underestimating the world, assuming that it is boring and limited when it is your own mind that is bored and limited. And this is important, for it brings the great fundamental insight, the insight that has come to all mystics and poets : that a large part of man&rsquo;s misery and pain is his own fault. For nearly three thousand years, cynical philosophers have been declaring that human life is disappointing and brief and miserable, and that the wise man has no objection to dying. But moments of &ldquo;magic&rdquo; bring a clear recognition that the world ‘out there’ is infinitely interesting—so interesting that if we could ‘turn on’ the magic at will, we would probably live for ever—or at least, want to. The magic doesn’t get in past our senses, which have thick filters on them. Blake recognised that it is as if man lived in a cold, damp cave, when outside there is warm sunlight and fresh air. ‘Five windows light the caverned man, through one he breathes the air . . .’”—William Arkle *A Geography of Consciousness*
+“You could say that ‘magic’ is a recognition that you have been underestimating the world, assuming that it is boring and limited when it is your own mind that is bored and limited. And this is important, for it brings the great fundamental insight, the insight that has come to all mystics and poets : that a large part of man’s misery and pain is his own fault. For nearly three thousand years, cynical philosophers have been declaring that human life is disappointing and brief and miserable, and that the wise man has no objection to dying. But moments of &ldquo;magic&rdquo; bring a clear recognition that the world ‘out there’ is infinitely interesting—so interesting that if we could ‘turn on’ the magic at will, we would probably live for ever—or at least, want to. The magic doesn’t get in past our senses, which have thick filters on them. Blake recognised that it is as if man lived in a cold, damp cave, when outside there is warm sunlight and fresh air. ‘Five windows light the caverned man, through one he breathes the air . . .’”—William Arkle *A Geography of Consciousness*
 
 ## Ressentiment
 Sun, 17 Mar 2019
@@ -679,7 +681,7 @@ Sat, 29 Jun 2019
 ## Respect
 Sat, 29 Jun 2019
 
-&ldquo;Respect, I note, was once conferred upon the dutiful. It was not until recently that a “theory” was hatched — a bastardization of ancient Christian teaching — that compelled us to show respect to all, and civility even to the uncivil. This was an important abridgement of our freedom: to decide, for ourselves, whom to love, admire, ignore, fear, detest, &c. It interferes with our duty to make sound judgements, thus dehumanizing us.&rdquo;&mdash;[David Warren](https://www.davidwarrenonline.com/2019/06/26/aside-on-law-order/)
+“Respect, I note, was once conferred upon the dutiful. It was not until recently that a “theory” was hatched — a bastardization of ancient Christian teaching — that compelled us to show respect to all, and civility even to the uncivil. This was an important abridgement of our freedom: to decide, for ourselves, whom to love, admire, ignore, fear, detest, &c. It interferes with our duty to make sound judgements, thus dehumanizing us.”—[David Warren](https://www.davidwarrenonline.com/2019/06/26/aside-on-law-order/)
 
 ## Barlow&rsquo;s 25
 Mon, 1 Jul 2019
@@ -739,75 +741,75 @@ John Perry Barlow's 25 Principles of Adult Behavior:
 ## Analog Future
 Mon, 1 Jul 2019
 
-&ldquo;Nature uses digital coding for the storage, replication, recombination, and error correction of sequences of nucleotides, but relies on analog coding and analog computing for intelligence and control. No programming, no code. To those seeking true intelligence, autonomy, and control among machines, the domain of analog computing, not digital computing, is the place to look.&rdquo;&mdash;[George Dyson](https://www.edge.org/conversation/george_dyson-childhoods-end)
+“Nature uses digital coding for the storage, replication, recombination, and error correction of sequences of nucleotides, but relies on analog coding and analog computing for intelligence and control. No programming, no code. To those seeking true intelligence, autonomy, and control among machines, the domain of analog computing, not digital computing, is the place to look.”—[George Dyson](https://www.edge.org/conversation/george_dyson-childhoods-end)
 
 ## Potatoes
 Tue, 2 Jul 2019
 
-&ldquo;What is this mind of ours; what are these atoms with consciousness? Last week&rsquo;s potatoes!&rdquo;&mdash;Richard Feynman
+“What is this mind of ours; what are these atoms with consciousness? Last week’s potatoes!”—Richard Feynman
 
-Assuming, of course that there is a one-to-one exclusive relationship between mind/consciousness and brain, which seems to me to be extremely complex. There's clearly a relationship, but is it exclusive? Without a brain&mdash;divorced from living matter&mdash;is there some element of mind or even consciousness? Soul? Spirit? Arr, that's the question! Or perhaps a step on the way to the question...
+Assuming, of course that there is a one-to-one exclusive relationship between mind/consciousness and brain, which seems to me to be extremely complex. There's clearly a relationship, but is it exclusive? Without a brain—divorced from living matter—is there some element of mind or even consciousness? Soul? Spirit? Arr, that's the question! Or perhaps a step on the way to the question...
 
 ## True to its telling
 Sat, 6 Jul 2019
 
-&ldquo;History is a fairy tale true to its telling...&rdquo;&mdash;[Andrei Codrescu](https://www.theparisreview.org/blog/2019/07/02/the-many-lives-of-lafcadio-hearn/)
+“History is a fairy tale true to its telling...”—[Andrei Codrescu](https://www.theparisreview.org/blog/2019/07/02/the-many-lives-of-lafcadio-hearn/)
 
 ## No Problem
 Sat, 6 Jul 2019
 
-"I cannot define the real problem, therefore I suspect there's no real problem, but I'm not sure there's no real problem."&mdash;Richard Feynman
+"I cannot define the real problem, therefore I suspect there's no real problem, but I'm not sure there's no real problem."—Richard Feynman
 
 ## The Problem
 Sat, 6 Jul 2019
 
-&ldquo;Of course there was more. If you ask the right questions, there always is.
+“Of course there was more. If you ask the right questions, there always is.
 
-That&rsquo;s the problem.&rdquo;&mdash;Robert Caro, *Working*
+“That’s the problem.”—Robert Caro, *Working*
 
 ## The Relation of Christians to the World
 Sat, 6 Jul 2019
 
-&ldquo;To sum up all in one word--what the soul is in the body, that are Christians in the world. The soul is dispersed through all the members of the body, and Christians are scattered through all the cities of the world. The soul dwells in the body, yet is not of the body; and Christians dwell in the world, yet are not of the world. The invisible soul is guarded by the visible body, and Christians are known indeed to be in the world, but their godliness remains invisible. The flesh hates the soul, and wars against it, though itself suffering no injury, because it is prevented from enjoying pleasures; the world also hates the Christians, though in nowise injured, because they abjure pleasures. The soul loves the flesh that hates it, and [loves also] the members; Christians likewise love those that hate them. The soul is imprisoned in the body, yet preserves that very body; and Christians are confined in the world as in a prison, and yet they are the preservers of the world. The immortal soul dwells in a mortal tabernacle; and Christians dwell as sojourners in corruptible [bodies], looking for an incorruptible dwelling in the heavens. The soul, when but ill-provided with food and drink, becomes better; in like manner, the Christians, though subjected day by day to punishment, increase the more in number. God has assigned them this illustrious position, which it were unlawful for them to forsake.&rdquo;&mdash;Diagnetus, *[The Epistle of Mathetes to Diognetus](http://www.earlychristianwritings.com/text/diognetus-roberts.html)*
+“To sum up all in one word--what the soul is in the body, that are Christians in the world. The soul is dispersed through all the members of the body, and Christians are scattered through all the cities of the world. The soul dwells in the body, yet is not of the body; and Christians dwell in the world, yet are not of the world. The invisible soul is guarded by the visible body, and Christians are known indeed to be in the world, but their godliness remains invisible. The flesh hates the soul, and wars against it, though itself suffering no injury, because it is prevented from enjoying pleasures; the world also hates the Christians, though in nowise injured, because they abjure pleasures. The soul loves the flesh that hates it, and [loves also] the members; Christians likewise love those that hate them. The soul is imprisoned in the body, yet preserves that very body; and Christians are confined in the world as in a prison, and yet they are the preservers of the world. The immortal soul dwells in a mortal tabernacle; and Christians dwell as sojourners in corruptible [bodies], looking for an incorruptible dwelling in the heavens. The soul, when but ill-provided with food and drink, becomes better; in like manner, the Christians, though subjected day by day to punishment, increase the more in number. God has assigned them this illustrious position, which it were unlawful for them to forsake”—Diagnetus, *[The Epistle of Mathetes to Diognetus](http://www.earlychristianwritings.com/text/diognetus-roberts.html)*
 
 ## Cognitive Liberty
 Mon, 8 Jul 2019
 
-The aim of the chapter is to draw attention to a fundamental right that is neglected in the law but that is highly relevant for neuroethics: cognitive liberty or freedom of thought. Although an internationally accepted human right, it has not gained practical legal importance. However, any regulation of neurotechnologies has to be evaluated in its light. As the right is unfamiliar to policy makers and even to many lawyers and legal scholars, its historical development and the main arguments for its recognition are sketched. Furthermore, some suggestions for its interpretation, scope, and contours are forwarded and remaining open questions identified. According to international human rights law, the right is of absolute nature so that interferences cannot be justified for interests of the common good or paternalistic reasons. Whether this strict prohibition of intervening into other persons’ minds can and should be sustained even in light of putative pressing public interests and various neuroethical considerations is one of the novel questions neuroscience poses for the law.&mdash;Christoph Bublitz, Faculty of Law, University of Hamburg, Hamburg, Germany *[Cognitive Liberty or the International Human Right to Freedom of Thought](https://link.springer.com/referenceworkentry/10.1007/978-94-007-4707-4_166)*
+“The aim of the chapter is to draw attention to a fundamental right that is neglected in the law but that is highly relevant for neuroethics: cognitive liberty or freedom of thought. Although an internationally accepted human right, it has not gained practical legal importance. However, any regulation of neurotechnologies has to be evaluated in its light. As the right is unfamiliar to policy makers and even to many lawyers and legal scholars, its historical development and the main arguments for its recognition are sketched. Furthermore, some suggestions for its interpretation, scope, and contours are forwarded and remaining open questions identified. According to international human rights law, the right is of absolute nature so that interferences cannot be justified for interests of the common good or paternalistic reasons. Whether this strict prohibition of intervening into other persons’ minds can and should be sustained even in light of putative pressing public interests and various neuroethical considerations is one of the novel questions neuroscience poses for the law.”—Christoph Bublitz, Faculty of Law, University of Hamburg, Hamburg, Germany *[Cognitive Liberty or the International Human Right to Freedom of Thought](https://link.springer.com/referenceworkentry/10.1007/978-94-007-4707-4_166)*
 
 ## Cognitive Liberty Redux
 Mon, 8 Jul 2019
 
-“Thou canst not touch the freedom of my mind.” (Milton, *Comus*)
+“Thou canst not touch the freedom of my mind.”—Milton, *Comus*
 
 “Everyone has the right to freedom to hold opinions without interference.” (United Nations Universal Declaration of Human Rights)
 
-“Men fear thought as they fear nothing else on earth &mdash more than ruin &mdash; more even than death.... Thought is subversive and revolutionary, destructive and terrible, thought is merciless to privilege, established institutions, and comfortable habit. Thought looks into the pit of hell and is not afraid. Thought is great and swift and free, the light of the world, and the chief glory of man.” (Bertrand Russell)
+“Men fear thought as they fear nothing else on earth &mdash more than ruin &mdash; more even than death.... Thought is subversive and revolutionary, destructive and terrible, thought is merciless to privilege, established institutions, and comfortable habit. Thought looks into the pit of hell and is not afraid. Thought is great and swift and free, the light of the world, and the chief glory of man.”—Bertrand Russell
 
 Found in Bonnie Burstow, PhD. *[On Cognitive Liberty: A Principle to Rally Behind](https://www.madinamerica.com/2019/07/cognitive-liberty-principle-rally-behind/)*
 
 ## Reading with a Pencil
 Mon, 8 Jul 2019
 
-&ldquo;The intellectual is, quite simply, a human being who has a pencil in his or her hand when reading a book.&rdquo;—George Steiner
+“The intellectual is, quite simply, a human being who has a pencil in his or her hand when reading a book.”George Steiner
 
-&ldquo;There’s a way of reading that is like writing. You feel in collaboration… You have a pen in your hand, you’re going along in a way that’s, like, half creating it as you go. And you’re also strip-mining it for anything you can use… you’re sifting for what could be gold.&rdquo;—Patricia Lockwood
+“There’s a way of reading that is like writing. You feel in collaboration… You have a pen in your hand, you’re going along in a way that’s, like, half creating it as you go. And you’re also strip-mining it for anything you can use… you’re sifting for what could be gold.”—Patricia Lockwood
 
-“Every piece of art I’ve ever made was because I saw bad and could do better, or saw great and needed to catch up.”&mdash;John T. Unger
+“Every piece of art I’ve ever made was because I saw bad and could do better, or saw great and needed to catch up.”—John T. Unger
 
-“Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it. Why is marking a book indispensable to reading it? First, it keeps you awake — not merely conscious, but wide awake. Second, reading, if it is active, is thinking, and thinking tends to express itself in words, spoken or written. The person who says he knows what he thinks but cannot express it usually does not know what he thinks. Third, writing your reactions down helps you to remember the thoughts of the author. Reading a book should be a conversation between you and the author….Marking a book is literally an expression of your differences or your agreements…It is the highest respect you can pay him..”&mdash;Mortimer J. Adler and Charles Van Doren , *How To Read A Book*
+“Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it — which comes to the same thing — is by writing in it. Why is marking a book indispensable to reading it? First, it keeps you awake — not merely conscious, but wide awake. Second, reading, if it is active, is thinking, and thinking tends to express itself in words, spoken or written. The person who says he knows what he thinks but cannot express it usually does not know what he thinks. Third, writing your reactions down helps you to remember the thoughts of the author. Reading a book should be a conversation between you and the author….Marking a book is literally an expression of your differences or your agreements…It is the highest respect you can pay him..”—Mortimer J. Adler and Charles Van Doren , *How To Read A Book*
 
 h/t [Austin Kleon](https://austinkleon.com/2018/08/30/reading-with-a-pencil/)
 
 ## Indifferent
 Tue, 9 Jul 2019
 
-&ldquo;I don't know of any teaching more self-centered and further from the facts than Marxism. Ordinarily, people are anxious to test their theories in practice, to learn from experience. But those who wield power are so anxious to establish the myth of their own infallibility that they turn their backs on truth as  squarely as they can. Politics mean nothing to me. I don't like people who are indifferent to the truth.&rdquo;&mdash;Boris Pasternak, *Doctor Zhivago*
+“I don't know of any teaching more self-centered and further from the facts than Marxism. Ordinarily, people are anxious to test their theories in practice, to learn from experience. But those who wield power are so anxious to establish the myth of their own infallibility that they turn their backs on truth as  squarely as they can. Politics mean nothing to me. I don't like people who are indifferent to the truth.”—Boris Pasternak, *Doctor Zhivago*
 
 ## Printing
 Wed, 10 Jul 2019
 
-"Printing diffused true knowledge, but it also diffused (and on a far greater scale) false knowledge and unproved irrational affirmation."&mdash;Hilaire Belloc, *The Crisis of Our Civilization*
+"Printing diffused true knowledge, but it also diffused (and on a far greater scale) false knowledge and unproved irrational affirmation."—Hilaire Belloc, *The Crisis of Our Civilization*
 
 ## Persecution
 Wed, 10 Jul 2019
@@ -817,7 +819,7 @@ Wed, 10 Jul 2019
 ## Petty Alienation
 Wed, 10 Jul 2019
 
-“Free-floating, petty gripes are a result of Miserabilism as a world view, the idea that viewing Western Civ as a hellish, gruesome burden destined to collapse of its sins and conceits is the only possible worldview for a Serious Person. Hence the more fault you find, the deeper you are. It comes from being grounded in nothing but the shallow soil of the present, with no sense of history except for a series of pre-approved narratives intended to culminate in an argument against the recent past, which was bad because it prevented the wonderful possible Tomorrow from happening Today. It’s a recipe for life-long alienation.”&mdash;[James Lileks](http://lileks.com/bleats/archive/19/0719/070919.html)
+“Free-floating, petty gripes are a result of Miserabilism as a world view, the idea that viewing Western Civ as a hellish, gruesome burden destined to collapse of its sins and conceits is the only possible worldview for a Serious Person. Hence the more fault you find, the deeper you are. It comes from being grounded in nothing but the shallow soil of the present, with no sense of history except for a series of pre-approved narratives intended to culminate in an argument against the recent past, which was bad because it prevented the wonderful possible Tomorrow from happening Today. It’s a recipe for life-long alienation.”—[James Lileks](http://lileks.com/bleats/archive/19/0719/070919.html)
 
 ##  Making Money vs Spending Money
 Wed, 10 Jul 2019
@@ -838,7 +840,7 @@ Wed, 10 Jul 2019
 
 Van Tromp looked thoughtful. “I’ll keep my mortgaged house, Jubal.”
 
-“Amen. I want to live my own life, sleep in my own bed—and not be bothered!”&mdash;Robert A. Heinlein, *Stranger in a Strange Land*
+“Amen. I want to live my own life, sleep in my own bed—and not be bothered!”—Robert A. Heinlein, *Stranger in a Strange Land*
 
 h/t [Francis W. Porretto](http://bastionofliberty.blogspot.com/2019/07/cashing-in-offhand-reflection.html)
 
@@ -940,7 +942,7 @@ Dr - How was it worse.
 
 W - There was this storm.
 
-Dr - so, how did you feel when you saw the storm?
+Dr - So, how did you feel when you saw the storm?
 
 W - I felt frozen.
 
@@ -950,7 +952,7 @@ W - Frozen.
 
 Dr - Frozen, cold frozen? Frozen to the touch?
 
-W - No, like how you feel when you are scared and can’t  breath or talk or do anything. I felt like this evil, like it was looking at me.
+W - No, like how you feel when you are scared and can’t breath or talk or do anything. I felt like this evil, like it was looking at me.
 
 Dr - This evil. Well, what do you think this evil wanted?
 
