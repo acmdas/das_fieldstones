@@ -1,6 +1,15 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Marxism in a few words
+Tuesday, 22 December 2020
+
+“Marxism has a noble vision - for humans to retain their humanity while living as one big happy family. 
+
+“However, that vision fails to consider that familial bonds have limits.
+
+“Most people would take a bullet for their kids, siblings, or parents, but I don't know anyone who'd take a bullet for their fourth cousin's husband, whom they've never met.”—[Louis Pereira](https://www.complexitycondensed.com/p/marxism)
+
 ## The World is Made of Events, Not Things
 Sunday, 20 December 2020
 
