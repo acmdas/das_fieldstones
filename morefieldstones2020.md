@@ -1,6 +1,27 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## Miracles
+
+“There are two ways to live your life. On is as though nothing is a miracle. The other is as if everything is.”—Albert Einstein
+
+## Leadership
+Wednesday, 23 December 2020
+
+“It is a well known fact that those people who most want to rule people are those least suited to do it... Anyone who is capable of getting themselves made President should on no account be allowed to do the job.”—Douglas Adams *The Hitchhiker's Guide to the Galaxy*
+
+## Bully
+Wednesday, 23 December 2020
+
+“The bully is the man who acts on the assumption that he will not have to fight.”—G.K. Chesterton
+
+## You Gotta Be Right
+Wednesday, 23 December 2020
+
+“If you're gonna put it on the front page, you gotta make sure it's right. Because if it ain't, you gotta eat it for the next 24 hours.”—Ben Bradlee
+
+That’s how newspaper editors used to think—or at least said that they thought.
+
 ## Marxism in a few words
 Tuesday, 22 December 2020
 
