@@ -1,7 +1,15 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## The Rich
+Monday, 28 December 2020
+
+“It is really not so repulsive to see the poor asking for money as to see the rich asking for more money.”—G.K. Chesterton
+
+“For the whole modern world is absolutely based on the assumption, not that the rich are necessary (which is tenable), but that the rich are trustworthy, which (for a Christian) is not tenable. You will hear everlastingly, in all discussions about newspapers, companies, aristocracies, or party politics, this argument that the rich man cannot be bribed. The fact is, of course, that the rich man is bribed; he has been bribed already. That is why he is a rich man.—G.K. Chesterton
+
 ## Miracles
+Wednesday, 23 December 2020
 
 “There are two ways to live your life. On is as though nothing is a miracle. The other is as if everything is.”—Albert Einstein
 
