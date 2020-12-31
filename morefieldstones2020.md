@@ -1,6 +1,16 @@
 # More Fieldstones 2020
 [Home](./index.html)
 
+## The Narrative/Perception
+Thursday, 31 December 2020
+
+“I would encourage you to take this one lesson with you: everything is fake. The news, the science, the hits, the celebrities, the bestsellers, the wealthy, the economic statistics... they are all elements of a false and ever-mutating narrative intended to shape your perceptions. Perception isn't reality, but since perception always affects Man's decision-making, shaping his perception is one way to change future reality.”—[Vox Day](http://voxday.blogspot.com/2020/12/seems-little-high.html)
+
+## Atrocity
+Tuesday, 29 December 2020
+
+“Those who can make you believe absurdities, can make you commit atrocities.”—Voltaire
+
 ## The Rich
 Monday, 28 December 2020
 
