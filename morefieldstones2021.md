@@ -1,6 +1,11 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+## The Persistent Illusion
+Monday, 4 January 2021
+
+“Reality is merely an illusion, albeit a very persistent one.”—Albert Einstein
+
 ## The Road to Hell
 Monday, 4 January 2021
 
