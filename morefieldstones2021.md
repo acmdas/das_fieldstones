@@ -1,8 +1,13 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+## A Magnificent Bribe
+Monday, 04 January 2021
+
+“The bargain we are being asked to ratify takes the form of a magnificent bribe. Under the democratic-authoritarian social contract, each member of the community may claim every material advantage, every intellectual and emotional stimulus he may desire, in quantities hardly available hitherto even for a restricted minority: food, housing, swift transportation, instantaneous communication, medical care, entertainment, education. But on one condition: that one must not merely ask for nothing that the system does not provide, but likewise agree to take everything offered, duly processed and fabricated, homogenized and equalized, in the precise quantities that the system, rather than the person, requires. Once one opts for the system no further choice remains. In a word, if one surrenders one’s life at source, authoritarian technics will give back as much of it as can be mechanically graded, quantitatively multiplied, collectively manipulated and magnified.”—Lewis Mumford, *Authoritarian and Democratic Technics* (1964)
+
 ## Mad Times
-Monday, 04 January 2020
+Monday, 04 January 2021
 
 “To be sane in a mad time is bad for the brain, or worse for the heart.”—Wendell Berry, *The Mad Farmer Manifesto: The First Amendment*
 
