@@ -1,6 +1,11 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+## Narrative
+Friday, 08 January 2021
+
+“For some years now, the comfortable classes in today’s America have lost track of the fact that control over the public narrative does not equal control over the facts underlying the narrative...Convince yourself that something is true, and the universe has to play along: that’s the mentality of a frighteningly large share of the privileged in America these days.”—[John Michael Greer](https://www.ecosophia.net/into-the-unknown-region/)
+
 ## Rivers of Blood
 Friday, 08 January 2021
 
