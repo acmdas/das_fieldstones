@@ -1,6 +1,18 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+## Rivers of Blood
+Friday, 08 January 2021
+
+“As I look ahead, I am filled with foreboding; like the Roman, I seem to see "the River Tiber foaming with much blood.”—Enoch Powell MP, quoting Virgil in *The Rivers of Blood* speech, April 20, 1968
+
+And that was 1968. I remember 1968. I turned 21, but too late to vote in that year. I remember watching Hippy evolve into angry thug.
+
+## Law Abiding
+Friday, 08 January 2021
+
+“Remember that the people that hid Anne Frank were breaking the law and the people that took her to the camps were enforcing it.”—Seen on a blog and no reference found yet...still looking.
+
 ## A Magnificent Bribe
 Monday, 04 January 2021
 
