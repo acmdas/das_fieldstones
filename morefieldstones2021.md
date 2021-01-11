@@ -1,17 +1,24 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+## Easy to Please
+Monday, 11 January 2021
+
+“Though Jesus Christ is very hard to satisfy, He is very easy to please. Think of that and it will help you a little. He is very easy to please, but very hard to satisfy. If you will but let Him in, and you have not much to put on the table. You cannot share much of life because you have not got it, He will be so pleased, if it be but a cup of cold water that you can give him. Let it be something genuine, something real.” – George MacDonald. From the sermon “The Father’s Appeal”, preached in Westminster Chapel.
+
 ## Narrative
 Friday, 08 January 2021
 
 “For some years now, the comfortable classes in today’s America have lost track of the fact that control over the public narrative does not equal control over the facts underlying the narrative...Convince yourself that something is true, and the universe has to play along: that’s the mentality of a frighteningly large share of the privileged in America these days.”—[John Michael Greer](https://www.ecosophia.net/into-the-unknown-region/)
+
+More pithy comments on the falsehoods behind the narrative, and the possible or even likely consequences, can be found there. Worth the read.
 
 ## Rivers of Blood
 Friday, 08 January 2021
 
 “As I look ahead, I am filled with foreboding; like the Roman, I seem to see "the River Tiber foaming with much blood.”—Enoch Powell MP, quoting Virgil in *The Rivers of Blood* speech, April 20, 1968
 
-And that was 1968. I remember 1968. I turned 21, but too late to vote in that year. I remember watching Hippy evolve into angry thug.
+And that was 1968. I remember 1968. I turned 21, but too late to vote in that year. I remember watching much of Hippy evolve into angry thug.
 
 ## Law Abiding
 Friday, 08 January 2021
