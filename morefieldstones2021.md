@@ -1,6 +1,11 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+## Objective
+Friday, 15 January 2021
+
+“Show me a man who thinks he’s objective and I’ll show you a man who’s deceiving himself,”—Henry Luce
+
 ## Change
 Friday, 15 January 2021
 
