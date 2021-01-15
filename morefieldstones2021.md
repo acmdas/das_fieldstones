@@ -1,6 +1,11 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+## Change
+Friday, 15 January 2021
+
+“The world is changed by your example, not by your opinion.”—Paul Coelho
+
 ## Easy to Please
 Monday, 11 January 2021
 
