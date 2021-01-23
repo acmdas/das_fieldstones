@@ -1,0 +1,120 @@
+* More Fieldstones 2011
+  :PROPERTIES:
+  :CUSTOM_ID: more-fieldstones-2011
+  :END:
+
+[[./index.html][Home]]
+
+** Real Science
+   :PROPERTIES:
+   :CUSTOM_ID: real-science
+   :END:
+
+Fri, 21 Jan 2011
+
+Real science looks at data, makes falsifiable predictions, and attempts to falsify or confirm those predictions. The rest is "other forces at work."[[http://www.jerrypournelle.com/mail/2011/Q1/mail658.html][Jerry Pournelle]]
+
+** Good or Better?
+   :PROPERTIES:
+   :CUSTOM_ID: good-or-better
+   :END:
+
+Tue, 25 Jan 2011
+
+When everything is good enough, it takes work to discover what's better, and better is often a matter of whim and preference anyway.---[[https://chaosmanorreviews.org/oa/2011/20110124_col.php][Jerry Pournelle]]
+
+** Scientific Religion
+   :PROPERTIES:
+   :CUSTOM_ID: scientific-religion
+   :END:
+
+Tue, 01 Feb 2011
+
+So far neither Dark Energy nor the Multiverse seem to generate falsifiable hypotheses, removing them from science and relegating them to religion. I cheerfully admit that in the absence of evidence I prefer the religion I grew up with to these new ones, but perhaps I am insufficiently flexible in my views.---[[http://www.jerrypournelle.com/mail/2011/Q1/mail660.html##][Jerry Pournelle]]
+
+** Discriminating
+   :PROPERTIES:
+   :CUSTOM_ID: discriminating
+   :END:
+
+Tue, 22 Feb 2011
+
+The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.---Chief Justice John Roberts [[http://www.law.cornell.edu/supct/html/05-908.ZO.html][Parents Involved In Community Schools v. Seattle School Dist. No. 1]] June 28, 2007
+
+** Normal
+   :PROPERTIES:
+   :CUSTOM_ID: normal
+   :END:
+
+Mon, 28 Feb 2011
+
+Anything that is in the world when you're born is normal and ordinary and is just a natural part of the way the world works. Anything that's invented between when you”re fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you're thirty-five is against the natural order of things.---Douglas Adams, /The Salmon of Doubt/
+
+** Relief
+   :PROPERTIES:
+   :CUSTOM_ID: relief
+   :END:
+
+Fri, 15 Apr 2011
+
+In life I know, there is lots of grief, But your love is my relief.---Bob Marley /Wait In Vain/
+
+** Marvels
+   :PROPERTIES:
+   :CUSTOM_ID: marvels
+   :END:
+
+Wed, 01 Jun 2011
+
+The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments.---George Washington
+
+** Despair as Pride
+   :PROPERTIES:
+   :CUSTOM_ID: despair-as-pride
+   :END:
+
+Wed, 25 May 2011
+
+Despair is the absolute extreme of self-love.
+
+Despair is the ultimate development of a pride so great and so stiff-necked that it selects the absolute misery of damnation rather than accept happiness from the hands of God and thereby acknowledge that God is above us.---Thomas Merton (1961)
+
+** Portable Devices and PHI
+   :PROPERTIES:
+   :CUSTOM_ID: portable-devices-and-phi
+   :END:
+
+Thu, 07 Jul 2011
+
+I recently sent the following to a behavioral health researcher who was planning to develop a mobile application for clinicians that would include client information---I believe that it may be of interest to others who are considering the use of smart phones and laptops in their clinical practice:
+
+"As you know, any high-technology product aimed at the medical market (defined in the sense of being subject to the Federal privacy regulations HIPAA and Hitech) needs to not only take all appropriate steps to protect the clients' identity and other protected health information (PHI), but it must do so demonstrably. By that, I mean that it must protect the information and also appear to protect it to the satisfaction of funders, consumers and regulators.
+
+"When we are serving the portion of the medical market which includes consumers of substance-abuse treatment (broadly defined) we must also satisfy the Federal privacy regulations found in 42 C.F.R. Part 2. These regulations represent a thornier matter for the provider of technology services not only because they are much stricter than HIPAA and Hitech, but they were written long before digital exchange of PHI was common, and thus were not written with an eye to ease of compliance (as were HIPAA and Hitech).
+
+"In our particular application, then, we must look at two concerns:
+
+- Will we be putting PHI at an unusual risk; and
+
+- Will we be able to readily convince the reviewers at SAMHSA that our product is adequately secure.
+
+"We all have heard about high-profile security breaches caused by sensitive data being stored on a portable device (typically a laptop) which is then either left in a public place or is stolen from a car or home. Credit card companies, hospitals and nuclear weapons laboratories have all found themselves on the front pages in recent years in this way, and they are never able to explain the breach away---because it is indefensible that the data in question were ever stored on a portable device in the first place.
+
+"Portable devices are by their nature insecure. When we designed [a recent online assessment system], like any system designed to protect sensitive data, we designed"rings" of protection. The data were encrypted. Access to the servers both from the Internet and from within the data center was carefully restricted. And finally, physical access to the server devices was controlled in the most rigorous manner. This is, obviously, not possible with a laptop in the back seat of a car, in a hotel room or a living room table. This is even less possible with a cell phone, which will tend to be on its user's person most of their waking hours and can be dropped or stolen as easily as a wallet or a pair of glasses.
+
+"So, from my personal professional perspective, without a compelling reason to use the cell phone as the platform for this application, physical security concerns strongly suggest a more secure platform. Added to this is the relative newness of the Android or iOS (iPhone) software environments. With years of experience (years from now), we will have a good idea how to measure and mitigate risk on those platforms, as we have learned to measure and mitigate risk on the more mature hardware/software environments. While Android is based on a Linux kernel, which has a good history, its application on the cell phone hardware, using the cell network, is largely unproven ground. This also tends to concern me. I'm excited about Android and have plans to develop for it, but nothing that needs to be secure.
+
+"The IT engineers at SAMHSA will be asking themselves similar questions, and will very possibly come to a similar conclusion. We will have to write a Security Plan and submit it to them, and it will not have the same components that they are expecting. Were we to put my concerns to rest, we would then have to do the same in the Security Plan, and I would expect that would be difficult to write, and would be given extremely close scrutiny.
+
+"Taken as a whole, my considered judgment is that the prudent course of action would be to redesign the application to use a more conventional architecture---a server behind a firewall in a secure data center---one that we can be more confident of securing and more confident of getting approved."
+
+** It's Not Your Computer Anymore
+   :PROPERTIES:
+   :CUSTOM_ID: its-not-your-computer-anymore
+   :END:
+
+Wed, 31 Aug 2011
+
+Over at Microsoft's Technet site, the folks at their Security Response Center have posted the [[http://technet.microsoft.com/en-us/library/cc722487.aspx][10 Immutable Laws of Security]]
+
+Admittedly, it only covers security for computers (and remember, that means your cell phone and tablet) and websites, but it's still very worth reviewing. There's nothing new, nothing arcane there, but they are the cold, hard facts that we all have to remember if we make any pretense of caring about our clients' privacy. Simple things, like "If a bad guy can persuade you to run his program on your computer, it's not your computer anymore." Do you have client phone numbers on your iPhone? Have you installed any apps? Think about it. Seriously.

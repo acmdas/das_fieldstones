@@ -1,0 +1,24 @@
+* More Fieldstones 2009
+  :PROPERTIES:
+  :CUSTOM_ID: more-fieldstones-2009
+  :END:
+
+[[./index.html][Home]]
+
+** Fallacy
+   :PROPERTIES:
+   :CUSTOM_ID: fallacy
+   :END:
+
+Wed, 30 Dec 2009 18:55:38
+
+Fallacies do not cease to be fallacies because they become fashions.---G. K. Chesterton
+
+** Proof
+   :PROPERTIES:
+   :CUSTOM_ID: proof
+   :END:
+
+Thu, 31 Dec 2009 14:17:13
+
+You can prove anything if you make up your data.---Jerry Pournelle

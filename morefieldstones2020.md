@@ -1,5 +1,9 @@
+
 # More Fieldstones 2020
 [Home](./index.html)
+
+## Objective
+
 
 ## The Narrative/Perception
 Thursday, 31 December 2020
