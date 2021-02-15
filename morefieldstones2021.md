@@ -1,6 +1,11 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+## Explanations
+Monday, 15 February 2021
+
+“We have this terrible struggle to try to explain things to people who have no reason to want to know.”—Richard Feynman
+
 ## Objective
 Friday, 15 January 2021
 
