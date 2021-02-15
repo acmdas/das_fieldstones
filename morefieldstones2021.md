@@ -1,6 +1,11 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+## Scientific Excitement
+Monday, 15 February 2021
+
+“The most exciting phrase to hear in science, the one that heralds new discoveries, is not ‘Eureka!’ but, ‘That’s funny.’”—Isaac Asimov
+
 ## Explanations
 Monday, 15 February 2021
 
