@@ -1,6 +1,11 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+## Means that Much to Me
+Thursday, 25 February 2021
+
+“Doesn’t mean that much to me to mean that much to you...”—Neal Young, *Old Man*
+
 ## Hallucination
 Monday, 15 February 2021
 
