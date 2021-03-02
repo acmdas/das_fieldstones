@@ -1,6 +1,18 @@
 # More Fieldstones 2021
 [Home](./index.html)
 
+Obsolete - using the org file now...
+
+## Crying Out
+Tuesday, 02 March 2021
+
+“To cry out that the emperor had no clothes on was at least to pick on one man only to the amusement of everyone else; to declare that almost everyone is dressed in rags is much less likely to be popular.”—Alasdair MacIntyre, *After Virtue: A Study in Moral Theory*, Third Edition
+
+## Moral Community
+Tuesday, 02 March 2021
+
+“If my account of our moral condition is correct, we ought also to conclude that for some time now we too have reached that turning point. What matters at this stage is the construction of local forms of community within which civility and the intellectual and moral life can be sustained through the new dark ages which are already upon us.”—Alasdair MacIntyre, *After Virtue: A Study in Moral Theory*, Third Edition
+
 ## Means that Much to Me
 Thursday, 25 February 2021
 
