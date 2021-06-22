@@ -2,6 +2,11 @@
 
 [[./index.html][Home]]
 
+** Linear Memory
+Tuesday, 22 June 2021
+
+“History is linear memory and, as such, beyond organization and indifferent to reason. The characteristic common to the modern man of reason is this loss of memory, lost or rather, denied as an uncontrollable element. And if it must be remembered, then that evocation of real events is always presented as either quaint or dangerous. The past, when it involves a failed system, disappears from the mind. The past is always ad hoc. The future is always optimistic, because it is available for unencumbered solutioneering. And the present lies helpless beneath his feet, just begging to be managed.”—John Ralston Saul, /Voltaire’s Bastards/ p. 85, 1992
+
 ** Education
 Saturday, 19 June 2021
 
